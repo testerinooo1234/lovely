@@ -1,6 +1,9 @@
 import type { Story } from '../../types'
 import fridayNightProtocol from './friday-night-protocol'
+import frontRowLesson from './front-row-lesson'
 import goodGirlRules from './good-girl-rules'
+import heAskedForIt from './he-asked-for-it'
+import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
 import littleAftercare from './little-aftercare'
 import measuredAndFoundWanting from './measured-and-found-wanting'
@@ -27,6 +30,9 @@ export const stories: Story[] = [
   justATaste,
   theWrongDrawer,
   twoBoysOneDare,
+  frontRowLesson,
+  houseRulesWithMissHale,
+  heAskedForIt,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
