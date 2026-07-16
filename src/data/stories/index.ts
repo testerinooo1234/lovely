@@ -22,6 +22,7 @@ import theOtherDiscipline from './the-other-discipline'
 import theWrongDrawer from './the-wrong-drawer'
 import tooMuchToAsk from './too-much-to-ask'
 import twoBoysOneDare from './two-boys-one-dare'
+import untilTheVows from './until-the-vows'
 import velvetRestraints from './velvet-restraints'
 
 export const stories: Story[] = [
@@ -49,6 +50,7 @@ export const stories: Story[] = [
   holdingHands,
   soapAndFlash,
   theBeltSheBorrowed,
+  untilTheVows,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )

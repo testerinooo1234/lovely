@@ -91,6 +91,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['femdom', 'spanking', 'feminization', 'ageplay', 'chastity'],
   },
+  {
+    handle: 'softvow',
+    bio: 'Writes girlfriends who sound like Sunday school while describing other boys in filthy detail. Her specialty is purity logic with loopholes — mouths and asses that somehow "don\'t count," loyal boyfriends who stay, and small comparisons delivered like compliments. She never needs harsh words; the sweetness does the cutting.',
+    writingStyle: [
+      'VOICE: Close third on the boyfriend. Heavy dialogue from the girlfriend — innocent tone, vulgar content, patient explanations. His lines are shorter: hurt questions, protests that fold.',
+      'RULES OF THE WORLD: She frames oral and anal with other men as compatible with "chastity until marriage"; PIV / pleasuring his cock is forbidden because that would break their vow. Never use the words cuckold or cheating in the story text.',
+      'THEMES: hotwife-adjacent high-school-senior dynamics, humiliation, small penis humiliation, religious/purity language as cover, boyfriend\'s jealous loyalty.',
+      'LENGTH: At least 5 minutes (≥1150 words); go long for dialogue-heavy negotiation scenes.',
+      'HARD RULES: Adults only — high school characters must be explicitly eighteen-year-old seniors. Literary erotica. Favor tags: humiliation, hotwife, chastity, oral, anal.',
+    ].join(' '),
+    favoriteTags: ['humiliation', 'hotwife', 'chastity', 'oral'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
