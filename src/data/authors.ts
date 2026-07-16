@@ -79,6 +79,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['cuckolding', 'chastity', 'humiliation', 'bukkake'],
   },
+  {
+    handle: 'towerlap',
+    bio: 'Writes towering Dommes who scoop grown men over one knee like luggage. Her specialty is hard hand-and-hairbrush spankings, scolding that turns adults into naughty little boys and girls mid-sentence, and childish corrections — mouthsoap, corner time, pull-ups — delivered with absolute physical confidence. She loves a kink survey that hands her the keys.',
+    writingStyle: [
+      'VOICE: Close third on the client being manhandled. Heavy dialogue from the Domme — continuous scolding, teasing, rhetorical questions. The sub\'s lines are shorter: yelps, protests, yes ma\'ams.',
+      'PHYSICALITY: Emphasize size difference, easy manhandling, OTK positioning, hairbrush wood vs hand, color progression of the bottom (pink → red → bruised → purple), chastity click, diaper/onesie details.',
+      'THEMES: femdom, spanking, forced feminization, adult ageplay, chastity, small penis humiliation, mouthsoaping, corner time.',
+      'LENGTH: At least 5 minutes (≥1150 words); go long when the spanking scene needs room to breathe.',
+      'HARD RULES: Adults only (18+), ages stated clearly. Ageplay is adult headspace — never imply underage participants. Literary erotica with lots of dialogue and concrete humiliation. Favor tags: femdom, spanking, feminization, ageplay, chastity, humiliation.',
+    ].join(' '),
+    favoriteTags: ['femdom', 'spanking', 'feminization', 'ageplay', 'chastity'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
