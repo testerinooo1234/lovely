@@ -1,0 +1,51 @@
+import type { Story } from '../../types'
+
+const story: Story = {
+  id: '2',
+  slug: 'over-her-knee',
+  title: 'over her knee',
+  author: 'silkandspank',
+  excerpt:
+    'He had been careless. She had been patient. Tonight, patience ended with the sharp music of her palm.',
+  pages: [
+    [
+      `Daniel knew the second he walked in that he was fucked. Not the fun kind. The kind where Claire was already sitting on the edge of the couch with her sleeves rolled up and that quiet look she got when she'd decided something hours ago and had only been waiting for him to come home and collect it.`,
+      `He'd left the dishes again. Missed her text until an hour later again. Said he'd handle the pharmacy run and then scrolled porn on the toilet like a teenager. Little shit, stacked until it stopped being little and started being a pattern she refused to live inside.`,
+      `They'd talked about this dynamic for months before the first real spanking — safewords, limits, what "discipline" meant when it wasn't just dirty talk in bed. Claire had been clear: if he wanted structure, she would give it, and she wouldn't half-ass it. Daniel had nodded like an idiot in love. Tonight he was remembering that nod with his whole nervous system.`,
+      `"Belt," she said.`,
+      `No raised voice. No dramatic speech. Just the word, and his stomach dropped like an elevator with cut cables. He locked the door behind him because she liked the ritual of it — private, sealed, nowhere to perform for anyone but her. The click sounded louder than it should have.`,
+      `His fingers shook on the buckle. He hated that she could see it. Loved it too. The double feeling was always the worst part: wanting to be brave and wanting to be small at the same time, cock already twitching like his body hadn't gotten the memo that this was supposed to hurt.`,
+      `Claire patted her thigh once. "Over. And if I have to repeat myself, we start over at one with the hairbrush."`,
+      `He folded across her lap clumsy and too eager, face in the cushion, the hard line of him pressing into her skirt. She hooked her fingers in his waistband and dragged his jeans and boxers down just far enough that his ass was bare and available. Cool air hit heated skin. Her palm rested there, possessive, assessing, like she was choosing where to start painting.`,
+      `"You knew better," she said. "You always know better. That's what makes this necessary. I'm not spanking a confused boy. I'm correcting a man who got lazy with the privileges I give him."`,
+      `The first spank cracked through the apartment sharp enough that he gasped. Heat bloomed immediate and bright, a flat stinging bloom that made his toes curl in his socks.`,
+      `"Count."`,
+      `"One," he managed.`,
+      `Two landed harder. Three made him kick. She pinned his thigh with her other arm like she'd done this a hundred times — because she had — and kept going in a steady, merciless rhythm. Not wild. Not angry. Precise. The kind of spanking that said: I am paying attention to you, and you are going to feel every second of it in tomorrow's chair at work.`,
+      `Between numbers she talked, low and continuous, the way some people narrated recipes. "You don't get to vanish into your phone when I ask for something small. You don't get to promise the pharmacy and then jerk off like your word means nothing. My time matters. My trust matters. This—" another spank, sharp on the sit-spot "—is what it costs when you treat both like optional."`,
+      `By eight his voice was breaking on the numbers. By twelve his ass was burning and his cock was leaking against her leg, humiliatingly obvious, smearing a damp spot into the fabric. Claire noticed. Of course she noticed. She paused with her hand cupped over the hot skin she'd made and squeezed just enough to make him whimper.`,
+      `"Hard from getting your ass punished," she murmured, almost fond. "Pathetic. Sweet. Don't you dare grind on me. Keep counting."`,
+      `Thirteen. Fourteen. He apologized mid-count — for the dishes, for the text, for the pharmacy, for existing too loudly, words spilling because the heat had scrambled him into honesty. She didn't accept it yet. Acceptance came after, if it came at all. Right now she wanted him raw and open and over her knee where his clever mouth couldn't negotiate.`,
+      `He tried to reach back once, stupid instinct, and she caught his wrist and pinned it at the small of his back without missing a beat. The next spank landed lower, meaner, right on the sit-spot, and he shouted the number into the cushion.`,
+      `"Good," she said. "Feel that? That's what careless gets. That's what 'I'll do it later' gets. Later is now, and now is my hand."`,
+      `She switched to a slower cadence — one hard spank, a pause long enough for the sting to bloom fully, then another. The pauses were worse than the hits. In the pauses he could hear himself breathing, hear how wet he was against her thigh, hear how little dignity he had left and how little he wanted it back.`,
+      `Twenty made him sob. Not pretty crying. The ugly, open-mouthed kind he only did for her, the kind that left him snotty and shaking and somehow more turned on, which made him sob harder from the shame of it. She rubbed circles over the sting, then spanked again in clusters of three until he hissed twenty-eight like a prayer and twenty-nine like surrender.`,
+      `"Color?" she asked, voice softer now under the steel, thumb stroking the edge of a blooming handprint.`,
+      `"Green," he croaked. "Please — green. Don't stop because I'm crying. Stop when you're done."`,
+      `That earned him a kiss at the base of his spine and six more hard ones that stole his breath. Then she stopped with her palm spread over him, claiming the heat, owning the throb. Daniel hung there panting, jeans around his thighs, ass on fire, cock aching untouched and humiliatingly wet.`,
+      `"Up."`,
+      `Standing hurt. The skin felt tight, swollen, alive. Sitting would hurt worse later, which was the point — every office chair a reminder, every shift in the car a private flinch. Claire tugged his boxers up carefully, left the jeans open, and pulled him down to kneel between her knees. Her thumbs wiped his face. He leaned into it like a dog who'd finally been put back on the leash.`,
+      `"You don't get to decide when we're finished," she told him, quiet. "You only get to take it. And then you get to thank me."`,
+      `"Thank you," he whispered. Meaning it so hard it scraped his throat. "Thank you for correcting me. Thank you for not letting me slide."`,
+      `She kissed his forehead, then his mouth, slow and deep while her hand finally wrapped around his cock through the cotton. Not a reward exactly — more like ownership, a reminder that even his orgasm lived downstream of her mood. She stroked him until he was shaking and begging under his breath, hips stuttering, right on the edge, then stopped with her thumb pressed hard under the head, denying him the finish until his eyes watered again.`,
+      `"Aftercare first," she said. "Water. Couch. Ice if you need it. Lotion when I say. You come tonight only if you finish the dishes, send me a proper apology text you'll actually mean, and ask nicely with your face in my lap. Your little problem doesn't get to set the schedule."`,
+      `He nodded, ruined and grateful, cheek against her thigh where the spanking had started. She made him drink a full glass of water before anything else, then inspected the color blooming across his ass with clinical care that somehow felt more intimate than sex. "You'll bruise a little," she said. "Good. I want you thinking about me every time you sit tomorrow."`,
+      `Outside, the city kept going. Inside their dark living room, his ass pulsed with every heartbeat, and the only thing that felt like prayer was her hand in his hair, keeping him right where she'd put him — sore, hard, corrected, and finally, finally paying attention.`,
+    ],
+  ],
+  tags: ['spanking', 'bdsm', 'discipline', 'femdom'],
+  publishedAt: '2026-05-28',
+  featured: true,
+}
+
+export default story
