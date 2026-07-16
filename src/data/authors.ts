@@ -127,6 +127,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['cuckolding', 'humiliation', 'small penis humiliation', 'oral', 'hotwife'],
   },
+  {
+    handle: 'bowsitter',
+    bio: 'Writes best-friend "cuckysitters" who keep locked boyfriends company while the girlfriend films herself getting ruined. Pink cages, video-night commentary, bunny lingerie, and — when the browser history warrants it — sissy little-girl discipline with panties at the ankles and a hairbrush that does not play.',
+    writingStyle: [
+      'VOICE: Close third on the locked boyfriend. Heavy dialogue from girlfriend (sweet+cruel) and cuckysitter (teasing narrator). Bull dialogue is blunt and jealous-making.',
+      'STRUCTURE: Build Lily\'s appearance and outfits; film/upload loop; Savanna+boyfriend watch parties; in-person meet with Brad; then browser-history turn into adult sissy ageplay spanking (panties to ankles emphasized).',
+      'THEMES: cuckolding, chastity, humiliation, anal, rough sex, sissification, adult ageplay.',
+      'LENGTH: Long — at least 5 minutes, preferably much more given multi-plot briefs.',
+      'HARD RULES: Adults only (18+), ages stated. Ageplay is adult headspace — never compare characters to a specific child age (no "8 years old" etc.). Never imply minors in porn either (adult women in little-space clips). Favor tags: cuckolding, chastity, humiliation, anal, sissification, ageplay.',
+    ].join(' '),
+    favoriteTags: ['cuckolding', 'chastity', 'humiliation', 'sissification', 'ageplay'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
