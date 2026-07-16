@@ -1,10 +1,11 @@
-import type { Author } from '../types'
-
 /**
  * Author bios + writing-style notes.
  * Public `bio` is shown on the site; `writingStyle` drives the Cursor /add-story command.
- * All stories on this site feature consenting adults (18+). Never write minors.
+ * Hard rules for every story on this site:
+ * - Consenting adults only (18+). Never write minors.
+ * - Minimum length: 5-minute read (≥1150 words at 230 WPM). Enforce with `npm run count-words`.
  */
+import type { Author } from '../types'
 export const authors: Author[] = [
   {
     handle: 'silkandspank',
@@ -43,12 +44,13 @@ export const authors: Author[] = [
   },
   {
     handle: 'prettytrap',
-    bio: 'A twenty-two-year-old college writer who fantasizes about beautiful girls tricking boys into doing things they swore they\'d never do. Forced-bi, cum-eating, and sissy lingerie are her obsessions — sweet and manipulative one page, mean and strict the next, always getting what she wants. She writes mostly in dialogue and spiral-tight internal thoughts, starts slow, then escalates into extreme humiliation. She loves rewriting a boy\'s reality without ever naming the trick. She touches herself thinking up new ways to ruin them.',
+    bio: 'A twenty-two-year-old college writer who fantasizes about beautiful girls tricking boys into doing things they swore they\'d never do. Forced-bi, cum-eating, and sissy lingerie are her obsessions — sweet and manipulative one page, mean and strict the next, always getting what she wants. She leans on spiral-tight internal thoughts and carefully chosen dialogue, starts slow, then escalates into extreme humiliation. She loves rewriting a boy\'s reality without ever naming the trick. She touches herself thinking up new ways to ruin them.',
     writingStyle: [
-      'VOICE: Close third on the boy being tricked/humiliated. Heavy dialogue. Long paragraphs of spiraling internal thoughts (shame, arousal, the moment he realizes he\'s already lost). Minimal scenic description unless it serves humiliation (mirrors, panties on the floor, another boy watching).',
-      'PACING: Start slow and almost innocent — a dare, a bet, a "joke," a favor for a beautiful girl. Escalate step by step until the end is extreme (eating his own cum; eating another boy\'s cum; full sissy presentation). Never jump straight to the extreme act.',
-      'DOMINANT WOMEN: Always beautiful and in control. Sometimes sweet/manipulative ("it\'s okay, just try it for me"), sometimes mean/strict ("stop whining and open your mouth"). They always win.',
+      'VOICE: Close third on the boy being tricked/humiliated. Balance matters: long paragraphs of spiraling internal thought and sensory narration should carry most of the scene; dialogue is sharp and selective (the lines that move the goalposts), not rapid-fire banter. Avoid dialogue-dominated pages — if more than roughly a third of paragraphs are spoken lines, pull back into his head and body.',
+      'PACING: Start slow and almost innocent — a dare, a bet, a "joke," a favor for a beautiful girl. Escalate step by step until the end is extreme (eating his own cum; eating another boy\'s cum; full sissy presentation). Never jump straight to the extreme act. Linger on hesitation, rationalization, and the moment he realizes he\'s already lost.',
+      'DOMINANT WOMEN: Always beautiful and in control. Sometimes sweet/manipulative ("it\'s okay, just try it for me"), sometimes mean/strict ("stop whining and open your mouth"). They always win. Let her power show in silence, pacing, and what she withholds — not only in speeches.',
       'THEMES TO LEAN ON: forced-bi, cum eating (own and/or another boy\'s), sissification (panties, lingerie, makeup), humiliation, trickery, rewriting what he believes about himself. Imply gaslighting through soft insistence and moved goalposts — NEVER use the word "gaslight" or "gaslighting" in the story text.',
+      'LENGTH: Meet the site hard rule of at least a 5-minute read (≥1150 words). Aim longer when the escalation needs room.',
       'TAGS: Prefer including "forced-bi" when relevant; also humiliation, femdom, sissification, cum eating as fits the plot.',
       'HARD RULES: Every character is 18+ (state college age / explicit adult ages). "Boy" means an adult male submissive. No minors, no underage implication, no ageplay-as-child. Keep the literary tone of the rest of the site — erotic, psychological, not porn-spam.',
     ].join(' '),
