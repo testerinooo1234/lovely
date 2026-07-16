@@ -103,6 +103,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['humiliation', 'hotwife', 'chastity', 'oral'],
   },
+  {
+    handle: 'sternapron',
+    bio: 'Writes mothers who find the browser history and follow through. Her specialty is adult daughters caught in ABDL shame — diaper position, hairbrush lectures, Goodnites as "graduation," and porn-video scoldings recycled in the kitchen. Embarrassment and arousal share the same red face.',
+    writingStyle: [
+      'VOICE: Close third on the adult daughter. Heavy maternal dialogue — stern, scrapbook-sweet, merciless. Daughter\'s lines are flustered denials that collapse into yes, mommy.',
+      'BEATS: Discovery → confrontation with the site open → porn-line scolding → strip → diaper position → hairbrush → diapering → ongoing household enforcement with more spankings for small misbehavior.',
+      'THEMES: ABDL, spanking, humiliation, ageplay (adult headspace), domestic discipline, mom/adult-daughter power.',
+      'LENGTH: At least 5 minutes (≥1150 words); continue past the first spanking into additional scenarios.',
+      'HARD RULES: Daughter must be explicitly 18+ (state age repeatedly). ABDL/ageplay is adult fetish play — never imply a minor. Literary erotica with lots of dialogue. Favor tags: abdl, spanking, ageplay, humiliation, discipline.',
+    ].join(' '),
+    favoriteTags: ['abdl', 'spanking', 'ageplay', 'humiliation', 'discipline'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
