@@ -187,6 +187,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['humiliation', 'group', 'bdsm', 'free use', 'oral'],
   },
+  {
+    handle: 'softaccident',
+    bio: 'Writes curious girlfriends who learn a fantasy to please a boy and then cannot put the fantasy down. Her specialty is soft vocabulary, shorter hems, overnight "accidents," and denial so complete the boyfriend only gets to watch — never touch, never taste, never see her except when someone else already has.',
+    writingStyle: [
+      'VOICE: Close third on the boyfriend. Girlfriend speaks cute/inquisitive, avoids porn slang after the setup; call sex "being with," "putting it in," "using his mouth," etc. After the first explanation, never use cuckold/cuck.',
+      'PACING: Slow verbal teases → light boundary slips → dates/touch → oral/sex "accidents" → denial rules harden → jealousy punished with escalation → little-boy panties comparison to stronger men.',
+      'THEMES: hotwife-adjacent senior romance, humiliation, denial, chastity-without-device, creampie, rough play late.',
+      'LENGTH: Well over 5 minutes; this arc needs room.',
+      'HARD RULES: Both leads explicitly 18+ seniors. Other partners 18+. No gaslight/gaslighting word. Literary erotica with natural dialogue. Favor tags: humiliation, hotwife, denial, oral, anal.',
+    ].join(' '),
+    favoriteTags: ['humiliation', 'hotwife', 'denial', 'oral', 'anal'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
