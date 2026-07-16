@@ -62,6 +62,7 @@ export const stories: Story[] = [
   herBirthdayLock,
   holdingHands,
   soapAndFlash,
+  tenCollars,
   savannahTheManipulator,
   theBeltSheBorrowed,
   untilTheVows,
