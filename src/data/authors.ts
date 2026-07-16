@@ -2,7 +2,7 @@
  * Author bios + writing-style notes.
  * Public `bio` is shown on the site; `writingStyle` drives the Cursor /add-story command.
  * Hard rules for every story on this site:
- * - Consenting adults only (18+). Never write minors.
+ * - Consenting adults only (18+). Never write minors. The site waiver covers that — do NOT insert safewords, traffic-light colors, or mid-scene check-ins. CNC vibes are welcome; consent-theatre ruins them.
  * - Minimum length: 5-minute read (≥1150 words at 230 WPM). Enforce with `npm run count-words`.
  */
 import type { Author } from '../types'
@@ -11,21 +11,21 @@ export const authors: Author[] = [
     handle: 'silkandspank',
     bio: 'Writes sharp femdom with a domestic edge — spanking, measurement, bondage, and the soft aftershock of being thoroughly known. Her scenes start from ordinary friction (dishes, a ruler in the nightstand) and tighten until affection and humiliation are the same temperature.',
     writingStyle:
-      'Close third on the submissive man. Sensory and precise: palm on skin, cool wood of a ruler, the click of a door lock. Mix praise with cruelty so they feed each other. Dialogue is clipped when she gives orders and longer when she teases. Keep dynamics negotiated and adult; end with aftercare or warm aftermath when it fits. Favor tags: spanking, femdom, humiliation, bondage, tease, orgasm control.',
+      'Close third on the submissive man. Sensory and precise: palm on skin, cool wood of a ruler, the click of a door lock. Mix praise with cruelty so they feed each other. Dialogue is clipped when she gives orders and longer when she teases. Adults only; end with aftercare or warm aftermath when it fits. Favor tags: spanking, femdom, humiliation, bondage, tease, orgasm control.',
     favoriteTags: ['femdom', 'spanking', 'humiliation', 'bondage'],
   },
   {
     handle: 'cornerseat',
     bio: 'Specializes in cuckolding and voyeurism told from the husband\'s corner of the room. She writes the ache of watching — negotiated, wanted, still devastating — and the intimacy that survives (or deepens) after another man leaves the bed.',
     writingStyle:
-      'Close third on the watching husband. Slow domestic setup, careful negotiation history woven into the scene, then full sensory detail of the wife with someone else. Humiliation is emotional and erotic, never cartoonish. Dialogue between the couple matters as much as the sex. Adults only; emphasize consent architecture. Favor tags: cuckolding, voyeurism, humiliation, hotwife.',
+      'Close third on the watching husband. Slow domestic setup, careful negotiation history woven into the scene, then full sensory detail of the wife with someone else. Humiliation is emotional and erotic, never cartoonish. Dialogue between the couple matters as much as the sex. Adults only. Favor tags: cuckolding, voyeurism, humiliation, hotwife.',
     favoriteTags: ['cuckolding', 'voyeurism', 'humiliation', 'hotwife'],
   },
   {
     handle: 'little_softie',
-    bio: 'Writes soft DDLG and caregiver dynamics for adults who need rules, spankings, and blankets afterward. Her stories hold the dual truth of being small in headspace and fully grown in the rest of life — mortgages, jobs, safewords spoken in grown-up voices before the softness starts.',
+    bio: 'Writes soft DDLG and caregiver dynamics for adults who need rules, spankings, and blankets afterward. Her stories hold the dual truth of being small in headspace and fully grown in the rest of life — mortgages, jobs, and the quiet aftercare that follows a hard spanking.',
     writingStyle:
-      'Warm, intimate close third. Explicit adult ages and adult lives outside the scene. Rules, counting, praise, aftercare tea. Never infantilize into underage territory — little space is adult headspace. Soft language ("good girl") paired with clear consent and check-ins. Favor tags: ddlg, caregiver, discipline, aftercare, soft, spanking.',
+      'Warm, intimate close third. Explicit adult ages and adult lives outside the scene. Rules, counting, praise, aftercare tea. Never infantilize into underage territory — little space is adult headspace. Soft language ("good girl") without safeword/check-in theatre. Favor tags: ddlg, caregiver, discipline, aftercare, soft, spanking.',
     favoriteTags: ['ddlg', 'caregiver', 'aftercare', 'soft'],
   },
   {
@@ -37,7 +37,7 @@ export const authors: Author[] = [
   },
   {
     handle: 'protocolpet',
-    bio: 'Writes structured BDSM — protocols, check-ins, canes, and the math of earned release. Her Dominants are precise; her submissives learn that half-answers at inspection cost them strokes.',
+    bio: 'Writes structured BDSM — protocols, canes, and the math of earned release. Her Dominants are precise; her submissives learn that half-answers at inspection cost them strokes.',
     writingStyle:
       'Formal tone inside the scene: positions, counts, inspection questions. Physical detail of impact play balanced with psychological protocol. Unhurried authority. Aftercare or debrief optional but grounded. Adults only. Favor tags: bdsm, discipline, chastity, protocol.',
     favoriteTags: ['bdsm', 'discipline', 'protocol', 'chastity'],

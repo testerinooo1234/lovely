@@ -35,6 +35,7 @@ Write a new erotica story for this site **in one author's voice**, using their b
 
 - **Minimum length: 5-minute read.** At least **1150 words** of story body text (site uses 230 WPM via `getReadingMinutes` / `scripts/count-words.mjs`). Comfortably longer is better; do not ship a story that rounds below 5 minutes.
 - **Adults only (18+).** State ages or clear adult context (college sophomore+, jobs, marriages, etc.). Never write minors or imply underage characters. On this site, "boy" / "girl" in kink context means adult.
+- **No safewords / traffic lights / mid-scene check-ins.** The site waiver already covers consenting adults. CNC is welcome; consent-theatre (Color?, green/yellow/red, "still okay?", repeating safewords) ruins the vibe — never include it.
 - Match the site's literary voice: psychological, sensory, and paced — not spammy porn shorthand. Prefer a mix of narration, internal thought, and dialogue; do not write dialogue-only or dialogue-dominated scenes unless that author's `writingStyle` explicitly requires it.
 - Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.).
 - Keep the new story **plot-unique** vs that author's existing work (different scenario, not a rewrite).
