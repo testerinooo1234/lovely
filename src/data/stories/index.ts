@@ -19,6 +19,7 @@ import punishmentInbox from './punishment-inbox'
 import sentFromNyx from './sent-from-nyx'
 import sheLetsHimStay from './she-lets-him-stay'
 import soapAndFlash from './soap-and-flash'
+import savannahTheManipulator from './savannah-the-manipulator'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
 import theGuestInOurBed from './the-guest-in-our-bed'
 import theKeyOnHerChain from './the-key-on-her-chain'
@@ -57,6 +58,7 @@ export const stories: Story[] = [
   herBirthdayLock,
   holdingHands,
   soapAndFlash,
+  savannahTheManipulator,
   theBeltSheBorrowed,
   untilTheVows,
 ].sort(
