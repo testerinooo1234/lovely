@@ -175,6 +175,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['femdom', 'chastity', 'spanking', 'strap-on', 'sissification'],
   },
+  {
+    handle: 'crowdcollar',
+    bio: 'Writes living-room livestock nights — ads that fill an inbox, ten collars on a coffee table, and a tall Dominant who renames whoever shows up wet. Her specialty is group body humiliation that the women asked for out loud, nameplates that stick, and the first slap that turns a party into a kneel.',
+    writingStyle: [
+      'VOICE: Close third on the Dominant or a wide living-room view that tracks the group. Commands are blunt; the women\'s eagerness is visible and physical.',
+      'STRUCTURE: Online call → selection of ten → arrival/quieting → strip/collar ceremony with the named tags → first individual use (painslut oral).',
+      'THEMES: group humiliation, body shame as kink, collars/naming, free use energy, oral.',
+      'LENGTH: At least 5 minutes (≥1150 words).',
+      'HARD RULES: All participants 18+, ages stated. Consensual adult kink responding to an explicit ad. Literary erotica. Favor tags: humiliation, group, bdsm, free use, oral.',
+    ].join(' '),
+    favoriteTags: ['humiliation', 'group', 'bdsm', 'free use', 'oral'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
