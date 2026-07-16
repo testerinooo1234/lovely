@@ -3,6 +3,7 @@ import aDaddyForHim from './a-daddy-for-him'
 import cuckysitter from './cuckysitter'
 import elizabethsLottery from './elizabeths-lottery'
 import fridayNightProtocol from './friday-night-protocol'
+import frenchClassInvite from './french-class-invite'
 import frontRowLesson from './front-row-lesson'
 import goodGirlRules from './good-girl-rules'
 import heAskedForIt from './he-asked-for-it'
@@ -51,6 +52,7 @@ export const stories: Story[] = [
   naughtydiapergirls,
   velvetRestraints,
   fridayNightProtocol,
+  frenchClassInvite,
   littleAftercare,
   sheLetsHimStay,
   justATaste,
