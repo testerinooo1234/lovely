@@ -24,6 +24,7 @@ import prettyThingsWearPink from './pretty-things-wear-pink'
 import punishmentInbox from './punishment-inbox'
 import sentFromNyx from './sent-from-nyx'
 import sheLetsHimStay from './she-lets-him-stay'
+import sheReadAboutIt from './she-read-about-it'
 import soapAndFlash from './soap-and-flash'
 import savannahTheManipulator from './savannah-the-manipulator'
 import tenCollars from './ten-collars'
@@ -59,6 +60,7 @@ export const stories: Story[] = [
   littleAftercare,
   madameBeaumontsCorner,
   sheLetsHimStay,
+  sheReadAboutIt,
   justATaste,
   kaylasBrightRoom,
   theWrongDrawer,
