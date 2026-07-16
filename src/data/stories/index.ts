@@ -14,6 +14,7 @@ import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
 import kaylasBrightRoom from './kaylas-bright-room'
 import littleAftercare from './little-aftercare'
+import madameBeaumontsCorner from './madame-beaumonts-corner'
 import measuredAndFoundWanting from './measured-and-found-wanting'
 import missVictoriasSurvey from './miss-victorias-survey'
 import naughtydiapergirls from './naughtydiapergirls'
@@ -56,6 +57,7 @@ export const stories: Story[] = [
   fridayNightProtocol,
   frenchClassInvite,
   littleAftercare,
+  madameBeaumontsCorner,
   sheLetsHimStay,
   justATaste,
   kaylasBrightRoom,
