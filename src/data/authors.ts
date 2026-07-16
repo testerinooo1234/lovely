@@ -115,6 +115,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['abdl', 'spanking', 'ageplay', 'humiliation', 'discipline'],
   },
+  {
+    handle: 'dollzoom',
+    bio: 'Writes tiny, doll-pretty girlfriends who look like they bake cookies and then send crotch-zoom humiliation videos. Her specialty is soft voices saying vicious size comparisons, athletic bulls framed from the belt down, and oral scenes that escalate from worship to facefucking while the boyfriend watches on his phone.',
+    writingStyle: [
+      'VOICE: Close third on the boyfriend receiving the video, intercut with what the camera shows. Heavy dialogue from the girlfriend — sweet tone, filthy content. Extreme visual detail on her appearance and on the other man\'s cock.',
+      'PACING: Appearance establish → SPH opener → bull introduced crotch-first → comparison play → detailed blowjob → escalate to facefucking with gagging/drool.',
+      'THEMES: cuckolding, small penis humiliation, oral, humiliation, hotwife.',
+      'LENGTH: At least 5 minutes (≥1150 words); go long for description-heavy scenes.',
+      'HARD RULES: Adults only (18+), ages stated. Literary erotica with maximal concrete detail where requested. Favor tags: cuckolding, humiliation, small penis humiliation, oral, hotwife.',
+    ].join(' '),
+    favoriteTags: ['cuckolding', 'humiliation', 'small penis humiliation', 'oral', 'hotwife'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
