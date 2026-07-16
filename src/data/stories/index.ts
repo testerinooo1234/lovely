@@ -1,8 +1,10 @@
 import type { Story } from '../../types'
+import aDaddyForHim from './a-daddy-for-him'
 import fridayNightProtocol from './friday-night-protocol'
 import frontRowLesson from './front-row-lesson'
 import goodGirlRules from './good-girl-rules'
 import heAskedForIt from './he-asked-for-it'
+import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
 import littleAftercare from './little-aftercare'
@@ -10,13 +12,18 @@ import measuredAndFoundWanting from './measured-and-found-wanting'
 import overHerKnee from './over-her-knee'
 import prettyThingsWearPink from './pretty-things-wear-pink'
 import sheLetsHimStay from './she-lets-him-stay'
+import soapAndFlash from './soap-and-flash'
+import theBeltSheBorrowed from './the-belt-she-borrowed'
 import theGuestInOurBed from './the-guest-in-our-bed'
 import theKeyOnHerChain from './the-key-on-her-chain'
+import theOtherDiscipline from './the-other-discipline'
 import theWrongDrawer from './the-wrong-drawer'
+import tooMuchToAsk from './too-much-to-ask'
 import twoBoysOneDare from './two-boys-one-dare'
 import velvetRestraints from './velvet-restraints'
 
 export const stories: Story[] = [
+  aDaddyForHim,
   theKeyOnHerChain,
   overHerKnee,
   goodGirlRules,
@@ -30,9 +37,14 @@ export const stories: Story[] = [
   justATaste,
   theWrongDrawer,
   twoBoysOneDare,
+  theOtherDiscipline,
+  tooMuchToAsk,
   frontRowLesson,
   houseRulesWithMissHale,
   heAskedForIt,
+  holdingHands,
+  soapAndFlash,
+  theBeltSheBorrowed,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
