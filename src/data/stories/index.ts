@@ -15,6 +15,7 @@ import missVictoriasSurvey from './miss-victorias-survey'
 import naughtydiapergirls from './naughtydiapergirls'
 import overHerKnee from './over-her-knee'
 import prettyThingsWearPink from './pretty-things-wear-pink'
+import punishmentInbox from './punishment-inbox'
 import sentFromNyx from './sent-from-nyx'
 import sheLetsHimStay from './she-lets-him-stay'
 import soapAndFlash from './soap-and-flash'
@@ -36,6 +37,7 @@ export const stories: Story[] = [
   goodGirlRules,
   theGuestInOurBed,
   prettyThingsWearPink,
+  punishmentInbox,
   sentFromNyx,
   measuredAndFoundWanting,
   missVictoriasSurvey,

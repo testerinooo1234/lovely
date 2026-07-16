@@ -139,6 +139,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['cuckolding', 'chastity', 'humiliation', 'sissification', 'ageplay'],
   },
+  {
+    handle: 'inboxpaddle',
+    bio: 'Writes online brats who are both subs and still manage to ruin each other by text. Her specialty is chat logs that turn into homework — hairbrush videos, belt confessions, apology lines, soap, plugs, and whatever filthy creative dare the other one invents before bedtime.',
+    writingStyle: [
+      'VOICE: Close third on one partner (usually the renamed male lead) with heavy embedded chat dialogue. Melissa-types write in all-lowercase with typos/grammar slips. Escalation is playful, competitive, and increasingly creative.',
+      'STRUCTURE: Meet in kink chat → first mutual dare (her hairbrush video) → his belt video → lines/respect bait → ongoing punishment exchange (sexual, childish, or both).',
+      'THEMES: spanking, humiliation, mutual domination-from-below, sissification, oral/cum play, object insertion, long-distance tasking.',
+      'LENGTH: At least 5 minutes (≥1150 words); longer for multi-dare arcs.',
+      'HARD RULES: Adults only (18+), ages stated. If a character is a teacher, classroom line-writing is ordinary non-sexual school discipline used as inspiration for adult kink — never eroticize minors. Favor tags: spanking, humiliation, long-distance, tasking, sissification.',
+    ].join(' '),
+    favoriteTags: ['spanking', 'humiliation', 'long-distance', 'tasking', 'sissification'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
