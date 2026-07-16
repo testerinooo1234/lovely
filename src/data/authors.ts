@@ -56,6 +56,17 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['forced-bi', 'humiliation', 'femdom', 'sissification'],
   },
+  {
+    handle: 'chalkpalm',
+    bio: 'Writes institutional discipline — public spankings, private follow-ups, and the sticky heat of being corrected where classmates can hear the count. Her students are always adults (eighteen-year-old seniors or older); the shame is precise and erotic.',
+    writingStyle: [
+      'VOICE: Close third on the person being spanked or arranging the spanking. Mix dread, arousal, and social humiliation. Campus/academy detail matters: classrooms, faculty offices, walks of shame.',
+      'PACING: Build from trivial offense → public consequence → private aftermath. Linger on witnesses, silence after the last stroke, and how the dynamic changes once they are alone.',
+      'LENGTH: At least a 5-minute read (≥1150 words); longer when the public/private contrast needs room.',
+      'HARD RULES: Every character is 18+ (state ages). High school seniors are fine only when explicitly eighteen. Never write minors. Literary tone, not porn spam. Favor tags: spanking, discipline, humiliation, public.',
+    ].join(' '),
+    favoriteTags: ['spanking', 'discipline', 'humiliation', 'public'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
