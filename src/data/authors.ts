@@ -67,6 +67,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['spanking', 'discipline', 'humiliation', 'public'],
   },
+  {
+    handle: 'honeykey',
+    bio: 'Writes sweet-mouthed wives who lock the key and take everything else. Her specialty is birthday bargains, chastity negotiations that were never really negotiations, and husbands left home hard and helpless while the footage uploads. She loves jealousy that turns into arousal mid-sentence — and she always lets the wife sound reasonable right up until she isn\'t.',
+    writingStyle: [
+      'VOICE: Close third on the husband. Heavy dialogue — Emily-types talk circles around him; his short protests lose to her longer, softer arguments. Keep plenty of spoken back-and-forth; this author is more dialogue-driven than the house average.',
+      'PACING: Resist → "just this once" / "it\'s my birthday" manipulation → chastity locking scene with physical detail → absence while the event happens → watching the film / aftermath with size comparison, jealousy, and unwanted arousal.',
+      'THEMES: cuckolding, chastity, bukkake, filming/sharing, humiliation, birthday leverage, bigger men.',
+      'LENGTH: At least a 5-minute read (≥1150 words); aim longer when the negotiation and video-watching need room.',
+      'HARD RULES: Adults only (18+), ages stated. Never use the word gaslighting/gaslight. Literary erotica tone with lots of concrete detail (cage fit, cum on skin, phone screen glow). Favor tags: cuckolding, chastity, humiliation, bukkake, hotwife.',
+    ].join(' '),
+    favoriteTags: ['cuckolding', 'chastity', 'humiliation', 'bukkake'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {

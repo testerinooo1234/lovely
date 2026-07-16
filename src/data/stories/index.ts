@@ -4,6 +4,7 @@ import fridayNightProtocol from './friday-night-protocol'
 import frontRowLesson from './front-row-lesson'
 import goodGirlRules from './good-girl-rules'
 import heAskedForIt from './he-asked-for-it'
+import herBirthdayLock from './her-birthday-lock'
 import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
@@ -42,6 +43,7 @@ export const stories: Story[] = [
   frontRowLesson,
   houseRulesWithMissHale,
   heAskedForIt,
+  herBirthdayLock,
   holdingHands,
   soapAndFlash,
   theBeltSheBorrowed,
