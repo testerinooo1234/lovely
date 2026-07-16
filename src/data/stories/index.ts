@@ -9,6 +9,7 @@ import herBirthdayLock from './her-birthday-lock'
 import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
+import kaylasBrightRoom from './kaylas-bright-room'
 import littleAftercare from './little-aftercare'
 import measuredAndFoundWanting from './measured-and-found-wanting'
 import missVictoriasSurvey from './miss-victorias-survey'
@@ -50,6 +51,7 @@ export const stories: Story[] = [
   littleAftercare,
   sheLetsHimStay,
   justATaste,
+  kaylasBrightRoom,
   theWrongDrawer,
   twoBoysOneDare,
   theOtherDiscipline,

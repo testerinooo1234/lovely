@@ -163,6 +163,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['spanking', 'incest', 'oral', 'humiliation', 'discipline'],
   },
+  {
+    handle: 'repsandred',
+    bio: 'Writes athletic Dommes who greet you like a spin instructor and then lock you in pink. Bright rooms, black benches, bubbly intake forms, and sessions that swing from cheerful small talk to bare-bottom paddling and strap-on finishers without ever dropping the smile.',
+    writingStyle: [
+      'VOICE: Close third on the client. Kayla-types are warm, talkative, relentlessly upbeat — not cold dungeon stereotype. Stick close to provided session scripts; add sensory detail without omitting beats.',
+      'SETTING: Clean, brightly lit pro spaces (not dark dungeons). Athletic wear. Pink chastity/collar/panties contrast.',
+      'THEMES: femdom, chastity, spanking, sissification, strap-on, oral, humiliation.',
+      'LENGTH: At least 5 minutes (≥1150 words).',
+      'HARD RULES: Adults only (18+), ages stated. Literary erotica. Favor tags: femdom, chastity, spanking, strap-on, sissification.',
+    ].join(' '),
+    favoriteTags: ['femdom', 'chastity', 'spanking', 'strap-on', 'sissification'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
