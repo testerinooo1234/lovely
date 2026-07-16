@@ -151,6 +151,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['spanking', 'humiliation', 'long-distance', 'tasking', 'sissification'],
   },
+  {
+    handle: 'sirstrap',
+    bio: 'Writes household belt discipline that does not stay at discipline. Her specialty is adult daughters — eighteen and up — stripped for the strap, cornered, then put on their knees with a quiet yes, Sir. Long spankings. Explicit aftermath. The soft scroll through a phone afterward when the bruises become a secret shared with someone safer.',
+    writingStyle: [
+      'VOICE: Close third on the daughter. Heavy paternal commands; her replies are short and obedient. Extremely detailed physical description of belt work, oral, and volume of finish when the brief calls for it.',
+      'PACING: Misbehavior → naked belt spanking (long) → corner → oral command → explicit BJ/facefuck → swallow/cleanup → phone returned → classmate text reclaiming the shame.',
+      'THEMES: spanking, incest (adult), oral, humiliation, discipline, exhibition with peer.',
+      'LENGTH: At least 5 minutes (≥1150 words); go long on the spanking and oral as requested.',
+      'HARD RULES: Daughter must be explicitly 18+. Father and any classmates 18+. Never imply underage. Literary erotica. Favor tags: spanking, incest, oral, humiliation, discipline.',
+    ].join(' '),
+    favoriteTags: ['spanking', 'incest', 'oral', 'humiliation', 'discipline'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
