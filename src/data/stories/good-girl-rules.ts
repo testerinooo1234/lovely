@@ -43,8 +43,8 @@ const story: Story = {
     ],
     [
       `He didn't make her stand right away. He let her lie there over the arm of the couch, hiccupping softly, while his hand traced slow circles over the heat he'd made, not soothing exactly — proprietary, the way you'd rest a hand on something that belonged to you and had just been reminded of that fact rather thoroughly.`,
-      `"Color?" he asked, the way he always did, breaking character just enough to check.`,
-      `"Green," she managed, voice small and wrecked. "Really green. Please don't stop touching me."`,
+      `"Still okay?" he asked, the way he always did, breaking character just enough to check.`,
+      `"Still okay," she managed, voice small and wrecked. "Really okay. Please don't stop touching me."`,
       `"Not stopping." He pressed a kiss to the small of her back, right above the blazing warmth of her ass, and let one finger trail lower, teasing along the seam of her, finding her embarrassingly wet despite — because of — everything that had just happened to her. "Look at that. All that crying and you're soaked."`,
       `"Daddy—" The word cracked into something needier, hips tilting back into his hand without her quite deciding to do it.`,
       `"That's not a rule I'm breaking," he said, low, amused, sliding two fingers into her slow and testing while she moaned into the couch cushion. "You get punished when you're bad. You get to enjoy how much your body likes it. Both things are true. That's the whole point of us."`,
