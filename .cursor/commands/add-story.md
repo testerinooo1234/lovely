@@ -28,12 +28,14 @@ Write a new erotica story for this site **in one author's voice**, using their b
    - `publishedAt`: ISO date (`YYYY-MM-DD`), typically "today" or a recent date.
    - `featured`: only if asked.
 5. Register the default export in `src/data/stories/index.ts` (import + array entry).
-6. Do **not** change other authors' stories unless asked.
+6. Run `node scripts/count-words.mjs` and confirm the new file is **not** flagged `UNDER 5 MIN`. If it is, expand before finishing.
+7. Do **not** change other authors' stories unless asked.
 
 ## Hard rules (all authors)
 
+- **Minimum length: 5-minute read.** At least **1150 words** of story body text (site uses 230 WPM via `getReadingMinutes` / `scripts/count-words.mjs`). Comfortably longer is better; do not ship a story that rounds below 5 minutes.
 - **Adults only (18+).** State ages or clear adult context (college sophomore+, jobs, marriages, etc.). Never write minors or imply underage characters. On this site, "boy" / "girl" in kink context means adult.
-- Match the site's literary voice: psychological, sensory, dialogue-rich — not spammy porn shorthand.
+- Match the site's literary voice: psychological, sensory, and paced — not spammy porn shorthand. Prefer a mix of narration, internal thought, and dialogue; do not write dialogue-only or dialogue-dominated scenes unless that author's `writingStyle` explicitly requires it.
 - Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.).
 - Keep the new story **plot-unique** vs that author's existing work (different scenario, not a rewrite).
 
@@ -45,4 +47,5 @@ After loading the author, treat `writingStyle` as the source of truth for craft.
 
 - New story file exists and compiles.
 - `src/data/stories/index.ts` exports it.
+- `node scripts/count-words.mjs` shows ≥5 min for the new story (no `UNDER 5 MIN` flag).
 - `npm run build` succeeds (run it if feasible).
