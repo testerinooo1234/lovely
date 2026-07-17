@@ -1,9 +1,9 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { TagChip } from '../components/TagChip'
+import { StoryCard } from '../components/StoryCard'
+import { StoryTags } from '../components/StoryTags'
 import { getStoryBySlug, stories } from '../data/stories'
 import { formatDate, getReadingMinutes } from '../lib/search'
-import { MAX_VISIBLE_STORY_TAGS, StoryCard } from '../components/StoryCard'
 
 export function StoryPage() {
   const { slug } = useParams()
@@ -72,11 +72,7 @@ export function StoryPage() {
               {story.author}
             </Link>
           </p>
-          <div className="story-reader__tags">
-            {story.tags.slice(0, MAX_VISIBLE_STORY_TAGS).map((tag) => (
-              <TagChip key={tag} tag={tag} to={`/browse?tag=${encodeURIComponent(tag)}`} />
-            ))}
-          </div>
+          <StoryTags tags={story.tags} className="story-reader__tags" />
         </header>
 
         <div ref={pageStartRef} className="story-reader__page">
