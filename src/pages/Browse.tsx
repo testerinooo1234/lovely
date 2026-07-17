@@ -24,7 +24,7 @@ export function Browse() {
   const visibleTags = useMemo(() => {
     if (showAllTags) return allTags
     const extras = activeTags.filter((tag) => !topTags.includes(tag))
-    return [...topTags, ...extras]
+    return [...topTags, ...extras].sort((a, b) => a.localeCompare(b))
   }, [showAllTags, allTags, topTags, activeTags])
 
   useEffect(() => {
