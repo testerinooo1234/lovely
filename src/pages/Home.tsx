@@ -5,7 +5,7 @@ import { getFeaturedStories, getTopTags, stories } from '../data/stories'
 
 export function Home() {
   const featured = getFeaturedStories()
-  const tags = getTopTags(10)
+  const tags = getTopTags(10).slice(0, 10)
 
   return (
     <div className="page home">
@@ -36,7 +36,7 @@ export function Home() {
         </div>
         <div className="story-grid">
           {featured.map((story, i) => (
-            <StoryCard key={story.id} story={story} index={i} />
+            <StoryCard key={story.id} story={story} index={i} showTags={false} />
           ))}
         </div>
       </section>

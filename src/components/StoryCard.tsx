@@ -6,9 +6,10 @@ import { TagChip } from './TagChip'
 type StoryCardProps = {
   story: Story
   index?: number
+  showTags?: boolean
 }
 
-export function StoryCard({ story, index = 0 }: StoryCardProps) {
+export function StoryCard({ story, index = 0, showTags = true }: StoryCardProps) {
   return (
     <article
       className="story-card"
@@ -36,11 +37,13 @@ export function StoryCard({ story, index = 0 }: StoryCardProps) {
 
       <p className="story-card__excerpt">{story.excerpt}</p>
 
-      <div className="story-card__tags">
-        {story.tags.slice(0, 4).map((tag) => (
-          <TagChip key={tag} tag={tag} to={`/browse?tag=${encodeURIComponent(tag)}`} />
-        ))}
-      </div>
+      {showTags && (
+        <div className="story-card__tags">
+          {story.tags.slice(0, 4).map((tag) => (
+            <TagChip key={tag} tag={tag} to={`/browse?tag=${encodeURIComponent(tag)}`} />
+          ))}
+        </div>
+      )}
     </article>
   )
 }
