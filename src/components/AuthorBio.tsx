@@ -4,20 +4,23 @@ import type { Author } from '../types'
 type AuthorBioProps = {
   author: Author
   storyCount?: number
+  /** When false, the handle is plain text (e.g. already on the author page). */
+  linkName?: boolean
 }
 
-export function AuthorBio({ author, storyCount }: AuthorBioProps) {
+export function AuthorBio({ author, storyCount, linkName = true }: AuthorBioProps) {
   return (
     <aside className="author-bio" aria-label={`about ${author.handle}`}>
       <div className="author-bio__header">
         <p className="author-bio__kicker">author</p>
         <h2 className="author-bio__name">
-          <Link
-            to={`/browse?q=${encodeURIComponent(author.handle)}`}
-            className="author-link"
-          >
-            {author.handle}
-          </Link>
+          {linkName ? (
+            <Link to={`/author/${encodeURIComponent(author.handle)}`} className="author-link">
+              {author.handle}
+            </Link>
+          ) : (
+            <span className="author-link">{author.handle}</span>
+          )}
         </h2>
         {typeof storyCount === 'number' && (
           <p className="author-bio__count">

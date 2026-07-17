@@ -1,6 +1,5 @@
 import { useEffect, useMemo, useState, type FormEvent } from 'react'
-import { useSearchParams } from 'react-router-dom'
-import { AuthorBio } from '../components/AuthorBio'
+import { Navigate, useSearchParams } from 'react-router-dom'
 import { StoryCard } from '../components/StoryCard'
 import { TagChip } from '../components/TagChip'
 import { getAuthorByHandle } from '../data/authors'
@@ -35,19 +34,17 @@ export function Browse() {
     [query, activeTags],
   )
 
-  const matchedAuthor = useMemo(() => {
+  // Old author bookmarks landed on browse?q=handle — send them to the author page.
+  const authorRedirect = useMemo(() => {
+    if (activeTags.length > 0) return undefined
     const q = query.trim()
     if (!q) return undefined
-    const author = getAuthorByHandle(q)
-    if (!author) return undefined
-    const allByAuthor = stories.filter((s) => s.author === author.handle)
-    if (allByAuthor.length === 0) return undefined
-    const showingAll =
-      activeTags.length === 0 &&
-      results.length === allByAuthor.length &&
-      results.every((s) => s.author === author.handle)
-    return showingAll ? author : undefined
-  }, [query, activeTags, results])
+    return getAuthorByHandle(q)
+  }, [query, activeTags])
+
+  if (authorRedirect) {
+    return <Navigate to={`/author/${encodeURIComponent(authorRedirect.handle)}`} replace />
+  }
 
   function updateParams(nextQuery: string, nextTags: string[]) {
     const next = new URLSearchParams()
@@ -134,13 +131,6 @@ export function Browse() {
         {query ? ` for “${query}”` : ''}
         {activeTags.length > 0 ? ` · tagged ${activeTags.join(', ')}` : ''}
       </p>
-
-      {matchedAuthor && (
-        <AuthorBio
-          author={matchedAuthor}
-          storyCount={stories.filter((s) => s.author === matchedAuthor.handle).length}
-        />
-      )}
 
       {results.length === 0 ? (
         <div className="empty-state">

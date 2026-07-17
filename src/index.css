@@ -746,8 +746,14 @@ button.tag-chip {
   color: var(--accent-bright);
 }
 
-.browse .author-bio {
-  margin: 0 0 1.75rem;
+.author-page .author-bio {
+  margin: 0 0 2.5rem;
+  max-width: none;
+  animation: rise 0.7s ease both;
+}
+
+.author-page .author-bio__name {
+  font-size: clamp(2.4rem, 6vw, 3.6rem);
 }
 
 /* motion */
