@@ -593,8 +593,13 @@ button.tag-chip {
 }
 
 .filter-row {
-  margin-bottom: 1.75rem;
+  margin-bottom: 0.85rem;
   animation: rise 0.7s ease 0.1s both;
+}
+
+.filter-clear {
+  margin-bottom: 1.25rem;
+  animation: rise 0.7s ease 0.12s both;
 }
 
 .results-count {
