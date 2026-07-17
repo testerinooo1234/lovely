@@ -602,6 +602,10 @@ button.tag-chip {
   animation: rise 0.7s ease 0.12s both;
 }
 
+.browse-results {
+  scroll-margin-top: calc(var(--header-h) + 0.75rem);
+}
+
 .results-count {
   color: var(--text-faint);
   font-size: 0.8rem;
