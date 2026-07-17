@@ -783,33 +783,48 @@ button.tag-chip {
 /* responsive */
 
 @media (max-width: 720px) {
+  .site-header__inner {
+    flex-wrap: wrap;
+    row-gap: 0;
+  }
+
+  .brand {
+    margin-right: auto;
+  }
+
   .nav-toggle {
     display: inline-flex;
     align-items: center;
     justify-content: center;
   }
 
+  /* Dropdown panel — avoids fixed-position bugs under backdrop-filter */
   .site-nav {
-    position: fixed;
-    inset: 0;
+    display: none;
+    order: 3;
+    width: 100%;
     flex-direction: column;
-    justify-content: center;
-    gap: 1.5rem;
-    background: rgba(7, 5, 7, 0.96);
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.25s ease;
+    align-items: stretch;
+    gap: 0.15rem;
+    padding: 0.85rem 0 1.15rem;
+    border-top: 1px solid var(--border);
+    background: transparent;
   }
 
   .site-nav--open {
-    opacity: 1;
-    pointer-events: auto;
+    display: flex;
   }
 
   .site-nav__link {
-    font-size: 1.4rem;
+    font-size: 1.25rem;
     font-family: var(--font-display);
     letter-spacing: 0.04em;
+    padding: 0.7rem 0.15rem;
+  }
+
+  .site-nav__cta {
+    margin-top: 0.65rem;
+    text-align: center;
   }
 
   .hero {
