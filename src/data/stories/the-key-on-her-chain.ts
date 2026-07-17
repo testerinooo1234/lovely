@@ -21,7 +21,7 @@ const story: Story = {
       `"Careful," she said sweetly. "That's not a toy for you to play with. It's mine. You're just wearing it."`,
       `"I know. I know, I just—"`,
       `"You just what?" She set her wine down, folded her hands, gave him the full weight of her attention, which was somehow worse than being ignored. "Finish the sentence, David."`,
-      `"I need it. I need you." His face was hot. Thirty-four years old, successful, articulate at work, and here he was stammering across his own dinner table because a woman had decided his orgasms belonged to her and he'd agreed, eagerly, in writing practically, the first night she'd shown him the cage and asked if he wanted to know what it felt like to actually earn something for once instead of just taking it whenever his dick got hard.`,
+      `"I need it. I need you." His face was hot. Successful, articulate at work, and here he was stammering across his own dinner table because a woman had decided his orgasms belonged to her and he'd agreed, eagerly, in writing practically, the first night she'd shown him the cage and asked if he wanted to know what it felt like to actually earn something for once instead of just taking it whenever his dick got hard.`,
       `"You need," she repeated, tasting the word. "That's a good start. Say more."`,
       `"I need you to touch me. I need — please, Vanessa, it's been two weeks, I can't think straight, I jerk off in my head at my desk and there's nothing there to hold onto, it just builds and builds and there's no relief, I dream about the key, I actually dream about it—"`,
       `"You dream about my key." She smiled slow, reached up, touched the chain at her throat like she was petting something. "Tell me what happens in the dream."`,

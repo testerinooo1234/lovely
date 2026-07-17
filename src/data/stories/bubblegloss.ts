@@ -6,11 +6,11 @@ const story: Story = {
   title: 'Bubblegloss',
   author: 'foamfemme',
   excerpt:
-    'Elliot is twenty-one, in pink satin and pale gloss for practice night at his girlfriend\'s vanity — until a snapped garter clip earns him a word he should not have said, and a bar of lavender soap held between his teeth while he watches the mirror learn a girl\'s mouth.',
+    'Elliot is in pink satin and pale gloss for practice night at his girlfriend\'s vanity — until a snapped garter clip earns him a word he should not have said, and a bar of lavender soap held between his teeth while he watches the mirror learn a girl\'s mouth.',
   pages: [
     [
-      `The vanity had been Celeste's grandmother's — walnut and gilt-mirrored, older than either of them — and Elliot Voss, twenty-one and freshly shaved from collarbone to ankle, was learning that antique furniture made every small mistake echo. He sat on the padded stool in nothing but a pair of pink satin panties, one garter still unclipped down his right thigh, the strap dangling like a scolding finger. The bulb ring around the mirror was on its softest setting. Celeste liked her practice nights lit like a magazine shoot.`,
-      `She stood behind him in her studio apron — thin cotton over a black slip, sleeves shoved to the elbow, a fashion student's hands — and appraised his reflection the way she would appraise a hem. Celeste Marchand was twenty-three, two years older than him and forever twenty-three years surer of everything. Her hair was pulled up in a loose knot. Her mouth was quiet, which he had learned early was a warning.`,
+      `The vanity had been Celeste's grandmother's — walnut and gilt-mirrored, older than either of them — and Elliot Voss, freshly shaved from collarbone to ankle, was learning that antique furniture made every small mistake echo. He sat on the padded stool in nothing but a pair of pink satin panties, one garter still unclipped down his right thigh, the strap dangling like a scolding finger. The bulb ring around the mirror was on its softest setting. Celeste liked her practice nights lit like a magazine shoot.`,
+      `She stood behind him in her studio apron — thin cotton over a black slip, sleeves shoved to the elbow, a fashion student's hands — and appraised his reflection the way she would appraise a hem. Celeste Marchand was forever surer of everything. Her hair was pulled up in a loose knot. Her mouth was quiet, which he had learned early was a warning.`,
       `"Chin up, baby," she said. "You slouch when you're nervous. Nervous is fine. Slouching is not."`,
       `Elliot lifted his chin. The panties creased at his hips. He could see the whole of himself in the mirror — narrow shoulders, the pale plane of his chest, the faint blush of the light concealer she had already patted into his cheeks. A little mascara made his lashes look like something a girl in the checkout line might notice and envy. His mouth was still bare. That was on purpose. Celeste had been saving the mouth for last.`,
       `"Try the clip again," she said. "By yourself. Show me you can do the left one without looking down."`,
@@ -43,7 +43,7 @@ const story: Story = {
     [
       `She wet the bar of soap under the little apothecary jug she kept on the vanity — a habit she had developed the first time she had done this to him, back in April, when he had said something she thought too sharp about her mother — and worked it in her palm until it was foamed and slippery. The lavender rose properly now, no longer just a note from the wrapper. It filled the room. Elliot's tongue moved unhappily behind his teeth.`,
       `"Eyes on the glass," she reminded, coming back around behind him. "If you look at me instead of yourself I have to start over."`,
-      `He held the mirror. He watched himself watching himself. Twenty-one and slim and pink-mouthed and blushing in the light of a bulb ring designed for girls doing their eyeliner before dates. Celeste's face appeared behind his over his left shoulder — beautiful, unbothered, twenty-three and entirely at ease.`,
+      `He held the mirror. He watched himself watching himself. Slim and pink-mouthed and blushing in the light of a bulb ring designed for girls doing their eyeliner before dates. Celeste's face appeared behind his over his left shoulder — beautiful, unbothered, entirely at ease.`,
       `"Open."`,
       `He opened. The gloss stretched at the corners. She fit the bar between his teeth with the same slow patience she had used for the wand. Cold at first, then warm as his mouth heated it, then the taste — chemical, herbal, wrong in every way food was right. His whole tongue recoiled. His eyes filled instantly. In the mirror he watched a boy in pink panties and pink gloss accept a bar of soap into his mouth like it was communion, and the shame of the pretty match — foam on gloss, floral on floral — was worse than the taste.`,
       `"Good," Celeste murmured. She had one hand cupping the back of his skull, gentle, the way a hairdresser holds a client's head over a basin. "Very good. Down on it. Bite gently. Not to chew. Just to hold."`,
@@ -53,7 +53,7 @@ const story: Story = {
       `"Say something," she said. "Try to. Say ma'am."`,
       `He tried. The bar in his teeth turned the word into shape without sound — a soft muddled mm that broke against soap and gloss and came out as a bubble that popped on his lower lip. Celeste laughed, low and pleased.`,
       `"There," she said. "That's a girl's apology. You should hear yourself. You should see yourself."`,
-      `He was seeing. That was the trick of the vanity, that was the design — a mirror at eye level, a bulb ring like a small sun, the impossibility of pretending you were somewhere else while you were being made into something. Elliot watched his own reflection cry prettily around a bar of lavender soap while his girlfriend, twenty-three years old and calm as weather, held his head steady and told him he looked like a girl.`,
+      `He was seeing. That was the trick of the vanity, that was the design — a mirror at eye level, a bulb ring like a small sun, the impossibility of pretending you were somewhere else while you were being made into something. Elliot watched his own reflection cry prettily around a bar of lavender soap while his girlfriend, calm as weather, held his head steady and told him he looked like a girl.`,
       `She worked the bar. Not roughly. A quarter turn, then back. Foam gathered at the corners. His jaw ached. The taste climbed up the back of his throat and lived there, so present it felt like a color. He would taste this tomorrow at breakfast. He would taste it at his desk on Monday. He knew that already.`,
       `"Two more minutes," Celeste said, checking the little brass clock on the vanity. "You can do two more minutes. Breathe through your nose. Don't spit yet."`,
       `He breathed through his nose. Lavender in the air, lavender in his mouth, lavender in the wet of his eyes. Somewhere under the shame his cock was still hard, pressing forward at the satin like a small stupid witness. Celeste's free hand slid from the back of his head down his spine, unhurried, and rested at the small of his back the way it might rest between an animal's shoulder blades — reassurance without release. He had learned, over the four months he had been letting her do this to him, that her reassurance was almost worse than her cruelty; a hand steady at his spine while a bar of soap worked his mouth was a way of saying you are still mine while I do this to you, and the you are still mine part landed each time as a separate small hook in his chest.`,
@@ -75,7 +75,7 @@ const story: Story = {
       `"Turn," she said. "Face me. Don't wipe."`,
       `He turned. Foam had dried at one corner of his mouth into a thin white crust. Gloss still shone at the center of his lower lip. Mascara had left two faint tracks he could feel with the skin of his face but not see. He held his hands behind his back the way he had learned.`,
       `"Chin up. Little smile. No — softer than that. Softer. Like you know you deserved it."`,
-      `He softened. He did not know whether he was performing the look she wanted or arriving at it honestly, and by twenty-one he had stopped being sure there was a difference. She took the picture. The shutter clicked, that small mechanical courtesy modern phones offered so you would know your face had been kept.`,
+      `He softened. He did not know whether he was performing the look she wanted or arriving at it honestly, and he had stopped being sure there was a difference. She took the picture. The shutter clicked, that small mechanical courtesy modern phones offered so you would know your face had been kept.`,
       `"One more. Look down. Just a little. Bashful. There. God, baby. There." Another click. "This one goes right after the gloss photo. Whole set. Before-during-after. You are going to be so embarrassed the next time I make you look at these with me."`,
       `"Yes, ma'am."`,
       `"Yes what."`,
@@ -91,7 +91,7 @@ const story: Story = {
       `"Until my mouth remembers it's pretty."`,
       `She smiled, small and sweet-mean, and closed the padlock.`,
       `Click.`,
-      `The sound sat in the mirrored bedroom with the same quiet finality as the swear that had started the evening, and Elliot Voss — twenty-one, glossed, foamed, photographed, caged, still tasting lavender at the back of his throat — understood at last that this was what practice nights had been building toward all along: a mouth kept sweet by the memory of soap, and a girlfriend who would decide, at her leisure, when the memory had done its work.`,
+      `The sound sat in the mirrored bedroom with the same quiet finality as the swear that had started the evening, and Elliot Voss — glossed, foamed, photographed, caged, still tasting lavender at the back of his throat — understood at last that this was what practice nights had been building toward all along: a mouth kept sweet by the memory of soap, and a girlfriend who would decide, at her leisure, when the memory had done its work.`,
     ],
   ],
   tags: [

@@ -10,7 +10,7 @@ const story: Story = {
   pages: [
     [
       `They met in a spanking discord that smelled, digitally, like nervous honesty.`,
-      `Jordan Hale was twenty-six, username BeltMarks — chosen because he'd once admitted, in a late-night confessional channel, that he liked belting himself bare-assed while alone because the crack of leather reminded him of scary childhood discipline from his dad, the non-sexual kind that had lived in his nerves for years and come back sideways as kink when he grew up. Melissa Ruiz was twenty-four, username INeedSpankedBad, a preschool-to-fifth-grade teacher by day who typed like her shift key had filed a restraining order. She was kinky, submissive, a little dumb in the way she cheerfully owned, and prone to grammar that wandered off mid-sentence.`,
+      `Jordan Hale, username BeltMarks — chosen because he'd once admitted, in a late-night confessional channel, that he liked belting himself bare-assed while alone because the crack of leather reminded him of scary childhood discipline from his dad, the non-sexual kind that had lived in his nerves for years and come back sideways as kink when he grew up. Melissa Ruiz, username INeedSpankedBad, a preschool-to-fifth-grade teacher by day who typed like her shift key had filed a restraining order. She was kinky, submissive, a little dumb in the way she cheerfully owned, and prone to grammar that wandered off mid-sentence.`,
       `They bonded on being bottoms who mostly wanted to receive. They traded favorite implements, the particular shame of asking for something hard. For weeks it stayed sweet and sideways — until Melissa got bratty.`,
       `ineedspankedbad: your being weird abt the hairbrush poll lol like its not that deep`,
       `ineedspankedbad: maybe your just scared of a real sting hmmmm`,
@@ -36,7 +36,7 @@ const story: Story = {
     ],
     [
       `Even did not last.`,
-      `Melissa mentioned, casually, that at school she sometimes made kids write lines when they were disruptive — long sentences, a hundred times, the kind of dull repetition that made a classroom go quiet. Ordinary teacher stuff. Non-sexy. Jordan, twenty-six and reckless, heard the shape of a kink anyway.`,
+      `Melissa mentioned, casually, that at school she sometimes made kids write lines when they were disruptive — long sentences, a hundred times, the kind of dull repetition that made a classroom go quiet. Ordinary teacher stuff. Non-sexy. Jordan, reckless, heard the shape of a kink anyway.`,
       `beltmarks: Wow you sound like a bitch teacher. I sure would hate to be your student.`,
       `ineedspankedbad: ohhhhh`,
       `ineedspankedbad: so you wanna mouth off like that??`,
