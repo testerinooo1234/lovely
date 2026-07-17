@@ -7,6 +7,29 @@ import { getAllTags, getTopTags, stories } from '../data/stories'
 import { filterStories } from '../lib/search'
 
 const VISIBLE_TAG_LIMIT = 10
+const MOBILE_PAGE_SIZE = 10
+const DESKTOP_PAGE_SIZE = 20
+const MOBILE_QUERY = '(max-width: 720px)'
+
+function usePageSize() {
+  const [pageSize, setPageSize] = useState(() =>
+    typeof window !== 'undefined' && window.matchMedia(MOBILE_QUERY).matches
+      ? MOBILE_PAGE_SIZE
+      : DESKTOP_PAGE_SIZE,
+  )
+
+  useEffect(() => {
+    const media = window.matchMedia(MOBILE_QUERY)
+    function sync() {
+      setPageSize(media.matches ? MOBILE_PAGE_SIZE : DESKTOP_PAGE_SIZE)
+    }
+    sync()
+    media.addEventListener('change', sync)
+    return () => media.removeEventListener('change', sync)
+  }, [])
+
+  return pageSize
+}
 
 export function Browse() {
   const [params, setParams] = useSearchParams()
@@ -14,8 +37,11 @@ export function Browse() {
   const topTags = useMemo(() => getTopTags(VISIBLE_TAG_LIMIT), [])
   const [showAllTags, setShowAllTags] = useState(false)
   const resultsRef = useRef<HTMLElement>(null)
+  const pageSize = usePageSize()
+
   const query = params.get('q') ?? ''
   const activeTags = params.getAll('tag')
+  const pageParam = Number.parseInt(params.get('page') ?? '1', 10)
   const filterKey = `${query}\0${activeTags.join('\0')}`
   // Scroll once when landing with filters already in the URL (e.g. homepage mood chips).
   const pendingScrollRef = useRef(Boolean(query || activeTags.length > 0))
@@ -36,6 +62,11 @@ export function Browse() {
     () => filterStories(stories, { query, tags: activeTags }),
     [query, activeTags],
   )
+
+  const totalPages = Math.max(1, Math.ceil(results.length / pageSize))
+  const page = Number.isFinite(pageParam) ? Math.min(Math.max(1, pageParam), totalPages) : 1
+  const pageStart = (page - 1) * pageSize
+  const pageStories = results.slice(pageStart, pageStart + pageSize)
 
   // Old author bookmarks landed on browse?q=handle — send them to the author page.
   const authorRedirect = useMemo(() => {
@@ -60,15 +91,33 @@ export function Browse() {
     })
   }, [filterKey, query, activeTags])
 
+  // Keep ?page= in range when filters or page size change.
+  useEffect(() => {
+    if (pageParam === page) return
+    const next = new URLSearchParams(params)
+    if (page <= 1) next.delete('page')
+    else next.set('page', String(page))
+    setParams(next, { replace: true })
+  }, [page, pageParam, params, setParams])
+
   if (authorRedirect) {
     return <Navigate to={`/author/${encodeURIComponent(authorRedirect.handle)}`} replace />
   }
 
-  function updateParams(nextQuery: string, nextTags: string[]) {
+  function updateParams(nextQuery: string, nextTags: string[], nextPage = 1) {
     const next = new URLSearchParams()
     if (nextQuery.trim()) next.set('q', nextQuery.trim())
     for (const tag of nextTags) next.append('tag', tag)
+    if (nextPage > 1) next.set('page', String(nextPage))
     setParams(next, { replace: true })
+  }
+
+  function goToPage(nextPage: number) {
+    const clamped = Math.min(Math.max(1, nextPage), totalPages)
+    updateParams(query, activeTags, clamped)
+    requestAnimationFrame(() => {
+      resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    })
   }
 
   function toggleTag(tag: string) {
@@ -76,7 +125,7 @@ export function Browse() {
       ? activeTags.filter((t) => t !== tag)
       : [...activeTags, tag]
     pendingScrollRef.current = nextTags.length > 0 || Boolean(query)
-    updateParams(query, nextTags)
+    updateParams(query, nextTags, 1)
   }
 
   function onSubmit(e: FormEvent) {
@@ -84,11 +133,11 @@ export function Browse() {
     const nextQuery = draftQuery.trim()
     // Exact author handle still redirects via authorRedirect once params update.
     if (activeTags.length === 0 && getAuthorByHandle(nextQuery)) {
-      updateParams(nextQuery, activeTags)
+      updateParams(nextQuery, activeTags, 1)
       return
     }
     pendingScrollRef.current = true
-    updateParams(nextQuery, activeTags)
+    updateParams(nextQuery, activeTags, 1)
     // Same query still needs an explicit scroll because filterKey may not change.
     if (nextQuery === query) {
       requestAnimationFrame(() => {
@@ -103,6 +152,9 @@ export function Browse() {
     setDraftQuery('')
     setParams({}, { replace: true })
   }
+
+  const rangeStart = results.length === 0 ? 0 : pageStart + 1
+  const rangeEnd = Math.min(pageStart + pageSize, results.length)
 
   return (
     <div className="page browse">
@@ -159,7 +211,11 @@ export function Browse() {
 
       <section ref={resultsRef} className="browse-results" aria-live="polite">
         <p className="results-count">
-          {results.length} {results.length === 1 ? 'story' : 'stories'}
+          {results.length === 0
+            ? '0 stories'
+            : `showing ${rangeStart}–${rangeEnd} of ${results.length} ${
+                results.length === 1 ? 'story' : 'stories'
+              }`}
           {query ? ` for “${query}”` : ''}
           {activeTags.length > 0 ? ` · tagged ${activeTags.join(', ')}` : ''}
         </p>
@@ -169,11 +225,37 @@ export function Browse() {
             <p>nothing matches — try a softer search, or clear the tags.</p>
           </div>
         ) : (
-          <div className="story-grid">
-            {results.map((story, i) => (
-              <StoryCard key={story.id} story={story} index={i} />
-            ))}
-          </div>
+          <>
+            <div className="story-grid">
+              {pageStories.map((story, i) => (
+                <StoryCard key={story.id} story={story} index={i} />
+              ))}
+            </div>
+
+            {totalPages > 1 && (
+              <nav className="browse-pager" aria-label="search results pages">
+                <button
+                  type="button"
+                  className="btn btn--ghost btn--small"
+                  disabled={page <= 1}
+                  onClick={() => goToPage(page - 1)}
+                >
+                  ← previous
+                </button>
+                <span className="browse-pager__status">
+                  {page} of {totalPages}
+                </span>
+                <button
+                  type="button"
+                  className="btn btn--ghost btn--small"
+                  disabled={page >= totalPages}
+                  onClick={() => goToPage(page + 1)}
+                >
+                  next →
+                </button>
+              </nav>
+            )}
+          </>
         )}
       </section>
     </div>
