@@ -8,6 +8,7 @@ const HOME_HREF = import.meta.env.BASE_URL || '/'
 const links = [
   { to: '/', label: 'home' },
   { to: '/browse', label: 'stories' },
+  { to: '/authors', label: 'authors' },
 ]
 
 function isOnHome() {
