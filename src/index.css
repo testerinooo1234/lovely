@@ -663,8 +663,19 @@ button.tag-chip {
   margin-bottom: 1.25rem;
 }
 
-.story-reader__body {
+.story-reader__page {
   scroll-margin-top: calc(var(--header-h) + 0.75rem);
+}
+
+.story-reader__page-label {
+  color: var(--text-faint);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: lowercase;
+  margin-bottom: 1.25rem;
+}
+
+.story-reader__body {
   display: grid;
   gap: 1.25rem;
   font-family: var(--font-body);
