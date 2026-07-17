@@ -41,7 +41,8 @@ export function Browse() {
 
   const query = params.get('q') ?? ''
   const activeTags = params.getAll('tag')
-  const pageParam = Number.parseInt(params.get('page') ?? '1', 10)
+  const rawPage = params.get('page')
+  const parsedPage = rawPage == null ? 1 : Number.parseInt(rawPage, 10)
   const filterKey = `${query}\0${activeTags.join('\0')}`
   // Scroll once when landing with filters already in the URL (e.g. homepage mood chips).
   const pendingScrollRef = useRef(Boolean(query || activeTags.length > 0))
@@ -64,7 +65,10 @@ export function Browse() {
   )
 
   const totalPages = Math.max(1, Math.ceil(results.length / pageSize))
-  const page = Number.isFinite(pageParam) ? Math.min(Math.max(1, pageParam), totalPages) : 1
+  const page =
+    Number.isFinite(parsedPage) && parsedPage > 0
+      ? Math.min(parsedPage, totalPages)
+      : 1
   const pageStart = (page - 1) * pageSize
   const pageStories = results.slice(pageStart, pageStart + pageSize)
 
@@ -93,12 +97,13 @@ export function Browse() {
 
   // Keep ?page= in range when filters or page size change.
   useEffect(() => {
-    if (pageParam === page) return
+    const desired = page <= 1 ? null : String(page)
+    if (rawPage === desired) return
     const next = new URLSearchParams(params)
-    if (page <= 1) next.delete('page')
-    else next.set('page', String(page))
+    if (desired == null) next.delete('page')
+    else next.set('page', desired)
     setParams(next, { replace: true })
-  }, [page, pageParam, params, setParams])
+  }, [page, rawPage, params, setParams])
 
   if (authorRedirect) {
     return <Navigate to={`/author/${encodeURIComponent(authorRedirect.handle)}`} replace />
