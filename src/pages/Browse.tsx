@@ -127,7 +127,7 @@ export function Browse() {
 
       {(query || activeTags.length > 0) && (
         <div className="filter-clear">
-          <button type="button" className="btn btn--ghost" onClick={clearFilters}>
+          <button type="button" className="btn btn--ghost btn--small" onClick={clearFilters}>
             clear tags
           </button>
         </div>
