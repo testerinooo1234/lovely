@@ -13,6 +13,7 @@ import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
 import kaylasBrightRoom from './kaylas-bright-room'
+import laundryDay from './laundry-day'
 import littleAftercare from './little-aftercare'
 import madameBeaumontsCorner from './madame-beaumonts-corner'
 import measuredAndFoundWanting from './measured-and-found-wanting'
@@ -27,11 +28,13 @@ import sheLetsHimStay from './she-lets-him-stay'
 import sheReadAboutIt from './she-read-about-it'
 import soapAndFlash from './soap-and-flash'
 import savannahTheManipulator from './savannah-the-manipulator'
+import summerRules from './summer-rules'
 import tenCollars from './ten-collars'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
 import theGuestInOurBed from './the-guest-in-our-bed'
 import theKeyOnHerChain from './the-key-on-her-chain'
 import theOtherDiscipline from './the-other-discipline'
+import theWishlist from './the-wishlist'
 import theWrongDrawer from './the-wrong-drawer'
 import tooMuchToAsk from './too-much-to-ask'
 import twoBoysOneDare from './two-boys-one-dare'
@@ -57,6 +60,7 @@ export const stories: Story[] = [
   velvetRestraints,
   fridayNightProtocol,
   frenchClassInvite,
+  laundryDay,
   littleAftercare,
   madameBeaumontsCorner,
   sheLetsHimStay,
@@ -75,8 +79,10 @@ export const stories: Story[] = [
   soapAndFlash,
   tenCollars,
   savannahTheManipulator,
+  summerRules,
   theBeltSheBorrowed,
   untilTheVows,
+  theWishlist,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
