@@ -40,6 +40,7 @@ Also read `.cursor/rules/story-writing.mdc` — it is the source of truth for cr
 - **No consent theatre.** The site waiver already covers consenting adults. CNC is welcome. Never insert safewords, traffic lights (green/yellow/red), "Color?", "still okay?", or mid-scene check-ins.
 - **Dramatize, don't summarize.** Write scenes (specific time, dialogue, sensory detail). Do not leapfrog important beats with "by then / eventually / it became weekly" montages, and do not dump the whole premise in the first sentence.
 - **Banned names:** never name characters **Aaron** or **Eric**.
+- **Sparse names:** do not name characters unless the name does story work (brand, collar plate, text contact). Prefer he/she, girlfriend, Sir, the Domme.
 - Match the site's literary voice: psychological, sensory, and paced — not spammy porn shorthand. Prefer a mix of narration, internal thought, and dialogue; do not write dialogue-only or dialogue-dominated scenes unless that author's `writingStyle` explicitly requires it.
 - Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.), except where it conflicts with the age / consent / summary / banned-name rules above — those win.
 - Keep the new story **plot-unique** vs that author's existing work (different scenario, not a rewrite).
