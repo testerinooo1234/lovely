@@ -1,7 +1,9 @@
 import type { Story } from '../../types'
 import aDaddyForHim from './a-daddy-for-him'
+import apartmentLease from './apartment-lease'
 import assAddict from './ass-addict'
 import backwardsSock from './backwards-sock'
+import bubblegloss from './bubblegloss'
 import cuckysitter from './cuckysitter'
 import elizabethsLottery from './elizabeths-lottery'
 import fridayNightProtocol from './friday-night-protocol'
@@ -13,13 +15,16 @@ import herBirthdayLock from './her-birthday-lock'
 import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
+import justACleanTaste from './just-a-clean-taste'
 import kaylasBrightRoom from './kaylas-bright-room'
 import laundryDay from './laundry-day'
+import listingDay from './listing-day'
 import littleAftercare from './little-aftercare'
 import madameBeaumontsCorner from './madame-beaumonts-corner'
 import measuredAndFoundWanting from './measured-and-found-wanting'
 import missVictoriasSurvey from './miss-victorias-survey'
 import naughtydiapergirls from './naughtydiapergirls'
+import officeHoursSoap from './office-hours-soap'
 import overHerKnee from './over-her-knee'
 import phonePrivileges from './phone-privileges'
 import prettyThingsWearPink from './pretty-things-wear-pink'
@@ -29,10 +34,14 @@ import sheLetsHimStay from './she-lets-him-stay'
 import sheReadAboutIt from './she-read-about-it'
 import soapAndFlash from './soap-and-flash'
 import savannahTheManipulator from './savannah-the-manipulator'
+import soapSentences from './soap-sentences'
+import stepstoolSink from './stepstool-sink'
 import summerRules from './summer-rules'
 import tenCollars from './ten-collars'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
+import theDinnerNapkin from './the-dinner-napkin'
 import theGuestInOurBed from './the-guest-in-our-bed'
+import theIvoryHandle from './the-ivory-handle'
 import theKeyOnHerChain from './the-key-on-her-chain'
 import theOtherDiscipline from './the-other-discipline'
 import theWishlist from './the-wishlist'
@@ -40,6 +49,7 @@ import theWrongDrawer from './the-wrong-drawer'
 import tooMuchToAsk from './too-much-to-ask'
 import twoBoysOneDare from './two-boys-one-dare'
 import untilTheVows from './until-the-vows'
+import vanityLesson from './vanity-lesson'
 import velvetRestraints from './velvet-restraints'
 
 export const stories: Story[] = [
@@ -85,6 +95,16 @@ export const stories: Story[] = [
   theBeltSheBorrowed,
   untilTheVows,
   theWishlist,
+  officeHoursSoap,
+  stepstoolSink,
+  theDinnerNapkin,
+  listingDay,
+  apartmentLease,
+  theIvoryHandle,
+  bubblegloss,
+  vanityLesson,
+  soapSentences,
+  justACleanTaste,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
