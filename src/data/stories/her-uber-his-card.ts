@@ -4,7 +4,7 @@ const story: Story = {
   id: '59',
   slug: 'her-uber-his-card',
   title: 'Her Uber, His Card',
-  author: 'daterate',
+  author: 'fund_her_date',
   excerpt:
     'Elise had dinner with Marcus. Cole paid the Uber, the wine, the hotel — locked in pink plastic at home, watching the charges land like love notes.',
   pages: [

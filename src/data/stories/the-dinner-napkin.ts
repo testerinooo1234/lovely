@@ -4,7 +4,7 @@ const story: Story = {
   id: '43',
   slug: 'the-dinner-napkin',
   title: 'The Dinner Napkin',
-  author: 'sudswitness',
+  author: 'suds_witness',
   excerpt:
     'Grant made a crude joke about their host across the table. His wife decided the correction would happen at the kitchen sink — with the hosts watching, a folded linen napkin as a bib, and a bar of Ivory as an apology.',
   pages: [

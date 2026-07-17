@@ -4,7 +4,7 @@ const story: Story = {
   id: '71',
   slug: 'pink-mileage',
   title: 'Pink Mileage',
-  author: 'repsandred',
+  author: 'reps_and_red',
   excerpt:
     'She pulled up last week\'s chastity photos on her phone, scolded a blurry shot like a missed homework assignment, then put him through a circuit until MILEAGE was written on his thigh.',
   pages: [

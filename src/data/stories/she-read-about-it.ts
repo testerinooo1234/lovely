@@ -4,7 +4,7 @@ const story: Story = {
   id: '38',
   slug: 'she-read-about-it',
   title: 'She Read About It',
-  author: 'softaccident',
+  author: 'soft_accident',
   excerpt:
     'Liam asked Hana to try an idea he found online. She practiced the soft version — then kept practicing after he said stop.',
   pages: [

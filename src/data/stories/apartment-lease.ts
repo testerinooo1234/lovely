@@ -4,7 +4,7 @@ const story: Story = {
   id: '45',
   slug: 'apartment-lease',
   title: 'Apartment Lease',
-  author: 'barandbrush',
+  author: 'bar_and_brush',
   excerpt:
     'Three-day dishes and one careless "Christ, relax." A calm chore-chart amendment, an ivory bar at the kitchen sink, and a fresh laminated rule on the fridge.',
   pages: [

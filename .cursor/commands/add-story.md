@@ -8,7 +8,7 @@ Write a new erotica story for this site **in one author's voice**, using their b
 
 ## Inputs
 
-1. **Author handle** (required) — one of the handles in `src/data/authors.ts` (e.g. `prettytrap`, `silkandspank`).
+1. **Author handle** (required) — one of the handles in `src/data/authors.ts` (e.g. `prettytrap`, `silk_and_spank`).
 2. **Optional premise / tags / title** — if the user supplies them, honor them; otherwise invent a premise that fits the author's favorite themes.
 3. If the user says "any author" or doesn't specify, ask which handle to use (list handles from `src/data/authors.ts`).
 

@@ -4,7 +4,7 @@ const story: Story = {
   id: '61',
   slug: 'anniversary-budget',
   title: 'Anniversary Budget',
-  author: 'daterate',
+  author: 'fund_her_date',
   excerpt:
     'Instead of a couple trip, Camille booked a coastal inn with Victor. Neil paid the deposit, the dinners, the train — and stayed home locked with the receipts.',
   pages: [

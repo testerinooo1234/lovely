@@ -4,7 +4,7 @@ const story: Story = {
   id: '46',
   slug: 'the-ivory-handle',
   title: 'The Ivory Handle',
-  author: 'barandbrush',
+  author: 'bar_and_brush',
   excerpt:
     'A cleared browser history he forgot to double-check, a girlfriend who does not tolerate lies, and her best friend visiting for the weekend with a very clean voice for counting.',
   pages: [
