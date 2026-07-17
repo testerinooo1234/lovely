@@ -658,6 +658,7 @@ button.tag-chip {
 }
 
 .story-reader__body {
+  scroll-margin-top: calc(var(--header-h) + 0.75rem);
   display: grid;
   gap: 1.25rem;
   font-family: var(--font-body);
