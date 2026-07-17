@@ -70,7 +70,13 @@ const story: Story = {
       `"Yes," he said, because it had been. Then, after a moment, because he was eighteen and embarrassed and no longer interested in lying to himself about every form of wanting, he added, "But I asked for it."`,
     ],
   ],
-  tags: ['spanking', 'discipline', 'humiliation', 'public'],
+  tags: [
+    'spanking',
+    'discipline',
+    'humiliation',
+    'public',
+    'university',
+  ],
   publishedAt: '2026-07-08',
 }
 

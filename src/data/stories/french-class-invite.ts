@@ -47,7 +47,16 @@ const story: Story = {
       `Caleb walked home through campus air that felt too normal for what his French-class crush had just done to his face — soles, glitter, the wet slap of Kane fucking her open while she giggled into the mattress. He already knew he would conjugate verbs on Monday like nothing happened. He already knew he would say yes again the second her glitter-cheeked texts asked.`,
     ],
   ],
-  tags: ['ddlg', 'ageplay', 'anal', 'foot fetish', 'humiliation'],
+  tags: [
+    'cuckolding',
+    'ddlg',
+    'anal',
+    'foot fetish',
+    'humiliation',
+    'ageplay',
+    'university',
+    'voyeurism',
+  ],
   publishedAt: '2026-07-20',
 }
 

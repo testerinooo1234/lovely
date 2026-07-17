@@ -82,7 +82,14 @@ const story: Story = {
       `He fell asleep like that, still faintly humming with everything that had happened, Elena's weight warm and familiar against his side, and the last coherent thought he had before drifting off entirely was that eleven years in, his marriage had just found an entirely new gear he hadn't known to hope for, hadn't even known to ask for until she'd offered it to him wrapped in a red dress and a stranger's name.`,
     ],
   ],
-  tags: ['cuckolding', 'voyeurism', 'humiliation', 'hotwife'],
+  tags: [
+    'cuckolding',
+    'voyeurism',
+    'humiliation',
+    'hotwife',
+    'oral',
+    'denial',
+  ],
   publishedAt: '2026-04-19',
 }
 

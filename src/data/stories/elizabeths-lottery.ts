@@ -41,7 +41,14 @@ const story: Story = {
       `Elizabeth dressed around the jeweled humiliation with shaking hands — skirt scraping welts, every step a reminder — and walked into the hallway with Master Halden's lottery still burning on her skin. Somewhere, soon, he would open a folder labeled Extreme / Nude / Combined Implements / Moore, E., 18, and watch her beg become count become ruin. She wiped her face, straightened her blouse over bare breasts because bras had not been permitted back on yet, and went to class the way excellent students did: on time, destroyed, and obedient to a draw she could not talk her way out of.`,
     ],
   ],
-  tags: ['spanking', 'discipline', 'humiliation', 'university', 'public'],
+  tags: [
+    'spanking',
+    'anal',
+    'discipline',
+    'humiliation',
+    'university',
+    'public',
+  ],
   publishedAt: '2026-07-20',
 }
 

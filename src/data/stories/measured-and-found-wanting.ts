@@ -50,7 +50,13 @@ const story: Story = {
       `He laughed — real laughter this time, loose and relieved — and pulled her closer, thoroughly humiliated, thoroughly satisfied, and already, helplessly, wondering what she'd bring out of that nightstand next time.`,
     ],
   ],
-  tags: ['small penis humiliation', 'humiliation', 'femdom', 'tease'],
+  tags: [
+    'small penis humiliation',
+    'humiliation',
+    'femdom',
+    'tease',
+    'bondage',
+  ],
   publishedAt: '2026-05-08',
 }
 

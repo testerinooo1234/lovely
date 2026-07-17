@@ -43,7 +43,15 @@ const story: Story = {
       `Outside, the city kept going. Inside their dark living room, his ass pulsed with every heartbeat, and the only thing that felt like prayer was her hand in his hair, keeping him right where she'd put him — sore, hard, corrected, and finally, finally paying attention.`,
     ],
   ],
-  tags: ['spanking', 'bdsm', 'discipline', 'femdom'],
+  tags: [
+    'spanking',
+    'bdsm',
+    'discipline',
+    'femdom',
+    'humiliation',
+    'aftercare',
+    'denial',
+  ],
   publishedAt: '2026-05-28',
   featured: true,
 }

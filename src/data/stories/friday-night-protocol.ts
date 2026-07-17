@@ -64,7 +64,16 @@ const story: Story = {
       `That was the part she was proudest of, if she was honest with herself. Not the cane, not the orgasm control, not even the trust it took for a grown man to kneel on a cushion every Friday and hand her the sharpest parts of his week. It was this — the constant small recalibration, the refusal to let protocol calcify into something neither of them actually needed anymore. Ethan needed catching. She intended to keep catching him, this Friday and every one after it, for as long as it kept working for both of them.`,
     ],
   ],
-  tags: ['bdsm', 'discipline', 'chastity', 'protocol'],
+  tags: [
+    'bdsm',
+    'discipline',
+    'chastity',
+    'protocol',
+    'femdom',
+    'orgasm control',
+    'spanking',
+    'denial',
+  ],
   publishedAt: '2026-06-20',
   featured: true,
 }

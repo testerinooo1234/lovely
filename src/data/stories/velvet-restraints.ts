@@ -47,7 +47,15 @@ const story: Story = {
       `"I trust you either way," he said, and meant it completely, the exact sentiment that had started this whole thing months ago and had only grown steadier with every scene since.`,
     ],
   ],
-  tags: ['bdsm', 'bondage', 'femdom', 'orgasm control'],
+  tags: [
+    'bdsm',
+    'bondage',
+    'femdom',
+    'orgasm control',
+    'oral',
+    'denial',
+    'tease',
+  ],
   publishedAt: '2026-02-14',
 }
 

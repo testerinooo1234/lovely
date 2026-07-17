@@ -66,7 +66,13 @@ const story: Story = {
       `He carried her to bed eventually, tucking the blanket around her shoulders the way he always did, and lay beside her running slow fingers through her hair until her breathing evened into something close to sleep, the apartment finally, fully quiet around them, the index card and the coloring books both waiting patiently on the coffee table for whenever they were needed again. In the morning she'd be Emma from accounts payable again, coffee and commute and spreadsheets, the index card tucked back into its drawer until the next time either of them needed it. But right now, drifting warm and sore and thoroughly cared for in the dark, she let herself stay exactly as small as she needed to be, trusting the rules to still be there, unchanged, whenever she was ready to come back to them.`,
     ],
   ],
-  tags: ['ddlg', 'discipline', 'caregiver', 'spanking'],
+  tags: [
+    'ddlg',
+    'discipline',
+    'caregiver',
+    'spanking',
+    'ageplay',
+  ],
   publishedAt: '2026-06-01',
   featured: true,
 }

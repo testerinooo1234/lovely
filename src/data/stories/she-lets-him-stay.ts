@@ -55,7 +55,14 @@ const story: Story = {
       `Marcus thought, drifting toward sleep with Elena's breathing slow and even against his chest, about how differently he'd imagined this arrangement back when they'd first talked about it — more shame, he'd assumed, more awkwardness in the after. Instead it kept arriving at this: a bed, a blanket, her hand finding his in the dark like nothing unusual had happened at all, like watching his wife with another man was simply one more way, among many, that they'd found to stay exactly this close to each other, closer, if anything, than they'd ever managed before any of this started.`,
     ],
   ],
-  tags: ['cuckolding', 'humiliation', 'voyeurism', 'hotwife'],
+  tags: [
+    'cuckolding',
+    'humiliation',
+    'voyeurism',
+    'hotwife',
+    'oral',
+    'denial',
+  ],
   publishedAt: '2026-01-22',
 }
 

@@ -68,7 +68,16 @@ const story: Story = {
       `"I will text if it becomes an accident," she promised, and closed the door on him — little boy in little girl panties, waiting for a report he had begged for once and could no longer revoke.`,
     ],
   ],
-  tags: ['humiliation', 'hotwife', 'denial', 'oral', 'anal'],
+  tags: [
+    'cuckolding',
+    'hotwife',
+    'humiliation',
+    'anal',
+    'denial',
+    'oral',
+    'sissification',
+    'tease',
+  ],
   publishedAt: '2026-07-21',
   featured: true,
 }

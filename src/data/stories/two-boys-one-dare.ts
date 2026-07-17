@@ -68,7 +68,15 @@ const story: Story = {
       `good boy. next time you swallow from the source.`,
     ],
   ],
-  tags: ['forced-bi', 'humiliation', 'femdom', 'cum eating'],
+  tags: [
+    'forced-bi',
+    'humiliation',
+    'femdom',
+    'cum eating',
+    'oral',
+    'university',
+    'group',
+  ],
   publishedAt: '2026-07-10',
 }
 

@@ -85,7 +85,15 @@ const story: Story = {
       `He closed his eyes. Her fingers were warm in his. The apartment was quiet. And somewhere between the gratitude and the grief, between the negotiated wanting and the devastation it left behind, Marcus understood that he'd gotten exactly what he'd asked for — and that asking for more, for anything simpler, for anything that looked like the marriage they used to have, would always be too much.`,
     ],
   ],
-  tags: ['cuckolding', 'humiliation', 'emotional', 'hotwife'],
+  tags: [
+    'cuckolding',
+    'humiliation',
+    'emotional',
+    'hotwife',
+    'voyeurism',
+    'denial',
+    'oral',
+  ],
   publishedAt: '2026-07-13',
 }
 
