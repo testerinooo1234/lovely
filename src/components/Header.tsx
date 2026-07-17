@@ -13,7 +13,7 @@ export function Header() {
   return (
     <header className="site-header">
       <div className="site-header__inner">
-        <Link to="/" className="brand" onClick={() => setOpen(false)}>
+        <Link to="/browse" className="brand" onClick={() => setOpen(false)}>
           <HeartLogo size={22} className="brand__heart" />
           <span className="brand__name">lovely</span>
         </Link>
