@@ -28,7 +28,7 @@ export function StoryCard({ story, index = 0, showTags = true }: StoryCardProps)
       <p className="story-card__author">
         by{' '}
         <Link
-          to={`/browse?q=${encodeURIComponent(story.author)}`}
+          to={`/author/${encodeURIComponent(story.author)}`}
           className="author-link"
         >
           {story.author}
