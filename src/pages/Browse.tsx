@@ -53,6 +53,10 @@ export function Browse() {
     return <Navigate to={`/author/${encodeURIComponent(authorRedirect.handle)}`} replace />
   }
 
+  function scrollToResults() {
+    resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+  }
+
   function updateParams(nextQuery: string, nextTags: string[]) {
     const next = new URLSearchParams()
     if (nextQuery.trim()) next.set('q', nextQuery.trim())
@@ -69,7 +73,18 @@ export function Browse() {
 
   function onSubmit(e: FormEvent) {
     e.preventDefault()
-    updateParams(draftQuery, activeTags)
+    const nextQuery = draftQuery.trim()
+    // Exact author handle still redirects via authorRedirect once params update.
+    if (activeTags.length === 0 && getAuthorByHandle(nextQuery)) {
+      updateParams(nextQuery, activeTags)
+      return
+    }
+    updateParams(nextQuery, activeTags)
+    // Always scroll on Search — even when the query string didn't change.
+    // Double rAF waits for the results/clear-button layout to settle.
+    requestAnimationFrame(() => {
+      requestAnimationFrame(scrollToResults)
+    })
   }
 
   function clearFilters() {
