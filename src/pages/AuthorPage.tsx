@@ -1,6 +1,5 @@
 import { useEffect, useMemo } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { AuthorBio } from '../components/AuthorBio'
 import { StoryCard } from '../components/StoryCard'
 import { getAuthorByHandle } from '../data/authors'
 import { stories } from '../data/stories'
@@ -36,18 +35,14 @@ export function AuthorPage() {
 
   return (
     <div className="page author-page">
-      {author ? (
-        <AuthorBio author={author} storyCount={authorStories.length} linkName={false} />
-      ) : (
-        <header className="page-header">
-          <p className="page-header__eyebrow">author</p>
-          <h1 className="page-header__title">{canonical}</h1>
-          <p className="page-header__lede">
-            {authorStories.length}{' '}
-            {authorStories.length === 1 ? 'story' : 'stories'} in the archive
-          </p>
-        </header>
-      )}
+      <header className="page-header">
+        <p className="page-header__eyebrow">author</p>
+        <h1 className="page-header__title">{canonical}</h1>
+        <p className="page-header__lede">
+          {authorStories.length}{' '}
+          {authorStories.length === 1 ? 'story' : 'stories'} in the archive
+        </p>
+      </header>
 
       {authorStories.length === 0 ? (
         <div className="empty-state">
