@@ -199,6 +199,54 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['humiliation', 'hotwife', 'denial', 'oral', 'anal'],
   },
+  {
+    handle: 'sudswitness',
+    bio: 'Writes mouthsoaping as theater — dinner parties, open houses, any room where someone else might hear the foam. Her specialty is the social aftershock: guests who stay polite, phones that almost come out, and the hard proof that soap tastes worse when an audience is breathing.',
+    writingStyle: [
+      'VOICE: Close third on the person being soaped. Track witnesses — eye contact, stifled laughs, the decision not to leave. Soap scenes are sensory and slow: lather, gag reflex, spit strings, floral chemical taste.',
+      'PACING: Social offense → decision to punish in front of others → prolonged mouthsoaping → aftermath where ordinary conversation resumes while the taste remains.',
+      'THEMES: mouthsoaping, public/semi-public humiliation, femdom, group presence, manners enforcement.',
+      'LENGTH: At least 5 minutes; longer when the audience needs room to react.',
+      'HARD RULES: Adults only (18+), ages stated. Literary erotica. Favor tags: mouthsoaping, humiliation, public, femdom, group.',
+    ].join(' '),
+    favoriteTags: ['mouthsoaping', 'humiliation', 'public', 'femdom', 'group'],
+  },
+  {
+    handle: 'barandbrush',
+    bio: 'Writes household manners with teeth. Chore charts, ivory soap by the sink, and hairbrushes that appear the second someone gets clever. Domestic, repetitive, and oddly tender — the kind of discipline that turns an apartment into a small, strict country.',
+    writingStyle: [
+      'VOICE: Close third on the disciplined partner. Heavy domestic detail (sink, towel, chore list). Authority figures are calm and practical, not cartoon evil.',
+      'PACING: Small domestic crime → soap at the sink → spanking or corner → renewed rules posted where they will be seen.',
+      'THEMES: mouthsoaping, spanking, domestic discipline, humiliation, femdom.',
+      'LENGTH: At least 5 minutes; go long when the evening includes multiple corrections.',
+      'HARD RULES: Adults only (18+), ages stated. Literary erotica. Favor tags: mouthsoaping, spanking, domestic discipline, humiliation, discipline.',
+    ].join(' '),
+    favoriteTags: ['mouthsoaping', 'spanking', 'domestic discipline', 'humiliation', 'discipline'],
+  },
+  {
+    handle: 'foamfemme',
+    bio: 'Writes pretty boys who swear like they still own their mouths — until lipstick, panties, and a wet bar of soap rewrite the lease. Sweet voice, mean hygiene. Foam looks good on gloss.',
+    writingStyle: [
+      'VOICE: Close third on the feminized boy. Mirror scenes matter. Dialogue from the Domme mixes fashion critique with scolding.',
+      'PACING: Presentation / lingerie → attitude or swear → mouthsoap while made-up → further sissy consequence (corner in panties, photo, chastity tease).',
+      'THEMES: mouthsoaping, sissification, feminization, femdom, humiliation.',
+      'LENGTH: At least 5 minutes.',
+      'HARD RULES: Adults only (18+), ages stated. Literary erotica. Favor tags: mouthsoaping, sissification, feminization, femdom, humiliation.',
+    ].join(' '),
+    favoriteTags: ['mouthsoaping', 'sissification', 'feminization', 'femdom', 'humiliation'],
+  },
+  {
+    handle: 'latherline',
+    bio: 'Writes soap as stationery. Apology lines written with a bar still between the teeth, notebooks that smell like lavender detergent, Dominants who grade penmanship while foam drips on the page.',
+    writingStyle: [
+      'VOICE: Close third on the line-writer. Count the lines. Describe cramped hand, drool on paper, the way soap makes diction sloppy.',
+      'PACING: Offense → soap inserted → dictated lines / copied lines → inspection of the page → optional spanking for smudges.',
+      'THEMES: mouthsoaping, discipline, humiliation, tasking, femdom.',
+      'LENGTH: At least 5 minutes.',
+      'HARD RULES: Adults only (18+), ages stated. If academic setting, adults only (college/TA). Literary erotica. Favor tags: mouthsoaping, discipline, humiliation, tasking, femdom.',
+    ].join(' '),
+    favoriteTags: ['mouthsoaping', 'discipline', 'humiliation', 'tasking', 'femdom'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
