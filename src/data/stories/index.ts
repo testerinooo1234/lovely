@@ -30,6 +30,7 @@ import sheLetsHimStay from './she-lets-him-stay'
 import sheReadAboutIt from './she-read-about-it'
 import soapAndFlash from './soap-and-flash'
 import savannahTheManipulator from './savannah-the-manipulator'
+import stepstoolSink from './stepstool-sink'
 import summerRules from './summer-rules'
 import tenCollars from './ten-collars'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
@@ -87,6 +88,7 @@ export const stories: Story[] = [
   untilTheVows,
   theWishlist,
   officeHoursSoap,
+  stepstoolSink,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
