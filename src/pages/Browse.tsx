@@ -1,7 +1,9 @@
 import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { useSearchParams } from 'react-router-dom'
+import { AuthorBio } from '../components/AuthorBio'
 import { StoryCard } from '../components/StoryCard'
 import { TagChip } from '../components/TagChip'
+import { getAuthorByHandle } from '../data/authors'
 import { getAllTags, stories } from '../data/stories'
 import { filterStories } from '../lib/search'
 
@@ -22,6 +24,20 @@ export function Browse() {
     () => filterStories(stories, { query, tags: activeTags }),
     [query, activeTags],
   )
+
+  const matchedAuthor = useMemo(() => {
+    const q = query.trim()
+    if (!q) return undefined
+    const author = getAuthorByHandle(q)
+    if (!author) return undefined
+    const allByAuthor = stories.filter((s) => s.author === author.handle)
+    if (allByAuthor.length === 0) return undefined
+    const showingAll =
+      activeTags.length === 0 &&
+      results.length === allByAuthor.length &&
+      results.every((s) => s.author === author.handle)
+    return showingAll ? author : undefined
+  }, [query, activeTags, results])
 
   function updateParams(nextQuery: string, nextTags: string[]) {
     const next = new URLSearchParams()
@@ -95,6 +111,13 @@ export function Browse() {
         {query ? ` for “${query}”` : ''}
         {activeTags.length > 0 ? ` · tagged ${activeTags.join(', ')}` : ''}
       </p>
+
+      {matchedAuthor && (
+        <AuthorBio
+          author={matchedAuthor}
+          storyCount={stories.filter((s) => s.author === matchedAuthor.handle).length}
+        />
+      )}
 
       {results.length === 0 ? (
         <div className="empty-state">
