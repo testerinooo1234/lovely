@@ -15,6 +15,7 @@ import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
 import kaylasBrightRoom from './kaylas-bright-room'
 import laundryDay from './laundry-day'
+import listingDay from './listing-day'
 import littleAftercare from './little-aftercare'
 import madameBeaumontsCorner from './madame-beaumonts-corner'
 import measuredAndFoundWanting from './measured-and-found-wanting'
@@ -34,6 +35,7 @@ import stepstoolSink from './stepstool-sink'
 import summerRules from './summer-rules'
 import tenCollars from './ten-collars'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
+import theDinnerNapkin from './the-dinner-napkin'
 import theGuestInOurBed from './the-guest-in-our-bed'
 import theKeyOnHerChain from './the-key-on-her-chain'
 import theOtherDiscipline from './the-other-discipline'
@@ -89,6 +91,8 @@ export const stories: Story[] = [
   theWishlist,
   officeHoursSoap,
   stepstoolSink,
+  theDinnerNapkin,
+  listingDay,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
