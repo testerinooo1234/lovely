@@ -1,5 +1,5 @@
 import { useEffect, useState, type MouseEvent } from 'react'
-import { Link, NavLink } from 'react-router-dom'
+import { Link, NavLink, useNavigate } from 'react-router-dom'
 import { HeartLogo } from './HeartLogo'
 
 const GITHUB_URL = 'https://github.com/testerinooo1234/lovely'
@@ -26,8 +26,13 @@ function hardGoHome() {
   window.location.assign(HOME_HREF)
 }
 
+function scrollPageTop() {
+  window.scrollTo({ top: 0, left: 0, behavior: 'instant' })
+}
+
 export function Header() {
   const [open, setOpen] = useState(false)
+  const navigate = useNavigate()
 
   useEffect(() => {
     if (!open) return
@@ -44,10 +49,19 @@ export function Header() {
     }
   }, [open])
 
+  function goBrowseTop(event: MouseEvent<HTMLAnchorElement>) {
+    event.preventDefault()
+    setOpen(false)
+    navigate('/browse')
+    // Beat any same-route scroll restoration so we land on the browse header, not results.
+    scrollPageTop()
+    requestAnimationFrame(scrollPageTop)
+  }
+
   return (
     <header className="site-header">
       <div className="site-header__inner">
-        <Link to="/browse" className="brand" onClick={() => setOpen(false)}>
+        <Link to="/browse" className="brand" onClick={goBrowseTop}>
           <HeartLogo size={22} className="brand__heart" />
           <span className="brand__name">lovely</span>
         </Link>
@@ -73,10 +87,17 @@ export function Header() {
                 `site-nav__link${isActive ? ' site-nav__link--active' : ''}`
               }
               onClick={(event: MouseEvent<HTMLAnchorElement>) => {
+                if (link.to === '/') {
+                  event.preventDefault()
+                  setOpen(false)
+                  hardGoHome()
+                  return
+                }
+                if (link.to === '/browse') {
+                  goBrowseTop(event)
+                  return
+                }
                 setOpen(false)
-                if (link.to !== '/') return
-                event.preventDefault()
-                hardGoHome()
               }}
             >
               {link.label}
@@ -91,7 +112,7 @@ export function Header() {
           >
             github
           </a>
-          <Link to="/browse" className="site-nav__cta" onClick={() => setOpen(false)}>
+          <Link to="/browse" className="site-nav__cta" onClick={goBrowseTop}>
             find a story
           </Link>
         </nav>
