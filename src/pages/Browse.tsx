@@ -94,13 +94,10 @@ export function Browse() {
 
   return (
     <div className="page browse">
-      <header className="page-header">
+      <header className="page-header page-header--compact">
         <h1 className="page-header__title">
           the <span className="text-accent">archive</span>
         </h1>
-        <p className="page-header__lede">
-          search by title, author, or skim the tags until something catches.
-        </p>
       </header>
 
       <form className="search-panel" onSubmit={onSubmit}>
