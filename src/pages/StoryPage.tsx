@@ -4,6 +4,7 @@ import { StoryCard } from '../components/StoryCard'
 import { StoryTags } from '../components/StoryTags'
 import { getStoryBySlug, stories } from '../data/stories'
 import { formatDate, getReadingMinutes } from '../lib/search'
+import { flattenStoryParagraphs, paginateParagraphs } from '../lib/storyPages'
 
 export function StoryPage() {
   const { slug } = useParams()
@@ -43,8 +44,10 @@ export function StoryPage() {
     )
   }
 
-  const totalPages = story.pages.length
-  const currentPage = story.pages[pageIndex] ?? []
+  const pages = paginateParagraphs(flattenStoryParagraphs(story.pages))
+  const totalPages = Math.max(1, pages.length)
+  const safePageIndex = Math.min(pageIndex, totalPages - 1)
+  const currentPage = pages[safePageIndex] ?? []
   const related = stories
     .filter(
       (s) =>
@@ -78,12 +81,12 @@ export function StoryPage() {
         <div ref={pageStartRef} className="story-reader__page">
           {totalPages > 1 && (
             <p className="story-reader__page-label" aria-live="polite">
-              {pageIndex + 1} of {totalPages}
+              {safePageIndex + 1} of {totalPages}
             </p>
           )}
           <div className="story-reader__body">
             {currentPage.map((paragraph, i) => (
-              <p key={`${pageIndex}-${i}`}>{paragraph}</p>
+              <p key={`${safePageIndex}-${i}`}>{paragraph}</p>
             ))}
           </div>
         </div>
@@ -93,19 +96,19 @@ export function StoryPage() {
             <button
               type="button"
               className="btn btn--ghost"
-              disabled={pageIndex === 0}
-              onClick={() => goToPage(Math.max(0, pageIndex - 1))}
+              disabled={safePageIndex === 0}
+              onClick={() => goToPage(Math.max(0, safePageIndex - 1))}
             >
               ← previous
             </button>
             <span className="story-pager__status">
-              {pageIndex + 1} / {totalPages}
+              {safePageIndex + 1} / {totalPages}
             </span>
             <button
               type="button"
               className="btn btn--ghost"
-              disabled={pageIndex >= totalPages - 1}
-              onClick={() => goToPage(Math.min(totalPages - 1, pageIndex + 1))}
+              disabled={safePageIndex >= totalPages - 1}
+              onClick={() => goToPage(Math.min(totalPages - 1, safePageIndex + 1))}
             >
               next →
             </button>

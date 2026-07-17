@@ -17,7 +17,11 @@ export type Story = {
   title: string
   author: string
   excerpt: string
-  /** Each page is an array of paragraphs. */
+  /**
+   * Story body as one or more paragraph groups.
+   * Reader pagination is computed at runtime from the flattened paragraphs —
+   * manual group boundaries are not treated as page breaks.
+   */
   pages: string[][]
   tags: string[]
   publishedAt: string
