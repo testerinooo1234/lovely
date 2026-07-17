@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '30',
   slug: 'savannah-the-manipulator',
-  title: 'savannah the manipulator',
+  title: 'Savannah the Manipulator',
   author: 'softvow',
   excerpt:
     'She said she would never. She described exactly how. Aaron kept the pink key on her phone case and told himself he was being mature.',

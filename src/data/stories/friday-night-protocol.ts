@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '8',
   slug: 'friday-night-protocol',
-  title: 'friday night protocol',
+  title: 'Friday Night Protocol',
   author: 'protocolpet',
   excerpt:
     'Shoes by the door. Knees on the cushion. Phone face-down. The ritual made the rest of the week bearable.',

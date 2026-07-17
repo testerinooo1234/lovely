@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '11',
   slug: 'just-a-taste',
-  title: 'just a taste',
+  title: 'Just a Taste',
   author: 'prettytrap',
   excerpt:
     'She said it was only a dare. He said he\'d never. By the time he opened his mouth, both of them knew which one of those was true.',

@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '16',
   slug: 'too-much-to-ask',
-  title: 'too much to ask',
+  title: 'Too Much to Ask',
   author: 'cornerseat',
   excerpt:
     'He wanted her on her back, the lights low, nothing more complicated than that. She told him it was creepy. Then she showed him what she was willing to do for someone else.',

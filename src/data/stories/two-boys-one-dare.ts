@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '13',
   slug: 'two-boys-one-dare',
-  title: 'two boys, one dare',
+  title: 'Two Boys, One Dare',
   author: 'prettytrap',
   excerpt:
     'She swore it was just a drinking game. Then she moved the goalposts, smiled, and asked which boy was brave enough to clean up the other.',

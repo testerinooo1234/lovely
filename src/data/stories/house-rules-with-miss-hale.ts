@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '18',
   slug: 'house-rules-with-miss-hale',
-  title: 'house rules with miss hale',
+  title: 'House Rules with Miss Hale',
   author: 'chalkpalm',
   excerpt:
     'Eighteen-year-old Lena had asked Miss Hale for a home with rules. On the night she broke one, the house kept its promise.',

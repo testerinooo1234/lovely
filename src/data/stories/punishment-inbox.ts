@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '29',
   slug: 'punishment-inbox',
-  title: 'punishment inbox',
+  title: 'Punishment Inbox',
   author: 'inboxpaddle',
   excerpt:
     'BeltMarks and INeedSpankedBad were both subs. That did not stop them from assigning each other homework that stung.',

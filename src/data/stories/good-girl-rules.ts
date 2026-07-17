@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '3',
   slug: 'good-girl-rules',
-  title: 'good girl rules',
+  title: 'Good Girl Rules',
   author: 'little_softie',
   excerpt:
     'Coloring books on the coffee table. A sippy cup he pretended not to notice. And a list of rules written in red ink.',

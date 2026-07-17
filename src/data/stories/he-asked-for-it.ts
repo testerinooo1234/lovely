@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '19',
   slug: 'he-asked-for-it',
-  title: 'he asked for it',
+  title: 'He Asked for It',
   author: 'chalkpalm',
   excerpt:
     'Julian asked Mrs. Lark for discipline in private, so she found a way to make the lesson real enough for everyone to remember.',
