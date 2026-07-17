@@ -41,6 +41,7 @@ const story: Story = {
       `"Anyone else feeling forgetful?" Madame asked lightly, never swearing, never cruel in vocabulary, only in architecture. She strolled back to the front as if she had arranged a vase. "Adrian, dear, you're staring. Eyes on your worksheet, not on Tomas's bare bottom. Unless you'd like a turn showing the class your own little cheeks — and your own little nose in a fresh cup."`,
       `"No, Madame," Adrian said quickly.`,
       `"Good boy." She tapped the empty space on her desk where the cup had been. Tomas flinched in the corner as if he had felt the tap on his skull. "See, class? Corner time can always get cuter. And cuter," she added with a sunny smile, "is so much harder to forget."`,
+      `She left the empty desk space alone for a beat so everyone could keep looking at the corner instead — at Tomas's red-knuckled hands on the tile, at the pale soles of his feet, at the place where another boy's cum had already begun to dry in the crease beside his nose.`,
     ],
     [
       `For the next stretch of the period the room lived in split attention — worksheets and the wet quiet of Tomas breathing through another boy's cum.`,
