@@ -37,7 +37,7 @@ const story: Story = {
       `The phrase cum dumpster in her soft Sunday voice nearly broke him in half.`,
       `"Wait," Noah said. "You are going to let them keep fucking your asshole after we are married?"`,
       `"Of course, babe. And I will suck their cocks too. It's really no big deal." Lily shrugged, fairy lights glittering behind her like a halo. "And at that point you won't have to be chaste, so I can suck Jake's big cock and swallow his cum and then come suck yours. Though I'm sure you won't last as long as him... heehee."`,
-      `She giggled into her hand. Noah, eighteen, loyal, ruined, pulled her into a hug because the alternative was standing up and becoming someone who left — and he could not leave. Not Lily. Not the girl who still packed him lunch and prayed before tests and wiped other boys' cum off her chin with a tissue while explaining theology.`,
+      `She giggled into her hand. Noah, loyal, ruined, pulled her into a hug because the alternative was standing up and becoming someone who left — and he could not leave. Not Lily. Not the girl who still packed him lunch and prayed before tests and wiped other boys' cum off her chin with a tissue while explaining theology.`,
     ],
     [
       `By spring, the loophole had a schedule.`,
@@ -91,7 +91,7 @@ const story: Story = {
       `"See? Supporting me." Lily buckled in and checked her phone. "Jake already asked if he can have my mouth during afterparty. I said only if you're okay standing nearby so you feel included. You can hold my purse. Would that help the jealousy?"`,
       `"I don't know."`,
       `"We'll try." She squeezed his knee. "And honey — after we're married, like I said, then I can finally suck you too. You'll get my mouth secondhand warm from them sometimes. Isn't that a fun thought? Their big cocks first, then yours, little and loved, finishing in two minutes while I'm still tasting them. Heehee."`,
-      `Noah drove them to the gym under the string lights, eighteen and smiling for photos, Lily's hand in his like a promise. Inside, classmates congratulated them for being the couple that waited. Lily thanked people with angelic sincerity. Noah nodded beside her, careful not to reach for any ugly labels — she had never allowed those into the religion she'd built. Only purity. Only loopholes. Only love.`,
+      `Noah drove them to the gym under the string lights, smiling for photos, Lily's hand in his like a promise. Inside, classmates congratulated them for being the couple that waited. Lily thanked people with angelic sincerity. Noah nodded beside her, careful not to reach for any ugly labels — she had never allowed those into the religion she'd built. Only purity. Only loopholes. Only love.`,
       `Near the bleachers at afterparty, Jake arrived flushed and grinning. Lily glanced at Noah.`,
       `Lily glanced at Noah once more — bright, expectant — and he stayed where he was.`,
       `Lily sank to her knees behind the half-closed equipment curtain with the casual grace of a girl tying a shoe. Noah held her purse. He watched Jake's thick cock disappear between the lips that prayed before exams. He listened to Lily's soft wet sounds and Jake's muttered fuck yes and his own heartbeat screaming. When Jake finished, Lily swallowed, wiped her mouth with a tissue from the purse Noah was holding, stood, and kissed Noah's cheek with closed lips.`,
