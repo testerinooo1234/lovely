@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '14',
   slug: 'the-other-discipline',
-  title: 'the other discipline',
+  title: 'The Other Discipline',
   author: 'silkandspank',
   excerpt:
     'She had her own disciplinarian. He thought he understood what that meant — until she started coming home sore in places he had not been allowed to touch.',

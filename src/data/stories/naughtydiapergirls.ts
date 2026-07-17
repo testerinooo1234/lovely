@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '26',
   slug: 'naughtydiapergirls',
-  title: 'naughtydiapergirls',
+  title: 'NaughtyDiaperGirls',
   author: 'sternapron',
   excerpt:
     'Emily was eighteen, ninety pounds, and sure her tabs were private. Then Mom found the pink diapers — and the script from the videos.',

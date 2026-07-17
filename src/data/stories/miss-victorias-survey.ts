@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '24',
   slug: 'miss-victorias-survey',
-  title: "miss victoria's survey",
+  title: "Miss Victoria's Survey",
   author: 'towerlap',
   excerpt:
     'Reid checked every box Miss Victoria loved most. At six-foot-nine, she had no trouble showing a twenty-one-year-old college boy what those boxes meant over her knee.',

@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '4',
   slug: 'the-guest-in-our-bed',
-  title: 'the guest in our bed',
+  title: 'The Guest in Our Bed',
   author: 'cornerseat',
   excerpt:
     'He poured the wine. He turned down the sheets. Then he sat in the chair by the window and learned how to watch.',

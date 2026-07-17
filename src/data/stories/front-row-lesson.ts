@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '17',
   slug: 'front-row-lesson',
-  title: 'front row lesson',
+  title: 'Front Row Lesson',
   author: 'chalkpalm',
   excerpt:
     'Mira knew exactly how to make Evan blush in front of the senior seminar, and exactly how to make him thank her for it later.',

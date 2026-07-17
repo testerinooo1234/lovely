@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '5',
   slug: 'pretty-things-wear-pink',
-  title: 'pretty things wear pink',
+  title: 'Pretty Things Wear Pink',
   author: 'locked4her',
   excerpt:
     'The skirt was shorter than he admitted online. The lace itched. Her lipstick on his mouth felt like a brand.',

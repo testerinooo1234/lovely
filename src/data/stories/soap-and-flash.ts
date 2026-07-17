@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '21',
   slug: 'soap-and-flash',
-  title: 'soap and flash',
+  title: 'Soap and Flash',
   author: 'prettytrap',
   excerpt:
     'Four women. One bar of soap. A camera shutter that sounded like a verdict — and a photo wall that would not let him forget it.',

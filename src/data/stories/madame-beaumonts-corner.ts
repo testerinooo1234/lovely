@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '37',
   slug: 'madame-beaumonts-corner',
-  title: "madame beaumont's corner",
+  title: "Madame Beaumont's Corner",
   author: 'chalkpalm',
   excerpt:
     'In French 4, corner time meant nose on the floor and bottom in the air. Then Madame held up a ketchup cup and the boys stopped breathing.',

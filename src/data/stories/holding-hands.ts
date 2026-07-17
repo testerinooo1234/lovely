@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '20',
   slug: 'holding-hands',
-  title: 'holding hands',
+  title: 'Holding Hands',
   author: 'little_softie',
   excerpt:
     'They were both adults. They were both littles. Daddy borrowed her when he wanted — and when she was asleep, he borrowed her brother instead.',

@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '35',
   slug: 'french-class-invite',
-  title: 'french class invite',
+  title: 'French Class Invite',
   author: 'little_softie',
   excerpt:
     'Caleb asked Krissi to be his girlfriend. She said no — then invited him to watch her submit to Daddy, with her feet in his face the whole time.',

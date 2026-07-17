@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '32',
   slug: 'kaylas-bright-room',
-  title: "kayla's bright room",
+  title: "Kayla's Bright Room",
   author: 'repsandred',
   excerpt:
     'He expected a dungeon. He got fluorescent lights, athletic shorts, and a bubbly Mistress with a pink cage that fit a little too perfectly.',

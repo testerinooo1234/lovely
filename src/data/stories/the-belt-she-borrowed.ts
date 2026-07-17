@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '22',
   slug: 'the-belt-she-borrowed',
-  title: 'the belt she borrowed',
+  title: 'The Belt She Borrowed',
   author: 'chalkpalm',
   excerpt:
     'She was eighteen, curious, and careless with her father\'s belt. By nightfall she had been spanked at school and spanked at home — properly, this time.',
