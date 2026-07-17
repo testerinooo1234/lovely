@@ -1,6 +1,8 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import { HeartLogo } from './HeartLogo'
+
+const GITHUB_URL = 'https://github.com/testerinooo1234/lovely'
 
 const links = [
   { to: '/', label: 'home' },
@@ -9,6 +11,21 @@ const links = [
 
 export function Header() {
   const [open, setOpen] = useState(false)
+
+  useEffect(() => {
+    if (!open) return
+
+    function onKeyDown(event: KeyboardEvent) {
+      if (event.key === 'Escape') setOpen(false)
+    }
+
+    document.addEventListener('keydown', onKeyDown)
+    document.body.style.overflow = 'hidden'
+    return () => {
+      document.removeEventListener('keydown', onKeyDown)
+      document.body.style.overflow = ''
+    }
+  }, [open])
 
   return (
     <header className="site-header">
@@ -25,7 +42,7 @@ export function Header() {
           aria-controls="site-nav"
           onClick={() => setOpen((v) => !v)}
         >
-          <span className="sr-only">menu</span>
+          <span className="sr-only">{open ? 'close menu' : 'open menu'}</span>
           <span aria-hidden="true">{open ? '✕' : '☰'}</span>
         </button>
 
@@ -43,6 +60,15 @@ export function Header() {
               {link.label}
             </NavLink>
           ))}
+          <a
+            href={GITHUB_URL}
+            className="site-nav__link site-nav__link--external"
+            target="_blank"
+            rel="noreferrer"
+            onClick={() => setOpen(false)}
+          >
+            github
+          </a>
           <Link to="/browse" className="site-nav__cta" onClick={() => setOpen(false)}>
             find a story
           </Link>
