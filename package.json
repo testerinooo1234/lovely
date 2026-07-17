@@ -7,8 +7,10 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
+    "check": "npm run lint && npm run build",
     "preview": "vite preview",
-    "count-words": "node scripts/count-words.mjs"
+    "count-words": "node scripts/count-words.mjs",
+    "prepare": "husky"
   },
   "dependencies": {
     "react": "^19.2.7",
@@ -20,6 +22,7 @@
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.3",
+    "husky": "^9.1.7",
     "oxlint": "^1.71.0",
     "typescript": "~6.0.2",
     "vite": "^8.1.1"
