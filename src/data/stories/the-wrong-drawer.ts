@@ -74,7 +74,14 @@ const story: Story = {
       `pretty boy. Thursday.`,
     ],
   ],
-  tags: ['sissification', 'humiliation', 'femdom', 'lingerie'],
+  tags: [
+    'sissification',
+    'humiliation',
+    'femdom',
+    'lingerie',
+    'feminization',
+    'university',
+  ],
   publishedAt: '2026-07-12',
 }
 

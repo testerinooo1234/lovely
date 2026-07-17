@@ -62,7 +62,14 @@ const story: Story = {
       `Outside, the corridor went quiet. Inside, the candle guttered and recovered. Ethan stayed on the floor with the taste of himself still bright on his tongue and the terrible, expanding certainty that next time was no longer a hypothetical — it was a schedule Maya had already started writing in the margins of him.`,
     ],
   ],
-  tags: ['forced-bi', 'humiliation', 'femdom', 'cum eating'],
+  tags: [
+    'forced-bi',
+    'humiliation',
+    'femdom',
+    'cum eating',
+    'oral',
+    'university',
+  ],
   publishedAt: '2026-07-14',
   featured: true,
 }

@@ -145,7 +145,22 @@ const story: Story = {
       `Upstairs, Mr. Buttons waited on the made bed, one ear still loose, fur slightly stiff where it had been cleaned, holding the shape of a night that had been negotiated in daylight and executed in darkness and would, Colin suspected with a flutter low in his still-tender belly, happen again — because he was thirty, and loved, and finally small enough to be found.`,
     ],
   ],
-  tags: ['ddlg', 'feminization', 'cuckolding', 'spanking', 'humiliation'],
+  tags: [
+    'cuckolding',
+    'ddlg',
+    'feminization',
+    'spanking',
+    'humiliation',
+    'ageplay',
+    'sissification',
+    'lingerie',
+    'hotwife',
+    'voyeurism',
+    'cum eating',
+    'oral',
+    'caregiver',
+    'discipline',
+  ],
   publishedAt: '2026-07-15',
 }
 

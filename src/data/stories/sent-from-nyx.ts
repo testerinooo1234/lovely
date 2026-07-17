@@ -55,7 +55,14 @@ const story: Story = {
       `Owen put his phone face-down on the spreadsheet and tried to remember how to breathe like a man who had not just watched his ninety-pound girlfriend turn her whole dollhouse aesthetic into a weapon aimed at his cock — and smile the entire time.`,
     ],
   ],
-  tags: ['cuckolding', 'humiliation', 'small penis humiliation', 'oral', 'hotwife'],
+  tags: [
+    'cuckolding',
+    'humiliation',
+    'small penis humiliation',
+    'oral',
+    'hotwife',
+    'voyeurism',
+  ],
   publishedAt: '2026-07-17',
   featured: true,
 }

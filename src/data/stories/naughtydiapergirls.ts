@@ -85,7 +85,16 @@ const story: Story = {
       `Emily moved — crinkling down the hall — already half dreading tomorrow's smallest mistake, already half aching for it, the website still bookmarked on a laptop she no longer got to open alone.`,
     ],
   ],
-  tags: ['abdl', 'spanking', 'ageplay', 'humiliation', 'discipline'],
+  tags: [
+    'abdl',
+    'incest',
+    'spanking',
+    'ageplay',
+    'humiliation',
+    'discipline',
+    'caregiver',
+    'taboo',
+  ],
   publishedAt: '2026-07-17',
 }
 

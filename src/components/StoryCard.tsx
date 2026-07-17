@@ -3,6 +3,9 @@ import type { Story } from '../types'
 import { formatDate, getReadingMinutes } from '../lib/search'
 import { TagChip } from './TagChip'
 
+/** How many tags to show on cards and story headers (all tags still used for search/filter). */
+export const MAX_VISIBLE_STORY_TAGS = 5
+
 type StoryCardProps = {
   story: Story
   index?: number
@@ -39,7 +42,7 @@ export function StoryCard({ story, index = 0, showTags = true }: StoryCardProps)
 
       {showTags && (
         <div className="story-card__tags">
-          {story.tags.slice(0, 4).map((tag) => (
+          {story.tags.slice(0, MAX_VISIBLE_STORY_TAGS).map((tag) => (
             <TagChip key={tag} tag={tag} to={`/browse?tag=${encodeURIComponent(tag)}`} />
           ))}
         </div>

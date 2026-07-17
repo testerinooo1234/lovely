@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom'
 import { TagChip } from '../components/TagChip'
 import { getStoryBySlug, stories } from '../data/stories'
 import { formatDate, getReadingMinutes } from '../lib/search'
-import { StoryCard } from '../components/StoryCard'
+import { MAX_VISIBLE_STORY_TAGS, StoryCard } from '../components/StoryCard'
 
 export function StoryPage() {
   const { slug } = useParams()
@@ -73,7 +73,7 @@ export function StoryPage() {
             </Link>
           </p>
           <div className="story-reader__tags">
-            {story.tags.map((tag) => (
+            {story.tags.slice(0, MAX_VISIBLE_STORY_TAGS).map((tag) => (
               <TagChip key={tag} tag={tag} to={`/browse?tag=${encodeURIComponent(tag)}`} />
             ))}
           </div>

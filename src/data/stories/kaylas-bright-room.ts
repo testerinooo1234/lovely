@@ -79,7 +79,17 @@ const story: Story = {
       `Ryan dressed slowly under the bright lights, every movement reminding him this had not been a dungeon fantasy — it had been a well-lit appointment with a sporty woman named Kayla who shook his hand, scored his history like a fitness intake, and then remade him into a pink-collared, paddle-red, strap-fucked good little boy who still, somehow, wanted to book again.`,
     ],
   ],
-  tags: ['femdom', 'chastity', 'spanking', 'strap-on', 'sissification'],
+  tags: [
+    'sissification',
+    'femdom',
+    'chastity',
+    'spanking',
+    'strap-on',
+    'anal',
+    'humiliation',
+    'cum eating',
+    'feminization',
+  ],
   publishedAt: '2026-07-19',
 }
 
