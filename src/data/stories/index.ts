@@ -1,5 +1,7 @@
 import type { Story } from '../../types'
 import aDaddyForHim from './a-daddy-for-him'
+import alreadyFree from './already-free'
+import anniversaryBudget from './anniversary-budget'
 import apartmentLease from './apartment-lease'
 import assAddict from './ass-addict'
 import backwardsSock from './backwards-sock'
@@ -12,6 +14,7 @@ import frontRowLesson from './front-row-lesson'
 import goodGirlRules from './good-girl-rules'
 import heAskedForIt from './he-asked-for-it'
 import herBirthdayLock from './her-birthday-lock'
+import herUberHisCard from './her-uber-his-card'
 import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
@@ -20,15 +23,19 @@ import kaylasBrightRoom from './kaylas-bright-room'
 import laundryDay from './laundry-day'
 import listingDay from './listing-day'
 import littleAftercare from './little-aftercare'
+import loserTax from './loser-tax'
 import madameBeaumontsCorner from './madame-beaumonts-corner'
 import measuredAndFoundWanting from './measured-and-found-wanting'
 import missVictoriasSurvey from './miss-victorias-survey'
+import muteFee from './mute-fee'
 import naughtydiapergirls from './naughtydiapergirls'
 import officeHoursSoap from './office-hours-soap'
+import overnightRent from './overnight-rent'
 import overHerKnee from './over-her-knee'
 import phonePrivileges from './phone-privileges'
 import prettyThingsWearPink from './pretty-things-wear-pink'
 import punishmentInbox from './punishment-inbox'
+import receiptForTheKey from './receipt-for-the-key'
 import sentFromNyx from './sent-from-nyx'
 import sheLetsHimStay from './she-lets-him-stay'
 import sheReadAboutIt from './she-read-about-it'
@@ -38,7 +45,9 @@ import soapSentences from './soap-sentences'
 import stepstoolSink from './stepstool-sink'
 import summerRules from './summer-rules'
 import tenCollars from './ten-collars'
+import tenMinuteWindow from './ten-minute-window'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
+import theBarTab from './the-bar-tab'
 import theDinnerNapkin from './the-dinner-napkin'
 import theGuestInOurBed from './the-guest-in-our-bed'
 import theIvoryHandle from './the-ivory-handle'
@@ -46,6 +55,7 @@ import theKeyOnHerChain from './the-key-on-her-chain'
 import theOtherDiscipline from './the-other-discipline'
 import theWishlist from './the-wishlist'
 import theWrongDrawer from './the-wrong-drawer'
+import toHonorYourAss from './to-honor-your-ass'
 import tooMuchToAsk from './too-much-to-ask'
 import twoBoysOneDare from './two-boys-one-dare'
 import untilTheVows from './until-the-vows'
@@ -105,6 +115,16 @@ export const stories: Story[] = [
   vanityLesson,
   soapSentences,
   justACleanTaste,
+  receiptForTheKey,
+  tenMinuteWindow,
+  overnightRent,
+  toHonorYourAss,
+  loserTax,
+  muteFee,
+  herUberHisCard,
+  theBarTab,
+  anniversaryBudget,
+  alreadyFree,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
