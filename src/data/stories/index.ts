@@ -14,6 +14,7 @@ import herBirthdayLock from './her-birthday-lock'
 import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
+import justACleanTaste from './just-a-clean-taste'
 import kaylasBrightRoom from './kaylas-bright-room'
 import laundryDay from './laundry-day'
 import listingDay from './listing-day'
@@ -32,6 +33,7 @@ import sheLetsHimStay from './she-lets-him-stay'
 import sheReadAboutIt from './she-read-about-it'
 import soapAndFlash from './soap-and-flash'
 import savannahTheManipulator from './savannah-the-manipulator'
+import soapSentences from './soap-sentences'
 import stepstoolSink from './stepstool-sink'
 import summerRules from './summer-rules'
 import tenCollars from './ten-collars'
@@ -97,6 +99,8 @@ export const stories: Story[] = [
   listingDay,
   apartmentLease,
   theIvoryHandle,
+  soapSentences,
+  justACleanTaste,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
