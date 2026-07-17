@@ -9,7 +9,7 @@ const story: Story = {
     'She brought a ruler to bed. He laughed — until she started reading the numbers out loud.',
   pages: [
     [
-      `"Hold still," Gwen said, as if Aaron had anywhere to go, tied loosely at the wrists to the headboard, more suggestion than restraint, more ritual than necessity. The cool edge of the wooden ruler pressed along the length of him with clinical patience, the kind of unhurried thoroughness that made his stomach twist in on itself.`,
+      `"Hold still," Gwen said, as if Nolan had anywhere to go, tied loosely at the wrists to the headboard, more suggestion than restraint, more ritual than necessity. The cool edge of the wooden ruler pressed along the length of him with clinical patience, the kind of unhurried thoroughness that made his stomach twist in on itself.`,
       `"This is stupid," he said, laughing, though the laugh came out thinner than he meant it to.`,
       `They'd been together long enough that she knew exactly which of his laughs meant nervous and which meant genuinely unbothered, and this one, breathy and a half-second too fast, was unmistakably the first kind. He'd known this was coming since Tuesday, had thought about it more than he wanted to admit while sitting in traffic, in meetings, brushing his teeth — the specific dread and pull of being measured on purpose, out loud, by someone who clearly found the whole idea delightful.`,
       `"Is it." She hummed, adjusting the ruler by a fraction of an inch, eyes narrowed in mock concentration. "Then why are you blushing all the way to your ears?"`,
