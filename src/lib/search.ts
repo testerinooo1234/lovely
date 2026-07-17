@@ -1,21 +1,46 @@
 import type { Story } from '../types'
+import { expandSearchTerms } from './searchSynonyms'
 
 export type SearchFilters = {
   query: string
   tags: string[]
 }
 
+const searchBlobCache = new WeakMap<Story, string>()
+
+/** Lowercased blob of title, author, excerpt, tags, and full body text. */
+export function getStorySearchBlob(story: Story): string {
+  const cached = searchBlobCache.get(story)
+  if (cached) return cached
+
+  const blob = [
+    story.title,
+    story.author,
+    story.excerpt,
+    story.tags.join(' '),
+    ...story.pages.flat(),
+  ]
+    .join('\n')
+    .toLowerCase()
+
+  searchBlobCache.set(story, blob)
+  return blob
+}
+
+function storyMatchesQuery(story: Story, query: string): boolean {
+  const terms = expandSearchTerms(query)
+  if (terms.length === 0) return true
+
+  const blob = getStorySearchBlob(story)
+  return terms.some((term) => blob.includes(term))
+}
+
 export function filterStories(stories: Story[], filters: SearchFilters): Story[] {
-  const q = filters.query.trim().toLowerCase()
+  const q = filters.query.trim()
   const activeTags = filters.tags.map((t) => t.toLowerCase())
 
   return stories.filter((story) => {
-    const matchesQuery =
-      !q ||
-      story.title.toLowerCase().includes(q) ||
-      story.author.toLowerCase().includes(q) ||
-      story.excerpt.toLowerCase().includes(q) ||
-      story.tags.some((tag) => tag.toLowerCase().includes(q))
+    const matchesQuery = !q || storyMatchesQuery(story, q)
 
     const matchesTags =
       activeTags.length === 0 ||
