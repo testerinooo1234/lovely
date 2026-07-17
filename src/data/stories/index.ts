@@ -4,8 +4,10 @@ import alreadyFree from './already-free'
 import anniversaryBudget from './anniversary-budget'
 import apartmentLease from './apartment-lease'
 import assAddict from './ass-addict'
+import audioFirst from './audio-first'
 import backwardsSock from './backwards-sock'
 import bubblegloss from './bubblegloss'
+import cardioThenCage from './cardio-then-cage'
 import cuckysitter from './cuckysitter'
 import elizabethsLottery from './elizabeths-lottery'
 import fridayNightProtocol from './friday-night-protocol'
@@ -15,8 +17,10 @@ import goodGirlRules from './good-girl-rules'
 import heAskedForIt from './he-asked-for-it'
 import herBirthdayLock from './her-birthday-lock'
 import herUberHisCard from './her-uber-his-card'
+import holdStillForScale from './hold-still-for-scale'
 import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
+import inspectionCosts from './inspection-costs'
 import justATaste from './just-a-taste'
 import justACleanTaste from './just-a-clean-taste'
 import kaylasBrightRoom from './kaylas-bright-room'
@@ -33,13 +37,19 @@ import officeHoursSoap from './office-hours-soap'
 import overnightRent from './overnight-rent'
 import overHerKnee from './over-her-knee'
 import phonePrivileges from './phone-privileges'
+import pinkMileage from './pink-mileage'
 import prettyThingsWearPink from './pretty-things-wear-pink'
 import punishmentInbox from './punishment-inbox'
+import queueOnTheRug from './queue-on-the-rug'
 import receiptForTheKey from './receipt-for-the-key'
+import releaseEquation from './release-equation'
+import rentMyAttention from './rent-my-attention'
 import sentFromNyx from './sent-from-nyx'
 import sheLetsHimStay from './she-lets-him-stay'
 import sheReadAboutIt from './she-read-about-it'
+import smileThroughIt from './smile-through-it'
 import soapAndFlash from './soap-and-flash'
+import sockDrawerTrophy from './sock-drawer-trophy'
 import savannahTheManipulator from './savannah-the-manipulator'
 import soapSentences from './soap-sentences'
 import stepstoolSink from './stepstool-sink'
@@ -49,12 +59,14 @@ import tenMinuteWindow from './ten-minute-window'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
 import theBarTab from './the-bar-tab'
 import theDinnerNapkin from './the-dinner-napkin'
+import theSixPlates from './the-six-plates'
 import theGuestInOurBed from './the-guest-in-our-bed'
 import theIvoryHandle from './the-ivory-handle'
 import theKeyOnHerChain from './the-key-on-her-chain'
 import theOtherDiscipline from './the-other-discipline'
 import theWishlist from './the-wishlist'
 import theWrongDrawer from './the-wrong-drawer'
+import tipMenuTuesday from './tip-menu-tuesday'
 import toHonorYourAss from './to-honor-your-ass'
 import tooMuchToAsk from './too-much-to-ask'
 import twoBoysOneDare from './two-boys-one-dare'
@@ -125,6 +137,18 @@ export const stories: Story[] = [
   theBarTab,
   anniversaryBudget,
   alreadyFree,
+  theSixPlates,
+  queueOnTheRug,
+  holdStillForScale,
+  audioFirst,
+  sockDrawerTrophy,
+  tipMenuTuesday,
+  rentMyAttention,
+  cardioThenCage,
+  pinkMileage,
+  smileThroughIt,
+  inspectionCosts,
+  releaseEquation,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
