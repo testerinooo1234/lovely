@@ -112,9 +112,6 @@ export function Header() {
           >
             github
           </a>
-          <Link to="/browse" className="site-nav__cta" onClick={goBrowseTop}>
-            find a story
-          </Link>
         </nav>
       </div>
     </header>
