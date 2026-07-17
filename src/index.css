@@ -694,68 +694,6 @@ button.tag-chip {
   border-top: 1px solid var(--border);
 }
 
-/* author bio */
-
-.author-bio {
-  margin: 2.5rem 0 0;
-  padding: 1.5rem 1.35rem;
-  border: 1px solid var(--border);
-  background:
-    linear-gradient(145deg, rgba(196, 30, 58, 0.08), transparent 55%),
-    var(--bg-elevated);
-  max-width: 68ch;
-}
-
-.author-bio__kicker {
-  color: var(--text-faint);
-  font-size: 0.72rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  margin-bottom: 0.35rem;
-}
-
-.author-bio__name {
-  font-size: 1.65rem;
-  margin-bottom: 0.25rem;
-}
-
-.author-bio__count {
-  color: var(--text-faint);
-  font-size: 0.8rem;
-  margin-bottom: 0.85rem;
-}
-
-.author-bio__text {
-  color: var(--text-muted);
-  font-size: 0.95rem;
-  line-height: 1.65;
-  margin-bottom: 0.85rem;
-}
-
-.author-bio__tags {
-  color: var(--text-faint);
-  font-size: 0.82rem;
-}
-
-.author-bio__tags a {
-  color: var(--blush);
-  transition: color 0.2s ease;
-}
-
-.author-bio__tags a:hover {
-  color: var(--accent-bright);
-}
-
-.author-page .author-bio {
-  margin: 0 0 2.5rem;
-  max-width: none;
-  animation: rise 0.7s ease both;
-}
-
-.author-page .author-bio__name {
-  font-size: clamp(2.4rem, 6vw, 3.6rem);
-}
-
 /* motion */
 
 @keyframes pulse-heart {
