@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '15',
   slug: 'a-daddy-for-him',
-  title: 'a daddy for him',
+  title: 'A Daddy for Him',
   author: 'little_softie',
   excerpt:
     'She found him a Daddy. Pink panties, a bottle on the nightstand, and a man who knew exactly what to do with both.',

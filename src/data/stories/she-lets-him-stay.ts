@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '10',
   slug: 'she-lets-him-stay',
-  title: 'she lets him stay',
+  title: 'She Lets Him Stay',
   author: 'cornerseat',
   excerpt:
     "He wasn't invited into the bed. He was invited into the corner — close enough to hear everything he wasn't allowed to touch.",

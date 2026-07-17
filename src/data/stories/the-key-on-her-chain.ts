@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '1',
   slug: 'the-key-on-her-chain',
-  title: 'the key on her chain',
+  title: 'The Key on Her Chain',
   author: 'locked4her',
   excerpt:
     'He thought the lock was temporary. She wore the key like jewelry — and made him ask permission for every ache.',

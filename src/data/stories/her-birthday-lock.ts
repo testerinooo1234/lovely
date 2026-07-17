@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '23',
   slug: 'her-birthday-lock',
-  title: 'her birthday lock',
+  title: 'Her Birthday Lock',
   author: 'honeykey',
   excerpt:
     'She wanted a bukkake for her birthday. He wanted to say no. She bought a tiny pink cage, called it a one-time favor, and left him home with the key on her phone case while the upload finished.',

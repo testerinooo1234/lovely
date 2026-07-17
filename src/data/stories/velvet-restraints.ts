@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '7',
   slug: 'velvet-restraints',
-  title: 'velvet restraints',
+  title: 'Velvet Restraints',
   author: 'silkandspank',
   excerpt:
     'Silk around the wrists. A blindfold that smelled like her perfume. Trust, tightened one knot at a time.',

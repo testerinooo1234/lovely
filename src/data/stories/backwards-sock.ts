@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '36',
   slug: 'backwards-sock',
-  title: 'backwards sock',
+  title: 'Backwards Sock',
   author: 'chalkpalm',
   excerpt:
     'One sock on backwards meant Nikki walked into English naked. Brett smacked her ass and somehow still got the blowjob.',

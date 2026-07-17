@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '34',
   slug: 'elizabeths-lottery',
-  title: "elizabeth's lottery",
+  title: "Elizabeth's Lottery",
   author: 'chalkpalm',
   excerpt:
     'Twice a year every girl over eighteen drew her luck. Elizabeth had always drawn soft. Today the card said nude, jeweled plug, fifty paddle, one hundred belt.',

@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '33',
   slug: 'ten-collars',
-  title: 'ten collars',
+  title: 'Ten Collars',
   author: 'crowdcollar',
   excerpt:
     'He posted for short, moderately overweight women who wanted to be humiliated together. Twenty answered. Ten got names.',
