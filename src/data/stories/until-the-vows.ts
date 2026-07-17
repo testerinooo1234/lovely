@@ -85,7 +85,17 @@ const story: Story = {
       `Noah walked her onto the floor under the cheap prom lights, tall enough to look like a senior in love, small enough inside to fit entirely inside her loophole. He held her. He smiled. He did not use the words that would have broken the spell. He loved her — helplessly, stupidly, completely — while other boys' pleasure dried on her tongue and his vow stayed intact in the only way she would allow: unused, untouched, and proud of a purity that belonged to everyone but him.`,
     ],
   ],
-  tags: ['humiliation', 'hotwife', 'chastity', 'oral', 'anal', 'small penis humiliation'],
+  tags: [
+    'cuckolding',
+    'hotwife',
+    'humiliation',
+    'chastity',
+    'small penis humiliation',
+    'oral',
+    'anal',
+    'cum eating',
+    'voyeurism',
+  ],
   publishedAt: '2026-07-17',
   featured: true,
 }

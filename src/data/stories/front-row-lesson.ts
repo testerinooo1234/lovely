@@ -66,7 +66,13 @@ const story: Story = {
       `Evan's blush rose like sunrise. For one breath he looked at Mira with embarrassment, accusation, and unmistakable affection all braided together. Then he stood, smoothed his blazer, and walked to the front of the room to take the lesson she had written for him.`,
     ],
   ],
-  tags: ['spanking', 'discipline', 'humiliation', 'public'],
+  tags: [
+    'spanking',
+    'discipline',
+    'humiliation',
+    'public',
+    'university',
+  ],
   publishedAt: '2026-07-11',
 }
 

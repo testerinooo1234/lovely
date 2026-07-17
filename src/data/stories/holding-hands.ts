@@ -60,7 +60,16 @@ const story: Story = {
       `Maya squeezed Theo's fingers. Theo squeezed back. Above them the night-lights in the little room were already switched on, waiting for the hour when grown-up voices would soften again into something smaller — and for the footsteps in the hall that meant Daddy had come to borrow someone, and the only question left was whose hand would be held in the dark.`,
     ],
   ],
-  tags: ['ddlg', 'chastity', 'humiliation', 'taboo', 'spanking'],
+  tags: [
+    'ddlg',
+    'incest',
+    'chastity',
+    'humiliation',
+    'spanking',
+    'taboo',
+    'ageplay',
+    'oral',
+  ],
   publishedAt: '2026-07-07',
 }
 

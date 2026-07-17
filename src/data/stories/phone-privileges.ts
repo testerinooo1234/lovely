@@ -84,7 +84,15 @@ const story: Story = {
       `Jasmine snorted despite herself — a small real laugh — and sent a middle finger emoji that meant thank you. She set the phone on her pillow, naked under a light sheet that still hurt where it touched welts, and stared at the ceiling while her mouth remembered salt and her ass remembered leather and her inbox, finally, remembered she was allowed to want something that wasn't Sir.`,
     ],
   ],
-  tags: ['spanking', 'incest', 'oral', 'humiliation', 'discipline'],
+  tags: [
+    'spanking',
+    'incest',
+    'oral',
+    'humiliation',
+    'discipline',
+    'cum eating',
+    'domestic discipline',
+  ],
   publishedAt: '2026-07-19',
 }
 

@@ -95,7 +95,16 @@ const story: Story = {
       `Upstairs, the bakery smell clung faintly to Rachel's hair from the stairwell. James followed her inside, locked the door, and knelt where she pointed. She was thirty-two. He was thirty-four. They were adults who had signed every line. Simone would be waiting next week with plugs and patience and no mercy, and for the first time since Rachel had started climbing those stairs alone, James understood he had been waiting for the same thing — not to stop her, but to be brought to the bench beside her, sore and honest and finally, finally not pretending he did not need it too.`,
     ],
   ],
-  tags: ['spanking', 'anal', 'femdom', 'discipline', 'hotwife'],
+  tags: [
+    'spanking',
+    'anal',
+    'femdom',
+    'discipline',
+    'hotwife',
+    'humiliation',
+    'oral',
+    'voyeurism',
+  ],
   publishedAt: '2026-07-16',
 }
 

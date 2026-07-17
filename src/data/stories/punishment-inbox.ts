@@ -105,7 +105,18 @@ const story: Story = {
       `He locked his phone, smiled at the ceiling like an idiot, and waited for the notification sound that had become, somehow, the most dominant thing in his submissive life: her.`,
     ],
   ],
-  tags: ['spanking', 'humiliation', 'long-distance', 'tasking', 'sissification'],
+  tags: [
+    'sissification',
+    'spanking',
+    'humiliation',
+    'long-distance',
+    'tasking',
+    'mouthsoaping',
+    'anal',
+    'cum eating',
+    'discipline',
+    'feminization',
+  ],
   publishedAt: '2026-07-18',
 }
 
