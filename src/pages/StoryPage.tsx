@@ -70,7 +70,7 @@ export function StoryPage() {
           <p className="story-reader__author">
             by{' '}
             <Link
-              to={`/browse?q=${encodeURIComponent(story.author)}`}
+              to={`/author/${encodeURIComponent(story.author)}`}
               className="author-link"
             >
               {story.author}
@@ -118,7 +118,7 @@ export function StoryPage() {
             ← more stories
           </Link>
           <Link
-            to={`/browse?q=${encodeURIComponent(story.author)}`}
+            to={`/author/${encodeURIComponent(story.author)}`}
             className="btn btn--primary"
           >
             more by {story.author}
