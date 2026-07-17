@@ -1,5 +1,6 @@
 import type { Story } from '../../types'
 import aDaddyForHim from './a-daddy-for-him'
+import apartmentLease from './apartment-lease'
 import assAddict from './ass-addict'
 import backwardsSock from './backwards-sock'
 import cuckysitter from './cuckysitter'
@@ -37,6 +38,7 @@ import tenCollars from './ten-collars'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
 import theDinnerNapkin from './the-dinner-napkin'
 import theGuestInOurBed from './the-guest-in-our-bed'
+import theIvoryHandle from './the-ivory-handle'
 import theKeyOnHerChain from './the-key-on-her-chain'
 import theOtherDiscipline from './the-other-discipline'
 import theWishlist from './the-wishlist'
@@ -93,6 +95,8 @@ export const stories: Story[] = [
   stepstoolSink,
   theDinnerNapkin,
   listingDay,
+  apartmentLease,
+  theIvoryHandle,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
