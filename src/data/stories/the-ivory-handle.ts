@@ -10,9 +10,9 @@ const story: Story = {
   pages: [
     [
       `He had told Paige he was staying late.`,
-      `The excuse had been thin even leaving his mouth — a Friday client meeting he had invented on the fly, complete with an imaginary manager named Priya who wanted the deck reworked by Monday — but Paige had said okay, love, don't wait to eat. Derek Cole, twenty-three, had gone home to the empty apartment he shared with her, closed the bedroom door at six-fifteen, and spent the next two and a half hours in the private uninterrupted quiet of a man whose girlfriend was at a wine bar with her best friend.`,
+      `The excuse had been thin even leaving his mouth — a Friday client meeting he had invented on the fly, complete with an imaginary manager named Priya who wanted the deck reworked by Monday — but Paige had said okay, love, don't wait to eat. Derek Cole had gone home to the empty apartment he shared with her, closed the bedroom door at six-fifteen, and spent the next two and a half hours in the private uninterrupted quiet of a man whose girlfriend was at a wine bar with her best friend.`,
       `He had cleared his history afterward. He was reasonably sure. He was less sure at ten p.m., when he heard Paige's key in the front door and Rowan's laugh behind it, that he had cleared it well enough.`,
-      `Rowan Tate — twenty-two, Paige's best friend since freshman year, five foot eleven of caramel curls and a mouth that arrived in a room ten seconds before she did — was visiting from Portland for the weekend. She had a duffel in the hall, opinions about all of Derek's clothes, and a habit of picking up Paige's laptop the second she sat on any couch, because she said her phone was too small to read on.`,
+      `Rowan Tate — Paige's best friend since freshman year, five foot eleven of caramel curls and a mouth that arrived in a room ten seconds before she did — was visiting from Portland for the weekend. She had a duffel in the hall, opinions about all of Derek's clothes, and a habit of picking up Paige's laptop the second she sat on any couch, because she said her phone was too small to read on.`,
       `He was in the kitchen wiping the counter — a diversion — when he heard her say, from the living room, very brightly:`,
       `"Oh Derek honey."`,
       `He froze.`,
@@ -20,7 +20,7 @@ const story: Story = {
       `He walked in. Paige was sitting on the arm of the couch with a glass of water, still in her jacket. Rowan was cross-legged on the middle cushion, Paige's laptop open on her thighs, browser window turned toward Derek in a way that was not casual.`,
       `The history was not cleared. Not in the browser Rowan was in. He had cleared Chrome. He had not cleared Firefox. Paige used Firefox because Chrome ate her battery. He had, at six-nineteen p.m. on a Friday he had claimed to be at work, opened Firefox on the couch downstairs and browsed for forty minutes, and then, in a fit of guilty efficiency, cleared only the browser he had used most recently before that.`,
       `"What's this," Rowan said pleasantly, tapping the screen. "This little collection here."`,
-      `Paige leaned over. Her face did the thing it did when she was reading something she hadn't decided about yet — mouth still, eyes moving, one small furrow between her brows. She was twenty-two, a nurse's aide finishing her last year of the program, and her patience with liars was the specific patience of a woman who spent thirty hours a week helping seventy-year-olds admit they had fallen.`,
+      `Paige leaned over. Her face did the thing it did when she was reading something she hadn't decided about yet — mouth still, eyes moving, one small furrow between her brows. She was a nurse's aide finishing her last year of the program, and her patience with liars was the specific patience of a woman who spent thirty hours a week helping seventy-year-olds admit they had fallen.`,
       `"Derek," she said.`,
       `"Paige."`,
       `"You told me you had a client meeting."`,
@@ -51,7 +51,7 @@ const story: Story = {
       `He went.`,
     ],
     [
-      `The bathroom was small — tile the color of oatmeal, a pedestal sink Paige had polished that morning because Rowan was visiting. The overhead light was fluorescent and honest. He caught his own face in the medicine cabinet mirror and did not like what he saw: twenty-three, flushed to the ears, a man about to be soaped by his girlfriend in front of an audience.`,
+      `The bathroom was small — tile the color of oatmeal, a pedestal sink Paige had polished that morning because Rowan was visiting. The overhead light was fluorescent and honest. He caught his own face in the medicine cabinet mirror and did not like what he saw: flushed to the ears, a man about to be soaped by his girlfriend in front of an audience.`,
       `Rowan settled her shoulder against the door frame and folded her arms with the pleased attentive posture of a woman about to watch a play she'd read the script for.`,
       `"Under the sink," Paige said.`,
       `He crouched and opened the vanity. The Ivory bar sat in its wrapper on top of a stack of two spares — Paige bought them in packs of three. He handed her the wrapped bar.`,

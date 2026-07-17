@@ -9,8 +9,8 @@ const story: Story = {
     'She had her own disciplinarian. He thought he understood what that meant — until she started coming home sore in places he had not been allowed to touch.',
   pages: [
     [
-      `Rachel was thirty-two, married eight years, and had learned the difference between a fantasy you whispered in bed and a structure you built on a calendar. James was thirty-four, careful with his words and his hands, the kind of man who read every contract twice and still hesitated before he let her tie him. They had planned for months — hotwife curiosity on her side, compersion and dread braided together on his, discipline on both sides but never quite aligned until she found Simone.`,
-      `Simone was not a lover in the way James had braced for. She was older, forty-one, with a voice like poured honey over gravel and a studio apartment above a bakery that smelled of yeast and consequence. She disciplined women. That was the whole pitch, delivered over coffee while James sat at the next table pretending to read and listening to every syllable anyway.`,
+      `Rachel had been married eight years, and had learned the difference between a fantasy you whispered in bed and a structure you built on a calendar. James was careful with his words and his hands, the kind of man who read every contract twice and still hesitated before he let her tie him. They had planned for months — hotwife curiosity on her side, compersion and dread braided together on his, discipline on both sides but never quite aligned until she found Simone.`,
+      `Simone was not a lover in the way James had braced for. She was a bit older, with a voice like poured honey over gravel and a studio apartment above a bakery that smelled of yeast and consequence. She disciplined women. That was the whole pitch, delivered over coffee while James sat at the next table pretending to read and listening to every syllable anyway.`,
       `"I don't fuck my clients unless we've agreed it separately," Simone had told Rachel, blunt as a ruler edge. "I spank them. I correct them. I hold them to standards they asked for. Anal is on the menu for some of them. Not all. We'll negotiate yours before your first appointment."`,
       `Rachel had come home that night flushed in a way James recognized — not from sex, from decision. She'd straddled his lap in the kitchen, skirt rucked up, and told him she wanted this, wanted someone outside their marriage to hold her accountable the way she held him. James had kissed her throat and said yes because refusing would have been a lie, and because the image of her bent over another woman's knee had lodged under his skin and would not leave.`,
       `The first Thursday she went alone.`,
@@ -62,7 +62,7 @@ const story: Story = {
       `"You've been sitting on that a while," she said.`,
       `"A month."`,
       `"Longer than that."`,
-      `He looked up. She was watching him — thirty-two, hair down, the small nervous smile that showed up whenever she was about to hand him something she was not sure he could carry.`,
+      `He looked up. She was watching him — hair down, the small nervous smile that showed up whenever she was about to hand him something she was not sure he could carry.`,
       `"Ask me the real question, James."`,
       `He swallowed once. "What does she do to you that I don't."`,
       `"That's the one." Rachel drew her feet back, tucked them under her, and turned on the couch to face him properly — the way she turned when a conversation had stopped being couch-conversation and started being contract-conversation. "She spanks me. Hard. She makes me count. She holds me to things I promise and don't keep. That much you already know from the wince and the laundry."`,
@@ -122,7 +122,7 @@ const story: Story = {
       `"Both of us."`,
       `"Both of us," she agreed. "The other discipline. The one we don't give each other because we're too soft."`,
       `He nodded, throat tight, already planning how he'd survive watching Simone open his wife while his own body remembered the belt. Rachel leaned her head against the window, sore in three places, satisfied in a way eight years of marriage had only prepared them to want — not the fantasy of punishment, but the structure of it, agreed, witnessed, held by someone who did not love them and therefore would not let them slide.`,
-      `Upstairs, the bakery smell clung faintly to Rachel's hair from the stairwell. James followed her inside, locked the door, and knelt where she pointed. She was thirty-two. He was thirty-four. They were adults who had signed every line. Simone would be waiting next week with plugs and patience and no mercy, and for the first time since Rachel had started climbing those stairs alone, James understood he had been waiting for the same thing — not to stop her, but to be brought to the bench beside her, sore and honest and finally, finally not pretending he did not need it too.`,
+      `Upstairs, the bakery smell clung faintly to Rachel's hair from the stairwell. James followed her inside, locked the door, and knelt where she pointed. They were adults who had signed every line. Simone would be waiting next week with plugs and patience and no mercy, and for the first time since Rachel had started climbing those stairs alone, James understood he had been waiting for the same thing — not to stop her, but to be brought to the bench beside her, sore and honest and finally, finally not pretending he did not need it too.`,
     ],
   ],
   tags: [

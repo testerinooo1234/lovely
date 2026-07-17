@@ -11,7 +11,7 @@ const story: Story = {
     [
       `Krissi Vale was eighteen years old, a college freshman who still took French 101 for the easy A, and she looked like someone had designed a doll and then taught it to giggle on purpose.`,
       `She stood five-foot-two, weighed a feather-light ninety-five pounds, and the campus desks looked oversized around her. Short pink pigtails, sparkly pink glitter dusted on her cheeks, a wardrobe of tiny plaid and rainbow-print skirts during the day and star-print onesies with crotch snaps at night. She adored fetish play and lived half her waking hours in a giggly little-girl headspace — the voice going high and breathy the second the fantasy started, no apology for how filthy it got. In every fantasy she was the same tiny tease squirming in a lap and calling someone Daddy in that sugary voice, ending up a dripping desperate little princess ready for whatever punishment or care her Daddy decided she deserved.`,
-      `Caleb Motte was nineteen, also in French 101, and he had spent half a semester watching those pigtails bounce two rows ahead before he worked up the nerve to be friends. They traded verb conjugations and cafeteria fries. He learned she had a boyfriend she called Daddy in private and Mister Kane in public — twenty-nine, calm, already deep in the dynamic Krissi wanted. Caleb told himself friendship was enough.`,
+      `Caleb Motte was nineteen, also in French 101, and he had spent half a semester watching those pigtails bounce two rows ahead before he worked up the nerve to be friends. They traded verb conjugations and cafeteria fries. He learned she had a boyfriend she called Daddy in private and Mister Kane in public — older, calm, already deep in the dynamic Krissi wanted. Caleb told himself friendship was enough.`,
       `Then he texted her on a Thursday night anyway.`,
       `caleb: hey krissi. this might be weird. would you maybe want to be my girlfriend?`,
       `The reply took four minutes and arrived with a glitter-face emoji.`,
@@ -22,7 +22,7 @@ const story: Story = {
       `krissi: yup. i have a fetish for shoving my feet in boys' faces and i would LOVE to do it to you while Daddy fucks my ass`,
       `krissi: you can watch me get anally fucked with my feet slamming in your face`,
       `krissi: Daddy already said yes if you say yes. you in?`,
-      `Caleb stared at his ceiling for a long time, nineteen and hard and horrified at himself. He reread the texts until the glow burned. Girlfriend was off the table. Footstool for anal night was somehow on it. The math of that should have sent him to sleep. Instead he stayed awake rehearsing how to kneel without looking desperate.`,
+      `Caleb stared at his ceiling for a long time, hard and horrified at himself. He reread the texts until the glow burned. Girlfriend was off the table. Footstool for anal night was somehow on it. The math of that should have sent him to sleep. Instead he stayed awake rehearsing how to kneel without looking desperate.`,
       `caleb: i'm in`,
       `krissi: yayyyy wear something you can kneel in. saturday 8. i'll send the address. bring a water bottle like it's gym class lol`,
     ],

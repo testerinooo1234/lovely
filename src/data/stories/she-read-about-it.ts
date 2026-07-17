@@ -81,7 +81,7 @@ const story: Story = {
       `"I said no."`,
       `"Good." She kissed the top of his head. Not his mouth. "I heard you. That one counted. I want you to know that some of them will count. Not all of them. But some. So you know it is not only pretend when I ask."`,
       `He shook once and did not cry, because he had already learned that crying made her softer in a way that meant more, not less.`,
-      `Liam listened, eighteen, hard, ruined, in love with a girl who had learned his fantasy like a language and then spoken it more fluently than he ever meant to teach.`,
+      `Liam listened, hard, ruined, in love with a girl who had learned his fantasy like a language and then spoken it more fluently than he ever meant to teach.`,
       `"I can't help it," Hana said at last, inquisitive even in apology. "You introduced it. I practiced. Now when a real man asks, my body answers. You can keep saying no. I will keep having accidents. And if you get jealous…" She smiled, cute and terrible. "I will just have to go further. For your own good."`,
       `Outside, a car door shut — Matt, early. Hana stood, smoothed her short skirt, and checked her glittery phone case.`,
       `"Don't touch yourself while I'm gone," she reminded him. "If you do, I will let Connor finish on my face and send you the photo before I clean up." A pause, earnest: "Is that the right kind of tease? I am still learning the words. Not the rough words. The true ones."`,
