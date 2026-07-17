@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
+import { AuthorBio } from '../components/AuthorBio'
 import { TagChip } from '../components/TagChip'
+import { getAuthorByHandle } from '../data/authors'
 import { getStoryBySlug, stories } from '../data/stories'
 import { formatDate, getReadingMinutes } from '../lib/search'
 import { StoryCard } from '../components/StoryCard'
@@ -9,6 +11,10 @@ export function StoryPage() {
   const { slug } = useParams()
   const story = slug ? getStoryBySlug(slug) : undefined
   const [pageIndex, setPageIndex] = useState(0)
+  const author = story ? getAuthorByHandle(story.author) : undefined
+  const authorStoryCount = story
+    ? stories.filter((s) => s.author === story.author).length
+    : 0
 
   useEffect(() => {
     setPageIndex(0)
@@ -119,6 +125,10 @@ export function StoryPage() {
           </Link>
         </footer>
       </article>
+
+      {author && (
+        <AuthorBio author={author} storyCount={authorStoryCount} />
+      )}
 
       {related.length > 0 && (
         <section className="section">

@@ -45,7 +45,7 @@ const story: Story = {
       `"I did," he admitted, no point pretending otherwise, not with her fist print practically still branded into his memory of the last twenty minutes. "I really did."`,
       `"Good," she said, satisfied, tucking herself more comfortably against his side. "Because I already know exactly what I'm bringing out next time, and it's going to make the ruler look tame by comparison."`,
       `He groaned, half dread and half something far more eager, and she laughed against his shoulder, already scheming, already mentally sorting through the drawer of possibilities she kept for exactly these occasions.`,
-      `"You're going to need a safe word for whatever this is, aren't you," he said, only half joking.`,
+      `"You're going to ruin me," he said, only half joking.`,
       `"Probably," Gwen agreed cheerfully. "Consider that your warning."`,
       `He laughed — real laughter this time, loose and relieved — and pulled her closer, thoroughly humiliated, thoroughly satisfied, and already, helplessly, wondering what she'd bring out of that nightstand next time.`,
     ],
