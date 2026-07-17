@@ -23,7 +23,7 @@ const story: Story = {
       `caleb: watch…?`,
       `krissi: yup. i have a fetish for shoving my feet in boys' faces and i would LOVE to do it to you while Daddy fucks my ass`,
       `krissi: you can watch me get anally fucked with my feet slamming in your face`,
-      `krissi: everyone over 18. Daddy already said yes if you say yes. you in?`,
+      `krissi: Daddy already said yes if you say yes. you in?`,
       `Caleb stared at his ceiling for a long time, nineteen and hard and horrified at himself. He reread the texts until the glow burned. Girlfriend was off the table. Footstool for anal night was somehow on it. The math of that should have sent him to sleep. Instead he stayed awake rehearsing how to kneel without looking desperate.`,
       `caleb: i'm in`,
       `krissi: yayyyy wear something you can kneel in. saturday 8. i'll send the address. bring a water bottle like it's gym class lol`,

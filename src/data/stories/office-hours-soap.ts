@@ -26,7 +26,7 @@ const story: Story = {
       `"You cannot be serious," Riley said.`,
       `"I am extremely serious. You want to talk about respect, we can talk about respect. Or you can accept that you are, right now, twenty minutes into behaving like a rude little boy in your TA's office, and you can let me fix it the way I fix it and move on." She tapped the wax paper with one blunt fingernail. "This little bar has been in this drawer since Fall semester. It is for manners cases. You are, currently, my favorite manners case."`,
       `"I'm — nineteen."`,
-      `"I know how old you are, Riley. I have your file. Every single person you are afraid might be listening in that hallway is also over eighteen. This is between two adults, and one of them said fucking to the other one about a B-minus." She waited. "Your choice. Take the mouthsoap and we recover this semester, or walk out of here now and I email your professor a formal complaint about profanity in office hours and we escalate through the department. Those are, honestly, the two doors."`,
+      `"I know how old you are, Riley. I have your file." She waited. "Your choice. Take the mouthsoap and we recover this semester, or walk out of here now and I email your professor a formal complaint about profanity in office hours and we escalate through the department. Those are, honestly, the two doors."`,
       `Riley opened his mouth to say something clever and closed it again, because clever had gotten him into this. He looked at the little wax-paper bar. He looked at the frosted glass. He looked, very briefly, at the deadbolt.`,
       `"Okay," he said quietly.`,
       `"Okay what."`,

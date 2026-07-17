@@ -9,7 +9,7 @@ const story: Story = {
     'Jasmine was eighteen, busty, and bare for the belt. The corner came next. So did Sir. Her phone came back last — and the bruises found a kinder audience.',
   pages: [
     [
-      `Jasmine Tolliver was eighteen years old, a high school senior by calendar and an adult by every law that mattered in the house on Maple Court, and she had lost her phone for rolling her eyes at breakfast.`,
+      `Jasmine Tolliver was eighteen years old, a high school senior in the house on Maple Court, and she had lost her phone for rolling her eyes at breakfast.`,
       `That was the official offense. The unofficial one was a week of attitude, a slammed door, a muttered whatever under her breath when her father told her to redo the dishes. Daniel Tolliver was forty-six, broad-shouldered, quiet until he wasn't. He did not raise his voice when he said, from the living-room doorway, "Bedroom. Clothes off. Belt. Now."`,
       `Jasmine's stomach dropped. She was five-foot-four, soft where it counted, with large heavy breasts that made even modest tank tops look like a dare — full, pale, pink-nippled, the kind of bust that bounced when she walked too fast and that she always tried to fold her arms over when she was nervous. Her waist narrowed sharply under them. Her ass was round and still faintly marked from last month's hand-spanking. She stripped in her bedroom with shaking fingers: hoodie, bra (a struggle, always), jeans, panties. Completely naked, eighteen and already flushing from collarbone to thighs, she presented herself at the foot of the bed because that was the rule.`,
       `Her father doubled the worn leather belt with a soft slap of hide on hide.`,
