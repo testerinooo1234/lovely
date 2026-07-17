@@ -10,7 +10,7 @@
 import type { Author } from '../types'
 export const authors: Author[] = [
   {
-    handle: 'silkandspank',
+    handle: 'silk_and_spank',
     bio: 'Writes sharp femdom with a domestic edge — spanking, measurement, bondage, and the soft aftershock of being thoroughly known. Her scenes start from ordinary friction (dishes, a ruler in the nightstand) and tighten until affection and humiliation are the same temperature.',
     writingStyle:
       'Close third on the submissive man. Sensory and precise: palm on skin, cool wood of a ruler, the click of a door lock. Mix praise with cruelty so they feed each other. Dialogue is clipped when she gives orders and longer when she teases. Adults only; end with aftercare or warm aftermath when it fits. Favor tags: spanking, femdom, humiliation, bondage, tease, orgasm control.',
@@ -154,7 +154,7 @@ export const authors: Author[] = [
     favoriteTags: ['spanking', 'humiliation', 'long-distance', 'tasking', 'sissification'],
   },
   {
-    handle: 'sirstrap',
+    handle: 'sir_strap',
     bio: 'Writes household belt discipline that does not stay at discipline. Her specialty is adult daughters — eighteen and up — stripped for the strap, cornered, then put on their knees with a quiet yes, Sir. Long spankings. Explicit aftermath. The soft scroll through a phone afterward when the bruises become a secret shared with someone safer.',
     writingStyle: [
       'VOICE: Close third on the daughter. Heavy paternal commands; her replies are short and obedient. Extremely detailed physical description of belt work, oral, and volume of finish when the brief calls for it.',
@@ -166,7 +166,7 @@ export const authors: Author[] = [
     favoriteTags: ['spanking', 'incest', 'oral', 'humiliation', 'discipline'],
   },
   {
-    handle: 'repsandred',
+    handle: 'reps_and_red',
     bio: 'Writes athletic Dommes who greet you like a spin instructor and then lock you in pink. Bright rooms, black benches, bubbly intake forms, and sessions that swing from cheerful small talk to bare-bottom paddling and strap-on finishers without ever dropping the smile.',
     writingStyle: [
       'VOICE: Close third on the client. Kayla-types are warm, talkative, relentlessly upbeat — not cold dungeon stereotype. Stick close to provided session scripts; add sensory detail without omitting beats.',
@@ -190,7 +190,7 @@ export const authors: Author[] = [
     favoriteTags: ['humiliation', 'group', 'bdsm', 'free use', 'oral'],
   },
   {
-    handle: 'softaccident',
+    handle: 'soft_accident',
     bio: 'Writes curious girlfriends who learn a fantasy to please a boy and then cannot put the fantasy down. Her specialty is soft vocabulary, shorter hems, overnight "accidents," and denial so complete the boyfriend only gets to watch — never touch, never taste, never see her except when someone else already has.',
     writingStyle: [
       'VOICE: Close third on the boyfriend. Girlfriend speaks cute/inquisitive, avoids porn slang after the setup; call sex "being with," "putting it in," "using his mouth," etc. After the first explanation, never use cuckold/cuck.',
@@ -202,7 +202,7 @@ export const authors: Author[] = [
     favoriteTags: ['humiliation', 'hotwife', 'denial', 'oral', 'anal'],
   },
   {
-    handle: 'sudswitness',
+    handle: 'suds_witness',
     bio: 'Writes mouthsoaping as theater — dinner parties, open houses, any room where someone else might hear the foam. Her specialty is the social aftershock: guests who stay polite, phones that almost come out, and the hard proof that soap tastes worse when an audience is breathing.',
     writingStyle: [
       'VOICE: Close third on the person being soaped. Track witnesses — eye contact, stifled laughs, the decision not to leave. Soap scenes are sensory and slow: lather, gag reflex, spit strings, floral chemical taste.',
@@ -214,7 +214,7 @@ export const authors: Author[] = [
     favoriteTags: ['mouthsoaping', 'humiliation', 'public', 'femdom', 'group'],
   },
   {
-    handle: 'barandbrush',
+    handle: 'bar_and_brush',
     bio: 'Writes household manners with teeth. Chore charts, ivory soap by the sink, and hairbrushes that appear the second someone gets clever. Domestic, repetitive, and oddly tender — the kind of discipline that turns an apartment into a small, strict country.',
     writingStyle: [
       'VOICE: Close third on the disciplined partner. Heavy domestic detail (sink, towel, chore list). Authority figures are calm and practical, not cartoon evil.',
@@ -274,7 +274,7 @@ export const authors: Author[] = [
     favoriteTags: ['findom', 'chastity', 'orgasm control', 'humiliation'],
   },
   {
-    handle: 'daterate',
+    handle: 'fund_her_date',
     bio: 'Writes boyfriends who fund other men\'s evenings. Uber, dinner, hotel — itemized. She texts him from the booth while he pays, locked or not, and calls it romance with a better budget.',
     writingStyle: [
       'VOICE: Close third on the paying boyfriend/husband. Intercut his waiting with her date: receipts, texts, voice notes, the sound of someone else laughing in the background.',
@@ -286,7 +286,7 @@ export const authors: Author[] = [
     favoriteTags: ['findom', 'cuckolding', 'humiliation', 'hotwife'],
   },
   {
-    handle: 'clipinvoice',
+    handle: 'clip_invoice',
     bio: 'Writes digital findom for men who pay to feel managed. Clips, DMs, "exclusive" access to content that is already free — she invoices loneliness and they thank her for the receipt.',
     writingStyle: [
       'VOICE: Close third on the fan/subscriber. Screen-glow, notification pings, the humiliation of paying for what anyone could click. Her messages are short, branded, casually cruel.',

@@ -4,7 +4,7 @@ const story: Story = {
   id: '70',
   slug: 'cardio-then-cage',
   title: 'Cardio Then Cage',
-  author: 'repsandred',
+  author: 'reps_and_red',
   excerpt:
     'He booked a dungeon fantasy and walked into daylight, sneakers squeaking on clean mats — then the Mistress made him jump until his cock was soft enough for pink.',
   pages: [

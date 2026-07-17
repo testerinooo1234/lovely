@@ -4,7 +4,7 @@ const story: Story = {
   id: '6',
   slug: 'measured-and-found-wanting',
   title: 'Measured and Found Wanting',
-  author: 'silkandspank',
+  author: 'silk_and_spank',
   excerpt:
     'She brought a ruler to bed. He laughed — until she started reading the numbers out loud.',
   pages: [

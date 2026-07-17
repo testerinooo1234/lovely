@@ -4,7 +4,7 @@ const story: Story = {
   id: '62',
   slug: 'already-free',
   title: 'Already Free',
-  author: 'clipinvoice',
+  author: 'clip_invoice',
   excerpt:
     'Felix paid Vespera Vale $120 to watch one of her free tube videos with her on a call — then tipped for permission to rewatch it tomorrow.',
   pages: [

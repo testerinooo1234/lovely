@@ -4,7 +4,7 @@ const story: Story = {
   id: '68',
   slug: 'tip-menu-tuesday',
   title: 'Tip Menu Tuesday',
-  author: 'clipinvoice',
+  author: 'clip_invoice',
   excerpt:
     'He bought $25, $40, and $90 tip-menu customs on a clip site. Each one was a public preview link he could have clicked free — plus a one-line voiceover. He tipped again for a good-boy emoji.',
   pages: [

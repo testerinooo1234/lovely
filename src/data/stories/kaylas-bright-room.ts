@@ -4,7 +4,7 @@ const story: Story = {
   id: '32',
   slug: 'kaylas-bright-room',
   title: "Kayla's Bright Room",
-  author: 'repsandred',
+  author: 'reps_and_red',
   excerpt:
     'He expected a dungeon. He got fluorescent lights, athletic shorts, and a bubbly Mistress with a pink cage that fit a little too perfectly.',
   pages: [

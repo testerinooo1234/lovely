@@ -4,7 +4,7 @@ const story: Story = {
   id: '7',
   slug: 'velvet-restraints',
   title: 'Velvet Restraints',
-  author: 'silkandspank',
+  author: 'silk_and_spank',
   excerpt:
     'Silk around the wrists. A blindfold that smelled like her perfume. Trust, tightened one knot at a time.',
   pages: [
