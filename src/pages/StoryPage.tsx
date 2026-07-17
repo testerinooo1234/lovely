@@ -9,23 +9,23 @@ export function StoryPage() {
   const { slug } = useParams()
   const story = slug ? getStoryBySlug(slug) : undefined
   const [pageIndex, setPageIndex] = useState(0)
-  const bodyRef = useRef<HTMLDivElement>(null)
-  const scrollBodyOnPageChange = useRef(false)
+  const pageStartRef = useRef<HTMLDivElement>(null)
+  const scrollToPageStart = useRef(false)
 
   useEffect(() => {
     setPageIndex(0)
-    scrollBodyOnPageChange.current = false
+    scrollToPageStart.current = false
     window.scrollTo({ top: 0, behavior: 'instant' })
   }, [slug])
 
   useLayoutEffect(() => {
-    if (!scrollBodyOnPageChange.current) return
-    scrollBodyOnPageChange.current = false
-    bodyRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
+    if (!scrollToPageStart.current) return
+    scrollToPageStart.current = false
+    pageStartRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
   }, [pageIndex])
 
   function goToPage(next: number) {
-    scrollBodyOnPageChange.current = true
+    scrollToPageStart.current = true
     setPageIndex(next)
   }
 
@@ -61,14 +61,6 @@ export function StoryPage() {
             <time dateTime={story.publishedAt}>{formatDate(story.publishedAt)}</time>
             <span aria-hidden="true"> · </span>
             <span>{getReadingMinutes(story)} min read</span>
-            {totalPages > 1 && (
-              <>
-                <span aria-hidden="true"> · </span>
-                <span>
-                  page {pageIndex + 1} of {totalPages}
-                </span>
-              </>
-            )}
           </p>
           <h1 className="story-reader__title">{story.title}</h1>
           <p className="story-reader__author">
@@ -87,10 +79,17 @@ export function StoryPage() {
           </div>
         </header>
 
-        <div ref={bodyRef} className="story-reader__body">
-          {currentPage.map((paragraph, i) => (
-            <p key={`${pageIndex}-${i}`}>{paragraph}</p>
-          ))}
+        <div ref={pageStartRef} className="story-reader__page">
+          {totalPages > 1 && (
+            <p className="story-reader__page-label" aria-live="polite">
+              {pageIndex + 1} of {totalPages}
+            </p>
+          )}
+          <div className="story-reader__body">
+            {currentPage.map((paragraph, i) => (
+              <p key={`${pageIndex}-${i}`}>{paragraph}</p>
+            ))}
+          </div>
         </div>
 
         {totalPages > 1 && (
