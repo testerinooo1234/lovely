@@ -10,7 +10,7 @@ const story: Story = {
   pages: [
     [
       `Emily brought it up on a Tuesday, which Mark would later decide had been strategic. Tuesdays were soft in their marriage — leftovers, streaming, her legs across his lap on the couch — and she waited until his hand was already under the blanket on her thigh before she said, casually, as if she were asking about restaurant reservations, "I know what I want for my birthday."`,
-      `Mark was thirty-four. Emily was thirty-two. They had been married six years, had talked around hotter edges before — watching together, a hall pass that never got used, the chastity articles she bookmarked and then "accidentally" left open on the iPad. He thought he knew the range of her wanting. He did not.`,
+      `They had been married six years, had talked around hotter edges before — watching together, a hall pass that never got used, the chastity articles she bookmarked and then "accidentally" left open on the iPad. He thought he knew the range of her wanting. He did not.`,
       `"Tell me," he said, smiling, already half hard from the simple fact of her voice going quiet the way it did when she was serious about sex.`,
       `Emily turned on the cushion to face him. Her dark hair was twisted up messily. She looked like someone about to ask for jewelry.`,
       `"I want a bukkake," she said.`,
@@ -18,7 +18,7 @@ const story: Story = {
       `"A what?"`,
       `"You know what it is." She tapped his chest with one finger. "A group of guys. They jerk off on me. Face, tits, stomach. I get covered. Then I clean it up. With my mouth." She said it with the same calm she used for grocery lists. "I've been thinking about it for months. I want it for my birthday. I want it filmed."`,
       `Mark's hand stopped moving on her thigh. "Emily. Jesus. That's — that's a porn thing. That's not a birthday brunch."`,
-      `"It can be both if we schedule right." She smiled, soft, almost sweet. "I've already looked at a private club that does curated events. Vetting, STI testing, NDA options, the whole adult checklist. I'm not walking into an alley. I'm thirty-two years old and I want to be covered in cum on camera while strangers unload on me. Can you hear yourself deciding that for me before you've even asked a question?"`,
+      `"It can be both if we schedule right." She smiled, soft, almost sweet. "I've already looked at a private club that does curated events. Vetting, STI testing, NDA options, the whole adult checklist. I'm not walking into an alley. I want to be covered in cum on camera while strangers unload on me. Can you hear yourself deciding that for me before you've even asked a question?"`,
       `"I am asking questions," Mark said, voice climbing. "Like why. Like how many. Like where the hell I am supposed to stand while that happens."`,
       `Emily's smile thinned into something more careful. "That's the other part. I don't want you there."`,
       `Silence.`,
@@ -112,7 +112,7 @@ const story: Story = {
       `"Don't," Mark whispered. Then, after a long breath, honest as a bruise: "Not tonight. Don't ask me tonight."`,
       `"I won't." She kissed him, and he could swear he still tasted salt that was not hers. "Tonight I unlock you, I hold you, and I let you hate the internet for a while. Tomorrow we check the view count together."`,
       `"You're evil."`,
-      `"I'm thirty-two and well-fucked by no one and covered by eight," Emily said, unlocking the padlock with a crisp snap. Blood and sensation rushed back into Mark so violently he nearly doubled over. Emily stroked his raw, freed cock once, proprietary, and stopped. "And you're my husband. Who said yes. Who stayed pink. Who watched me eat them and got confused about why it hurt so good."`,
+      `"I'm well-fucked by no one and covered by eight," Emily said, unlocking the padlock with a crisp snap. Blood and sensation rushed back into Mark so violently he nearly doubled over. Emily stroked his raw, freed cock once, proprietary, and stopped. "And you're my husband. Who said yes. Who stayed pink. Who watched me eat them and got confused about why it hurt so good."`,
       `Mark pressed his face into her neck, shaking, free and not free at all.`,
       `"Happy birthday," he said into her skin.`,
       `Emily's laugh was soft, satisfied, already halfway to next year. "Best one yet," she murmured. "Don't delete the link. I want it bookmarked on your phone. Right under our anniversary album."`,

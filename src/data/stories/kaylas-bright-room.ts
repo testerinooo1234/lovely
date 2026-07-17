@@ -10,7 +10,7 @@ const story: Story = {
   pages: [
     [
       `Ryan had signed up for a professional dominatrix session and did not know what to expect.`,
-      `He was twenty-seven, palms damp, trying to look casual as he pushed open the studio door. Instead of the dim dungeon of his imagination he walked into a brightly lit room with black padding on the floor, a new-looking black leather bench, and an assortment of paddles and other implements arranged on a wall rack like gym equipment. Unlike a normal BDSM dungeon, this place was clean and brightly lit — white walls, sharp shadows, the faint smell of leather cleaner and citrus.`,
+      `Palms damp, he tried to look casual as he pushed open the studio door. Instead of the dim dungeon of his imagination he walked into a brightly lit room with black padding on the floor, a new-looking black leather bench, and an assortment of paddles and other implements arranged on a wall rack like gym equipment. Unlike a normal BDSM dungeon, this place was clean and brightly lit — white walls, sharp shadows, the faint smell of leather cleaner and citrus.`,
       `Across the room he saw a young fit-looking woman wearing short athletic shorts and a pink tank top. She had a high ponytail, strong thighs, and the posture of someone who could do burpees between appointments.`,
       `"Hi, you must be Ryan!" she greeted him warmly when he walked in and reached forward to shake his hand.`,
       `"Yes, I am, haha!" Ryan responded, laughing too loud.`,
