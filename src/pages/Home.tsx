@@ -1,11 +1,11 @@
 import { Link } from 'react-router-dom'
 import { HeartLogo } from '../components/HeartLogo'
 import { StoryCard } from '../components/StoryCard'
-import { getAllTags, getFeaturedStories, stories } from '../data/stories'
+import { getFeaturedStories, getTopTags, stories } from '../data/stories'
 
 export function Home() {
   const featured = getFeaturedStories()
-  const tags = getAllTags().slice(0, 10)
+  const tags = getTopTags(10)
 
   return (
     <div className="page home">

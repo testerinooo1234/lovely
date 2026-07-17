@@ -93,6 +93,20 @@ export function getAllTags(): string[] {
   return [...set].sort((a, b) => a.localeCompare(b))
 }
 
+/** Most-used tags first; ties broken alphabetically. */
+export function getTopTags(limit = 10): string[] {
+  const counts = new Map<string, number>()
+  for (const story of stories) {
+    for (const tag of story.tags) {
+      counts.set(tag, (counts.get(tag) ?? 0) + 1)
+    }
+  }
+  return [...counts.entries()]
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .slice(0, limit)
+    .map(([tag]) => tag)
+}
+
 export function getFeaturedStories(): Story[] {
   return stories.filter((s) => s.featured)
 }
