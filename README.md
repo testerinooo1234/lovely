@@ -1,5 +1,7 @@
 # lovely
 
+**Live site:** https://testerinooo1234.github.io/lovely/
+
 A dark, literary erotica reading site — frontend only.
 
 ## Stack
