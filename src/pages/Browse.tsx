@@ -98,11 +98,6 @@ export function Browse() {
         <button type="submit" className="btn btn--primary">
           search
         </button>
-        {(query || activeTags.length > 0) && (
-          <button type="button" className="btn btn--ghost" onClick={clearFilters}>
-            clear
-          </button>
-        )}
       </form>
 
       <div className="filter-row">
@@ -125,6 +120,14 @@ export function Browse() {
           </button>
         )}
       </div>
+
+      {(query || activeTags.length > 0) && (
+        <div className="filter-clear">
+          <button type="button" className="btn btn--ghost" onClick={clearFilters}>
+            clear tags
+          </button>
+        </div>
+      )}
 
       <p className="results-count">
         {results.length} {results.length === 1 ? 'story' : 'stories'}
