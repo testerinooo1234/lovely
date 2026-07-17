@@ -4,7 +4,7 @@ const story: Story = {
   id: '2',
   slug: 'over-her-knee',
   title: 'Over Her Knee',
-  author: 'silkandspank',
+  author: 'silk_and_spank',
   excerpt:
     'He had been careless. She had been patient. Tonight, patience ended with the sharp music of her palm.',
   pages: [

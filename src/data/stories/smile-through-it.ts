@@ -4,7 +4,7 @@ const story: Story = {
   id: '72',
   slug: 'smile-through-it',
   title: 'Smile Through It',
-  author: 'repsandred',
+  author: 'reps_and_red',
   excerpt:
     'She never dropped the smile — not through the hand-spanking, not through the hairbrush, not when he cried, and not when she narrated his personal best with the strap.',
   pages: [

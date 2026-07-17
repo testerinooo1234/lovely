@@ -4,7 +4,7 @@ const story: Story = {
   id: '14',
   slug: 'the-other-discipline',
   title: 'The Other Discipline',
-  author: 'silkandspank',
+  author: 'silk_and_spank',
   excerpt:
     'She needed correction in her life. He was not the right man to give it. Then the man above the bakery started giving her much more.',
   pages: [

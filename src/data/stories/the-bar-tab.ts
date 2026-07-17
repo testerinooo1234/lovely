@@ -4,7 +4,7 @@ const story: Story = {
   id: '60',
   slug: 'the-bar-tab',
   title: 'The Bar Tab',
-  author: 'daterate',
+  author: 'fund_her_date',
   excerpt:
     'Sierra sat with Trey at the cocktail bar. Owen sat three stools down, a stranger with a debit card, waiting for her nod to pay.',
   pages: [
