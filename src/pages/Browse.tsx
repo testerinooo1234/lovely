@@ -4,7 +4,7 @@ import { StoryCard } from '../components/StoryCard'
 import { TagChip } from '../components/TagChip'
 import { getAuthorByHandle } from '../data/authors'
 import { getAllTags, getTopTags, stories } from '../data/stories'
-import { filterStories } from '../lib/search'
+import { filterStories, shuffleStories } from '../lib/search'
 
 const VISIBLE_TAG_LIMIT = 10
 const MOBILE_PAGE_SIZE = 10
@@ -46,8 +46,11 @@ export function Browse() {
   const filterKey = `${query}\0${activeTags.join('\0')}`
   // Scroll once when landing with filters already in the URL (e.g. homepage mood chips).
   const pendingScrollRef = useRef(Boolean(query || activeTags.length > 0))
+  // Keep unfiltered browse order stable across pages; reshuffle when filters clear.
+  const shuffleSeedRef = useRef<number | null>(null)
 
   const [draftQuery, setDraftQuery] = useState(query)
+  const isUnfiltered = query.trim() === '' && activeTags.length === 0
 
   const visibleTags = useMemo(() => {
     if (showAllTags) return allTags
@@ -59,10 +62,17 @@ export function Browse() {
     setDraftQuery(query)
   }, [query])
 
-  const results = useMemo(
-    () => filterStories(stories, { query, tags: activeTags }),
-    [query, activeTags],
-  )
+  const results = useMemo(() => {
+    const filtered = filterStories(stories, { query, tags: activeTags })
+    if (!isUnfiltered) {
+      shuffleSeedRef.current = null
+      return filtered
+    }
+    if (shuffleSeedRef.current == null) {
+      shuffleSeedRef.current = Math.floor(Math.random() * 0x7fffffff)
+    }
+    return shuffleStories(filtered, shuffleSeedRef.current)
+  }, [query, activeTags, isUnfiltered])
 
   const totalPages = Math.max(1, Math.ceil(results.length / pageSize))
   const page =
