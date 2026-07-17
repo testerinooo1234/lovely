@@ -1,13 +1,29 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, type MouseEvent } from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import { HeartLogo } from './HeartLogo'
 
 const GITHUB_URL = 'https://github.com/testerinooo1234/lovely'
+const HOME_HREF = import.meta.env.BASE_URL || '/'
 
 const links = [
   { to: '/', label: 'home' },
   { to: '/browse', label: 'stories' },
 ]
+
+function isOnHome() {
+  const base = HOME_HREF.replace(/\/$/, '')
+  const path = window.location.pathname.replace(/\/$/, '')
+  return path === base || path === ''
+}
+
+function hardGoHome() {
+  if (isOnHome()) {
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' })
+    window.location.reload()
+    return
+  }
+  window.location.assign(HOME_HREF)
+}
 
 export function Header() {
   const [open, setOpen] = useState(false)
@@ -55,7 +71,12 @@ export function Header() {
               className={({ isActive }) =>
                 `site-nav__link${isActive ? ' site-nav__link--active' : ''}`
               }
-              onClick={() => setOpen(false)}
+              onClick={(event: MouseEvent<HTMLAnchorElement>) => {
+                setOpen(false)
+                if (link.to !== '/') return
+                event.preventDefault()
+                hardGoHome()
+              }}
             >
               {link.label}
             </NavLink>
