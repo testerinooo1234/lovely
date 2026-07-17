@@ -299,6 +299,12 @@ p {
   color: var(--text);
 }
 
+.btn--small {
+  padding: 0.35rem 0.7rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+}
+
 /* hero — one composition */
 
 .hero {
