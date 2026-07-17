@@ -447,6 +447,14 @@ p {
   font-size: 1.05rem;
 }
 
+.page-header--compact {
+  margin-bottom: 1.25rem;
+}
+
+.page-header--compact .page-header__title {
+  margin-bottom: 0;
+}
+
 /* story cards — not boxed cards; editorial list feel */
 
 .story-grid {
