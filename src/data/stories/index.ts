@@ -13,6 +13,7 @@ import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
 import justATaste from './just-a-taste'
 import kaylasBrightRoom from './kaylas-bright-room'
+import laundryDay from './laundry-day'
 import littleAftercare from './little-aftercare'
 import madameBeaumontsCorner from './madame-beaumonts-corner'
 import measuredAndFoundWanting from './measured-and-found-wanting'
@@ -59,6 +60,7 @@ export const stories: Story[] = [
   velvetRestraints,
   fridayNightProtocol,
   frenchClassInvite,
+  laundryDay,
   littleAftercare,
   madameBeaumontsCorner,
   sheLetsHimStay,
