@@ -1,5 +1,6 @@
 import type { Story } from '../../types'
 import aDaddyForHim from './a-daddy-for-him'
+import assAddict from './ass-addict'
 import backwardsSock from './backwards-sock'
 import cuckysitter from './cuckysitter'
 import elizabethsLottery from './elizabeths-lottery'
@@ -43,6 +44,7 @@ import velvetRestraints from './velvet-restraints'
 
 export const stories: Story[] = [
   aDaddyForHim,
+  assAddict,
   backwardsSock,
   cuckysitter,
   elizabethsLottery,
