@@ -513,6 +513,48 @@ p {
   color: var(--accent-bright);
 }
 
+.author-list {
+  display: grid;
+  gap: 0;
+}
+
+.author-list__item {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+  animation: rise 0.65s ease both;
+}
+
+.author-list__item:first-child {
+  border-top: 1px solid var(--border);
+}
+
+.author-list__header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.35rem 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.author-list__name {
+  font-size: clamp(1.5rem, 3vw, 1.9rem);
+  margin: 0;
+}
+
+.author-list__count {
+  color: var(--text-faint);
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  margin: 0;
+}
+
+.author-list__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
 .story-card__excerpt {
   color: var(--text-muted);
   max-width: 58ch;
