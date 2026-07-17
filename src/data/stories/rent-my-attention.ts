@@ -4,7 +4,7 @@ const story: Story = {
   id: '69',
   slug: 'rent-my-attention',
   title: 'Rent My Attention',
-  author: 'clipinvoice',
+  author: 'clip_invoice',
   excerpt:
     'He paid $80 an hour on Discord to rent her attention. She joined voice, muted herself, watched a cooking show, and typed still paying? He stayed. At minute fifty-one she invoiced overtime.',
   pages: [

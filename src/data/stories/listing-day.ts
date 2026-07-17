@@ -4,7 +4,7 @@ const story: Story = {
   id: '44',
   slug: 'listing-day',
   title: 'Listing Day',
-  author: 'sudswitness',
+  author: 'suds_witness',
   excerpt:
     'One dropped sign, one muttered fuck, and a broker who did not intend to hear it twice. Between showing windows Theo learned what Corinne kept in the master bath at every listing — and how quietly she could use it with the door half open.',
   pages: [
