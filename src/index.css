@@ -195,21 +195,6 @@ p {
   color: var(--accent-bright);
 }
 
-.site-nav__cta {
-  font-size: 0.8rem;
-  letter-spacing: 0.06em;
-  padding: 0.55rem 1rem;
-  border: 1px solid var(--border-strong);
-  color: var(--blush);
-  transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
-}
-
-.site-nav__cta:hover {
-  background: var(--accent-soft);
-  border-color: var(--accent);
-  color: var(--text);
-}
-
 /* footer */
 
 .site-footer {
@@ -885,11 +870,6 @@ button.tag-chip {
     font-family: var(--font-display);
     letter-spacing: 0.04em;
     padding: 0.7rem 0.15rem;
-  }
-
-  .site-nav__cta {
-    margin-top: 0.65rem;
-    text-align: center;
   }
 
   .hero {
