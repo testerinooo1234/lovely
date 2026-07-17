@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState, type FormEvent } from 'react'
+import { useEffect, useMemo, useRef, useState, type FormEvent } from 'react'
 import { Navigate, useSearchParams } from 'react-router-dom'
 import { StoryCard } from '../components/StoryCard'
 import { TagChip } from '../components/TagChip'
@@ -13,9 +13,11 @@ export function Browse() {
   const allTags = useMemo(() => getAllTags(), [])
   const topTags = useMemo(() => getTopTags(VISIBLE_TAG_LIMIT), [])
   const [showAllTags, setShowAllTags] = useState(false)
+  const resultsRef = useRef<HTMLElement>(null)
 
   const query = params.get('q') ?? ''
   const activeTags = params.getAll('tag')
+  const filterKey = `${query}\0${activeTags.join('\0')}`
 
   const [draftQuery, setDraftQuery] = useState(query)
 
@@ -28,6 +30,11 @@ export function Browse() {
   useEffect(() => {
     setDraftQuery(query)
   }, [query])
+
+  useEffect(() => {
+    if (!query && activeTags.length === 0) return
+    resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+  }, [filterKey, query, activeTags])
 
   const results = useMemo(
     () => filterStories(stories, { query, tags: activeTags }),
@@ -126,23 +133,25 @@ export function Browse() {
         </div>
       )}
 
-      <p className="results-count">
-        {results.length} {results.length === 1 ? 'story' : 'stories'}
-        {query ? ` for “${query}”` : ''}
-        {activeTags.length > 0 ? ` · tagged ${activeTags.join(', ')}` : ''}
-      </p>
+      <section ref={resultsRef} className="browse-results" aria-live="polite">
+        <p className="results-count">
+          {results.length} {results.length === 1 ? 'story' : 'stories'}
+          {query ? ` for “${query}”` : ''}
+          {activeTags.length > 0 ? ` · tagged ${activeTags.join(', ')}` : ''}
+        </p>
 
-      {results.length === 0 ? (
-        <div className="empty-state">
-          <p>nothing matches — try a softer search, or clear the tags.</p>
-        </div>
-      ) : (
-        <div className="story-grid">
-          {results.map((story, i) => (
-            <StoryCard key={story.id} story={story} index={i} />
-          ))}
-        </div>
-      )}
+        {results.length === 0 ? (
+          <div className="empty-state">
+            <p>nothing matches — try a softer search, or clear the tags.</p>
+          </div>
+        ) : (
+          <div className="story-grid">
+            {results.map((story, i) => (
+              <StoryCard key={story.id} story={story} index={i} />
+            ))}
+          </div>
+        )}
+      </section>
     </div>
   )
 }
