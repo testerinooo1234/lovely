@@ -36,5 +36,5 @@ export function getAuthorSummaries(): AuthorSummary[] {
         topTags: topTagsForStories(authorStories, 5),
       }
     })
-    .sort((a, b) => a.handle.localeCompare(b.handle))
+    .sort((a, b) => b.storyCount - a.storyCount || a.handle.localeCompare(b.handle))
 }
