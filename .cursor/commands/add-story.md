@@ -33,11 +33,15 @@ Write a new erotica story for this site **in one author's voice**, using their b
 
 ## Hard rules (all authors)
 
+Also read `.cursor/rules/story-writing.mdc` — it is the source of truth for craft learned from catalog edits.
+
 - **Minimum length: 5-minute read.** At least **1150 words** of story body text (site uses 230 WPM via `getReadingMinutes` / `scripts/count-words.mjs`). Comfortably longer is better; do not ship a story that rounds below 5 minutes.
-- **Adults only (18+).** State ages or clear adult context (college sophomore+, jobs, marriages, etc.). Never write minors or imply underage characters. On this site, "boy" / "girl" in kink context means adult.
-- **No safewords / traffic lights / mid-scene check-ins.** The site waiver already covers consenting adults. CNC is welcome; consent-theatre (Color?, green/yellow/red, "still okay?", repeating safewords) ruins the vibe — never include it.
+- **Adults only (18+).** Never write minors or imply underage characters. On this site, "boy" / "girl" in kink context means adult. Establish adulthood with jobs, college, marriage, cohabiting — **do not** open with age numbers for ordinary adults. Numeric ages **18–21 only** when youth is plot-critical (HS senior, living with parent, freshman/age-gap), and **once** at intro — never as a refrain.
+- **No consent theatre.** The site waiver already covers consenting adults. CNC is welcome. Never insert safewords, traffic lights (green/yellow/red), "Color?", "still okay?", or mid-scene check-ins.
+- **Dramatize, don't summarize.** Write scenes (specific time, dialogue, sensory detail). Do not leapfrog important beats with "by then / eventually / it became weekly" montages, and do not dump the whole premise in the first sentence.
+- **Banned names:** never name characters **Aaron** or **Eric**.
 - Match the site's literary voice: psychological, sensory, and paced — not spammy porn shorthand. Prefer a mix of narration, internal thought, and dialogue; do not write dialogue-only or dialogue-dominated scenes unless that author's `writingStyle` explicitly requires it.
-- Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.).
+- Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.), except where it conflicts with the age / consent / summary / banned-name rules above — those win.
 - Keep the new story **plot-unique** vs that author's existing work (different scenario, not a rewrite).
 
 ## Author-specific reminder

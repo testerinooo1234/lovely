@@ -1,0 +1,84 @@
+---
+description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize
+globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
+alwaysApply: false
+---
+
+# Story writing rules (house craft)
+
+Use these whenever you write, expand, or revise stories in `src/data/stories/`. They override older notes that said to "state ages" on every character.
+
+## 1. Dramatize — do not summarize plot
+
+Do **not** leapfrog a beat with a one-sentence synopsis of what happened. If the moment matters (first discovery, first spanking, first betrayal, a ritual becoming weekly), write the scene: dialogue, sensory detail, a specific time/place, what the character does with their hands.
+
+**Bad (summary / montage):**
+> By spring the loophole had a schedule. She went to Brad twice a week and Noah waited in the car.
+
+**Good (dramatize the turn):**
+> The first Tuesday after spring break she texted *studying at Jack's* at 3:40. Noah parked under the maple with three unread books on the passenger seat. At 4:23 the upstairs blind went down. He catalogued the quiet the way he always did — and hated that he already knew which page of which book he would not turn.
+
+**Also bad:** Opening with the entire premise dumped in one line
+> Today the principal required Nikki to go to school completely naked because one sock was backwards.
+
+**Better:** Arrive in the moment (locker, hallway, the order landing), then let cause and consequence unfold on the page.
+
+When expanding existing stories: hunt for “by then / eventually / sessions became weekly / after that it was normal” and replace high-value ones with a single concrete scene. Do **not** pad every transitional phrase — only expand where a scene would actually earn its keep.
+
+## 2. Ages — almost never, and never as a refrain
+
+Most stories were opening with “X was twenty-eight, Y was thirty-four…” It reads like ID cards, not fiction.
+
+**Default:** Establish adulthood with jobs, marriages, college, cohabiting, leases, dinner parties — **no numbers**.
+
+**Allowed numeric ages (18–21 only)** when youth is load-bearing:
+- High-school senior plots
+- Living-with-parent / just-graduated ABDL or household discipline
+- Freshman / explicit age-gap dynamics where the young age is the point
+
+Even then: state it **once** at intro (excerpt + first paragraph is enough). Do **not** repeat “she was eighteen” every spanking, diaper change, or closing image. Parents and side characters almost never need ages.
+
+**Bad:**
+> Megan was twenty… She was twenty and secret… “You are twenty.” … twenty years old on the kitchen floor… twenty-year-old woman in the grocery aisle…
+
+**Good:**
+> Megan Shaw was twenty years old, worked closing at the Craft Barn, and had been careful about her hamper for six months.
+> Later: “Adult daughter. Employed. Living under my roof.”
+
+**Bad (adult filler):**
+> Jordan Hale was twenty-six… Melissa Ruiz was twenty-four…
+> Rachel was thirty-two… James was thirty-four… Simone was forty-one…
+
+**Good:** Drop the numbers; keep jobs, temperament, and relationship length.
+
+Never write or imply minors. “Boy” / “girl” in kink = adult. Never compare ageplay characters to a child age (“like an 8-year-old”).
+
+## 3. No consent theatre
+
+The site waiver already covers consenting adults. CNC and reluctant heat are welcome. Do **not** insert:
+
+- Safewords, traffic lights (green / yellow / red)
+- Mid-scene “Color?” / “Still okay?” / “You can stop this”
+- Negotiation transcripts that break erotic momentum
+- Disclaimers that the characters “discussed boundaries earlier” unless that *is* the scene
+
+Show power, fear, want, and aftermath. Do not lecture the reader that everyone consented.
+
+## 4. Banned character names
+
+Do **not** name characters **Aaron** or **Eric** (any spelling). Pick another ordinary name. Prefer names unused in nearby stories when easy (e.g. after Aaron→Nolan, avoid reintroducing Aaron).
+
+## 5. Length and registration (unchanged)
+
+- Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`.
+- Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
+- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary) — **this file wins**.
+
+## 6. Quick checklist before shipping a new story
+
+- [ ] Opens in a scene, not a premise dump
+- [ ] No adult age numbers used as character IDs
+- [ ] If 18–21 appears, it appears once for a plot reason — not as a refrain
+- [ ] No safewords / traffic lights / “still okay?”
+- [ ] No characters named Aaron or Eric
+- [ ] ≥1150 words; `npm run count-words` clean; builds
