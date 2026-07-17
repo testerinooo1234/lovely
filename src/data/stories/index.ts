@@ -3,6 +3,7 @@ import aDaddyForHim from './a-daddy-for-him'
 import apartmentLease from './apartment-lease'
 import assAddict from './ass-addict'
 import backwardsSock from './backwards-sock'
+import bubblegloss from './bubblegloss'
 import cuckysitter from './cuckysitter'
 import elizabethsLottery from './elizabeths-lottery'
 import fridayNightProtocol from './friday-night-protocol'
@@ -48,6 +49,7 @@ import theWrongDrawer from './the-wrong-drawer'
 import tooMuchToAsk from './too-much-to-ask'
 import twoBoysOneDare from './two-boys-one-dare'
 import untilTheVows from './until-the-vows'
+import vanityLesson from './vanity-lesson'
 import velvetRestraints from './velvet-restraints'
 
 export const stories: Story[] = [
@@ -99,6 +101,8 @@ export const stories: Story[] = [
   listingDay,
   apartmentLease,
   theIvoryHandle,
+  bubblegloss,
+  vanityLesson,
   soapSentences,
   justACleanTaste,
 ].sort(
