@@ -14,10 +14,11 @@ export function Browse() {
   const topTags = useMemo(() => getTopTags(VISIBLE_TAG_LIMIT), [])
   const [showAllTags, setShowAllTags] = useState(false)
   const resultsRef = useRef<HTMLElement>(null)
-
   const query = params.get('q') ?? ''
   const activeTags = params.getAll('tag')
   const filterKey = `${query}\0${activeTags.join('\0')}`
+  // Scroll once when landing with filters already in the URL (e.g. homepage mood chips).
+  const pendingScrollRef = useRef(Boolean(query || activeTags.length > 0))
 
   const [draftQuery, setDraftQuery] = useState(query)
 
@@ -30,11 +31,6 @@ export function Browse() {
   useEffect(() => {
     setDraftQuery(query)
   }, [query])
-
-  useEffect(() => {
-    if (!query && activeTags.length === 0) return
-    resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
-  }, [filterKey, query, activeTags])
 
   const results = useMemo(
     () => filterStories(stories, { query, tags: activeTags }),
@@ -49,12 +45,23 @@ export function Browse() {
     return getAuthorByHandle(q)
   }, [query, activeTags])
 
+  useEffect(() => {
+    if (!query && activeTags.length === 0) {
+      pendingScrollRef.current = false
+      return
+    }
+    if (!pendingScrollRef.current) return
+    pendingScrollRef.current = false
+    // Wait for the clear button to mount before measuring scroll position.
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      })
+    })
+  }, [filterKey, query, activeTags])
+
   if (authorRedirect) {
     return <Navigate to={`/author/${encodeURIComponent(authorRedirect.handle)}`} replace />
-  }
-
-  function scrollToResults() {
-    resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
   }
 
   function updateParams(nextQuery: string, nextTags: string[]) {
@@ -68,6 +75,7 @@ export function Browse() {
     const nextTags = activeTags.includes(tag)
       ? activeTags.filter((t) => t !== tag)
       : [...activeTags, tag]
+    pendingScrollRef.current = nextTags.length > 0 || Boolean(query)
     updateParams(query, nextTags)
   }
 
@@ -79,12 +87,16 @@ export function Browse() {
       updateParams(nextQuery, activeTags)
       return
     }
+    pendingScrollRef.current = true
     updateParams(nextQuery, activeTags)
-    // Always scroll on Search — even when the query string didn't change.
-    // Double rAF waits for the results/clear-button layout to settle.
-    requestAnimationFrame(() => {
-      requestAnimationFrame(scrollToResults)
-    })
+    // Same query still needs an explicit scroll because filterKey may not change.
+    if (nextQuery === query) {
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+        })
+      })
+    }
   }
 
   function clearFilters() {

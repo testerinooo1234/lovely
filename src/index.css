@@ -269,6 +269,7 @@ p {
   font-size: 0.85rem;
   letter-spacing: 0.06em;
   cursor: pointer;
+  touch-action: manipulation;
   transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
 }
 
@@ -531,13 +532,16 @@ p {
 .tag-chip {
   display: inline-flex;
   align-items: center;
-  padding: 0.28rem 0.7rem;
+  min-height: 2rem;
+  padding: 0.35rem 0.75rem;
   border: 1px solid var(--border);
   background: transparent;
   color: var(--text-muted);
   font-size: 0.72rem;
   letter-spacing: 0.04em;
   cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
   transition: border-color 0.2s ease, color 0.2s ease, background 0.2s ease;
 }
 
@@ -546,11 +550,24 @@ button.tag-chip {
   text-decoration: none;
 }
 
-.tag-chip:hover,
 .tag-chip--active {
   border-color: var(--border-strong);
   color: var(--blush);
   background: var(--accent-soft);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .tag-chip:hover {
+    border-color: var(--border-strong);
+    color: var(--blush);
+    background: var(--accent-soft);
+  }
+
+  .tag-chip--more:hover {
+    border-color: var(--accent);
+    color: var(--text);
+    background: var(--accent-soft);
+  }
 }
 
 .tag-chip--large {
@@ -562,12 +579,6 @@ button.tag-chip {
   border-style: dashed;
   color: var(--blush);
   cursor: pointer;
-}
-
-.tag-chip--more:hover {
-  border-color: var(--accent);
-  color: var(--text);
-  background: var(--accent-soft);
 }
 
 .tag-cloud {
@@ -608,12 +619,11 @@ button.tag-chip {
 
 .filter-row {
   margin-bottom: 0.85rem;
-  animation: rise 0.7s ease 0.1s both;
+  /* No transform animation — it offsets hit targets from the visible chips on mobile. */
 }
 
 .filter-clear {
   margin-bottom: 1.25rem;
-  animation: rise 0.7s ease 0.12s both;
 }
 
 .browse-results {
