@@ -1,0 +1,56 @@
+import type { Story } from '../../types'
+
+const story: Story = {
+  id: '59',
+  slug: 'her-uber-his-card',
+  title: 'Her Uber, His Card',
+  author: 'daterate',
+  excerpt:
+    'Elise had dinner with Marcus. Cole paid the Uber, the wine, the hotel — locked in pink plastic at home, watching the charges land like love notes.',
+  pages: [
+    [
+      `The Uber confirmation hit Cole's phone at 6:41, while he was still standing in the kitchen in sweatpants with the dishwasher half-loaded. Elise's ride: blue Honda, driver named Luis, four minutes out. Destination already filled in — Osteria Verde, the place with the outdoor heaters and the wine list she liked to photograph. She hadn't asked him to put the card on file. She'd just opened the shared wallet on his phone that morning, tapped his Visa as the default, and kissed his cheek like she was leaving for a work lunch.`,
+      `"Don't wait up," she'd said, already in the hallway, already smelling like the perfume she only wore when the evening wasn't for him. "Marcus is picking the wine. You just keep the notifications on."`,
+      `Marcus. Tall. Easy. Sales. The kind of man who laughed with his whole chest and never checked his phone under the table. Cole had met him once, briefly, at a rooftop thing Elise planned for a client — handshake, firm, Marcus's eyes already sliding past Cole to Elise's mouth. Cole had shaken his hand with a pink plastic cage locked under his jeans and a key that lived in Elise's clutch, and he'd smiled like a man who understood the assignment.`,
+      `Now the cage pressed warm against his thigh while he watched the little car icon crawl across the map. Elise's blue typing bubble appeared.`,
+      `in the car. he smells good. tell me when the charge clears.`,
+      `The Uber charge cleared: $18.47. Tip included, because she'd set the tip slider to twenty percent before she left, using his thumbprint. Cole typed back okay and sat down on the couch with the television off, listening to the apartment make its evening noises — fridge hum, distant traffic, the soft click of the cage when he shifted.`,
+      `At 7:12 she sent a photo of the wine list. Soft lighting, her thumb in the corner, a fingerprint on the glass. Two bottles circled in black ink that wasn't hers. He could almost hear Marcus's voice picking them — something about the Barolo, something about trusting him. Cole zoomed until the prices pixelated. Ninety-four. One-twelve. He set the phone face-up on his knee and waited for the next charge the way other men waited for a text that said I remember you.`,
+      `The shared wallet pinged at 7:38. Apple Pay. Osteria Verde. $64.00. Just the bottle, then — or the bottle and something small. He stared at the merchant name until the letters stopped looking like letters and started looking like a hand on the small of her back.`,
+      `another one coming, she texted. he's ordering for me. say thank you.`,
+      `Cole typed thank you with his thumbs and sent it before he could dress the sentence up. She heart-reacted. Nothing else for eleven minutes. Then a blurry hallway photo: dark wood, a host stand, the edge of someone's shoulder in a charcoal jacket. Marcus, probably. The angle was wrong on purpose. She wanted him to see that he wasn't seeing enough.`,
+      `The second charge landed at 8:04 — $187.22. Dinner. His card. Her thumb at the table while Marcus watched, Cole was sure of it, because Elise liked an audience for the little rituals. She liked the moment the server brought the handheld and she said, casually, oh, I've got it, and flashed Cole's wallet like it was jewelry.`,
+      `He got hard inside the cage for no useful reason. Pink plastic, the one she'd ordered after the black one stopped feeling special. Pretty for my pretty boy, she'd said when she locked it on that afternoon, checking the fit with two fingers while he stood with his hands on the bathroom counter. You're staying home looking like a gift I already opened.`,
+      `Cole walked to the bedroom and lay on top of the covers in his sweatpants, phone on his chest, counting the minutes by the way the cage made every small movement feel like a confession. At 8:51 she sent a voice note. He put in one earbud.`,
+      `"We're done eating," Elise said, close to the mic, restaurant noise behind her — silverware, a laugh that wasn't hers. "Marcus wants to show me something. Don't freak out when the hotel hits. It's the place on Tenth. The one with the stupid little soaps. I told him you'd cover it because you're sweet." A pause. Someone spoke off-mic; she laughed, soft and private. "Say it back to me. Type it."`,
+      `Cole typed I'm sweet and I'm covering it and hit send with a hand that wasn't quite steady. The hotel charge came through at 9:17: $241.00, prepaid, same Visa, same shared wallet, same little vibration against his sternum that felt like a second heartbeat he'd agreed to.`,
+      `After that the texts thinned out. A photo of a hotel key sleeve with the room number blacked out by her finger. A selfie in a bathroom mirror — lipstick refreshed, dress strap slipped, the edge of a man's hand visible on the frame behind her like a signature. Then silence long enough for Cole to get up, load the rest of the dishwasher, wipe the counter twice, and sit back down with nothing to do but ache.`,
+    ],
+    [
+      `He tried to watch a show. The dialogue bounced off him. He opened the banking app and scrolled the evening like a playlist: Uber, Osteria, Osteria, hotel. Four lines that added up to a date he hadn't been invited to attend. The cage tugged when he crossed his ankles. He uncrossed them. He thought about unlocking himself and remembered, with a hot little drop in his stomach, that the key was in Elise's clutch, probably on a hotel dresser next to Marcus's watch.`,
+      `At 10:40 she texted still busy and nothing else. At 11:08: don't fall asleep. I want you awake when I get home. At 11:33 the Uber app woke up again — different ride, same card, hotel to their address. Cole stood in the kitchen doorway like a dog that had heard a car door, which was humiliating enough that he made himself sit back down and wait properly.`,
+      `The door opened at 11:51. Elise came in on quiet heels, coat half-off, hair a little ruined in the way that meant someone's hands had been in it. She smelled like the restaurant's wood smoke and Marcus's cologne and sex under both, warm and specific. She set her clutch on the counter, looked Cole over — sweatpants, flushed face, the obvious careful way he was sitting — and smiled like she'd found exactly the furniture she'd left behind.`,
+      `"Hi, baby," she said. "Did you behave?"`,
+      `"I stayed home." His voice came out thinner than he wanted. "I watched the charges."`,
+      `"Good." She crossed to him, still in the dress, and hooked two fingers under his chin so he had to tip his face up. Up close the smell was worse — better — a whole evening he'd funded pressed into the heat of her wrist. "Marcus says thank you for dinner. He didn't say it like that. He said your boyfriend's got taste in restaurants and worse taste in timing. I laughed."`,
+      `Cole's throat worked. "Did you—"`,
+      `"Obviously." She let go of his chin and walked past him toward the bedroom, shedding the coat onto a chair. "Come help me with the zipper. And bring your phone. We're not done with the wallet."`,
+      `He followed. The zipper stuck once at her shoulder blade; his fingers shook and she told him to calm down, it wasn't a bomb. The dress pooled. She stood in the black slip she'd worn under it and turned so he could see the faint red mark low on her neck, new, not his. Cole stared until she snapped her fingers once, soft.`,
+      `"Phone," she said. "Open Venmo. Fifty. Note it as tip — making it romantic for him. Lowercase. No emoji."`,
+      `He opened Venmo. His own name sat at the top like a joke. He typed 50.00, selected Elise, and in the note field wrote making it romantic for him exactly the way she'd said it, lowercase, no emoji, the words looking obscene in their politeness. She watched over his shoulder while he hit Pay, then kissed the side of his mouth when the confirmation chimed — not a real kiss, a stamp.`,
+      `"There," Elise murmured. "Now it feels finished."`,
+      `She showered without inviting him in. Steam leaked under the bathroom door. Cole sat on the edge of the bed in the pink cage and listened to water hit tile and tried not to invent the parts of the evening she hadn't photographed. When she came out she was in one of his T-shirts, hair wrapped, skin clean, the smell of Marcus diluted but not gone — still in the dress on the chair, still in the clutch, still in the way she moved like her body had been used well and intended to sleep on the satisfaction.`,
+      `She sat beside him and put her palm flat over the cage through his sweatpants, feeling the useless press of him, the plastic, the heat. "Marcus fucked me on my back first," she said, conversational, like weather. "Then he turned me over because he said he wanted to see what your money bought. I told him it bought the room and the wine and the car and the tip. He liked that. He laughed into my shoulder."`,
+      `Cole made a sound he didn't choose. Her hand stayed where it was, not stroking, just owning the shape of the lock.`,
+      `"You're going to sleep locked," she said. "Key stays in my clutch. In the morning you can make me coffee and read me the itemized list out loud while I eat. Uber. Dinner. Hotel. Tip. I want to hear you say each one like you're proud."`,
+      `"I am," he said, and hated how true it was, how the pride sat right next to the humiliation and neither one canceled the other. "I am proud."`,
+      `Elise smiled, small and genuine, and kissed his forehead. "There's my marketing coordinator. Always good with a budget." She stretched out on her side of the bed, already half-asleep, and patted the mattress once. "Lie down. Don't grind on me. If you need to ache, ache quietly."`,
+      `Cole lay down. The cage settled against him like a held breath. In the dark he could still see the wine-list photo when he closed his eyes — her thumb, the circled prices, the blurry hallway where Marcus's shoulder had been. On the nightstand his phone lit once with a bank summary and went dark again. Elise's breathing evened out. She smelled like soap and, underneath, like another man's evening that Cole had paid for in four clean charges and a fifty-dollar tip for making it romantic.`,
+      `He stayed awake a little longer than she did, counting the night the way she wanted him to count it in the morning: car, bottle, table, room, tip. Each one a door he'd held open. Each one a receipt that proved he'd been useful. When he finally slept, he dreamed of the shared wallet chiming, and in the dream Elise looked up from Marcus's mouth long enough to mouth thank you across a restaurant he wasn't sitting in, and Cole, locked and pink and home, mouthed you're welcome back.`,
+    ],
+  ],
+  tags: ['findom', 'cuckolding', 'chastity', 'humiliation'],
+  publishedAt: '2026-08-07',
+}
+
+export default story

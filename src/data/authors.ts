@@ -249,6 +249,54 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['mouthsoaping', 'discipline', 'humiliation', 'tasking', 'femdom'],
   },
+  {
+    handle: 'cashcrown',
+    bio: 'Writes Goddess findom with a smile that never reaches apology. Her specialty is facetious invoices — tribute to honor an ass, loser tax for existing, mute fees for daring to text — delivered like customer service from someone who does not do refunds.',
+    writingStyle: [
+      'VOICE: Close third on the payer. His shame and arithmetic share the page; her dialogue is breezy, specific, and financially merciless.',
+      'PACING: Ordinary interaction → the ask framed as obvious → payment ritual (Venmo/CashApp screenshot) → escalation of the reason itself becoming filthier or sillier → him harder for having paid.',
+      'THEMES: findom, humiliation, femdom, tribute, financial domination.',
+      'LENGTH: At least 5 minutes (≥1150 words). Linger on the send button and the confirmation ping.',
+      'HARD RULES: Adults only (18+); adult context without filler age numbers. Never name characters Aaron or Eric. No consent theatre. Dramatize payment scenes. Favor tags: findom, humiliation, femdom, tribute.',
+    ].join(' '),
+    favoriteTags: ['findom', 'humiliation', 'femdom', 'tribute'],
+  },
+  {
+    handle: 'keyledger',
+    bio: 'Writes chastity as a ledger. Keys have prices. Orgasm is an invoice. She loves the click of a lock opening only after a transfer clears — and the particular silence of a man who just bought ten minutes of his own cock.',
+    writingStyle: [
+      'VOICE: Close third on the locked man. Sensory cage detail + bank-app dread. Her tone is administrative and intimate at once.',
+      'PACING: Denial stretch → price named → payment → unlock ritual → timed privilege or ruined/controlled finish → relock with a receipt joke.',
+      'THEMES: findom, chastity, orgasm control, humiliation, femdom.',
+      'LENGTH: At least 5 minutes (≥1150 words). The unlock must be earned on-page with money, not montage.',
+      'HARD RULES: Adults only (18+); adult context without filler age numbers. Never name characters Aaron or Eric. No consent theatre. Favor tags: findom, chastity, orgasm control, humiliation.',
+    ].join(' '),
+    favoriteTags: ['findom', 'chastity', 'orgasm control', 'humiliation'],
+  },
+  {
+    handle: 'daterate',
+    bio: 'Writes boyfriends who fund other men\'s evenings. Uber, dinner, hotel — itemized. She texts him from the booth while he pays, locked or not, and calls it romance with a better budget.',
+    writingStyle: [
+      'VOICE: Close third on the paying boyfriend/husband. Intercut his waiting with her date: receipts, texts, voice notes, the sound of someone else laughing in the background.',
+      'PACING: Date proposed as logistics → he pays in pieces → live updates from the evening → aftermath where she comes home soft and spent and still collects tip.',
+      'THEMES: findom, cuckolding, humiliation, hotwife, chastity (optional).',
+      'LENGTH: At least 5 minutes (≥1150 words). Make the date concrete (restaurant, drink orders, hotel key).',
+      'HARD RULES: Adults only (18+); adult context without filler age numbers. Never name characters Aaron or Eric. No consent theatre. Never use the word gaslighting. Favor tags: findom, cuckolding, humiliation, hotwife.',
+    ].join(' '),
+    favoriteTags: ['findom', 'cuckolding', 'humiliation', 'hotwife'],
+  },
+  {
+    handle: 'clipinvoice',
+    bio: 'Writes digital findom for men who pay to feel managed. Clips, DMs, "exclusive" access to content that is already free — she invoices loneliness and they thank her for the receipt.',
+    writingStyle: [
+      'VOICE: Close third on the fan/subscriber. Screen-glow, notification pings, the humiliation of paying for what anyone could click. Her messages are short, branded, casually cruel.',
+      'PACING: Free content discovered → parasocial spiral → paid "permission" or "private screening" → the reveal that nothing exclusive happened → he pays again anyway.',
+      'THEMES: findom, humiliation, porn, online domination, tribute.',
+      'LENGTH: At least 5 minutes (≥1150 words). Stay specific about platforms, usernames, and what the video actually shows.',
+      'HARD RULES: Adults only (18+); adult context without filler age numbers. Never name characters Aaron or Eric. No consent theatre. Favor tags: findom, humiliation, online, tribute.',
+    ].join(' '),
+    favoriteTags: ['findom', 'humiliation', 'online', 'tribute'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
