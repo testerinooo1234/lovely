@@ -27,6 +27,7 @@ import sheLetsHimStay from './she-lets-him-stay'
 import sheReadAboutIt from './she-read-about-it'
 import soapAndFlash from './soap-and-flash'
 import savannahTheManipulator from './savannah-the-manipulator'
+import summerRules from './summer-rules'
 import tenCollars from './ten-collars'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
 import theGuestInOurBed from './the-guest-in-our-bed'
@@ -76,6 +77,7 @@ export const stories: Story[] = [
   soapAndFlash,
   tenCollars,
   savannahTheManipulator,
+  summerRules,
   theBeltSheBorrowed,
   untilTheVows,
   theWishlist,
