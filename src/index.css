@@ -734,14 +734,6 @@ button.tag-chip {
   scroll-margin-top: calc(var(--header-h) + 0.75rem);
 }
 
-.story-reader__page-label {
-  color: var(--text-faint);
-  font-size: 0.78rem;
-  letter-spacing: 0.12em;
-  text-transform: lowercase;
-  margin-bottom: 1.25rem;
-}
-
 .story-reader__body {
   display: grid;
   gap: 1.25rem;
@@ -762,16 +754,52 @@ button.tag-chip {
   border-top: 1px solid var(--border);
 }
 
+.story-reader__page > .story-pager {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-top: 0;
+  padding-bottom: 1.25rem;
+  border-top: none;
+  border-bottom: 1px solid var(--border);
+}
+
 .story-pager .btn:disabled {
   opacity: 0.35;
   cursor: not-allowed;
   transform: none;
 }
 
-.story-pager__status {
+.story-pager__jump {
+  display: inline-flex;
+  align-items: center;
+  min-width: 0;
+}
+
+.story-pager__select {
+  appearance: none;
+  background: var(--bg-elevated, transparent);
+  background-image: linear-gradient(45deg, transparent 50%, var(--text-faint) 50%),
+    linear-gradient(135deg, var(--text-faint) 50%, transparent 50%);
+  background-position:
+    calc(100% - 14px) 55%,
+    calc(100% - 9px) 55%;
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+  border: 1px solid var(--border-strong);
+  border-radius: 2px;
   color: var(--text-faint);
+  font: inherit;
   font-size: 0.8rem;
   letter-spacing: 0.08em;
+  padding: 0.45rem 1.75rem 0.45rem 0.75rem;
+  cursor: pointer;
+}
+
+.story-pager__select:hover,
+.story-pager__select:focus-visible {
+  border-color: var(--accent);
+  color: var(--text);
+  outline: none;
 }
 
 .story-reader__footer {
