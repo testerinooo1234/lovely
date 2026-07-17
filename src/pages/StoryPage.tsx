@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { TagChip } from '../components/TagChip'
 import { getStoryBySlug, stories } from '../data/stories'
@@ -9,15 +9,25 @@ export function StoryPage() {
   const { slug } = useParams()
   const story = slug ? getStoryBySlug(slug) : undefined
   const [pageIndex, setPageIndex] = useState(0)
+  const bodyRef = useRef<HTMLDivElement>(null)
+  const scrollBodyOnPageChange = useRef(false)
 
   useEffect(() => {
     setPageIndex(0)
-    window.scrollTo({ top: 0, behavior: 'smooth' })
+    scrollBodyOnPageChange.current = false
+    window.scrollTo({ top: 0, behavior: 'instant' })
   }, [slug])
 
-  useEffect(() => {
-    window.scrollTo({ top: 0, behavior: 'smooth' })
+  useLayoutEffect(() => {
+    if (!scrollBodyOnPageChange.current) return
+    scrollBodyOnPageChange.current = false
+    bodyRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
   }, [pageIndex])
+
+  function goToPage(next: number) {
+    scrollBodyOnPageChange.current = true
+    setPageIndex(next)
+  }
 
   if (!story) {
     return (
@@ -77,7 +87,7 @@ export function StoryPage() {
           </div>
         </header>
 
-        <div className="story-reader__body">
+        <div ref={bodyRef} className="story-reader__body">
           {currentPage.map((paragraph, i) => (
             <p key={`${pageIndex}-${i}`}>{paragraph}</p>
           ))}
@@ -89,7 +99,7 @@ export function StoryPage() {
               type="button"
               className="btn btn--ghost"
               disabled={pageIndex === 0}
-              onClick={() => setPageIndex((p) => Math.max(0, p - 1))}
+              onClick={() => goToPage(Math.max(0, pageIndex - 1))}
             >
               ← previous
             </button>
@@ -100,7 +110,7 @@ export function StoryPage() {
               type="button"
               className="btn btn--ghost"
               disabled={pageIndex >= totalPages - 1}
-              onClick={() => setPageIndex((p) => Math.min(totalPages - 1, p + 1))}
+              onClick={() => goToPage(Math.min(totalPages - 1, pageIndex + 1))}
             >
               next →
             </button>
