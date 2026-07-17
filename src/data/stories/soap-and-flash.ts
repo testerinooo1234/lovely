@@ -53,7 +53,13 @@ const story: Story = {
       `On the train home he opened it once, just once, under fluorescent light: twenty-two, on his knees, four women laughing, soap bright on his chin. He closed it. He was hard again. Somewhere across the city, Nora's phone lit up with a text, and for a flash of lock-screen time his humiliation glowed in her hand before the message even opened — permanent, portable, theirs.`,
     ],
   ],
-  tags: ['femdom', 'humiliation', 'mouthsoaping', 'public'],
+  tags: [
+    'femdom',
+    'humiliation',
+    'mouthsoaping',
+    'public',
+    'group',
+  ],
   publishedAt: '2026-07-06',
 }
 

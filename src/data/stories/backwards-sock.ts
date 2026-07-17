@@ -45,7 +45,14 @@ const story: Story = {
       `Brett smiled like he heard it anyway. Nikki rolled her eyes, hugged her backpack to her naked chest, and walked toward sixth period with her mouth tasting like him and her pride insisting, loudly, that she hated every step.`,
     ],
   ],
-  tags: ['humiliation', 'oral', 'university', 'discipline', 'enemies to lovers'],
+  tags: [
+    'humiliation',
+    'oral',
+    'university',
+    'discipline',
+    'enemies to lovers',
+    'public',
+  ],
   publishedAt: '2026-07-21',
 }
 

@@ -119,7 +119,16 @@ const story: Story = {
       `Outside, the city kept moving. Inside, the pink cage lay open on the coffee table like a dropped toy, the video kept accumulating views in Mark's pocket, and Emily — cleaned, glowing, birthday-complete — held her husband while jealousy and arousal finished arguing in his body without ever picking a winner.`,
     ],
   ],
-  tags: ['cuckolding', 'chastity', 'bukkake', 'humiliation', 'hotwife'],
+  tags: [
+    'cuckolding',
+    'chastity',
+    'bukkake',
+    'humiliation',
+    'hotwife',
+    'cum eating',
+    'group',
+    'oral',
+  ],
   publishedAt: '2026-07-16',
   featured: true,
 }

@@ -62,7 +62,15 @@ const story: Story = {
       `On the drive to Ravelin she sat sideways on the seat and watched the academy gates appear, already rehearsing how she would walk past Mrs. Carrow's door without looking freshly belted. She failed at that almost immediately. Mrs. Carrow glanced once, understood everything, and said nothing in the hallway — which somehow completed the circle: spanked at school, spanked at home, corrected in silence by both adults who now knew exactly how curious an eighteen-year-old senior could be when she finally stopped pretending she wasn't.`,
     ],
   ],
-  tags: ['spanking', 'discipline', 'humiliation', 'domestic discipline'],
+  tags: [
+    'spanking',
+    'incest',
+    'discipline',
+    'humiliation',
+    'domestic discipline',
+    'taboo',
+    'university',
+  ],
   publishedAt: '2026-07-05',
 }
 

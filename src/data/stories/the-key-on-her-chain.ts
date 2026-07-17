@@ -79,7 +79,15 @@ const story: Story = {
       `"I will," she promised, low and certain, and when she finally let him finish, gasping her name into the dark of their bedroom, shaking apart under hands that had spent a week and a half teaching him exactly how much patience his body actually had in it, the key lay discarded on the nightstand, already waiting to go back on its chain by morning, ready to start the whole aching, devoted cycle over again, exactly the way both of them, in their own quiet ways, had come to need it.`,
     ],
   ],
-  tags: ['chastity', 'femdom', 'humiliation', 'orgasm control'],
+  tags: [
+    'chastity',
+    'femdom',
+    'humiliation',
+    'orgasm control',
+    'denial',
+    'bdsm',
+    'discipline',
+  ],
   publishedAt: '2026-06-12',
   featured: true,
 }

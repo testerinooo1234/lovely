@@ -68,7 +68,13 @@ const story: Story = {
       `"Good," she said, kissing his temple, the gesture entirely different in tone from anything that had happened over the last few hours — warmer, simpler, the kind of affection that had nothing left to prove. "Because I already have ideas for the heels."`,
     ],
   ],
-  tags: ['sissification', 'femdom', 'humiliation', 'transformation'],
+  tags: [
+    'sissification',
+    'femdom',
+    'humiliation',
+    'transformation',
+    'feminization',
+  ],
   publishedAt: '2026-03-30',
 }
 

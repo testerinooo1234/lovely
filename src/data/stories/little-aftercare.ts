@@ -29,7 +29,13 @@ const story: Story = {
       `She laughed, wet and surprised, wincing when the motion pulled at sore skin, and burrowed deeper into the blanket fort anyway. Outside their window the city stayed loud and adult and complicated, full of emails and bills and every sharp edge she'd left at the door. Inside, for a little while longer, she got to be cared for on purpose, deliberately, by someone who'd asked for the job — and that, more than anything that had happened over his knee an hour earlier, was the part she'd carry with her all week.`,
     ],
   ],
-  tags: ['ddlg', 'aftercare', 'caregiver', 'soft'],
+  tags: [
+    'ddlg',
+    'aftercare',
+    'caregiver',
+    'soft',
+    'ageplay',
+  ],
   publishedAt: '2026-07-02',
 }
 
