@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '12',
   slug: 'the-wrong-drawer',
-  title: 'the wrong drawer',
+  title: 'The Wrong Drawer',
   author: 'prettytrap',
   excerpt:
     'She said the lingerie was for a skit. She said nobody would see. She said he looked better in pink than she did — and she made him agree out loud.',

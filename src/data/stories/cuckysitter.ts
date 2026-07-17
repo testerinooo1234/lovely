@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '28',
   slug: 'cuckysitter',
-  title: 'cuckysitter',
+  title: 'Cuckysitter',
   author: 'bowsitter',
   excerpt:
     'Lily wore a pink bunny suit for the camera. Miles wore a pink cage for the couch. Savanna brought commentary — and, later, a hairbrush.',

@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '25',
   slug: 'until-the-vows',
-  title: 'until the vows',
+  title: 'Until the Vows',
   author: 'softvow',
   excerpt:
     'She wanted them pure until marriage. She also wanted other boys\' cum on her face. In her logic, both could be true — and he stayed.',

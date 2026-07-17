@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '27',
   slug: 'sent-from-nyx',
-  title: 'sent from nyx',
+  title: 'Sent from Nyx',
   author: 'dollzoom',
   excerpt:
     'She looked like a porcelain secret. The video did not. Owen opened it on his lunch break and learned exactly how small she thought he was.',

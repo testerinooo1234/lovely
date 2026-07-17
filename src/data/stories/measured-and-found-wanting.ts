@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '6',
   slug: 'measured-and-found-wanting',
-  title: 'measured and found wanting',
+  title: 'Measured and Found Wanting',
   author: 'silkandspank',
   excerpt:
     'She brought a ruler to bed. He laughed — until she started reading the numbers out loud.',

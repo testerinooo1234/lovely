@@ -3,7 +3,7 @@ import type { Story } from '../../types'
 const story: Story = {
   id: '31',
   slug: 'phone-privileges',
-  title: 'phone privileges',
+  title: 'Phone Privileges',
   author: 'sirstrap',
   excerpt:
     'Jasmine was eighteen, busty, and bare for the belt. The corner came next. So did Sir. Her phone came back last — and the bruises found a kinder audience.',
