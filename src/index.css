@@ -544,6 +544,18 @@ button.tag-chip {
   font-size: 0.8rem;
 }
 
+.tag-chip--more {
+  border-style: dashed;
+  color: var(--blush);
+  cursor: pointer;
+}
+
+.tag-chip--more:hover {
+  border-color: var(--accent);
+  color: var(--text);
+  background: var(--accent-soft);
+}
+
 .tag-cloud {
   gap: 0.6rem;
 }

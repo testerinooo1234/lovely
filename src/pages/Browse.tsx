@@ -4,17 +4,27 @@ import { AuthorBio } from '../components/AuthorBio'
 import { StoryCard } from '../components/StoryCard'
 import { TagChip } from '../components/TagChip'
 import { getAuthorByHandle } from '../data/authors'
-import { getAllTags, stories } from '../data/stories'
+import { getAllTags, getTopTags, stories } from '../data/stories'
 import { filterStories } from '../lib/search'
+
+const VISIBLE_TAG_LIMIT = 10
 
 export function Browse() {
   const [params, setParams] = useSearchParams()
   const allTags = useMemo(() => getAllTags(), [])
+  const topTags = useMemo(() => getTopTags(VISIBLE_TAG_LIMIT), [])
+  const [showAllTags, setShowAllTags] = useState(false)
 
   const query = params.get('q') ?? ''
   const activeTags = params.getAll('tag')
 
   const [draftQuery, setDraftQuery] = useState(query)
+
+  const visibleTags = useMemo(() => {
+    if (showAllTags) return allTags
+    const extras = activeTags.filter((tag) => !topTags.includes(tag))
+    return [...topTags, ...extras]
+  }, [showAllTags, allTags, topTags, activeTags])
 
   useEffect(() => {
     setDraftQuery(query)
@@ -96,7 +106,7 @@ export function Browse() {
       </form>
 
       <div className="filter-row">
-        {allTags.map((tag) => (
+        {visibleTags.map((tag) => (
           <TagChip
             key={tag}
             tag={tag}
@@ -104,6 +114,16 @@ export function Browse() {
             onClick={() => toggleTag(tag)}
           />
         ))}
+        {allTags.length > VISIBLE_TAG_LIMIT && (
+          <button
+            type="button"
+            className="tag-chip tag-chip--more"
+            onClick={() => setShowAllTags((v) => !v)}
+            aria-expanded={showAllTags}
+          >
+            {showAllTags ? 'show less' : `+${allTags.length - VISIBLE_TAG_LIMIT} more`}
+          </button>
+        )}
       </div>
 
       <p className="results-count">
