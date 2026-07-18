@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Phone Privileges',
   author: 'sir_strap',
   excerpt:
-    'Jasmine was eighteen, busty, and bare for her father\'s belt. Corner. Then her real dad\'s cock. Her phone came back last — and the bruises found a kinder audience.',
+    'Jasmine was eighteen, busty, and bare for her father\'s belt. Corner. Then her dad\'s cock. Her phone came back last — and the bruises found a kinder audience.',
   pages: [
     [
       `Jasmine Tolliver was eighteen years old, a high school senior in the house on Maple Court, and she had lost her phone for rolling her eyes at breakfast.`,
