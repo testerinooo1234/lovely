@@ -2,6 +2,7 @@ import type { Story } from '../../types'
 import chapter2 from './she-read-about-it-chapter-2'
 import chapter3 from './she-read-about-it-chapter-3'
 import chapter4 from './she-read-about-it-chapter-4'
+import chapter5 from './she-read-about-it-chapter-5'
 
 const story: Story = {
   id: '38',
@@ -13,7 +14,7 @@ const story: Story = {
   firstChapterName: 'Little Steps',
   firstChapterSummary:
     'Hana learns Liam\'s fantasy like homework — shorter hems, coffee dates, wandering hands, and oral "accidents," with jealousy punished by live texts while he waits in pink panties.',
-  chapters: [chapter2, chapter3, chapter4],
+  chapters: [chapter2, chapter3, chapter4, chapter5],
   pages: [
     [
       `Liam and Hana were both eighteen, seniors at Westfield High, the kind of couple teachers still called cute without irony. Liam was pale and narrow-shouldered, forever half a step behind in gym. Hana was Japanese-American, soft-spoken, more curious than coy — the girl who asked follow-up questions in health class and blushed when the answers got specific. She did not watch porn. She did not collect dirty words. Neither of them had gone further than kissing and careful hands under shirts. When Liam first tried to explain what he wanted, she tilted her head like he was conjugating a new verb.`,
@@ -116,6 +117,8 @@ const story: Story = {
     'bdsm',
     'spanking',
     'bondage',
+    'chastity',
+    'forced-bi',
     'sissification',
     'tease',
   ],
