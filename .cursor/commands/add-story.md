@@ -22,7 +22,7 @@ Write a new erotica story for this site **in one author's voice**, using their b
    - `slug`: kebab-case, unique.
    - `title`: lowercase, literary, in the house style of existing titles.
    - `author`: exact author handle.
-   - `excerpt`: one or two sentences, teasing, no spoilers of the final beat if possible.
+   - `excerpt`: one or two punchy sentences that **lead with concrete sexual beats** from the story (acts, implements, body, denial, pricing for unlock/orgasm — not logistics-only setup). See `.cursor/rules/story-writing.mdc` §5.
    - `pages`: `string[][]` — usually 1–2 pages; paragraphs as template strings like existing stories.
    - `tags`: 3–5 tags; prefer the author's `favoriteTags` plus story-specific ones.
    - `publishedAt`: ISO date (`YYYY-MM-DD`), typically "today" or a recent date.
@@ -39,10 +39,11 @@ Also read `.cursor/rules/story-writing.mdc` — it is the source of truth for cr
 - **Adults only (18+).** Never write minors or imply underage characters. On this site, "boy" / "girl" in kink context means adult. Establish adulthood with jobs, college, marriage, cohabiting — **do not** open with age numbers for ordinary adults. Numeric ages **18–21 only** when youth is plot-critical (HS senior, living with parent, freshman/age-gap), and **once** at intro — never as a refrain.
 - **No consent theatre.** The site waiver already covers consenting adults. CNC is welcome. Never insert safewords, traffic lights (green/yellow/red), "Color?", "still okay?", or mid-scene check-ins.
 - **Dramatize, don't summarize.** Write scenes (specific time, dialogue, sensory detail). Do not leapfrog important beats with "by then / eventually / it became weekly" montages, and do not dump the whole premise in the first sentence.
+- **Sexual excerpts.** Catalog `excerpt` must sell the kink: name the act/implement/body/denial/price. Do not ship soft premise blurbs (wallet, mute, hamper, AirPlay) without the filthy turn. Draft the excerpt after the story's heat is clear.
 - **Banned names:** never name characters **Aaron** or **Eric**.
 - **Sparse names:** do not name characters unless the name does story work (brand, collar plate, text contact). Prefer he/she, girlfriend, Sir, the Domme.
 - Match the site's literary voice: psychological, sensory, and paced — not spammy porn shorthand. Prefer a mix of narration, internal thought, and dialogue; do not write dialogue-only or dialogue-dominated scenes unless that author's `writingStyle` explicitly requires it.
-- Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.), except where it conflicts with the age / consent / summary / banned-name rules above — those win.
+- Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.), except where it conflicts with the age / consent / excerpt / banned-name rules above — those win.
 - Keep the new story **plot-unique** vs that author's existing work (different scenario, not a rewrite).
 
 ## Author-specific reminder
@@ -53,5 +54,6 @@ After loading the author, treat `writingStyle` as the source of truth for craft.
 
 - New story file exists and compiles.
 - `src/data/stories/index.ts` exports it.
+- Excerpt leads with concrete sexual beats (not setup-only).
 - `node scripts/count-words.mjs` shows ≥5 min for the new story (no `UNDER 5 MIN` flag).
 - `npm run build` succeeds (run it if feasible).

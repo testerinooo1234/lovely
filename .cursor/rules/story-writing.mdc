@@ -1,5 +1,5 @@
 ---
-description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize
+description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts
 globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
 alwaysApply: false
 ---
@@ -73,15 +73,40 @@ Prefer **not** naming characters at all unless a name does real story work (a Do
 **Bad:** Opening with full names and ages for everyone in the room.  
 **Good:** “His girlfriend sent the video at 9:14. On screen, the other man’s belt buckle filled the frame before his face did.”
 
-## 5. Length and registration (unchanged)
+## 5. Excerpts — lead with the sexual beat
+
+The catalog `excerpt` is a **hook**, not a spoiler-safe premise blurb. Soft setup-only summaries underperform.
+
+**Must include** one or more concrete sexual elements from the story: acts, implements, body parts, pricing for orgasm/unlock, positions, fluids, denial, chastity, spanking counts, etc.
+
+**Must not** stop at logistics alone (cleared history, AirPlay, hamper, wine poured, Discord mute, shared wallet) without naming what the sex/kink actually is.
+
+**Shape:** 1–2 punchy sentences. Specific nouns beat vague teasing. A choice / receipt / countdown / “thank you” line is fine if it carries heat.
+
+**Bad (setup only):**
+> She swore it was just a drinking game. Then she moved the goalposts, smiled, and asked which boy was brave enough to clean up the other.
+
+**Good (sexual beat first):**
+> Just a drinking game, she swore. Then both boys were bare on her carpet, Avery milking them onto their own stomachs — and asking which one was brave enough to lick the other clean, mouth only, swallow what you collect.
+
+**Bad:**
+> Elise had dinner with Marcus. Cole paid the Uber, the wine, the hotel — locked in pink plastic at home, watching the charges land like love notes.
+
+**Good:**
+> Locked in pink plastic at home, Cole paid Uber, wine, hotel — then listened while Elise choked on Marcus and came on the cock his Visa rented the room for. When she got home, she put him on his knees and made him tongue-clean the receipt.
+
+When writing or revising any story: draft the excerpt **after** the filthy climax of the piece is clear, and audit it the same way — if you could swap brands and still not know the kink, rewrite.
+
+## 6. Length and registration (unchanged)
 
 - Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`.
 - Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
-- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary) — **this file wins**.
+- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts) — **this file wins**.
 
-## 6. Quick checklist before shipping a new story
+## 7. Quick checklist before shipping a new story
 
 - [ ] Opens in a scene, not a premise dump
+- [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
 - [ ] No adult age numbers used as character IDs
 - [ ] If 18–21 appears, it appears once for a plot reason — not as a refrain
 - [ ] No safewords / traffic lights / “still okay?”
