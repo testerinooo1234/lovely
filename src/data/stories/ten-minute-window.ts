@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Ten Minute Window',
   author: 'keyledger',
   excerpt:
-    'She sold timed unlocks from her phone calculator — forty dollars per five minutes. He bought ten, knelt in the kitchen, and learned what overtime cost when the clock ran out.',
+    'Eleven days locked. Eighty for a ten-minute unlock. Selene timed the kitchen handjob on her phone — come, she said at thirty seconds — then charged overtime for the stroke after zero and locked him sticky again.',
   pages: [
     [
       `Selene's calculator app was open before Drew even put his bag down. That was how he knew tonight had a price. Not a mood. Not a maybe. A rate.`,
