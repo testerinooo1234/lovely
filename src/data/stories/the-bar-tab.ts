@@ -6,7 +6,7 @@ const story: Story = {
   title: 'The Bar Tab',
   author: 'fund_her_date',
   excerpt:
-    'Sierra sat with Trey at the cocktail bar. Owen sat three stools down, a stranger with a debit card, waiting for her nod to pay.',
+    'Owen paid their cocktails like a stranger three stools down — then walked home to voice notes of Sierra choking on Trey in the rideshare. When she got home, she shoved his face between her thighs and made him swallow what the tab bought.',
   pages: [
     [
       `Owen arrived first on purpose. Sierra had told him to — get a seat at the far curve, order something you won't finish, don't look like you're waiting. He took the third stool from the end at Copper & Rye, the place with the brass fixtures and the bartenders who remembered regulars by their first drink. He ordered a whiskey he didn't want and set his phone face-down beside it like a man killing an hour after work.`,
