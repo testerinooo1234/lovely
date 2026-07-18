@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Two Boys, One Dare',
   author: 'prettytrap',
   excerpt:
-    'She swore it was just a drinking game. Then she moved the goalposts, smiled, and asked which boy was brave enough to clean up the other.',
+    'Just a drinking game, she swore. Then both boys were bare on her carpet, Avery milking them onto their own stomachs — and asking which one was brave enough to lick the other clean, mouth only, swallow what you collect.',
   pages: [
     [
       `The drinking game had started as a joke, the way everything dangerous in Avery's orbit started as a joke.`,
