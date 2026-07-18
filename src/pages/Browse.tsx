@@ -152,7 +152,9 @@ export function Browse() {
     const nextTags = activeTags.includes(tag)
       ? activeTags.filter((t) => t !== tag)
       : [...activeTags, tag]
-    pendingScrollRef.current = nextTags.length > 0 || Boolean(query)
+    // Scroll to results only on the first tag selection (0 → 1+).
+    // Further multi-select adds/removes should not keep yanking the viewport down.
+    pendingScrollRef.current = activeTags.length === 0 && nextTags.length > 0
     updateParams(query, nextTags, 1)
   }
 
