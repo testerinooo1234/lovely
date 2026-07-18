@@ -27,7 +27,7 @@ export function StoryPage() {
     if (!scrollToPageStart.current) return
     scrollToPageStart.current = false
     pageStartRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
-  }, [pageIndex, chapterIndex])
+  }, [pageIndex])
 
   function goToPage(next: number) {
     scrollToPageStart.current = true
@@ -35,7 +35,7 @@ export function StoryPage() {
   }
 
   function goToChapter(next: number) {
-    scrollToPageStart.current = true
+    scrollToPageStart.current = false
     setChapterIndex(next)
     setPageIndex(0)
   }
