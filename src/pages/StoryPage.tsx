@@ -4,7 +4,11 @@ import { Pager } from '../components/Pager'
 import { StoryCard } from '../components/StoryCard'
 import { StoryTags } from '../components/StoryTags'
 import { getStoryBySlug, stories } from '../data/stories'
-import { getStoryChapters, isMultiChapter } from '../lib/chapters'
+import {
+  formatChapterOptionLabel,
+  getStoryChapters,
+  isMultiChapter,
+} from '../lib/chapters'
 import { formatDate, getReadingMinutes } from '../lib/search'
 import { flattenStoryParagraphs, paginateParagraphs } from '../lib/storyPages'
 
@@ -110,7 +114,7 @@ export function StoryPage() {
               >
                 {chapters.map((chapter, i) => (
                   <option key={`${i}-${chapter.name}`} value={i}>
-                    {i + 1}. {chapter.name}
+                    {formatChapterOptionLabel(i, chapter)}
                   </option>
                 ))}
               </select>

@@ -104,8 +104,9 @@ When writing or revising any story: draft the excerpt **after** the filthy clima
 Most stories are single-chapter (`pages` only). Multi-chapter stories:
 
 - Keep one catalog entry (browse / author / home). Never register extra chapters as separate stories.
-- Set `firstChapterName` for the opening `pages` body, plus `chapters: [{ name, pages }, …]` for the rest.
-- **Every chapter has a name.** The story page shows a chapter dropdown below tags and above page pagination.
+- Set `firstChapterName` + `firstChapterSummary` for the opening `pages` body, plus `chapters: [{ name, summary, pages }, …]` for the rest.
+- **Every chapter has a name and a short summary.** Summaries are chapter-specific blurbs for the story-page dropdown — **not** a copy of the catalog `excerpt`.
+- The story page shows a chapter dropdown below tags and above page pagination; each option includes name, chapter read minutes, and that chapter's summary.
 - Read time on cards and the story kicker is the **sum** of all chapters.
 - Each chapter should still meet the 5-minute minimum on its own when practical.
 
@@ -119,7 +120,7 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 
 - [ ] Opens in a scene, not a premise dump
 - [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
-- [ ] Multi-chapter: every chapter named; still one catalog entry
+- [ ] Multi-chapter: every chapter named + summarized; still one catalog entry
 - [ ] No adult age numbers used as character IDs
 - [ ] If 18–21 appears, it appears once for a plot reason — not as a refrain
 - [ ] No safewords / traffic lights / “still okay?”
