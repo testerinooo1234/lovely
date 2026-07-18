@@ -46,7 +46,7 @@ const story: Story = {
     'anal',
     'discipline',
     'humiliation',
-    'university',
+    'high schooler',
     'public',
   ],
   publishedAt: '2026-07-20',

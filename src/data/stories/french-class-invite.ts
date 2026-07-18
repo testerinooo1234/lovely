@@ -9,9 +9,9 @@ const story: Story = {
     'Caleb asked Krissi to be his girlfriend. She said no — then invited him to watch her submit to Daddy, with her feet in his face the whole time.',
   pages: [
     [
-      `Krissi Vale was eighteen years old, a college freshman who still took French 101 for the easy A, and she looked like someone had designed a doll and then taught it to giggle on purpose.`,
-      `She stood five-foot-two, weighed a feather-light ninety-five pounds, and the campus desks looked oversized around her. Short pink pigtails, sparkly pink glitter dusted on her cheeks, a wardrobe of tiny plaid and rainbow-print skirts during the day and star-print onesies with crotch snaps at night. She adored fetish play and lived half her waking hours in a giggly little-girl headspace — the voice going high and breathy the second the fantasy started, no apology for how filthy it got. In every fantasy she was the same tiny tease squirming in a lap and calling someone Daddy in that sugary voice, ending up a dripping desperate little princess ready for whatever punishment or care her Daddy decided she deserved.`,
-      `Caleb Motte was nineteen, also in French 101, and he had spent half a semester watching those pigtails bounce two rows ahead before he worked up the nerve to be friends. They traded verb conjugations and cafeteria fries. He learned she had a boyfriend she called Daddy in private and Mister Kane in public — older, calm, already deep in the dynamic Krissi wanted. Caleb told himself friendship was enough.`,
+      `Krissi Vale was eighteen years old, a high school senior who still took French for the easy A, and she looked like someone had designed a doll and then taught it to giggle on purpose.`,
+      `She stood five-foot-two, weighed a feather-light ninety-five pounds, and the classroom desks looked oversized around her. Short pink pigtails, sparkly pink glitter dusted on her cheeks, a wardrobe of tiny plaid and rainbow-print skirts during the day and star-print onesies with crotch snaps at night. She adored fetish play and lived half her waking hours in a giggly little-girl headspace — the voice going high and breathy the second the fantasy started, no apology for how filthy it got. In every fantasy she was the same tiny tease squirming in a lap and calling someone Daddy in that sugary voice, ending up a dripping desperate little princess ready for whatever punishment or care her Daddy decided she deserved.`,
+      `Caleb Motte was also a senior in the same French class, and he had spent half a semester watching those pigtails bounce two rows ahead before he worked up the nerve to be friends. They traded verb conjugations and cafeteria fries. He learned she had a boyfriend she called Daddy in private and Mister Kane in public — older, calm, already deep in the dynamic Krissi wanted. Caleb told himself friendship was enough.`,
       `Then he texted her on a Thursday night anyway.`,
       `caleb: hey krissi. this might be weird. would you maybe want to be my girlfriend?`,
       `The reply took four minutes and arrived with a glitter-face emoji.`,
@@ -55,7 +55,7 @@ const story: Story = {
       `"You did good. You stayed. Most boys flinch."`,
       `"Yeah," Caleb said, face warm, smelling faintly of her lotion, still tasting nothing but soap and skin.`,
       `She grinned, pigtails crooked, and let the babygirl creep back in. "Next time maybe you hold Bunny while Daddy does it. Or maybe I put my toes in your mouth for real. Night, almost-boyfriend."`,
-      `Caleb walked home through campus air that felt too normal for what his French-class crush had just done to his face — soles, glitter, the wet slap of Kane fucking her open while she giggled into the mattress. He already knew he would conjugate verbs on Monday like nothing happened. He already knew he would say yes again the second her glitter-cheeked texts asked.`,
+      `Caleb walked home through ordinary night air that felt too normal for what his French-class crush had just done to his face — soles, glitter, the wet slap of Kane fucking her open while she giggled into the mattress. He already knew he would conjugate verbs on Monday like nothing happened. He already knew he would say yes again the second her glitter-cheeked texts asked.`,
     ],
   ],
   tags: [
@@ -65,7 +65,7 @@ const story: Story = {
     'foot fetish',
     'humiliation',
     'ageplay',
-    'university',
+    'high schooler',
     'voyeurism',
   ],
   publishedAt: '2026-07-20',
