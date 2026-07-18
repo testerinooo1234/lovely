@@ -15,6 +15,11 @@ export type Author = {
 export type StoryChapter = {
   name: string
   /**
+   * Short chapter blurb for the story-page chapter dropdown.
+   * Distinct from the story's catalog `excerpt`. Required for multi-chapter stories.
+   */
+  summary: string
+  /**
    * Chapter body as one or more paragraph groups.
    * Reader pagination is computed at runtime from the flattened paragraphs —
    * manual group boundaries are not treated as page breaks.
@@ -38,6 +43,11 @@ export type Story = {
    * Omitted for single-chapter stories (no chapter dropdown).
    */
   firstChapterName?: string
+  /**
+   * Short blurb for the opening chapter in the story-page dropdown.
+   * Required when `chapters` is set; distinct from `excerpt`.
+   */
+  firstChapterSummary?: string
   /**
    * Additional named chapters after the first.
    * Browse/author catalog still list this as one story; read time sums all chapters.
