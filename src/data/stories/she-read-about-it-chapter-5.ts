@@ -43,7 +43,7 @@ const chapter: StoryChapter = {
       `"Thank you for showing up," Hana panted, soft, sincere, destroyed. "I needed you here. I love you. Seeing your face while he uses me makes the need feel less like I am abandoning you. It makes it feel like you are choosing me through it."`,
       `Liam said I love you back because the alternative was screaming.`,
       `They walked home after. Hana held his caged crotch gently through his jeans at a stop sign like comfort. "You did so well," she murmured. "Seeing it is worse and better. Worse for your heart. Better for my guilt. I am not alone with him in my head anymore. You are in the room. That is love."`,
-      `Liam nodded and thought, I invented the room.`,
+      `Liam nodded and thought, I invented the room. The invention had looked like intimacy once. Now it looked like architecture he could not escape.`,
     ],
     [
       `The second watch night came that Friday without a long warning — a whim with a plus-one.`,
@@ -67,7 +67,7 @@ const chapter: StoryChapter = {
     ],
     [
       `Tuesday arrived like a court date.`,
-      `Liam spent Monday night staring at the pink cage in the dark, replaying the garage, the spanking, the way Hana had thanked him for watching as if his destruction were a gift basket. He tried to imagine saying no. Every no sounded like I don't love you enough in her voice. That was the trap. She had built it out of his own soft spots.`,
+      `Liam spent Monday night staring at the pink cage in the dark, replaying the garage, the spanking, the way Hana had thanked him for watching as if his destruction were a gift basket. He tried to imagine saying no. Every no sounded like I don't love you enough in her voice. That was the trap. She had built it out of his own soft spots. He thought about the first articles again — the diagrams, the careful language, the way he had believed he could hand her a kink like a library book and get it back unmarked.`,
       `At his locker Tuesday she squeezed his hand. "Sir says if you come, you kneel, you watch me get used first, and then you open your mouth when he tells you. Blowjob. Swallow. Like I have. Like Connor. Like Matt in the tent mornings. Like Dylan in the car. Like Tyler's throat nights. I have swallowed so much cum for this feeling, Liam. I want you to know what that loyalty tastes like from the other side."`,
       `Liam's ears roared. "I don't… I'm not…"`,
       `"I know." Hana's voice gentled. "You are still my virgin boyfriend in a pink cage. That is why it matters. Please. Be there for me. If you love me."`,
