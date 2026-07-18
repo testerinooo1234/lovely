@@ -6,7 +6,7 @@ const story: Story = {
   title: 'The Ivory Handle',
   author: 'bar_and_brush',
   excerpt:
-    'A cleared browser history he forgot to double-check, a girlfriend who does not tolerate lies, and her best friend visiting for the weekend with a very clean voice for counting.',
+    'He lied about a client meeting and left his porn history open. Paige soaped his mouth with Ivory while Rowan watched — then put him bare-assed over the bed for twelve with the ivory-handled brush, thank-yous required after every stroke.',
   pages: [
     [
       `He had told Paige he was staying late.`,
