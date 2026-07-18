@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Friday Night Protocol',
   author: 'protocolpet',
   excerpt:
-    'Shoes by the door. Knees on the cushion. Phone face-down. The ritual made the rest of the week bearable.',
+    'Strip. Knees on the cushion. Phone face-down. Marissa caned him twelve for edging without permission — then made him thank her for the correction before she let him come over her fist.',
   pages: [
     [
       `They'd built the protocol together over eight months, refining it the way some couples refine a recipe — too much structure one week, not enough the next, adjusting until it fit the specific shape of what Ethan actually needed rather than what either of them had read about online. It wasn't about mimicking some rigid template. It was about Friday becoming the one evening where nothing was left ambiguous, where every decision had already been made in advance so his mind could finally stop making them.`,
