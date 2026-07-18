@@ -1,5 +1,13 @@
-import { useEffect, useMemo, useRef, useState, type FormEvent } from 'react'
+import {
+  useEffect,
+  useLayoutEffect,
+  useMemo,
+  useRef,
+  useState,
+  type FormEvent,
+} from 'react'
 import { Navigate, useSearchParams } from 'react-router-dom'
+import { Pager } from '../components/Pager'
 import { StoryCard } from '../components/StoryCard'
 import { TagChip } from '../components/TagChip'
 import { getAuthorByHandle } from '../data/authors'
@@ -38,6 +46,7 @@ export function Browse() {
   const [showAllTags, setShowAllTags] = useState(false)
   const resultsRef = useRef<HTMLElement>(null)
   const pageSize = usePageSize()
+  const scrollToResultsRef = useRef(false)
 
   const query = params.get('q') ?? ''
   const activeTags = params.getAll('tag')
@@ -115,6 +124,12 @@ export function Browse() {
     setParams(next, { replace: true })
   }, [page, rawPage, params, setParams])
 
+  useLayoutEffect(() => {
+    if (!scrollToResultsRef.current) return
+    scrollToResultsRef.current = false
+    resultsRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
+  }, [page])
+
   if (authorRedirect) {
     return <Navigate to={`/author/${encodeURIComponent(authorRedirect.handle)}`} replace />
   }
@@ -127,12 +142,10 @@ export function Browse() {
     setParams(next, { replace: true })
   }
 
-  function goToPage(nextPage: number) {
-    const clamped = Math.min(Math.max(1, nextPage), totalPages)
-    updateParams(query, activeTags, clamped)
-    requestAnimationFrame(() => {
-      resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
-    })
+  function goToPage(nextPageIndex: number) {
+    const clamped = Math.min(Math.max(0, nextPageIndex), totalPages - 1)
+    scrollToResultsRef.current = true
+    updateParams(query, activeTags, clamped + 1)
   }
 
   function toggleTag(tag: string) {
@@ -241,6 +254,16 @@ export function Browse() {
           </div>
         ) : (
           <>
+            {totalPages > 1 && (
+              <Pager
+                className="pager--top"
+                pageIndex={page - 1}
+                totalPages={totalPages}
+                onGoToPage={goToPage}
+                label="search results pages (top)"
+              />
+            )}
+
             <div className="story-grid">
               {pageStories.map((story, i) => (
                 <StoryCard key={story.id} story={story} index={i} />
@@ -248,27 +271,12 @@ export function Browse() {
             </div>
 
             {totalPages > 1 && (
-              <nav className="browse-pager" aria-label="search results pages">
-                <button
-                  type="button"
-                  className="btn btn--ghost btn--small"
-                  disabled={page <= 1}
-                  onClick={() => goToPage(page - 1)}
-                >
-                  ← previous
-                </button>
-                <span className="browse-pager__status">
-                  {page} of {totalPages}
-                </span>
-                <button
-                  type="button"
-                  className="btn btn--ghost btn--small"
-                  disabled={page >= totalPages}
-                  onClick={() => goToPage(page + 1)}
-                >
-                  next →
-                </button>
-              </nav>
+              <Pager
+                pageIndex={page - 1}
+                totalPages={totalPages}
+                onGoToPage={goToPage}
+                label="search results pages (bottom)"
+              />
             )}
           </>
         )}

@@ -1,58 +1,11 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
+import { Pager } from '../components/Pager'
 import { StoryCard } from '../components/StoryCard'
 import { StoryTags } from '../components/StoryTags'
 import { getStoryBySlug, stories } from '../data/stories'
 import { formatDate, getReadingMinutes } from '../lib/search'
 import { flattenStoryParagraphs, paginateParagraphs } from '../lib/storyPages'
-
-function StoryPager({
-  pageIndex,
-  totalPages,
-  onGoToPage,
-  label,
-}: {
-  pageIndex: number
-  totalPages: number
-  onGoToPage: (page: number) => void
-  label: string
-}) {
-  return (
-    <nav className="story-pager" aria-label={label}>
-      <button
-        type="button"
-        className="btn btn--ghost"
-        disabled={pageIndex === 0}
-        onClick={() => onGoToPage(Math.max(0, pageIndex - 1))}
-      >
-        ← previous
-      </button>
-      <label className="story-pager__jump">
-        <span className="sr-only">Go to page</span>
-        <select
-          className="story-pager__select"
-          value={pageIndex}
-          aria-label={`Page ${pageIndex + 1} of ${totalPages}`}
-          onChange={(event) => onGoToPage(Number(event.target.value))}
-        >
-          {Array.from({ length: totalPages }, (_, i) => (
-            <option key={i} value={i}>
-              {i + 1} / {totalPages}
-            </option>
-          ))}
-        </select>
-      </label>
-      <button
-        type="button"
-        className="btn btn--ghost"
-        disabled={pageIndex >= totalPages - 1}
-        onClick={() => onGoToPage(Math.min(totalPages - 1, pageIndex + 1))}
-      >
-        next →
-      </button>
-    </nav>
-  )
-}
 
 export function StoryPage() {
   const { slug } = useParams()
@@ -128,7 +81,8 @@ export function StoryPage() {
 
         <div ref={pageStartRef} className="story-reader__page">
           {totalPages > 1 && (
-            <StoryPager
+            <Pager
+              className="pager--top"
               pageIndex={safePageIndex}
               totalPages={totalPages}
               onGoToPage={goToPage}
@@ -143,7 +97,7 @@ export function StoryPage() {
         </div>
 
         {totalPages > 1 && (
-          <StoryPager
+          <Pager
             pageIndex={safePageIndex}
             totalPages={totalPages}
             onGoToPage={goToPage}

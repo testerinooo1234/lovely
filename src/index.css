@@ -664,28 +664,6 @@ button.tag-chip {
   margin-bottom: 0.5rem;
 }
 
-.browse-pager {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  margin-top: 2rem;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--border);
-}
-
-.browse-pager .btn:disabled {
-  opacity: 0.35;
-  cursor: not-allowed;
-  transform: none;
-}
-
-.browse-pager__status {
-  color: var(--text-faint);
-  font-size: 0.8rem;
-  letter-spacing: 0.08em;
-}
-
 .empty-state {
   padding: 4rem 0;
   display: grid;
@@ -744,7 +722,7 @@ button.tag-chip {
   color: var(--text);
 }
 
-.story-pager {
+.pager {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -754,7 +732,7 @@ button.tag-chip {
   border-top: 1px solid var(--border);
 }
 
-.story-reader__page > .story-pager {
+.pager--top {
   margin-top: 0;
   margin-bottom: 1.5rem;
   padding-top: 0;
@@ -763,19 +741,23 @@ button.tag-chip {
   border-bottom: 1px solid var(--border);
 }
 
-.story-pager .btn:disabled {
+.browse-results > .pager--top {
+  margin-top: 1rem;
+}
+
+.pager .btn:disabled {
   opacity: 0.35;
   cursor: not-allowed;
   transform: none;
 }
 
-.story-pager__jump {
+.pager__jump {
   display: inline-flex;
   align-items: center;
   min-width: 0;
 }
 
-.story-pager__select {
+.pager__select {
   appearance: none;
   background: var(--bg-elevated, transparent);
   background-image: linear-gradient(45deg, transparent 50%, var(--text-faint) 50%),
@@ -795,8 +777,8 @@ button.tag-chip {
   cursor: pointer;
 }
 
-.story-pager__select:hover,
-.story-pager__select:focus-visible {
+.pager__select:hover,
+.pager__select:focus-visible {
   border-color: var(--accent);
   color: var(--text);
   outline: none;
