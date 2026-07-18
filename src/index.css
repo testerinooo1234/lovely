@@ -709,15 +709,15 @@ button.tag-chip {
 }
 
 .story-chapter-select {
-  display: block;
+  display: grid;
+  gap: 0.55rem;
   margin-top: 1.25rem;
-  max-width: 100%;
+  max-width: 36rem;
 }
 
 .story-chapter-select__control {
   appearance: none;
   width: 100%;
-  max-width: 42rem;
   background: var(--bg-elevated, transparent);
   background-image: linear-gradient(45deg, transparent 50%, var(--text-faint) 50%),
     linear-gradient(135deg, var(--text-faint) 50%, transparent 50%);
@@ -740,6 +740,24 @@ button.tag-chip {
 .story-chapter-select__control:focus-visible {
   border-color: var(--accent);
   outline: none;
+}
+
+.story-chapter-select__meta {
+  display: grid;
+  gap: 0.35rem;
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.story-chapter-select__minutes {
+  letter-spacing: 0.04em;
+  color: var(--text-faint);
+}
+
+.story-chapter-select__summary {
+  color: var(--text-muted);
 }
 
 .story-reader__page {

@@ -66,14 +66,3 @@ export function getChapterReadingMinutes(
 
   return Math.max(1, Math.round(words / WORDS_PER_MINUTE))
 }
-
-/** Label for a chapter option in the story-page dropdown. */
-export function formatChapterOptionLabel(
-  index: number,
-  chapter: Pick<StoryChapter, 'name' | 'summary' | 'pages'>,
-): string {
-  const minutes = getChapterReadingMinutes(chapter)
-  const summary = chapter.summary.trim()
-  const base = `${index + 1}. ${chapter.name} · ${minutes} min`
-  return summary ? `${base} — ${summary}` : base
-}
