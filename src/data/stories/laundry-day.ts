@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Laundry Day',
   author: 'sternapron',
   excerpt:
-    'Used diapers under the towels. A phone album of Mommy captions. Diane laid it all out on the kitchen counter — then offered a choice: walk out, or strip for diaper position, take the hairbrush, and wear plastic pants through Sunday laundry.',
+    'Used diapers under the towels. A phone album of Mommy captions. Diane laid it all out on the kitchen counter — then offered a choice: walk out, or strip, get in the diaper position, take the hairbrush, and wear plastic pants through Sunday laundry.',
   pages: [
     [
       `Megan Shaw was twenty years old, worked the closing shift at the Craft Barn on Route 9, and had been very careful about her hamper for six months.`,
@@ -63,7 +63,7 @@ const story: Story = {
       `"On your back on the diaper," Diane said. "Legs up. Ankles toward the ceiling. Knees toward your shoulders. Bottom lifted. You know the position. Your phone taught me the name."`,
       `"Diaper position," Megan whispered, dying.`,
       `"Say it like a sentence."`,
-      `"I'm getting into diaper position, Mommy."`,
+      `"I'm getting into the diaper position, Mommy."`,
       `"Good."`,
       `Megan lay down. The rug was scratchy against her back. She lifted her legs. Her bare bottom rose off the folded diaper. Her whole front was exposed to the ceiling and her mother, and there was no thought in her head that was not the color red.`,
       `Diane picked up the hairbrush.`,
