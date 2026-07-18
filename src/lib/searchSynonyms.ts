@@ -86,6 +86,8 @@ export const SEARCH_SYNONYMS: Record<string, readonly string[]> = {
   'free-use': ['free use'],
   incest: ['taboo'],
   taboo: ['incest'],
+  petite: ['tiny', 'small frame'],
+  tiny: ['petite'],
 }
 
 /** Expand a user query into match terms (original + synonym aliases). */
