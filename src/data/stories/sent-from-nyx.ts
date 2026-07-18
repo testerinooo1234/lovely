@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Sent from Nyx',
   author: 'dollzoom',
   excerpt:
-    'She looked like a porcelain secret. The video did not. Owen opened it on his lunch break and learned exactly how small she thought he was.',
+    'Lunch-break video from Nyx: pigtails, Peter Pan collar — then a Coke-can cock she couldn\'t fist. She gagged herself to the base on camera, called Owen\'s dick snack-sized, and told him to whisper thank you.',
   pages: [
     [
       `Owen got the message at 12:41 p.m. between a spreadsheet and a cooling burrito: one video file, no caption except a pink heart and the word watch. They had been together fourteen months, long enough for him to memorize the exact way she tucked her hair behind her ear when she wanted something, long enough that he still somehow wasn't prepared.`,
