@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Apartment Lease',
   author: 'bar_and_brush',
   excerpt:
-    'Three-day dishes and one careless "Christ, relax." A calm chore-chart amendment, an ivory bar at the kitchen sink, and a fresh laminated rule on the fridge.',
+    'He said Christ, relax. Mara slid an Ivory bar between his teeth at the kitchen sink — then pants down over her knee for twelve, counted aloud, before she laminated a fresh rule on the fridge.',
   pages: [
     [
       `The dishes had been in the sink for three days when Jonah Pike said the wrong word.`,
