@@ -66,7 +66,7 @@ const story: Story = {
       `"Good piggies," he said again, and meant every filthy syllable. "Now we see which of you chubby pigs remembers how to beg with a curly pink plug seated in your ass."`,
     ],
   ],
-  tags: ['humiliation', 'group', 'bdsm', 'free use', 'oral'],
+  tags: ['humiliation', 'group', 'bdsm', 'free use', 'oral', 'chubby'],
   publishedAt: '2026-07-20',
 }
 
