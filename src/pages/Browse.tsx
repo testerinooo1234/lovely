@@ -12,12 +12,25 @@ import { StoryCard } from '../components/StoryCard'
 import { TagChip } from '../components/TagChip'
 import { getAuthorByHandle } from '../data/authors'
 import { getAllTags, getTopTags, stories } from '../data/stories'
-import { filterStories, shuffleStories } from '../lib/search'
+import {
+  filterStories,
+  parseBrowseSort,
+  shuffleStories,
+  sortStories,
+  type BrowseSort,
+} from '../lib/search'
 
 const VISIBLE_TAG_LIMIT = 10
 const MOBILE_PAGE_SIZE = 10
 const DESKTOP_PAGE_SIZE = 20
 const MOBILE_QUERY = '(max-width: 720px)'
+
+const SORT_OPTIONS: { value: BrowseSort; label: string }[] = [
+  { value: 'random', label: 'Random' },
+  { value: 'length', label: 'Length' },
+  { value: 'date', label: 'Upload date' },
+  { value: 'az', label: 'A–Z' },
+]
 
 function usePageSize() {
   const [pageSize, setPageSize] = useState(() =>
@@ -50,16 +63,17 @@ export function Browse() {
 
   const query = params.get('q') ?? ''
   const activeTags = params.getAll('tag')
+  const sort = parseBrowseSort(params.get('sort'))
   const rawPage = params.get('page')
   const parsedPage = rawPage == null ? 1 : Number.parseInt(rawPage, 10)
   const filterKey = `${query}\0${activeTags.join('\0')}`
   // Scroll once when landing with filters already in the URL (e.g. homepage mood chips).
   const pendingScrollRef = useRef(Boolean(query || activeTags.length > 0))
-  // Keep unfiltered browse order stable across pages; reshuffle when filters clear.
+  // Keep random order stable across pages; reshuffle when filters or sort mode change.
   const shuffleSeedRef = useRef<number | null>(null)
+  const shuffleKeyRef = useRef<string | null>(null)
 
   const [draftQuery, setDraftQuery] = useState(query)
-  const isUnfiltered = query.trim() === '' && activeTags.length === 0
 
   const visibleTags = useMemo(() => {
     if (showAllTags) return allTags
@@ -73,15 +87,18 @@ export function Browse() {
 
   const results = useMemo(() => {
     const filtered = filterStories(stories, { query, tags: activeTags })
-    if (!isUnfiltered) {
+    if (sort !== 'random') {
       shuffleSeedRef.current = null
-      return filtered
+      shuffleKeyRef.current = null
+      return sortStories(filtered, sort)
     }
-    if (shuffleSeedRef.current == null) {
+    const key = `random\0${filterKey}`
+    if (shuffleKeyRef.current !== key || shuffleSeedRef.current == null) {
+      shuffleKeyRef.current = key
       shuffleSeedRef.current = Math.floor(Math.random() * 0x7fffffff)
     }
     return shuffleStories(filtered, shuffleSeedRef.current)
-  }, [query, activeTags, isUnfiltered])
+  }, [query, activeTags, sort, filterKey])
 
   const totalPages = Math.max(1, Math.ceil(results.length / pageSize))
   const page =
@@ -134,10 +151,16 @@ export function Browse() {
     return <Navigate to={`/author/${encodeURIComponent(authorRedirect.handle)}`} replace />
   }
 
-  function updateParams(nextQuery: string, nextTags: string[], nextPage = 1) {
+  function updateParams(
+    nextQuery: string,
+    nextTags: string[],
+    nextPage = 1,
+    nextSort: BrowseSort = sort,
+  ) {
     const next = new URLSearchParams()
     if (nextQuery.trim()) next.set('q', nextQuery.trim())
     for (const tag of nextTags) next.append('tag', tag)
+    if (nextSort !== 'random') next.set('sort', nextSort)
     if (nextPage > 1) next.set('page', String(nextPage))
     setParams(next, { replace: true })
   }
@@ -146,6 +169,10 @@ export function Browse() {
     const clamped = Math.min(Math.max(0, nextPageIndex), totalPages - 1)
     scrollToResultsRef.current = true
     updateParams(query, activeTags, clamped + 1)
+  }
+
+  function setSort(nextSort: BrowseSort) {
+    updateParams(query, activeTags, 1, nextSort)
   }
 
   function toggleTag(tag: string) {
@@ -180,7 +207,7 @@ export function Browse() {
 
   function clearFilters() {
     setDraftQuery('')
-    setParams({}, { replace: true })
+    updateParams('', [], 1, sort)
   }
 
   const rangeStart = results.length === 0 ? 0 : pageStart + 1
@@ -240,15 +267,32 @@ export function Browse() {
       )}
 
       <section ref={resultsRef} className="browse-results" aria-live="polite">
-        <p className="results-count">
-          {results.length === 0
-            ? '0 stories'
-            : `showing ${rangeStart}–${rangeEnd} of ${results.length} ${
-                results.length === 1 ? 'story' : 'stories'
-              }`}
-          {query ? ` for “${query}”` : ''}
-          {activeTags.length > 0 ? ` · tagged ${activeTags.join(', ')}` : ''}
-        </p>
+        <div className="results-toolbar">
+          <p className="results-count">
+            {results.length === 0
+              ? '0 stories'
+              : `showing ${rangeStart}–${rangeEnd} of ${results.length} ${
+                  results.length === 1 ? 'story' : 'stories'
+                }`}
+            {query ? ` for “${query}”` : ''}
+            {activeTags.length > 0 ? ` · tagged ${activeTags.join(', ')}` : ''}
+          </p>
+          <label className="browse-sort">
+            <span className="sr-only">Sort stories</span>
+            <select
+              className="browse-sort__control"
+              value={sort}
+              aria-label="Sort stories"
+              onChange={(event) => setSort(parseBrowseSort(event.target.value))}
+            >
+              {SORT_OPTIONS.map((option) => (
+                <option key={option.value} value={option.value}>
+                  {option.label}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
 
         {results.length === 0 ? (
           <div className="empty-state">
