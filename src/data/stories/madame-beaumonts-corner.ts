@@ -109,7 +109,7 @@ const story: Story = {
       `Behind them, through the open classroom door, Madame Beaumont wiped her desk with a lemon cloth and lined three clean sauce cups in a neat row in the top drawer, lids snapped, empty for now, waiting for the next boy who forgot what French 4 had become.`,
     ],
   ],
-  tags: ['humiliation', 'discipline', 'university', 'public', 'spanking'],
+  tags: ['humiliation', 'discipline', 'high schooler', 'public', 'spanking'],
   publishedAt: '2026-07-21',
 }
 

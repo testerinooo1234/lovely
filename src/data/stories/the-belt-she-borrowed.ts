@@ -67,6 +67,7 @@ const story: Story = {
     'humiliation',
     'domestic discipline',
     'taboo',
+    'high schooler',
     'public',
   ],
   publishedAt: '2026-07-05',
