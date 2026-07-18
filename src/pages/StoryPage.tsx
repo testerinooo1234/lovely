@@ -103,6 +103,9 @@ export function StoryPage() {
             </Link>
           </p>
           <StoryTags tags={story.tags} className="story-reader__tags" />
+          {!multiChapter && story.excerpt.trim() && (
+            <p className="story-reader__summary">{story.excerpt.trim()}</p>
+          )}
           {multiChapter && (
             <div className="story-chapter-select">
               <label>
