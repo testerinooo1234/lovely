@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Good Girl Rules',
   author: 'little_softie',
   excerpt:
-    'Coloring books on the coffee table. A sippy cup he pretended not to notice. And a list of rules written in red ink.',
+    'Wine on a school night. Panties down over the couch arm. Emma counted twelve thank-yous for Daddy with the hairbrush — then came on his fingers while her spanked ass still burned.',
   pages: [
     [
       `Emma had a mortgage and a job in accounts payable, and was, at this exact moment, kneeling on the living room carpet in nothing but panties and an oversized t-shirt while Marcus read her rules out loud from an index card in his most serious voice — the one that made her thighs press together no matter how many times she'd heard this speech before, no matter how many index cards had come and gone since they'd started doing this properly instead of just joking about it after a few drinks.`,
