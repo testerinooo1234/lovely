@@ -11,6 +11,7 @@ import cardioThenCage from './cardio-then-cage'
 import cuckysitter from './cuckysitter'
 import elizabethsLottery from './elizabeths-lottery'
 import fridayNightProtocol from './friday-night-protocol'
+import fiftyForAKiss from './fifty-for-a-kiss'
 import frenchClassInvite from './french-class-invite'
 import frontRowLesson from './front-row-lesson'
 import goodGirlRules from './good-girl-rules'
@@ -93,6 +94,7 @@ export const stories: Story[] = [
   naughtydiapergirls,
   velvetRestraints,
   fridayNightProtocol,
+  fiftyForAKiss,
   frenchClassInvite,
   laundryDay,
   littleAftercare,
