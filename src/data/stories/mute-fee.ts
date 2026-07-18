@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Mute Fee',
   author: 'cashcrown',
   excerpt:
-    'He double-texted. She muted him for forty-eight hours, then invoiced sixty dollars to be unmuted — plus fifteen per unnecessary message thereafter.',
+    'He double-texted. She muted him for forty-eight hours, then invoiced sixty to unmute — cleavage as receipt art, dick hard and ignored. Fifteen per unnecessary message. Coming without instruction counted too.',
   pages: [
     [
       `Paul sent the second text before the first one had even earned a read receipt, which was how he learned that desire made him bad at math.`,
