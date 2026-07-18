@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Rent My Attention',
   author: 'clip_invoice',
   excerpt:
-    'He paid $80 an hour on Discord to rent her attention. She joined voice, muted herself, watched a cooking show, and typed still paying? He stayed. At minute fifty-one she invoiced overtime.',
+    '$80 an hour for her Discord mute and a cooking show. Still paying? She rated his cock 5/10, typed JOI that stopped before he came, and billed dirty asides about damp cotton panties. At minute fifty-one she invoiced overtime.',
   pages: [
     [
       `The listing appeared in her Discord server under a channel named products, posted like a software SKU and not like a humiliation.`,
