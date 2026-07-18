@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Anniversary Budget',
   author: 'fund_her_date',
   excerpt:
-    'Instead of a couple trip, Camille booked a coastal inn with Victor. Neil paid the deposit, the dinners, the train — and stayed home locked with the receipts.',
+    'Camille took Victor to a coastal inn on Neil\'s card. Locked at home, he listened while she came on the cock that bottoms out — then knelt in the bathroom and tongue-cleaned the anniversary out of her before she rinsed.',
   pages: [
     [
       `The anniversary conversation happened on a Sunday in their kitchen, with coffee going cold between them and Camille's laptop open to a coastal inn that looked like it had been designed for other people's proposals. White bedding. A balcony over gray water. A restaurant tab already half-written in her notes app.`,
