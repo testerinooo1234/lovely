@@ -106,7 +106,7 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - Keep one catalog entry (browse / author / home). Never register extra chapters as separate stories.
 - Set `firstChapterName` + `firstChapterSummary` for the opening `pages` body, plus `chapters: [{ name, summary, pages }, …]` for the rest.
 - **Every chapter has a name and a short summary.** Summaries are chapter-specific blurbs for the story-page dropdown — **not** a copy of the catalog `excerpt`.
-- The story page shows a chapter dropdown below tags and above page pagination; each option includes name, chapter read minutes, and that chapter's summary.
+- The story page shows a chapter dropdown (name only) below tags and above page pagination; minutes and that chapter's summary appear directly under the dropdown for the selected chapter.
 - Read time on cards and the story kicker is the **sum** of all chapters.
 - Each chapter should still meet the 5-minute minimum on its own when practical.
 
