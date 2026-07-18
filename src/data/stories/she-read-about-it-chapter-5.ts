@@ -140,7 +140,7 @@ const chapter: StoryChapter = {
       `"Yes, Sir," Hana typed aloud as she replied, then locked the screen and curled against Liam's chest.`,
       `"I love you," she said.`,
       `"I love you," Liam answered, because that was still true, and because truth was what had ruined him, and because she had asked him to be there — and he had been — all the way to the kiss that closed the story on his mouth while another man's cum cooled inside him.`,
-      `Outside, the ordinary evening kept going. Inside, the pink key chimed once against her phone when she shifted, a tiny sound like a period at the end of a sentence he had started months ago on her bedroom floor, backpacks open, curious, and fatally soft.`,
+      `Outside, the ordinary evening kept going. Cars passed. A neighbor laughed. The world declined to notice that a soft boy in a pink cage had just finished the syllabus he assigned months ago. Inside, the pink key chimed once against her phone when she shifted, a tiny sound like a period at the end of a sentence he had started months ago on her bedroom floor, backpacks open, curious, and fatally soft.`,
     ],
   ],
 }
