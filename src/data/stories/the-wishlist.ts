@@ -6,7 +6,7 @@ const story: Story = {
   title: 'The Wishlist',
   author: 'sternapron',
   excerpt:
-    'Diapers. A spanking hairbrush. A pacifier. Brianna kept the wishlist private — until Mom ordered all of it, laid a changing mat on her bed, and offered a choice: walk away, or strip for diaper position and take the brush from Mommy.',
+    'Diapers. A spanking hairbrush. A pacifier. Brianna kept the wishlist private — until Mom ordered all of it, laid a changing mat on her bed, and offered a choice: walk away, or strip, get in the diaper position, and take the brush from Mommy.',
   pages: [
     [
       `Brianna Holt was nineteen years old, five-foot-two on a generous day, and had spent the last eight months of her sophomore year at Ridgeline Community College convinced that a browser in private mode was an actual, working spell.`,
