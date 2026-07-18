@@ -1,4 +1,5 @@
 import type { Story } from '../../types'
+import chapter2 from './backwards-sock-chapter-2'
 
 const story: Story = {
   id: '36',
@@ -7,6 +8,8 @@ const story: Story = {
   author: 'chalkpalm',
   excerpt:
     'One sock on backwards meant Nikki walked into English naked. Brett smacked her ass and somehow still got the blowjob.',
+  firstChapterName: 'The Bargain',
+  chapters: [chapter2],
   pages: [
     [
       `Nikki Alvarez was eighteen, a senior at Ravelin Academy's charter track, and she had never once been late, loud, or deliberately out of uniform. It did not matter. Teachers and the principal always seemed to have a grudge against her — detention for a hem a half-inch high, a write-up for chewing gum that wasn't hers, a public apology for "attitude" when she'd only asked a clarifying question. Today the principal required Nikki to go to school completely naked as punishment for not adhering to the dress code because she accidentally had one of her socks on backwards.`,
@@ -98,6 +101,7 @@ const story: Story = {
   tags: [
     'humiliation',
     'oral',
+    'anal',
     'high schooler',
     'discipline',
     'enemies to lovers',
