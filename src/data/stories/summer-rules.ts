@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Summer Rules',
   author: 'sternapron',
   excerpt:
-    'Olivia AirPlayed caregiver porn to Mom\'s seventy-inch TV — diaper position, hairbrush, Mommy voice and all. Catherine found the regression contract in the desk drawer, and offered a choice: throw it out, or strip on the mat, take twelve with the brush, and wear padding until college.',
+    'Olivia AirPlayed ageplay porn to Mom\'s seventy-inch TV — diaper position, hairbrush, Mommy voice and all. Catherine found the regression contract in the desk drawer, and offered a choice: throw it out, or strip on the mat, take twelve with the brush, and wear padding until college.',
   pages: [
     [
       `Olivia Brennan was eighteen years old — three weeks past high-school graduation, ten weeks out from her first day of freshman biology at state — and at eleven forty-two on a Tuesday in June she was absolutely sure her mother had gone to bed at ten thirty and stayed there. She was, on that count and on almost every count she had lately been sure about herself, wrong.`,
