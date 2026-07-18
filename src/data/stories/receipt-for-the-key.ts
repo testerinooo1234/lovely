@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Receipt for the Key',
   author: 'keyledger',
   excerpt:
-    'Nineteen days locked. Friday night she named a price, dictated the Venmo note, and unlocked him while the transfer still said Pending.',
+    'Nineteen days caged. Two-twenty for unlock and a real orgasm. Corinne made him kneel, type thank you for letting me cum, and milked him onto a towel at her feet while Venmo still said Pending.',
   pages: [
     [
       `The ankle bracelet chimed once when Corinne crossed the kitchen — a thin silver chain, the kind interior designers wore when they wanted clients to notice restraint instead of sparkle. Miles heard it before he saw her. Nineteen days of listening for that sound had trained his ears the way sprint drills trained lungs. The little key hung from the clasp like an afterthought, warm from her skin, and every time she moved it tapped against the bone just above her heel.`,
