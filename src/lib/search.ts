@@ -14,10 +14,16 @@ export function getStorySearchBlob(story: Story): string {
   const cached = searchBlobCache.get(story)
   if (cached) return cached
 
+  const chapterSummaries = [
+    story.firstChapterSummary,
+    ...(story.chapters?.map((chapter) => chapter.summary) ?? []),
+  ].filter(Boolean)
+
   const blob = [
     story.title,
     story.author,
     story.excerpt,
+    ...chapterSummaries,
     story.tags.join(' '),
     ...flattenAllChapterParagraphs(story),
   ]

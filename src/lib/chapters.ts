@@ -1,6 +1,8 @@
 import type { Story, StoryChapter } from '../types'
 import { flattenStoryParagraphs } from './storyPages'
 
+const WORDS_PER_MINUTE = 230
+
 /** True when the story has named chapters beyond the opening body. */
 export function isMultiChapter(story: Pick<Story, 'chapters'>): boolean {
   return Boolean(story.chapters?.length)
@@ -13,25 +15,65 @@ export function getChapterCount(story: Pick<Story, 'chapters'>): number {
 
 /**
  * Resolve the full ordered chapter list.
- * Single-chapter stories return one entry (name may be empty — UI hides the dropdown).
+ * Single-chapter stories return one entry (name/summary may be empty — UI hides the dropdown).
  */
 export function getStoryChapters(
-  story: Pick<Story, 'pages' | 'firstChapterName' | 'chapters'>,
+  story: Pick<
+    Story,
+    'pages' | 'firstChapterName' | 'firstChapterSummary' | 'chapters'
+  >,
 ): StoryChapter[] {
   if (!story.chapters?.length) {
-    return [{ name: story.firstChapterName ?? '', pages: story.pages }]
+    return [
+      {
+        name: story.firstChapterName ?? '',
+        summary: story.firstChapterSummary ?? '',
+        pages: story.pages,
+      },
+    ]
   }
   return [
-    { name: story.firstChapterName ?? 'Chapter 1', pages: story.pages },
+    {
+      name: story.firstChapterName ?? 'Chapter 1',
+      summary: story.firstChapterSummary ?? '',
+      pages: story.pages,
+    },
     ...story.chapters,
   ]
 }
 
 /** Flatten every chapter into one paragraph stream (search / total read time). */
 export function flattenAllChapterParagraphs(
-  story: Pick<Story, 'pages' | 'firstChapterName' | 'chapters'>,
+  story: Pick<
+    Story,
+    'pages' | 'firstChapterName' | 'firstChapterSummary' | 'chapters'
+  >,
 ): string[] {
   return getStoryChapters(story).flatMap((chapter) =>
     flattenStoryParagraphs(chapter.pages),
   )
+}
+
+/** Reading minutes for a single chapter body. */
+export function getChapterReadingMinutes(
+  chapter: Pick<StoryChapter, 'pages'>,
+): number {
+  const words = flattenStoryParagraphs(chapter.pages)
+    .join(' ')
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean).length
+
+  return Math.max(1, Math.round(words / WORDS_PER_MINUTE))
+}
+
+/** Label for a chapter option in the story-page dropdown. */
+export function formatChapterOptionLabel(
+  index: number,
+  chapter: Pick<StoryChapter, 'name' | 'summary' | 'pages'>,
+): string {
+  const minutes = getChapterReadingMinutes(chapter)
+  const summary = chapter.summary.trim()
+  const base = `${index + 1}. ${chapter.name} · ${minutes} min`
+  return summary ? `${base} — ${summary}` : base
 }
