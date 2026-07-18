@@ -7,6 +7,18 @@ export type SearchFilters = {
   tags: string[]
 }
 
+/** Browse result ordering. Default is random. */
+export type BrowseSort = 'random' | 'length' | 'date' | 'az'
+
+const BROWSE_SORTS: readonly BrowseSort[] = ['random', 'length', 'date', 'az']
+
+export function parseBrowseSort(value: string | null): BrowseSort {
+  if (value && (BROWSE_SORTS as readonly string[]).includes(value)) {
+    return value as BrowseSort
+  }
+  return 'random'
+}
+
 const searchBlobCache = new WeakMap<Story, string>()
 
 /** Lowercased blob of title, author, excerpt, tags, and full body text. */
@@ -76,6 +88,31 @@ export function shuffleStories(list: Story[], seed: number): Story[] {
     const j = Math.floor(random() * (i + 1))
     ;[next[i], next[j]] = [next[j], next[i]]
   }
+  return next
+}
+
+/**
+ * Stable non-random browse sorts.
+ * Length: longest first. Date: newest first. A–Z: title ascending.
+ */
+export function sortStories(list: Story[], sort: Exclude<BrowseSort, 'random'>): Story[] {
+  const next = [...list]
+  if (sort === 'length') {
+    next.sort((a, b) => {
+      const diff = getReadingMinutes(b) - getReadingMinutes(a)
+      return diff !== 0 ? diff : a.title.localeCompare(b.title)
+    })
+    return next
+  }
+  if (sort === 'date') {
+    next.sort((a, b) => {
+      const diff =
+        new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+      return diff !== 0 ? diff : a.title.localeCompare(b.title)
+    })
+    return next
+  }
+  next.sort((a, b) => a.title.localeCompare(b.title))
   return next
 }
 
