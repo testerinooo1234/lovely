@@ -89,7 +89,7 @@ const story: Story = {
     'discipline',
     'humiliation',
     'public',
-    'university',
+    'high schooler',
   ],
   publishedAt: '2026-07-11',
 }

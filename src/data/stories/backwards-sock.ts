@@ -98,7 +98,7 @@ const story: Story = {
   tags: [
     'humiliation',
     'oral',
-    'university',
+    'high schooler',
     'discipline',
     'enemies to lovers',
     'public',
