@@ -1,5 +1,6 @@
 import type { Story } from '../../types'
 import chapter2 from './she-read-about-it-chapter-2'
+import chapter3 from './she-read-about-it-chapter-3'
 
 const story: Story = {
   id: '38',
@@ -11,15 +12,15 @@ const story: Story = {
   firstChapterName: 'Little Steps',
   firstChapterSummary:
     'Hana learns Liam\'s fantasy like homework — shorter hems, coffee dates, wandering hands, and oral "accidents," with jealousy punished by live texts while he waits in pink panties.',
-  chapters: [chapter2],
+  chapters: [chapter2, chapter3],
   pages: [
     [
-      `Liam and Hana were both eighteen, seniors at Westfield High, the kind of couple teachers still called cute without irony. Liam was pale and narrow-shouldered, forever half a step behind in gym. Hana was Japanese-American, soft-spoken, more curious than coy — the girl who asked follow-up questions in health class and blushed when the answers got specific. She did not watch porn. She did not collect dirty words. When Liam first tried to explain what he wanted, she tilted her head like he was conjugating a new verb.`,
+      `Liam and Hana were both eighteen, seniors at Westfield High, the kind of couple teachers still called cute without irony. Liam was pale and narrow-shouldered, forever half a step behind in gym. Hana was Japanese-American, soft-spoken, more curious than coy — the girl who asked follow-up questions in health class and blushed when the answers got specific. She did not watch porn. She did not collect dirty words. Neither of them had gone further than kissing and careful hands under shirts. When Liam first tried to explain what he wanted, she tilted her head like he was conjugating a new verb.`,
       `They were on her bedroom floor after school, backpacks open, when he said it.`,
       `"There's this… thing. Some couples do it. Where the girl — where you — would be with other guys. And I'd know. And I'd watch, or you'd tell me. It's called cuckolding."`,
-      `Hana blinked. "Cuckolding." She repeated it carefully, tasting the shape. "Like… you want me to be close with someone else? On purpose?"`,
+      `Hana blinked. "Cuckolding." She repeated it carefully, tasting the shape. "Like… you want me to be close with someone else? On purpose? Before we even…?" She gestured vaguely between them, cheeks pinker.`,
       `"Yeah. If you ever wanted. Only if—"`,
-      `"I want to please you," Hana said simply, cheeks pink. "I can read about it. Is there a website that is not scary?"`,
+      `"I want to please you," Hana said simply. "I can read about it. Is there a website that is not scary?"`,
       `He sent her two articles that used diagrams more than slang. That night her first reply arrived with a timestamp.`,
       `10:41: I finished. It is surprising. But I think I understand why you like the feeling. We can try little steps?`,
       `The word did not come back out of her mouth after that.`,
@@ -38,7 +39,7 @@ const story: Story = {
       `Liam said it wasn't. He said it while hard and miserable and grateful.`,
       `"Also he put sunscreen on my shoulders," Hana added, as if filing a second note. "I could have done it. I let him anyway. His hands are bigger than yours. That is not an insult. It is a measurement."`,
       `Rules arrived the way Hana organized sticky notes — neat, absolute, framed as care.`,
-      `"If we do this for your feeling," she said, tapping his wrist, "then you cannot touch yourself. And I will not use my mouth on you. And we will not do the married kind of sex together. And you should not see me that way unless it is part of the… other thing. Otherwise it gets confusing. Okay?"`,
+      `"If we do this for your feeling," she said, tapping his wrist, "then you cannot touch yourself. And I will not use my mouth on you. And we will not do the married kind of sex together — not even our first times with each other. And you should not see me that way unless it is part of the… other thing. Otherwise it gets confusing. Okay?"`,
       `"Okay," Liam whispered.`,
       `She kissed his cheek like a seal on a contract.`,
       `Escalation stayed soft in her language even when it stopped being soft in fact.`,
@@ -110,6 +111,7 @@ const story: Story = {
     'humiliation',
     'denial',
     'oral',
+    'anal',
     'sissification',
     'tease',
   ],
