@@ -1,4 +1,5 @@
 import type { Story } from '../../types'
+import chapter2 from './she-read-about-it-chapter-2'
 
 const story: Story = {
   id: '38',
@@ -7,6 +8,10 @@ const story: Story = {
   author: 'soft_accident',
   excerpt:
     'Liam taught Hana cuckolding. Soft flirting first — then Connor on her tongue, Matt bare inside her, and "accidents" after he said stop, while he waited denied in the pink panties she bought him.',
+  firstChapterName: 'Little Steps',
+  firstChapterSummary:
+    'Hana learns Liam\'s fantasy like homework — soft flirting, oral "accidents," bare car seats, and jealousy punished with live texts while he waits in pink panties.',
+  chapters: [chapter2],
   pages: [
     [
       `Liam and Hana were both eighteen, seniors at Westfield High, the kind of couple teachers still called cute without irony. Liam was pale and narrow-shouldered, forever half a step behind in gym. Hana was Japanese-American, soft-spoken, more curious than coy — the girl who asked follow-up questions in health class and blushed when the answers got specific. She did not watch porn. She did not collect dirty words. When Liam first tried to explain what he wanted, she tilted her head like he was conjugating a new verb.`,
