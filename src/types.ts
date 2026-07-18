@@ -15,7 +15,7 @@ export type Author = {
 export type StoryChapter = {
   name: string
   /**
-   * Short chapter blurb for the story-page chapter dropdown.
+   * Short chapter blurb shown under the story-page chapter select.
    * Distinct from the story's catalog `excerpt`. Required for multi-chapter stories.
    */
   summary: string
@@ -44,7 +44,7 @@ export type Story = {
    */
   firstChapterName?: string
   /**
-   * Short blurb for the opening chapter in the story-page dropdown.
+   * Short blurb for the opening chapter, shown under the story-page select.
    * Required when `chapters` is set; distinct from `excerpt`.
    */
   firstChapterSummary?: string
