@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Too Much to Ask',
   author: 'cornerseat',
   excerpt:
-    'He wanted her on her back, the lights low, nothing more complicated than that. She told him it was creepy. Then she showed him what she was willing to do for someone else.',
+    'He asked her to lie beneath him in the dark. Creepy, she said. Then she put him in the chair while Cole used the belt on her from behind — harder, please — and made Marcus thank her before he was allowed to come.',
   pages: [
     [
       `Marcus had learned, over the last eight months, that the word he kept reaching for — needy — was not the word Elena used when she talked about him. She had other words. Obsessive. Gross. Like a teenager who couldn't take no for an answer. The kind of man who made a woman feel watched in her own apartment, in her own skin, in her own bed, which was supposed to be theirs but had stopped feeling that way somewhere around March, when he'd asked her, simply, if they could have sex the way they used to — her beneath him, his mouth on her neck, nothing performative, nothing staged, just the two of them and the slow familiar rhythm of a marriage that had once known how to be private.`,
