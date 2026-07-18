@@ -8,6 +8,7 @@ const chapter: StoryChapter = {
   pages: [
     [
       `The week after Tyler, Hana stopped pretending the hallway grab had been weather.`,
+      `Liam had spent the weekend inventing versions where she came back to iced tea and mute icons and meant them. By Monday the inventions were thin. By Tuesday they were gone.`,
       `She came to Liam's locker on Tuesday with her workbook hugged to her chest and a careful brightness in her face that he had learned to read as confession weather.`,
       `"He texted," she said. "Tyler. He wants it to be regular. Not a one-time rumor thing. Like… a thing we do." She watched Liam's throat work. "I told him I have a boyfriend. He said he knows. He said that is not his problem."`,
       `"And you?" Liam's voice scraped.`,
