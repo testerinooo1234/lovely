@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Tip Menu Tuesday',
   author: 'clip_invoice',
   excerpt:
-    'He bought $25, $40, and $90 tip-menu customs on a clip site. Each one was a public preview link he could have clicked free — plus a one-line voiceover. He tipped again for a good-boy emoji.',
+    '$25 for a free preview and a one-line voiceover. $40 so she\'d narrate her nipples through a tank top. $90 for denial JOI and a five-out-of-ten cock rating. Then he tipped again for a good-boy emoji.',
   pages: [
     [
       `Tip Menu Tuesday started as a joke in her Stories and became a recurring product in his calendar app, which was how he knew the joke had won.`,
