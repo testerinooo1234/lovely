@@ -11,6 +11,17 @@ export type Author = {
   favoriteTags: string[]
 }
 
+/** A named chapter body. Multi-chapter stories always give every chapter a name. */
+export type StoryChapter = {
+  name: string
+  /**
+   * Chapter body as one or more paragraph groups.
+   * Reader pagination is computed at runtime from the flattened paragraphs —
+   * manual group boundaries are not treated as page breaks.
+   */
+  pages: string[][]
+}
+
 export type Story = {
   id: string
   slug: string
@@ -18,11 +29,20 @@ export type Story = {
   author: string
   excerpt: string
   /**
-   * Story body as one or more paragraph groups.
-   * Reader pagination is computed at runtime from the flattened paragraphs —
-   * manual group boundaries are not treated as page breaks.
+   * Opening body (sole chapter for single-chapter stories; chapter 1 when
+   * `chapters` is set). Reader pagination flattens these paragraph groups.
    */
   pages: string[][]
+  /**
+   * Name for the opening body in `pages`. Required when `chapters` is set.
+   * Omitted for single-chapter stories (no chapter dropdown).
+   */
+  firstChapterName?: string
+  /**
+   * Additional named chapters after the first.
+   * Browse/author catalog still list this as one story; read time sums all chapters.
+   */
+  chapters?: StoryChapter[]
   tags: string[]
   publishedAt: string
   featured?: boolean

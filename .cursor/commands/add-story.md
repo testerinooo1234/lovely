@@ -23,7 +23,8 @@ Write a new erotica story for this site **in one author's voice**, using their b
    - `title`: lowercase, literary, in the house style of existing titles.
    - `author`: exact author handle.
    - `excerpt`: one or two punchy sentences that **lead with concrete sexual beats** from the story (acts, implements, body, denial, pricing for unlock/orgasm — not logistics-only setup). See `.cursor/rules/story-writing.mdc` §5.
-   - `pages`: `string[][]` — usually 1–2 pages; paragraphs as template strings like existing stories.
+   - `pages`: `string[][]` — opening body; paragraphs as template strings like existing stories.
+   - Optional multi-chapter: `firstChapterName` + `chapters: [{ name, pages }, …]`. Every chapter needs a name. Still one catalog entry; read time sums all chapters. See `.cursor/rules/story-writing.mdc` §6.
    - `tags`: 3–5 tags; prefer the author's `favoriteTags` plus story-specific ones.
    - `publishedAt`: ISO date (`YYYY-MM-DD`), typically "today" or a recent date.
    - `featured`: only if asked.
