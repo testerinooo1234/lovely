@@ -3,6 +3,8 @@ import type { StoryChapter } from '../../types'
 /** Chapter 2 of Backwards Sock — ~15 min at 230 WPM. */
 const chapter: StoryChapter = {
   name: 'Anything He Says',
+  summary:
+    'Brett talks the principal into letting her dress; Nikki keeps pretending she hates him while showing up at his house for his cock — and, eventually, for anal — until Danielle notices.',
   pages: [
     [
       `Two weeks after the prop room, the principal found another reason.`,

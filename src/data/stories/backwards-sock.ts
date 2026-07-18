@@ -9,6 +9,8 @@ const story: Story = {
   excerpt:
     'One sock on backwards meant Nikki walked into English naked. Brett smacked her ass and somehow still got the blowjob.',
   firstChapterName: 'The Bargain',
+  firstChapterSummary:
+    'Naked for a backwards sock, Nikki bargains Brett a bathroom blowjob for a week of quiet — then ends up bent over in the prop room when the week runs out.',
   chapters: [chapter2],
   pages: [
     [
