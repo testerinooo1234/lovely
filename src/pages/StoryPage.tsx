@@ -5,7 +5,7 @@ import { StoryCard } from '../components/StoryCard'
 import { StoryTags } from '../components/StoryTags'
 import { getStoryBySlug, stories } from '../data/stories'
 import {
-  formatChapterOptionLabel,
+  getChapterReadingMinutes,
   getStoryChapters,
   isMultiChapter,
 } from '../lib/chapters'
@@ -104,21 +104,33 @@ export function StoryPage() {
           </p>
           <StoryTags tags={story.tags} className="story-reader__tags" />
           {multiChapter && (
-            <label className="story-chapter-select">
-              <span className="sr-only">Chapter</span>
-              <select
-                className="story-chapter-select__control"
-                value={safeChapterIndex}
-                aria-label={`Chapter ${safeChapterIndex + 1} of ${chapters.length}`}
-                onChange={(event) => goToChapter(Number(event.target.value))}
-              >
-                {chapters.map((chapter, i) => (
-                  <option key={`${i}-${chapter.name}`} value={i}>
-                    {formatChapterOptionLabel(i, chapter)}
-                  </option>
-                ))}
-              </select>
-            </label>
+            <div className="story-chapter-select">
+              <label>
+                <span className="sr-only">Chapter</span>
+                <select
+                  className="story-chapter-select__control"
+                  value={safeChapterIndex}
+                  aria-label={`Chapter ${safeChapterIndex + 1} of ${chapters.length}`}
+                  onChange={(event) => goToChapter(Number(event.target.value))}
+                >
+                  {chapters.map((chapter, i) => (
+                    <option key={`${i}-${chapter.name}`} value={i}>
+                      {i + 1}. {chapter.name}
+                    </option>
+                  ))}
+                </select>
+              </label>
+              <p className="story-chapter-select__meta">
+                <span className="story-chapter-select__minutes">
+                  {getChapterReadingMinutes(currentChapter)} min
+                </span>
+                {currentChapter.summary.trim() && (
+                  <span className="story-chapter-select__summary">
+                    {currentChapter.summary.trim()}
+                  </span>
+                )}
+              </p>
+            </div>
           )}
         </header>
 
