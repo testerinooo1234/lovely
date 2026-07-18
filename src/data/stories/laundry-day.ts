@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Laundry Day',
   author: 'sternapron',
   excerpt:
-    'Megan was twenty, worked retail, and thought a hamper full of towels was good enough camouflage. Her mother, calm as a Sunday, was about to prove otherwise.',
+    'Used diapers under the towels. A phone album of Mommy captions. Diane laid it all out on the kitchen counter — then offered a choice: walk out, or strip for diaper position, take the hairbrush, and wear plastic pants through Sunday laundry.',
   pages: [
     [
       `Megan Shaw was twenty years old, worked the closing shift at the Craft Barn on Route 9, and had been very careful about her hamper for six months.`,
