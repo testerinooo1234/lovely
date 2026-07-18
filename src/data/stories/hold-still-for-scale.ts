@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Hold Still for Scale',
   author: 'dollzoom',
   excerpt:
-    'She FaceTimed after work with a wooden ruler and a construction-site build standing behind her. The homework was simple: hold still, watch the numbers, and learn what her mouth was actually built for.',
+    'She FaceTimed with a wooden ruler pressed to another man\'s cock. Hold still for scale: watch the numbers run out past eight inches — then watch her choke herself to the base, strawberry gloss ruined, teaching him the part of her throat his snack-sized cock never reaches.',
   pages: [
     [
       `The FaceTime came in at 6:12, right as he was still shaking dust off his commute and kicking his shoes under the entry bench. One word in the preview: homework. He answered standing in the kitchen with the fridge light painting half his face, and for a second the call looked soft enough to be ordinary — her bedroom, the little string lights she kept year-round, the pastel throw pillow she always hugged when she gossiped.`,
