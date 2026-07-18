@@ -4,17 +4,20 @@ import { Pager } from '../components/Pager'
 import { StoryCard } from '../components/StoryCard'
 import { StoryTags } from '../components/StoryTags'
 import { getStoryBySlug, stories } from '../data/stories'
+import { getStoryChapters, isMultiChapter } from '../lib/chapters'
 import { formatDate, getReadingMinutes } from '../lib/search'
 import { flattenStoryParagraphs, paginateParagraphs } from '../lib/storyPages'
 
 export function StoryPage() {
   const { slug } = useParams()
   const story = slug ? getStoryBySlug(slug) : undefined
+  const [chapterIndex, setChapterIndex] = useState(0)
   const [pageIndex, setPageIndex] = useState(0)
   const pageStartRef = useRef<HTMLDivElement>(null)
   const scrollToPageStart = useRef(false)
 
   useEffect(() => {
+    setChapterIndex(0)
     setPageIndex(0)
     scrollToPageStart.current = false
     window.scrollTo({ top: 0, behavior: 'instant' })
@@ -24,11 +27,17 @@ export function StoryPage() {
     if (!scrollToPageStart.current) return
     scrollToPageStart.current = false
     pageStartRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
-  }, [pageIndex])
+  }, [pageIndex, chapterIndex])
 
   function goToPage(next: number) {
     scrollToPageStart.current = true
     setPageIndex(next)
+  }
+
+  function goToChapter(next: number) {
+    scrollToPageStart.current = true
+    setChapterIndex(next)
+    setPageIndex(0)
   }
 
   if (!story) {
@@ -45,7 +54,11 @@ export function StoryPage() {
     )
   }
 
-  const pages = paginateParagraphs(flattenStoryParagraphs(story.pages))
+  const chapters = getStoryChapters(story)
+  const multiChapter = isMultiChapter(story)
+  const safeChapterIndex = Math.min(chapterIndex, chapters.length - 1)
+  const currentChapter = chapters[safeChapterIndex] ?? chapters[0]
+  const pages = paginateParagraphs(flattenStoryParagraphs(currentChapter.pages))
   const totalPages = Math.max(1, pages.length)
   const safePageIndex = Math.min(pageIndex, totalPages - 1)
   const currentPage = pages[safePageIndex] ?? []
@@ -65,6 +78,15 @@ export function StoryPage() {
             <time dateTime={story.publishedAt}>{formatDate(story.publishedAt)}</time>
             <span aria-hidden="true"> · </span>
             <span>{getReadingMinutes(story)} min read</span>
+            {multiChapter && (
+              <>
+                <span aria-hidden="true"> · </span>
+                <span>
+                  {chapters.length}{' '}
+                  {chapters.length === 1 ? 'chapter' : 'chapters'}
+                </span>
+              </>
+            )}
           </p>
           <h1 className="story-reader__title">{story.title}</h1>
           <p className="story-reader__author">
@@ -77,6 +99,23 @@ export function StoryPage() {
             </Link>
           </p>
           <StoryTags tags={story.tags} className="story-reader__tags" />
+          {multiChapter && (
+            <label className="story-chapter-select">
+              <span className="sr-only">Chapter</span>
+              <select
+                className="story-chapter-select__control"
+                value={safeChapterIndex}
+                aria-label={`Chapter ${safeChapterIndex + 1} of ${chapters.length}`}
+                onChange={(event) => goToChapter(Number(event.target.value))}
+              >
+                {chapters.map((chapter, i) => (
+                  <option key={`${i}-${chapter.name}`} value={i}>
+                    {i + 1}. {chapter.name}
+                  </option>
+                ))}
+              </select>
+            </label>
+          )}
         </header>
 
         <div ref={pageStartRef} className="story-reader__page">
@@ -91,7 +130,7 @@ export function StoryPage() {
           )}
           <div className="story-reader__body">
             {currentPage.map((paragraph, i) => (
-              <p key={`${safePageIndex}-${i}`}>{paragraph}</p>
+              <p key={`${safeChapterIndex}-${safePageIndex}-${i}`}>{paragraph}</p>
             ))}
           </div>
         </div>

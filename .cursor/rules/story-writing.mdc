@@ -99,16 +99,27 @@ When writing or revising any story: draft the excerpt **after** the filthy clima
 
 **ABDL phrasing:** say **in the diaper position** (on the back, legs up). Prefer “get in the diaper position” / “into the diaper position.” Do **not** write “strip for diaper position” — stripping and the position are separate steps.
 
-## 6. Length and registration (unchanged)
+## 6. Chapters (optional)
 
-- Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`.
+Most stories are single-chapter (`pages` only). Multi-chapter stories:
+
+- Keep one catalog entry (browse / author / home). Never register extra chapters as separate stories.
+- Set `firstChapterName` for the opening `pages` body, plus `chapters: [{ name, pages }, …]` for the rest.
+- **Every chapter has a name.** The story page shows a chapter dropdown below tags and above page pagination.
+- Read time on cards and the story kicker is the **sum** of all chapters.
+- Each chapter should still meet the 5-minute minimum on its own when practical.
+
+## 7. Length and registration (unchanged)
+
+- Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`. Multi-chapter: count all chapters; prefer each chapter ≥5 min.
 - Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
 - Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts) — **this file wins**.
 
-## 7. Quick checklist before shipping a new story
+## 8. Quick checklist before shipping a new story
 
 - [ ] Opens in a scene, not a premise dump
 - [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
+- [ ] Multi-chapter: every chapter named; still one catalog entry
 - [ ] No adult age numbers used as character IDs
 - [ ] If 18–21 appears, it appears once for a plot reason — not as a refrain
 - [ ] No safewords / traffic lights / “still okay?”

@@ -1,4 +1,5 @@
 import type { Story } from '../types'
+import { flattenAllChapterParagraphs } from './chapters'
 import { expandSearchTerms } from './searchSynonyms'
 
 export type SearchFilters = {
@@ -18,7 +19,7 @@ export function getStorySearchBlob(story: Story): string {
     story.author,
     story.excerpt,
     story.tags.join(' '),
-    ...story.pages.flat(),
+    ...flattenAllChapterParagraphs(story),
   ]
     .join('\n')
     .toLowerCase()
@@ -82,9 +83,10 @@ export function formatDate(iso: string): string {
 
 const WORDS_PER_MINUTE = 230
 
-export function getReadingMinutes(story: Pick<Story, 'pages'>): number {
-  const words = story.pages
-    .flat()
+export function getReadingMinutes(
+  story: Pick<Story, 'pages' | 'firstChapterName' | 'chapters'>,
+): number {
+  const words = flattenAllChapterParagraphs(story)
     .join(' ')
     .trim()
     .split(/\s+/)
