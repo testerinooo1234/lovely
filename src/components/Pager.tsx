@@ -16,11 +16,18 @@ export function Pager({
     <nav className={`pager ${className}`.trim()} aria-label={label}>
       <button
         type="button"
-        className="btn btn--ghost"
+        className="btn btn--ghost pager__btn"
         disabled={pageIndex === 0}
+        aria-label="Previous page"
         onClick={() => onGoToPage(Math.max(0, pageIndex - 1))}
       >
-        ← previous
+        <span aria-hidden="true">← </span>
+        <span className="pager__btn-label pager__btn-label--full" aria-hidden="true">
+          previous
+        </span>
+        <span className="pager__btn-label pager__btn-label--short" aria-hidden="true">
+          prev
+        </span>
       </button>
       <label className="pager__jump">
         <span className="sr-only">Go to page</span>
@@ -39,11 +46,12 @@ export function Pager({
       </label>
       <button
         type="button"
-        className="btn btn--ghost"
+        className="btn btn--ghost pager__btn"
         disabled={pageIndex >= totalPages - 1}
+        aria-label="Next page"
         onClick={() => onGoToPage(Math.min(totalPages - 1, pageIndex + 1))}
       >
-        next →
+        <span aria-hidden="true">next →</span>
       </button>
     </nav>
   )
