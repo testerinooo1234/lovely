@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Her Uber, His Card',
   author: 'fund_her_date',
   excerpt:
-    'Elise had dinner with Marcus. Cole paid the Uber, the wine, the hotel — locked in pink plastic at home, watching the charges land like love notes.',
+    'Locked in pink plastic at home, Cole paid Uber, wine, hotel — then listened while Elise choked on Marcus and came on the cock his Visa rented the room for. When she got home, she put him on his knees and made him tongue-clean the receipt.',
   pages: [
     [
       `The Uber confirmation hit Cole's phone at 6:41, while he was still standing in the kitchen in sweatpants with the dishwasher half-loaded. Elise's ride: blue Honda, driver named Luis, four minutes out. Destination already filled in — Osteria Verde, the place with the outdoor heaters and the wine list she liked to photograph. She hadn't asked him to put the card on file. She'd just opened the shared wallet on his phone that morning, tapped his Visa as the default, and kissed his cheek like she was leaving for a work lunch.`,
