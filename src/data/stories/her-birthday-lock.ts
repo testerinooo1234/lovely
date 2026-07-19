@@ -10,7 +10,7 @@ const story: Story = {
   pages: [
     [
       `Emily brought it up on a Tuesday, which Mark would later decide had been strategic. Tuesdays were soft in their marriage — leftovers, streaming, her legs across his lap on the couch — and she waited until his hand was already under the blanket on her thigh before she said, casually, as if she were asking about restaurant reservations, "I know what I want for my birthday."`,
-      `They had been married six years, had talked around hotter edges before — watching together, a hall pass that never got used, the chastity articles she bookmarked and then "accidentally" left open on the iPad. He thought he knew the range of her wanting. He did not.`,
+      `They had been married six years, had talked around hotter edges before — watching together, a hall pass that never got used, the chastity articles she bookmarked and then "accidentally" left open on the iPad. He thought he knew how far she wanted to go. He did not.`,
       `"Tell me," he said, smiling, already half hard from the simple fact of her voice going quiet the way it did when she was serious about sex.`,
       `Emily turned on the cushion to face him. Her dark hair was twisted up messily. She looked like someone about to ask for jewelry.`,
       `"I want a bukkake," she said.`,

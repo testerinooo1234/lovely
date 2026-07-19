@@ -2,13 +2,13 @@ import type { StoryChapter } from '../../types'
 
 /** Chapter 3 of Fifty for a Kiss — ~13 min at 230 WPM. */
 const chapter: StoryChapter = {
-  name: 'Sister Energy',
+  name: 'Side by Side',
   summary:
     'Nate and Jordan join the loft. The twins eat each other out, then get fucked side by side while french kissing — and talk, still wet, about how love and porn have braided.',
   pages: [
     [
       `The hardcore day started with paperwork and bottled water and two men who introduced themselves as Nate and Jordan — both older than the twins by a stretch, both built like they lived in gyms, both professional in the unsettling way of people who got naked on camera for a living.`,
-      `Cole had already described the shape of the day on the call that booked it: oral on each other first, then the guys, then kissing through the fucking. In the loft he ran the assignments again — Katie with Nate, Kristi with Jordan, beds pushed together into one wide white stage. "I want sister energy the whole time," Cole said. "Not porn-girl energy — you, looking at each other, checking on each other, getting off on each other while you get fucked. That's the product."`,
+      `Cole had already described the shape of the day on the call that booked it: oral on each other first, then the guys, then kissing through the fucking. In the loft he ran the assignments again — Katie with Nate, Kristi with Jordan, beds pushed together into one wide white stage. "I want you looking like sisters the whole time," Cole said. "Not porn-girl posing — you, looking at each other, checking on each other, getting off on each other while you get fucked. That's the product."`,
       `Katie's mouth was dry. Kristi's hand found hers under the makeup table and held on.`,
       `"We've got you," Kristi murmured.`,
       `"We've got us," Katie murmured back.`,
