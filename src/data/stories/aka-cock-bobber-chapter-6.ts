@@ -7,10 +7,6 @@ const chapter: StoryChapter = {
     "At the drive-in Tanya feeds Bob loads through the window and reframes his protest as volunteering to share cock.",
   pages: [
     [
-      `Written, created, conceived, and masturbated to by AKA. Comments: akaCockBobber(at)yahoo(dot)com =====================================================`,
-      `Disclaimer: This story is intended for adults. It contains themes and situations that are not suitable for those not considered adults in their communities. It also contains naughty words. All characters in this story are intended to be portrayed as adults and therefore legally entitled to perform the strange, disgusting, and often downright immoral acts they are described as doing.`,
-      `The following is part six of the Bob Cocker saga.`,
-      `a.k.a. Cock Bobber - Opening Up by AKA`,
       `"Oh, there they are. Park over there, Bobby. Over there in the corner."`,
       `It was Friday night and Tanya and I were going out to get something to eat like teenagers do, but this was the fourth place that Tanya had suggested -- after we'd arrived in the parking lots of the previous three. She had 'changed her mind' each time, but now I realize why: She was looking for Malph and his buddies. I sighed. Sometimes having a hot slut for a girlfriend wasn't exactly easy.`,
       `"Over there?" I questioned, looking at the dark area across the parking lot by the dumpster. "But why not--"`,
@@ -19,12 +15,12 @@ const chapter: StoryChapter = {
       `Of course, tonight was not one of those times.`,
       `"Hey, Malph!" she shouted as she rolled down the car window. Malph popped up from the group of boys gathered around the outdoor tables at the drive in. "Are they serving any big slabs of meat at this joint tonight?" she asked with a sly smile.`,
       `I cringed at her obivous sexual overtures made across a public parking lot. 'Here we go,' I thought to myself.`,
-    ],
-    [
       `"That depends," shouted Malph Ludder, the ringleader of the boys who fucked my Tanya on a regular basis. He put on a huge grin and started to walk over our way. "I hear that the best meat is served through the back door!"`,
       `"Aw, Malphie, you big stud. You know that the back door is too .. uhh, cramped ... to properly serve the meat found around here. My boyfriend is still working on ... the expansion project, though."`,
       `I cringed again at her mention of me. She'd made it plainly clear that those few times that she'd let me put my dick inside her were solely to help stretch out her near-virgin ass for Malph and his friends. Of course, since she'd discovered my 'ability' to cum without being touched, I couldn't get any closer to her ass than Malph and the gang. Although, she did tell me to stick in two fingers when I sucked my daily doses of semen from her pussy, all the while complimenting me for how well I was stretching her ass for Malph.`,
       `"Your boyfriend, eh? Why do you hang out with that little wus, anyway?"`,
+    ],
+    [
       `"Oh, stop!" she giggled. "Sure he's a wus, but he does things for me that no one else in the world would do for me. Isn't that right, Bobby?"`,
       `I just kept quiet. It was best just to keep quiet.`,
       `"Aw, what's the matter, honey?" she cooed. She crawled across the bench seat and straddled my lap facing me. "You know Malphie is just kidding around with you." She pecked me once on the lips and then pressed her cheek to mine. I had to admit, even with all her obvious moves toward the other boys, she still knew how to make me feel really special.`,
@@ -33,12 +29,12 @@ const chapter: StoryChapter = {
       `Trying desperately not to smirk, I thought: Hah! Take that, stud-boy. Tanya is my girlfriend, case closed.`,
       `"C'mon, babe. We all know you want it," said Malph. He looked both directions, then stood up straight, pressing his crotch through the window. He unzipped his fly and began to fish his cock out through the slit in his briefs.`,
       `As the head began to poke out, Tanya slapped at it playfully. "Put that away. I told you, I'm not moving." While remaining in my lap, she leaned across the front seat and began to roll up the window. Again, I swelled with pride a bit. "Someone might see us. You're just going to have to bring that meat over to this side," she said with a grin and a giggle as the window closed the last inch.`,
-    ],
-    [
       `"WHAT??!" I cried`,
       `"Oh, don't worry, sweetie. No one will see. Over here in the dark, no one can see a thing through these tinted windows."`,
       `"But ..."`,
       `"And we'll use this sunscreen I bought for you to block the view from the front," she explained as she pulled out an expanding screen from under the front seat and fitted it into the windshield.`,
+    ],
+    [
       `"Tanya! What the hell do you think you're do--" I was cut short as Tanya rolled down the driver's side window a few inches. I didn't want the guys to hear me upset with her, so I lowered my voice to a hoarse whisper. "Tanya! Please! You can't just--"`,
       `"And I'll just turn on the radio so no one will hear anything!" she said gleefully, flicking on the ignition and turning the heavy metal station she liked. I groaned in dismay.`,
       `"Ok, boys. You've been trying to dump your loads into a wet mouth for weeks now, so here's your chance." She wasn't even trying to listen to me. She opened her mouth and waggled her tongue lewdly through the small gap in the car window.`,
@@ -47,12 +43,12 @@ const chapter: StoryChapter = {
       `"No, no, not you Malph. Not yet." Tanya wasn't listening. "I want to save you for last, ya big stud."`,
       `I heard a scuffle outside the car as the boys fought for who would go first. I really have no idea who finally won, but it wasn't long before a stiffening cock poked through the crack in the window. Tanya practically pounced on it, grabbing it and shoving it deep into her mouth. She looked at me with smiling eyes as her lips slid up and down the veiny shaft. I watched in shocked silence as the cock quickly grew to full hardness from her intense sucking action. She closed her eyes and began to pump her fist up and down, following her mouth and giving pleasure to another cock that I could only dream of these days. And all just inches from my face.`,
       `"Tanya ... how .... how could you?" I croaked out.`,
-    ],
-    [
       `Her eyes popped open as if she was suddenly reminded that I was still there. She pulled her mouth off the cock to speak, but kept pumping away with her fist. "Oh baby, it's so sweet of you to ask," she whispered, "Yes, you're right. It IS going to be hard for me to take all that gooey, icky cum into my mouth, but knowing that you're right here to swallow it for me makes it all OK! God, I love you." She grinned, gave me a peck on the lips, and went back to sucking.`,
       `Once again, my words had been turned against me. I was appalled at her behavior, yet she thought I was sweetly waiting to serve as a receptacle for the cum that she didn't want. And the fact that she loved me for it made it impossible to argue. I knew right then and there that the best thing to do was to just shut up and let her do what she was going to do, no matter how humiliating.`,
       `I sat there slack jawed in shock as I watched the girl I love give a blowjob to another man's cock right in front of me. And this wasn't some slow, uneasy, just-sorta-put-her-mouth-on-it thing -- this was a world class, rapid fire, all out, go-for-the-cum suckjob. Her long hair flew around her face as her head bobbed with amazing speed over the bulbous cock head. Loud slurping and sucking noises filled the car. Foamy saliva began to coat the fingers of her hand as it travelled up and down the shaft, following her lips. Occasional gagging noises escaped her throat as she took it in a bit too deep, but nothing slowed her down. No man on earth could last for more than a few minutes against this cocksucking onslaught. And dammit -- dammit all to hell -- my dick was hard as a rock within seconds. Who could watch action like that and not get hard? Even if it was my own girlfriend sucking someone else's cock.`,
       `"Gawd DAMN! That girl can suck cock!" came the exclaimation from outside the window. I'd almost forgotten the other guys were out there, but now looked over to see three pairs of eyes peering through the window crack.`,
+    ],
+    [
       `Tanya's eyes popped open when she heard the voice. She pulled off the cock and an audible grunt came from outside the window as its owner slumped against the car in frustration. Tanya continued to pump it with her hand, but used the other to wipe the copious amount of spit off her chin, pulling along strands of hair that had stuck to her face with it.`,
       `"All right boys," she panted, still catching her breath. "Show's over. Get around to the back of the car. With you guys hunched around the window, someone will see us for sure." I heard a three-part groan come from outside the car. "Oh, stop!" giggled Tanya. "Don't worry ... you'll all get to blow a load tonite, but this ain't no peep show! Move it! Go!"`,
       `The boys glanced at each other, obviously not wanting to leave such a great show. But when Tanya suddenly stopped stroking his cock and gave a wide-eyed look of 'Well?', a voice shouted from high outside the window, "GO, dammit, or she'll STOP!"`,
@@ -61,12 +57,12 @@ const chapter: StoryChapter = {
       `"Yeah, you, me and a cock," I muttered sarcastically.`,
       `"Cocks are a big part of my life, baby. You know that. You know I'm a slut. I'm just happy that now we can share the cocks as well as all the thick, creamy cum that shoots out of them. And the lump growing in you lap tells me you're happy, too!" she giggled. She then turned her attention back to her fantastic cocksucking.`,
       `"Wait, that's not ..." I started to argue, but was quickly drowned out by the liquid noises of her awesome blowjob. I decided to just keep quiet.`,
-    ],
-    [
       `I watched in awe as she quickly brought him back from frustration to the verge of orgasm again. Her head and hand were practically a blur as they flew up and down his raging cock shaft. I felt the car start to vibrate and heard a low moan outside the window. His hips started to buck against the side of the car and I could tell he was cumming ... and cumming hard. I heard a whimper come from Tanya's throat and knew that her mouth was being flooded with cum, but she still didn't stop the fantastic motion. I felt the car shift and heard a body slump over the roof of the car and only then did Tanya slow her movements. She matched the motion of his bucking hips, milking every last drop of semen into her mouth. Her cheeks bulged. I heard a heavy sigh from outside the window. It was the most incredible thing I'd ever seen ... and despite my wishes, my dick was straining tightly in my pants, pressing against Tanya's ass.`,
       `With that, Tanya finally released the softening cock and looked me in the eye. Although I knew what was coming next, Tanya still surprised me with the ferocity with which she grabbed me and locked her lips to mine. With her hands on either side of my head, she pressed her tongue against my lips until they parted. Then she began forcing her mouthful of cum between my lips, whimpering with obvious pleasure. I didn't resist. There was no point. I opened my lips and accepted the whole load of salty-bitter semen. It was warmer than the cum I'd eaten from her pussy. Almost hot. And there was a lot more than I'd ever had in my mouth at once before. But I swallowed. I swallowed because that was what she expected of me. What she expected of her cumsucker.`,
       `Tanya looked at me with half-closed sultry eyes and parted lips until she saw my throat muscles move as I swallowed the last of it. "That's it, baby," she whispered. She paused for a moment and I felt her thighs 'unclech' as she shifted on my lap. Then she squinched up her face in a grimace and shook her head playfully, "Ewwwwwwww! Wow, honey. No offense to your favorite hobby, babe, but I just don't know how you do it! I know how much you love to gobble down that milky, slimy cockjuice, but I can barely stand to have it in my mouth for even a second!"`,
       `"Honey, I don't think --"`,
+    ],
+    [
       `"Shhhhhh!" she warned, "They'll hear you."`,
       `We both watched as the now limp cock disappeared out the window crack. We watched the cock's owner tuck it back in his jeans and stagger away to the back of the car. I opened my mouth to speak, but Tanya put her finger to my lips.`,
       `"I know, Bobby. I know," she whispered. "I got myself into this. I just thought that I'd be able to handle it better. I mean, when you used to cum in my mouth, I didn't exactly LIKE it, but I could at least wait a few seconds before spitting it into your mouth."`,
@@ -75,12 +71,12 @@ const chapter: StoryChapter = {
       `"Well ... then don't," I replied, seeing a glimmer of hope that I wouldn't have to sit through the humilation of watching her blow another guy right in front of me.`,
       `"Honey, I wish there was a choice. There are three more stiff and ready cocks out there with heavy cum laden balls. They aren't exactly going to take 'No' for an answer." Already, I could feel the car rocking as another scuffle broke over who was going to go next.`,
       `"Well, there's nothing that says they have to cum in your mouth, y'know," I said, hoping she'd find some excuse not to let this humiliating occurance continue.`,
-    ],
-    [
       `She looked at me with her eyebrows knit as if confused by what I'd said, but then her eyes popped open wide in surprise and a huge smile came over her face. "Oh my God!" she whisper-shouted, "You're the BEST! You never fail to amaze me with how wonderful you are. I love you so much!" She grabbed my face again and began planting kisses all over it as I wondered just what she was so excited about.`,
       `"What? What ... (kiss) ... did ... (peck) ... I ... (smooch) ... say?" I asked.`,
       `But before she could answer, another thick cock slipped in through the gap, pressing against her cheek. She giggled, gave me a quick smile, and pounced on it as furiously as she had the last.`,
       `All hope of ending this scene faded as I watched her give another intense blowjob while seated in my lap. Saliva dripped off her fingers as she pumped her head and hand up and down the fleshy pole. I stared in shock and in awe at the speed at which she had her latest victim ready to blow his load. She sensed his impending blast and changed her rythym a bit. She looked out of the corner of her eye at me ... and winked.`,
+    ],
+    [
       `She pulled her mouth off the cock, but continued to pump it with her hand. "You're absolutely right, baby," she whispered. "They don't have to cum in my mouth ... as long as they cum in *a* mouth!"`,
       `For a brief second, I didn't understand what she meant, but then I felt her free hand grasp the back of my neck and pull my head forward.`,
       `"Tanya!" I hissed as I pulled away. "What crazy idea do you think--"`,
@@ -89,12 +85,12 @@ const chapter: StoryChapter = {
       `"Of course you can, sweetie! Don't worry! No one can see in these dark windows. You can suck all the cock you want and no one will see anything."`,
       `"Tanya, that's not what I--"`,
       `"Ooh ... we waited too long. He lost it. Just a second, babe," she interrupted. She fastened her mouth back onto the purple cockhead and spent another minute slurping and sucking it back to the brink of orgasm. I was in shock as I realized she fully intended for me to take his cock in my mouth. What little resistance I had left to her tried desperately to fight her, but I always did what she wanted. The steady pressure of her hand against the back of my head drew it forward until my lips were nearly touching her cheek on each back stroke. I didn't want this. It was way worse than anything that had come before. I wanted to beg her not to do it.`,
-    ],
-    [
       `"Tanya, please. I--"`,
       `As I opened my mouth to speak, she pulled away from the cock and yanked my head forward in one swift motion. As the cock slipped into my mouth, a hot spurt of semen hit the back of my throat. I coughed and gagged and pulled my head back in reaction. She let it slip back, but pulled it forward again for the next stroke ... and the next spurt of cum. She continued guiding my head back and forth, jacking his cock into my mouth until the flow of cum stopped and the cock began to soften in my mouth.`,
       `I looked at her through bleary eyes full of tears from the choking effect of the cock and the sheer humiliation. The look on her face was totally the opposite. She wore that same look I saw on my eighteenth birthday when I had my first taste of a stranger's semen from her snatch: A combination of intense excitement and sheer adoration.`,
       `"That was beautiful, baby," she whispered. "I should have warned you that your first time can be a little rough, but you'll soon learn to avoid choking. But it sure makes your eyes water the first time, huh?"`,
+    ],
+    [
       `I didn't answer. The cock slipped out of my mouth as its owner grunted a final time and staggered away. "Didja hear that bitch gag and choke?!?" a voice cried outside the window. "I blew my whole load right down her throat!" Hoots and hollers followed as he moved away to the rear of the car.`,
       `I just looked at Tanya and literally whimpered.`,
       `"Don't worry, baby," she said reassuringly. "There's more where that came from." She used her fingers to push up to my lips the excess cum that had dribbled onto my chin when I choked. Without thinking, I opened my lips to accept her finger. A bit of the cum already inside my mouth dripped out.`,
@@ -103,12 +99,12 @@ const chapter: StoryChapter = {
       `"Swallllooowwwww," she said as if spoonfeeding an infant.`,
       `I swallowed. I knew that I really had no other choice. As I did so, I realized just how much cum was in my mouth -- more than ever before at any one time. It took several tries to get it all down.`,
       `"That's my Bobby!" she squealed.`,
-    ],
-    [
       `I looked at her in my defeat. I had the strong taste of another man's fresh cum in my mouth and the remainders of his load dripping off my chin.`,
       `"God, you look sexy right now!" she chimed and leaned in to plant a strong, tongue-laden kiss on me. She moaned in appreciation as she tasted my mouth. "Mmmmmm, baby," she said as she broke away, "Fresh cum tastes gooood, don't you think?"`,
       `I had nothing to say. I was still stunned and shocked.`,
       `"Ok, honey," she said as she scrambled off my lap, "you suck the next one off, ok?"`,
+    ],
+    [
       `"Wha-a-at?" I asked, the confusion wearing off. Although I hardly noticed as she unzipped my pants.`,
       `"You suck the next one. It's so sweet of you let me jack the cum into your mouth, but I don't think it's fair of me to have all the fun of cocksucking in the first place. You should share in the joy."`,
       `"Dear God, Tanya, you can't expect me to--"`,
@@ -117,12 +113,12 @@ const chapter: StoryChapter = {
       `"Tanya, I ... oooh ..." I stammered, trying to reconcile the terrible thing she wanted me to do and the good sensations I was feeling.`,
       `"Did Mr. Winky miss my warm, sexy mouth?" she said directly to my prick with a girlish giggle. Then she took it in her mouth.`,
       `"Oh, God yes!" I moaned.`,
-    ],
-    [
       `"Mmmmmm," she moaned as her tongue swirled around the head. Warmth spread quickly throughout my lap.`,
       `But then, my enjoyment of the moment was soundly thrashed when a third stiff cock poked it's way in through the small gap at the top of the window. Shit ... I'd almost forgotten about them.`,
       `"Suck it," she said, lifting her mouth from my dick momentarily.`,
       `"Huh?"`,
+    ],
+    [
       `"Suck it, Bobby. Suck his cock," ordered Tanya rather plainly.`,
       `I just stared at it, then looked back to her. "Tanya, no. I can't --"`,
       `"Suck it, you little faggot. You're a cocksucker now, so get started on sucking cock!" she replied sternly.`,
@@ -131,12 +127,12 @@ const chapter: StoryChapter = {
       `Of all the shocked looks on my face over the past weeks, I knew I was wearing the worst of them.`,
       `She was ordering me. She was ORDERING me to suck another man's cock. I'd been through an awful lot -- done an awful lot for Tanya, but ... this ... this was just not right!`,
       `"Now wait just a God damned minute, Tanya!" I shouted above the noise of the radio. I released the cock sticking through the window and wriggled myself free of her grasp on my balls. "Just what the hell do you think you're doing?"`,
-    ],
-    [
       `Tanya stared at me wide eyed with a blank look on her face. She actually looked ... confused.`,
       `"Hey! What the fuck?!" came a voice from outside the car. There was a loud bang above our heads as a hand banged on the roof of the car.`,
       `"Shit!" said Tanya as she climbed back onto my lap. "Just a second!" she shouted loud enough for the boys outside to hear. Once in place, she rolled the window down another few inches and peered out. "Sorry ... oh, Alec, it's you. Sorry. Um ... lover's quarrel. Give us a minute, wouldja?" She rolled the window up and looked at me.`,
       `"What ... what the hell was that all about?" I asked her angrily, ignoring the laughter coming from outside.`,
+    ],
+    [
       `Her brows knit together in thought. She looked right through me. I swear to God ... it was as if she were studying me. An uncomfortable moment passed.`,
       `"Well, that didn't work," I thought I heard her mutter.`,
       `"What?" I demanded.`,
@@ -145,12 +141,12 @@ const chapter: StoryChapter = {
       `"But ... why not? I assumed you always wanted to, baby."`,
       `"Whaat?! Why would you think that??!"`,
       `"Well, with as much as you love eating cum, baby, I just figured that you'd really always wanted it direct from the source."`,
-    ],
-    [
       `"Tanya, when will you understand? It's YOU that I love, not eatin--"`,
       `"Oh, Bobby, I KNOW you love me. God, I know it. That's why I guess I got a little excited back there. I thought it was so sweet of you to suggest using your mouth for a direct cum shot. I guess I just thought there was enough love between us to let you go all the way."`,
       `"Enough love??!" I was stunned. "Tanya, I love you beyond description. How can you say I don't love you enough?"`,
       `"No no no, Bobby," she giggled. "You're missing the point. I'm talking about ME loving YOU enough, silly. Loving you enough to share my favorite thing in the world with you ... namely, cocks."`,
+    ],
+    [
       `"You're ... you're serious?" I asked, truly confused.`,
       `"Of course I'm serious, baby! What ... did you think I intended to hog all the man-meat to myself forever? I knew that a little cumeater like you must just be dying to wrap your lips around a thick cock and take a load directly in the mouth, but up till now I've ... I've just been too selfish to see it."`,
       `"Selfish?"`,
@@ -159,12 +155,12 @@ const chapter: StoryChapter = {
       `"Share it with me, Bobby!" she said excitedly. She crawled back into my lap, facing me and straddling my lap.`,
       `"No, Tanya, really I--"`,
       `"Don't be all noble, Bobby. Really, it's ok! I want to share this with you, alright? I want the Bobby I love so much to know what it's like to touch, feel, and be filled by a real cock -- just like I get to feel everyday. Or every hour, just about."`,
-    ],
-    [
       `She was serious. I stared at her blankly.`,
       `"Please, baby? Please let me show you. Please let me give you the experience that I've been stealing from you day after day." She leaned in and gave me a peck on the cheek.`,
       `God, she was irresistible. I could barely believe that she considered a stranger's cock in my mouth to be some sort of privilege, but ...`,
       `"You're such a giving person, Bobby, so I know you're not used to accepting gifts, but please let me give this to you. Please, baby." She kissed me gently on the lips with sultry, half closed eyes.`,
+    ],
+    [
       `"I ... I don't know," I said, amazing myself that I was even considering it.`,
       `"I'll be heartbroken ... truly heartbroken ... if you don't let me do this for you, Bobby." She looked at me expectantly with raised eyebrows and a pouty lower lip.`,
       `"But ... but why this, Tonya?"`,
@@ -173,12 +169,12 @@ const chapter: StoryChapter = {
       `"I love you, Bobby. Of course you know that. But I also love cocks. I love cocks, Bobby. I love the way they look, the way they feel, the way they smell, and the way they taste."`,
       `"I ... I know you do."`,
       `"And it's love that makes our relationship so strong, right?"`,
-    ],
-    [
       `"Y-yes," I replied cautiously. Somehow, I knew no matter how simple the answer seemed, it was bound to get me in trouble.`,
       `"Well, I can't think of anything that would draw us even closer than a common love, Bobby. Don't you agree?"`,
       `"Uhhh ...."`,
       `"Well, you know I can't share your love of slurping semen, Bobby, but I hope ... truly hope ... that you can share my love of cocks. I've been so selfish so far ... not letting you experience something I love so much."`,
+    ],
+    [
       `And there's the trap. I knew it! I had nothing to say.`,
       `"Can you forgive me, Bobby? Can you forgive me for not letting you suck the cocks a faggot like you so richly deserves to suck ... and love? Can you forgive me for not sharing?"`,
       `She apparently took my silence as agreement. Moving smoothly, she rolled down the car window the necessary distance.`,
@@ -187,18 +183,16 @@ const chapter: StoryChapter = {
       `"Will you let me prove the love between us by allowing you the chance to feel what I feel and love what I love?"`,
       `The cock head disappeared between her lips as she slickened the shaft with spit. Her hand began to travel up and down the cock's length. Her free hand reached behind my head and pulled gently forward.`,
       `"Please, Bobby. Open your heart and forgive me."`,
-    ],
-    [
       `I leaned forward. My resistance was gone.`,
       `"Open your mind and accept who you are. Accept my love for you and accept your love of cocks."`,
       `My hand reached up of its own accord and replaced her grip on the fleshy staff.`,
       `"Open up and accept it, Bobby. Open up, Bobby."`,
+    ],
+    [
       `She swirled her tongue around the cock head one last time as my hand began to stroke and pull the cock toward my lips.`,
       `"Open wide, Bobby," she whispered, her voice quavering.`,
       `I opened my mouth.`,
       `To be continued ...`,
-      `===================================================== The above is a work of fiction, intended solely for entertainment. Any similarity to actual persons, living or dead, is done purely to make them look like the total perverts that they are. Remember, the exchange of bodily fluids between sexual partners -- including the eager and rabid swilling of a stranger's sperm -- is against the recommendation of the surgeon general's office. They think it's pretty damn freaky, too. AKA`,
-      `akaCockBobber06-OpeningUp`,
     ],
   ],
 }

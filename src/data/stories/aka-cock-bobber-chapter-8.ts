@@ -7,10 +7,6 @@ const chapter: StoryChapter = {
     "Mrs. K invents the gentle-man category and teaches five finger affirmations that cast cock-sucking as respect and love.",
   pages: [
     [
-      `Written, created, conceived, and masturbated to by AKA. Comments: akaCockBobber(at)yahoo(dot)com =====================================================`,
-      `Disclaimer: This story is intended for adults. It contains themes and situations that are not suitable for those not considered adults in their communities. It also contains naughty words. All characters in this story are intended to be portrayed as adults and therefore legally entitled to perform the strange, disgusting, and often downright immoral acts they are described as doing.`,
-      `The following is part eight of the Bob Cocker saga.`,
-      `a.k.a. Cock Bobber - Affirmations by AKA`,
       `Mrs. Kohmfetter held me in one of the tightest and longest hugs I'd ever felt. I sort of put my arms around her -- uncertain what to do with my hands. Tanya looked on from the kitchen with a smile as she got herself a glass of water. Finally, I actually thought I heard a soft sob as Mrs. K pulled back and looked me in the face. She grasped my shoulders with each hand and gave me a big smile.`,
       `"I always knew there was a cocksucker in there somewhere, Bobby ... just waiting to get out!" she beamed, a tear in her eye.`,
       `I was stunned. Or still stunned, actually. I hadn't said a word since we'd entered the house and Tanya instantly trumpeted, 'Mom, guess what? Bobby sucked his first cock tonite!'`,
@@ -19,12 +15,12 @@ const chapter: StoryChapter = {
       `And then she kissed me.`,
       `And it wasn't just a peck, either. She pressed her lips to mine tenderly. I froze, of course, not knowing what the heck the mother of my girlfriend was doing. I almost jumped out of my skin when I felt her tongue glide lightly across my lips. She felt my reaction and pulled away with a smile.`,
       `"Oh, I'm sorry, Bobby. I didn't mean to starle you. It's just that I love to kiss a man after the first time. The taste of cock on his lips is just so ... so ... "`,
-    ],
-    [
       `"Mom!" interrupted Tanya playfully. "Stop kissing my boyfriend and help me out here!"`,
       `Mrs. K finally released me and turned to face her daughter. I was so tensed up, however, that I swear I didn't move a millimeter as she let go.`,
       `"Help you with what, dear?" Mrs. K asked.`,
       `"Help find me some COCK, Mom!" she cried in exasperation. "Watching him suck off those guys made me so horny, Mom. And telling you about it made me hornier. Bobby hogged all the dick tonite, so I need fucked bad. Really bad." Tanya crossed her legs and squirmed as she spoke.`,
+    ],
+    [
       `"Oh, you poor dear. Well, I know how hot and bothered watching a hot little faggot like Bobby would get me, so I can certainly sympathize. Tell you what, dear, my date for the evening is sitting in the back den right now watching the game. I was going to wait until halftime, but I bet you could coax him into filling your little pussy with cock. Especially since you're still so tight -- Bobby's little thing probably barely spread you open at all."`,
       `"REALLY, MOM?!? You're gonna let me have Dave Hunsacker??! Oh wow, you're the BEST!!" Tanya bolted down the hall, practically skipping all the way. I watched in dismay as she reached the door, stripped off her shirt, and disappeared inside. As the door closed behind her, I heard a surprised sounding male voice for a second ... and then silence.`,
       `I just stood there ... staring at the door.`,
@@ -33,12 +29,12 @@ const chapter: StoryChapter = {
       `"So, Bobby, tell me. Was this the first time you saw another man's hard cock up close?"`,
       `"Yes," I answered robotically.`,
       `"And you jumped in and sucked them off right out of the gate, eh? You are quite the little faggot, aren't you?" she squealed. She reached out and touched my arm and leaned in close. "You just couldn't keep your mouth off them, I suppose, but I always knew you were a natural cocksucker. You must be so happy right now!"`,
-    ],
-    [
       `"Happy?" I asked, my head still spinning.`,
       `"Of course, Bobby! You're a cumsucker, afterall," she bubbled. "Having a load of sticky jism blown directly into your throat is the ultimate culmination of all you are. A mouth like yours was made to have semen in it and Tanya is the perfect woman to ensure that it's kept full and happy. Boy, your little pecker must have been stiff as a board ... well, a twig anyway ... when you were pumping your hand up and down those thick shafts, huh?"`,
       `I looked away in embarrassment. I certainly didn't want to admit that ... much less tell her that I'd cum right as Malph shot in my mouth.`,
       `"What ... Bobby? Why the odd look? Are ... are you embarrassed about what happened tonight?"`,
+    ],
+    [
       `"Well, of course!"`,
       `"Oh, don't be silly, Bobby! I understand, though ... I really do. There are a lot of silly notions and misconceptions out there about cocksuckers. Some would probably say you're sacrificing your manhood by being a cocksucker, but we both know that implies no real loss in your case. Really, the only thing that's being sacrificed is the antiqated notion that cocks only belong in girl's mouths. What a waste, right? Why, the mouth of someone like you is perfectly suited for cocksucking. So there's nothing to be embarrassed about, right?"`,
       `"But ... "`,
@@ -47,12 +43,12 @@ const chapter: StoryChapter = {
       `"Noooo, don't be ridiculous! Surely you know that it's perfectly natural for someone like you to truly relish the feeling of a thick cock in your mouth. That little tent in your pants is nothing but a sign of respect for the woman in your life. So that can't be it."`,
       `"But ... "`,
       `"Hang on, Bobby. I'm thinking. Wait a minute ... you're not embarrassed that as the thick spermy cream shot against the back of your mouth, your boyish pee-pee was twitching and squirting it's thin, flimy juice into thin air, are you?"`,
-    ],
-    [
       `"She ... she told you about that?" I pleaded, practically begging for it not to be true.`,
       `"Told me about it? Bobby, she practically raved about it. Weren't you listening?"`,
       `To be honest, I'd tuned out most of what Tanya had described to her mother. I wasn't quite as ready to relive the whole thing as she was.`,
       `"She was thrilled to once again see proof that you find the most sexual pleasure when your mouth is filled to overflowing with gooey mancream. And she was so pleased to finally give you access to a constant supply of that pleasure. She understands that you were frustrated before ... when you used to have to wait until her pussy was done being pumped full of cum before you could get that jism into your mouth. But now you've got a whole town full of cock available from which you can pump the nectar that you need so much for sexual release."`,
+    ],
+    [
       `That couldn't be right. I didn't 'need' cum in my mouth in order to orgasm. I mean, sure ... I blew my load as soon as I felt Malph's cum in the back of my mouth, but it was Tanya riding on my dick that got me going, right?`,
       `Right?`,
       `I panicked silently.`,
@@ -61,12 +57,12 @@ const chapter: StoryChapter = {
       `"Mrs. K, I ... it's not the sperm in my mouth that makes me cum. It's that Tanya is so s-sexy and ..."`,
       `"Oh, please, Bobby ... don't be so humble! Surely by now you've figured out that your little thingy is never going to be enough to satisfy her physically. The only real pleasure it can possibly bring her is when she watches it shoot all on it's own ... as you demonstrate your selfless devotion to cumsucking by cumming yourself. I can pretty much guarantee that all your orgasms will be that way from now on, Bobby. And it's pretty apparent that even your own little pecker has given up on ever cumming inside warm flesh again. I mean, you didn't even cum inside her the one and only time you had opprtunity to fuck her pussy; you waited until you got your mouthful of yummy sperm. So please, Bobby ... don't go telling me it's my daughter's sexiness that set you off. Sure, I know my daughter is a hot little fucktoy, but you don't see anyone else just blowing off into space when they get a look at her, do you? Not like you do when you get a mouthful of jism. This modesty of yours is simply another sign that you truly are a gentle-man."`,
       `I caught the difference the third time she said it. She was saying 'gentle man'; two words ... not 'gentleman'. Focusing on a simple matter of pronounciation somehow felt better than trying to sort through another bout of Kohmfetter logic, so I asked, "Why do you say it that way? 'Gentle man' instead of 'gentleman'?"`,
-    ],
-    [
       `"Oh! I'm sorry!" She put her hand over her mouth like she'd just made a faux pax. "I'm just using a little technical jargon. Bobby, you know that I work in the university Psychology Department, right?"`,
       `"Yes," I sniffled.`,
       `"Well, I'm basically the self-appointed campus expert on male sexuality. I consider it my job to study the male of the species and learn everything I can about their interactions with women and each other."`,
       `"O-Ok."`,
+    ],
+    [
       `"Now, I've come to realize that not all are males are made the same. The ones like you, Bobby ... you're so different. You're not like most males ... the loud, boorish, skirt-chasing jerks. You're not like these real men at all, but part of a different class that I call 'Gentle men'. And, yes, I borrowed the term from the classic word 'gentleman' ... a term that certainly applies to you, don't you think? Haven't you always considered yourself a gentleman?"`,
       `I nodded. I could certainly agree with that. I'd always tried to be polite and considerate ... like a gentleman should.`,
       `"But in your case, instead of referring to a simple set of antiquated manners and courtesies, my term 'gentle-man' refers to how you *gently* lap up the sperm that's been pumped into her pussy by real men ... or how you *gently* wrap your lips around the cocks of her lovers and stroke them until they explode in your mouth. Do you see the difference?"`,
@@ -75,12 +71,12 @@ const chapter: StoryChapter = {
       `I cringed. She's talking about 'technical terms' and then she goes and uses those words to describe me? "Mrs. K ... I kinda do get a weird feeling when you or Tanya calls me by ... those names. So ... so maybe we could go ahead and use this 'gentleman' term instead."`,
       `"Oh, Bobby ... I use that term for the papers I write for the school. But you're practically family. Around you, I can tell it like it is, right? Because you ARE a faggot cocksucker, Bobby. And a damned good one, apparently. And you should be proud to be called that."`,
       `"Proud??!" I asked, a bit shocked.`,
-    ],
-    [
       `"Of course! Any term ... technical or everyday ... that describes how you so eagerly suck off any stiff cock put before you should make you swell with pride ... just like it makes your little tinkler swell in your pants."`,
       `"W-why would it make me proud?" I asked, still confused by all she was saying about me.`,
       `"Because of the love for her it shows, Bobby! Do I really have to explain it to you?" she asked, incredulously.`,
       `I just stared at her blankly.`,
+    ],
+    [
       `"Bobby, by being her sissy knobgobbler, you let her know that you understand her need for real cocks and are willing to share in the experience. You've obviously taught yourself to share in the pleasure that cocks bring her and that act alone reveals your tremendous love for my daughter. That love is something to be proud of, Bobby!"`,
       `Sissy knobgobbler? My jaw hung open slightly in shock and numbness. I could tell this was going to be another exercise in Kohmfetter language skills.`,
       `"I recognize that you don't fully realize your own motivations here, Bobby. That's why I feel it's my purpose in life to use what I've learned over time to help explain to pussyboys like you exactly why you get such immense pleasure from sucking off as many of your girl's lovers as you can get your eager little mouths on."`,
@@ -89,12 +85,12 @@ const chapter: StoryChapter = {
       `Pinky: "When you drop to your knees in front of her lover, unzip his fly, and fish that veiny snake out of his pants, it's like you're bowing and paying respect to the beauty and sexiness of my daughter. How can she not love you for that?"`,
       `Ring Finger: "When you wrap your lips around that fleshy meatpipe, it's like you're trumpeting your love for her. Blowing ... literally ... out a fanfare declaring your love for her."`,
       `Middle Finger: "When your hand slides up and down the spit-slickened shaft, it's like you're saluting her very womanhood."`,
-    ],
-    [
       `Index: "When you feel the first drops of precum ooze onto your tongue, you're tasting your portion of the sweet life of constant sexual pleasure you've given to my darling daughter."`,
       `Thumb: "And when that creamy explosion occurs at the back of your throat and you feel your tonsils warm with the heat of a man's most precious juicy gift, it's as if you're swallowing all that foolish, manly false 'pride' that all those supposed 'real men' spout. You're showing her that love ... true love ... can enable you to do anything for her. Anything. Even turn yourself into a wimpy little cumgobbling cocksucker."`,
       `I swallowed hard. 'Paying respect'? 'True love'? Of course. But 'wimpy'? 'Cumgobbling'?`,
       `"I usually tell my ... uh, patients to count off those five tenants on their fingers, then form a circle with their hand around an imaginary cock, and bring it to their open mouth -- several times a day -- as an affirmation of all they should be. Like this, Bobby. Try it."`,
+    ],
+    [
       `Following her lead, I closed my fingers into a tube. She made an extended 'O' with her lips and lifted her hand to it. I did the same ... and even pumped the invisible cock a few times like she showed me.`,
       `"Good! Perfect, Bobby! Y'know, it oftens take weeks or months of this for the proper mindset to form. But you, Bobby ... you're a natural. I find it incredible, Bobby, that even without a professional like me around to explain the thought processes, you were intuitive enough on your own to become just the kind of pudpumper that every beautiful woman dreams of ... and that you've already taught yourself to find orgasmic pleasure in it. The way you've learned to squirt out your little pittance of sperm when you taste a hot fresh load of real mancum is ... well, it's just plain ... b-beautiful, Bobby."`,
       `A tear came to her eye. I didn't know what to say to all of that anyway, but when I saw her wipe her eyes, I automatically took her hand. It just seemed natural.`,
@@ -103,19 +99,17 @@ const chapter: StoryChapter = {
       `"It's ok, Mrs K." I found that I was tearing up, too.`,
       `She recovered and squeezed my hand in return. "I'm sorry, Bobby. I'm not usually this overcome with emotion." She sniffled and wiped her face. "It's just that I'm so happy that she's found such a sweet, ... k-kind, ... w-wonderful, spermslurping dicksmoker like you."`,
       `She lost it once again ... and fell into my arms, sobbing heavily. My arms automatically rose around her in a hug.`,
-    ],
-    [
       `"Oh, Bobby," she continued, recovering, but still sobbing, "when the owners of those cocks feel your throat muscles open up to accept their thick loads, they'll know for certain that they can never compete with you for her love. As you gently suckle the last drops of cum out of their massive fuckpoles, you'll feel those cocks soften and bow down to the superior love you've demonstrated." Her tears were coming quickly now, dampening my shoulder. "They will know that you ... and only you ... are worthy of being my daughter's mouthpussy."`,
       `I held her in silence. Was she really serious? Did she really expect me to do this? And to ... to love it? All these things she was saying ... they were terrible. And yet beautiful. It was as if she really understood why I did what did for Tanya. As if she truly understood just how much I loved her daughter. How much I loved Tanya.`,
       `"I love her, Mrs. Kohmfetter." Her tears were contagious -- my voice cracked. "I love her so much." I began to cry.`,
       `Mrs K. heard my sobs and broke the hug to look me in the eye. "Oh, yes Bobby. That's it. Let your emotions show. Show me that your not one of those men who think crying is for sissies. Show me that you *are* a sissy. A sweet, beautiful, cumeating sissy."`,
+    ],
+    [
       `I broke down completely, sobbing heavily. I was unable to catch my breath enough to speak.`,
       `Mrs. K. pulled my head between her breasts. She rocked me back and forth and through her own tears softly said, "Thank you, Bobby. Thank you for taking cock after cock between your lips. Thank you for swallowing mouthful after mouthful of thick creamy cum ... all in the name of love for my daughter. I just know she'll grow to be the biggest slut this county has ever seen ... maybe even the whole state. And you, Bobby, you are going have more sperm end up in your belly than anyone in history. I am so ... so proud of you both."`,
       `I cried.`,
       `I just cried.`,
       `As always ... to be continued ...`,
-      `===================================================== Copyright (c) Nov, 2002 - A.K.A. The above is a work of fiction, intended solely for entertainment. Any similarity to actual persons, living or dead, is done purely to make them look like the total perverts that they are. Remember, the exchange of bodily fluids between sexual partners -- including the eager and rabid swilling of a stranger's sperm -- is against the recommendation of the surgeon general's office. They think it's pretty damn freaky, too. AKA`,
-      `akaCockBobber08-Affirmations`,
     ],
   ],
 }
