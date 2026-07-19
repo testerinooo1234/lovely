@@ -101,7 +101,7 @@ const chapter: StoryChapter = {
       `"You're still a virgin," she said, gentle and soft, pouting when his face crumpled. "I need that sentence in the air when I tell you about rope. Otherwise this starts sounding like we're even, and we're not even. You taught me a word. I built a whole Sir out of it. You sit in girl's panties — the ones I bought to keep you smaller than the men who use me — and learn what your girlfriend's throat sounds like when she isn't allowed to wipe her chin."`,
       `He tried to speak. What came out was please and stop and don't stop tangled into one useless noise.`,
       `Hana nodded as if he had been articulate.`,
-      `"I'm not leaving you," she said. "I'm also not stopping. He wants Tuesdays and Fridays as a baseline. Whims on top of that. If we're mid-movie and he texts, I go. If we're mid-homework and he wants my mouth, I go. If you get jealous in the hallway when he taps my ass, I'll probably get punished for your face later — and I'll tell you about the punishment in detail, because that's still your feeling, even when it's his belt."`,
+      `"I'm not leaving you," she said. "I'm also not stopping. He wants Tuesdays and Fridays as a baseline. Whims on top of that. If we're mid-movie and he texts, I go. If we're mid-homework and he wants my mouth, I go. If you get jealous in the hallway when he taps my ass, I'll probably get punished for your face later — and I'll tell you about the punishment in detail, because that's still what you asked for, even when it's his belt."`,
       `Liam laughed once, broken. "That's not fair."`,
       `"I know." Hana's smile was cute and terrible. "Fair was little steps. Fair was iced tea. We're past fair. We're in Yes Sir."`,
     ],
