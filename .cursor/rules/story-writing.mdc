@@ -1,5 +1,5 @@
 ---
-description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation
+description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam
 globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
 alwaysApply: false
 ---
@@ -126,7 +126,33 @@ This does **not** apply to women/girls wearing their own panties as ordinary clo
 
 When revising older stories: hunt male-panty beats for care/soft framing and re-aim them at shame/emasculation in that story's voice.
 
-## 7. Chapters (optional)
+## 7. Sentence length — no fragment spam
+
+Do **not** fill stories with stacks of tiny standalone sentences (1–4 words) that only describe, list, or hedge. Default to flowing prose; fold weak fragments into the sentence before or after them.
+
+**Short sentences are allowed** when they earn their keep:
+- A real bombshell / erotic punch (“We fucked. Twice.” / “I came.” / “She was not safe.”)
+- Sparse Domme/command voice, used sparingly
+- Occasional dialogue that matches a specific personality (a blunt Domme; a rattled one-word reply) — **not** every character, and not as their default cadence
+- Text-message / timestamp lines
+- Isolated action beats (“He swallowed.”) when not stacked in threes
+
+**Not allowed as a house style:** adjective crumbs, inventory crumbs, and empty staccato that could be commas or em-dashes.
+
+**Bad (fragment spam):**
+> "I think Connor saw my panties when I bent over. White ones. Ordinary. The reading said accidental flashes are still a kind of offering…"
+> Musk. Skin. Man. The inhale punched through him.
+> Marcus. Tall. Easy. Sales.
+
+**Good (folded / weighted):**
+> "I think Connor saw my panties when I bent over — ordinary white ones. The reading said accidental flashes are still a kind of offering…"
+> His nose sank into the cleft — musk, skin, man — and the inhale punched through him.
+> Marcus was tall, easy, sales — the kind of man who ordered without looking at the menu.
+> We fucked. Twice. *(bombshell — keep)*
+
+**Heuristic when editing:** if two or more ≤4-word sentences sit in a row and none of them is a reveal, command, or text line, merge them. Scholarly / careful speakers (e.g. Hana) almost never talk in crumbs; Dommes may, but still sparingly.
+
+## 8. Chapters (optional)
 
 Most stories are single-chapter (`pages` only). Multi-chapter stories:
 
@@ -137,13 +163,13 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - Read time on cards and the story kicker is the **sum** of all chapters.
 - Each chapter should still meet the 5-minute minimum on its own when practical.
 
-## 8. Length and registration (unchanged)
+## 9. Length and registration (unchanged)
 
 - Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`. Multi-chapter: count all chapters; prefer each chapter ≥5 min.
 - Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
-- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation) — **this file wins**.
+- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam) — **this file wins**.
 
-## 9. Quick checklist before shipping a new story
+## 10. Quick checklist before shipping a new story
 
 - [ ] Opens in a scene, not a premise dump
 - [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
@@ -153,4 +179,5 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - [ ] No safewords / traffic lights / “still okay?”
 - [ ] No characters named Aaron or Eric
 - [ ] If a boy/man wears panties: framed as emasculation/humiliation (not “soft clothes” / care) — see §6
+- [ ] No fragment spam: weak 1–4 word stacks folded; short lines reserved for bombshells / sparse commands / fitting dialogue — see §7
 - [ ] ≥1150 words; `npm run count-words` clean; builds

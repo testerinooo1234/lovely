@@ -33,7 +33,7 @@ const story: Story = {
     ],
     [
       `June did not delete the pictures when the party ended.`,
-      `Wren learned this the following Thursday, when he returned for a smaller gathering — four women again, same kitchen, same contract — and found a framed print leaning against the coffee bar like a housewarming gift. It was the group shot: him on his knees, mouth ruined with foam, four beautiful women smiling around him as if he were a trophy and a joke and a beloved pet all at once. The frame was nice. The paper was matte. Someone had written along the bottom border in gold paint pen: houseboy, cleaned.`,
+      `Wren learned this the following Thursday, when he returned for a smaller gathering — four women again, same kitchen, same contract — and found a framed print leaning against the coffee bar like a housewarming gift. It was the group shot: him on his knees, mouth ruined with foam, four beautiful women smiling around him as if he were a trophy and a joke and a beloved pet all at once — the frame was nice, the paper matte, and someone had written along the bottom border in gold paint pen: houseboy, cleaned.`,
       `His stomach dropped so hard he felt it in his knees.`,
       `"Do you like your portrait?" June asked, appearing at his shoulder with that soft smile. She was always softest right before she was meanest. "Camille had it printed. We're putting it above the wet bar. Permanent collection."`,
       `"June—" His voice came out thin.`,
