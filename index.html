@@ -15,6 +15,25 @@
       rel="stylesheet"
     />
     <title>lovely</title>
+    <script>
+      ;(function () {
+        try {
+          var match = document.cookie.match(/(?:^|; )lovely_story_font=([^;]*)/)
+          var id = match ? decodeURIComponent(match[1]) : 'md'
+          var map = {
+            xs: '0.875rem',
+            sm: '0.95rem',
+            md: '1.05rem',
+            lg: '1.2rem',
+            xl: '1.35rem',
+          }
+          document.documentElement.style.setProperty(
+            '--story-font-size',
+            map[id] || map.md,
+          )
+        } catch (e) {}
+      })()
+    </script>
   </head>
   <body>
     <div id="root"></div>

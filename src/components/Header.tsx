@@ -1,5 +1,14 @@
 import { useEffect, useState, type MouseEvent } from 'react'
 import { Link, NavLink, useNavigate } from 'react-router-dom'
+import {
+  applyStoryFontSize,
+  DEFAULT_STORY_FONT_SIZE,
+  isStoryFontSizeId,
+  readStoryFontSizeCookie,
+  STORY_FONT_SIZES,
+  type StoryFontSizeId,
+  writeStoryFontSizeCookie,
+} from '../lib/storyFontSize'
 import { HeartLogo } from './HeartLogo'
 
 const GITHUB_URL = 'https://github.com/testerinooo1234/lovely'
@@ -32,7 +41,16 @@ function scrollPageTop() {
 
 export function Header() {
   const [open, setOpen] = useState(false)
+  const [storyFontSize, setStoryFontSize] = useState<StoryFontSizeId>(
+    DEFAULT_STORY_FONT_SIZE,
+  )
   const navigate = useNavigate()
+
+  useEffect(() => {
+    const saved = readStoryFontSizeCookie()
+    setStoryFontSize(saved)
+    applyStoryFontSize(saved)
+  }, [])
 
   useEffect(() => {
     if (!open) return
@@ -56,6 +74,13 @@ export function Header() {
     // Beat any same-route scroll restoration so we land on the browse header, not results.
     scrollPageTop()
     requestAnimationFrame(scrollPageTop)
+  }
+
+  function onStoryFontChange(value: string) {
+    if (!isStoryFontSizeId(value)) return
+    setStoryFontSize(value)
+    writeStoryFontSizeCookie(value)
+    applyStoryFontSize(value)
   }
 
   return (
@@ -112,6 +137,25 @@ export function Header() {
           >
             github
           </a>
+
+          <div className="site-nav__settings">
+            <p className="site-nav__settings-label">Settings</p>
+            <label className="site-nav__setting">
+              <span className="site-nav__setting-name">Story text size</span>
+              <select
+                className="site-nav__setting-select"
+                value={storyFontSize}
+                aria-label="Story text size"
+                onChange={(event) => onStoryFontChange(event.target.value)}
+              >
+                {STORY_FONT_SIZES.map((size) => (
+                  <option key={size.id} value={size.id}>
+                    {size.label}
+                  </option>
+                ))}
+              </select>
+            </label>
+          </div>
         </nav>
       </div>
     </header>
