@@ -124,7 +124,7 @@ const story: Story = {
     ],
   ],
   tags: [
-    'cuckolding',
+    'cuckolding', 'gaslighting',
     'hotwife',
     'humiliation',
     'chastity',
@@ -139,8 +139,7 @@ const story: Story = {
     'voyeurism',
     'feminization',
     'group',
-    'cum eating',
-  ],
+    'cum eating',],
   publishedAt: '2026-07-19',
   featured: true,
 }

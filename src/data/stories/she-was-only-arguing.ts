@@ -7,8 +7,8 @@ import chapter5 from './she-was-only-arguing-chapter-5'
 
 const story: Story = {
   id: '76',
-  slug: 'she-was-only-arguing',
-  title: 'She Was Only Arguing',
+  slug: 'gaslighting',
+  title: 'Gaslighting',
   author: 'honeylogic',
   excerpt:
     'Lila left the phone on so I could hear her ex spank her open and fuck her ass, then came back breathless to insist they were only arguing — and made me apologize for the soundtrack I heard.',
@@ -213,7 +213,7 @@ const story: Story = {
       `Lila smiled like I had come home from somewhere difficult. "Good boy," she whispered, and curled against me with her back to my chest while Vance laughed once through the wall, already making plans for a weekend I could not justify fearing.`,
     ],
   ],
-  tags: ['cuckolding', 'humiliation', 'hotwife', 'anal', 'bukkake', 'spanking', 'bdsm', 'roommate'],
+  tags: ['cuckolding', 'gaslighting', 'humiliation', 'hotwife', 'anal', 'bukkake', 'spanking', 'bdsm', 'roommate'],
   publishedAt: '2026-07-19',
   featured: true,
 }

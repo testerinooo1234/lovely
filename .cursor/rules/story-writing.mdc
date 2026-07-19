@@ -1,5 +1,5 @@
 ---
-description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam, no therapy-speak desire, natural collocations for yes/no/stop/ask, cuckold "gaslighting" craft (never the word on-page)
+description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam, no therapy-speak desire, natural collocations for yes/no/stop/ask, cuckold "gaslighting" craft (tag OK; title exception; never in prose)
 globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
 alwaysApply: false
 ---
@@ -290,13 +290,17 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 
 - Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`. Multi-chapter: count all chapters; prefer each chapter ≥5 min.
 - Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
-- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire, natural collocations, no obscure house jargon / worn-out stock phrases, cuckold gaslighting craft / banned word) — **this file wins**.
+- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire, natural collocations, no obscure house jargon / worn-out stock phrases, cuckold gaslighting craft / prose ban) — **this file wins**.
 
-## 13. “Gaslighting” in cuckolding — craft term only (never on-page)
+## 13. “Gaslighting” in cuckolding — craft term (prose ban; tag + one title OK)
 
-When the user says **gaslighting** (or asks for a story that gaslights the boyfriend/husband), they mean a specific erotic technique — **not** clinical psychology jargon, and **not** a word that may appear in story prose.
+When the user says **gaslighting** (or asks for a story that gaslights the boyfriend/husband), they mean a specific erotic technique — **not** clinical psychology jargon.
 
-**Hard ban:** never write `gaslight`, `gaslighting`, or close cousins (`she's gaslighting him`, `classic gaslight`) in narration, dialogue, tags, titles, or excerpts. Authors' `writingStyle` notes already forbid the word; this section defines what to *do* instead.
+**Allowed:**
+- Catalog **tag** `gaslighting` when the soft reality-rewrite technique is load-bearing
+- **Title exception:** the honeylogic story *Gaslighting* (`slug: gaslighting`) may use the word as its title — the one catalog-title exception
+
+**Still banned in prose:** never write `gaslight`, `gaslighting`, or close cousins (`she's gaslighting him`, `classic gaslight`) in **narration, dialogue, or excerpts**. Show the rewrite; do not name the trick on the page. Authors' `writingStyle` notes forbid the prose word; this section defines what to *do* instead.
 
 ### What it means here
 
@@ -329,7 +333,7 @@ Soft, proud, intimate, explanatory — honey/baby, tears of pride, patient “of
 - Escalate labels he already accepted (cleanup → cocksucker → identity → program)
 
 **Don’t:**
-- Use the word gaslight/gaslighting anywhere in the story package
+- Use the word in narration, dialogue, or excerpts (tag + the *Gaslighting* title exception are fine)
 - Have her monologue “I’m rewriting your reality” / “I’m training you to doubt yourself”
 - Substitute therapy-speak (§8) for the rewrite — say the acts; keep the loving frame concrete
 - Confuse this with consent theatre (§3) — no safewords; the erotic point is the soft trap, not a negotiated scene check
@@ -358,5 +362,5 @@ Applies whenever the user requests gaslighting, soft reality-rewrite, moved goal
 - [ ] No therapy-speak for desire (“your feeling,” “right shape,” etc.) — see §8
 - [ ] No wrong collocations / reified yes-no-stop-ask nouns — see §9
 - [ ] No obscure house jargon (`soft things`, `soft steps`) or copy-pasted stock excuses — see §10
-- [ ] If the brief asks for gaslighting / soft rewrite: show §13 technique; never print the word
+- [ ] If the brief asks for gaslighting / soft rewrite: show §13 technique; never print the word in prose (tag `gaslighting` when load-bearing; title exception only for *Gaslighting*)
 - [ ] ≥1150 words; `npm run count-words` clean; builds
