@@ -227,15 +227,55 @@ Do **not** turn limits, refusals, and requests into weird protocol nouns, and do
 > I still feel like I cheated on you, even though we stopped where you asked
 > I'm proud I said no / I hated that you said no at one a.m. / he didn't touch because she'd said no
 > I got your texts — stop, please sleep / you saying no three times / When you said no, I stopped him
-> part of what we do next / enough soft reports that you can handle more / Now I want one more thing from you
+> part of what we do next / enough coffee-and-kiss reports that you can handle more / Now I want one more thing from you
 > shrinking what he wanted until they could say yes / quietly asking / Thank me for stopping you
 > I'm punishing you for getting jealous
 
 **Heuristic:** if the noun is just a yes/no/stop/ask/almost/step wearing a definite article, rewrite with the actual speech or act (`said no`, `stopped where you asked`, `almost came`). Findom SKUs and clear product talk (`unlock fee`, tip notes) are fine when the reader still knows what is being bought.
 
-Character research vocab that stays clear in context (`the report`, quoting `little steps` from an article) is allowed when the **verb frame** around it is ordinary English.
+Character research vocab that stays clear in context (`the report`, quoting an article once) is allowed when the **verb frame** around it is ordinary English — but do not mint private house jargon (`soft things`, `soft steps`) and reuse it as if the reader already knows the code.
 
-## 10. Chapters (optional)
+## 10. No obscure house jargon — and don't wear out stock phrases
+
+Do **not** invent private euphemisms that only make sense inside the story's own codebook, then reuse them until they feel like a brand. If a phrase means "take it slow," "coffee only," "kissing but not sex," or "denial is getting unbearable," **say that**. Soft / cute voice is fine; cryptic house slang is not.
+
+**Also:** do not let one cute refrain do the same job four times in a row. Either vary it with a clearer concrete meaning, or cut the repeats.
+
+**Banned / scrub patterns (and close cousins):**
+> soft things / soft steps / soft first / soft dating / soft dates / soft reports / soft restart / soft flirting *(as a reusable label)*
+> little steps *(as a repeated house code after the articles have already been explained once)*
+> the waiting gets too loud / cute and terrible / for your own good *(when it stands in for a named escalation)*
+> spitting seemed mean *(as a copy-paste swallow excuse every oral report)*
+> iced tea / coffee / kissing "as if that was the promise" metaphors stacked the same way every beat
+
+**Do:**
+- Name the act or limit: coffee that stays coffee; kissing only; no mouths yet; denial in the cage; go further — mouths, more texts, maybe more than mouths
+- Quote an article once if the character is researching (`going one level at a time`), then speak in concrete acts afterward
+- Keep intentional nicknames that cut (`soft boy` as Sir's emasculation brand) — those are labels with a job, not vague pacing codes
+- If a refrain is character voice (`sorryyy`, sticky notes), keep it sparse; do not let one swallow-excuse or one metaphor become the whole report style
+
+**Don't:**
+- Treat `soft X` as a reusable category for "gentle version of the kink"
+- Assume the reader remembers what `soft things` meant three chapters ago
+- Paste the same witty excuse or thesis smile into every escalation beat
+
+**Bad:**
+> We should stick to soft things for a while.
+> Soft steps first. Soft reports. Soft restart.
+> I swallowed because spitting seemed mean. *(×4 across chapters)*
+> Text me if the waiting gets too loud.
+
+**Good:**
+> Coffee and kissing only for a while — no mouths, no sex.
+> Start with shorter clothes and coffee dates that stay coffee, then kissing, then touching.
+> I swallowed — I didn't want to spit in his car. / I swallowed the same way I did with Connor.
+> Text me if denial starts driving you crazy.
+
+**Heuristic when editing:** if a phrase could mean three different acts depending on chapter, rewrite it. If the same colorful excuse or metaphor appears more than twice for the same beat type, vary or delete.
+
+Applies to **all** authors. Cute/inquisitive girlfriends are the highest risk for inventing soft house codes; Domme product talk is fine when the SKU is still clear.
+
+## 11. Chapters (optional)
 
 Most stories are single-chapter (`pages` only). Multi-chapter stories:
 
@@ -246,13 +286,13 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - Read time on cards and the story kicker is the **sum** of all chapters.
 - Each chapter should still meet the 5-minute minimum on its own when practical.
 
-## 11. Length and registration (unchanged)
+## 12. Length and registration (unchanged)
 
 - Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`. Multi-chapter: count all chapters; prefer each chapter ≥5 min.
 - Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
-- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire, natural collocations) — **this file wins**.
+- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire, natural collocations, no obscure house jargon / worn-out stock phrases) — **this file wins**.
 
-## 12. Quick checklist before shipping a new story
+## 13. Quick checklist before shipping a new story
 
 - [ ] Opens in a scene, not a premise dump
 - [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
@@ -265,4 +305,5 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - [ ] No fragment spam: weak 1–4 word stacks deleted or rewritten as full sentences — see §7
 - [ ] No therapy-speak for desire (“your feeling,” “right shape,” etc.) — see §8
 - [ ] No wrong collocations / reified yes-no-stop-ask nouns — see §9
+- [ ] No obscure house jargon (`soft things`, `soft steps`) or copy-pasted stock excuses — see §10
 - [ ] ≥1150 words; `npm run count-words` clean; builds
