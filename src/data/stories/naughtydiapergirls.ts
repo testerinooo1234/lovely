@@ -90,7 +90,7 @@ const story: Story = {
       `April kissed her hair. "School tomorrow. I laid out your thick diaper and a long skirt. If I get a call from a teacher about phones in class, you know what position you'll be in when you get home."`,
       `Emily nodded into her mother's shoulder, tiny, punished, and — worst and truest — grateful that the secret had finally grown hands big enough to hold her down and spank her like the videos always promised someone would.`,
       `"Yes, Mommy," she said.`,
-      `April clicked off the TV remote with her free hand and reached for the hairbrush on the end table, just to set it closer — within reach, visible.
+      `April clicked off the TV remote with her free hand and reached for the hairbrush on the end table, just to set it closer — within reach, visible.`,
       `"That's my little girl," she said. "Now go check your diaper. If it's wet, we change before bed. If it's dry, we still powder you, because Mommy said so. Move."`,
       `Emily moved — crinkling down the hall — already half dreading tomorrow's smallest mistake, already half aching for it, the website still bookmarked on a laptop she no longer got to open alone.`,
     ],

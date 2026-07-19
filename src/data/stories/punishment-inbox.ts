@@ -105,7 +105,7 @@ const story: Story = {
       `When the hour ended she collapsed, pulled the ginger free with a sob, and sent a sticky tear-streaked selfie.`,
       `ineedspankedbad: i need a hug thru the phone`,
       `ineedspankedbad: also your next week is gonna suck hehe`,
-      `It did, and Melissa's masterpiece arrived as a calendar screenshot.
+      `It did, and Melissa's masterpiece arrived as a calendar screenshot.`,
       `ineedspankedbad: 7 days. cum 3x a day. every load goes in a bowl in your fridge labeled "jordan homework" (yes really). end of week you set the bowl on the floor and eat it on video like a filthy apologetic brat`,
       `ineedspankedbad: if you miss a load you restart the week. no lying i want sticky proof pics each time`,
       `Jordan groaned aloud in his empty apartment. Then he opened the notes app and scheduled alarms: 8 AM, 2 PM, 9 PM, every day for seven days.`,
