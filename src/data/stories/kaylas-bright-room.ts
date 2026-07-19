@@ -48,7 +48,7 @@ const story: Story = {
       `Ryan seemed a little nervous when he was down to his boxers.`,
       `"Yes, all of them, dear."`,
       `Ryan slipped out of his boxers and put them in the bag, now totally naked in front of Kayla. Kayla quickly looked down at Ryan's vulnerable penis, then took the bag out of the room, leaving Ryan totally naked and alone in this strange bright room. The padding felt cool under his feet. Somewhere a vent hummed. Moments later Kayla returned to find Ryan with his hands covering his privates.`,
-      `"Hands down at your sides." He dropped them. "I've brought a pink chastity cage for you to try on. I think it's your size."`,
+      `"Hands down at your sides." He dropped them at once. "I've brought a pink chastity cage for you to try on. I think it's your size."`,
       `Ryan tried it on — ring first, then the pink cage sliding over him — and it fit perfectly with a small, decisive click.`,
       `"Perfect! I have a great eye for measuring tiny sissy penis sizes." Ryan's face turned red.`,
       `Kayla laughed. "I'm just playing with you — it's actually quite large for a submissive boy. Now get down on your knees."`,
