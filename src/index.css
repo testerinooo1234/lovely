@@ -15,6 +15,7 @@
   --blush: #f0a8b4;
   --font-display: 'Cormorant Garamond', Georgia, serif;
   --font-body: 'Sora', system-ui, sans-serif;
+  --story-font-size: 1.05rem;
   --radius: 2px;
   --max: 1120px;
   --header-h: 72px;
@@ -817,10 +818,63 @@ button.tag-chip {
   display: grid;
   gap: 1.25rem;
   font-family: var(--font-body);
-  font-size: 1.05rem;
+  font-size: var(--story-font-size);
   font-weight: 300;
   line-height: 1.75;
   color: var(--text);
+}
+
+.site-nav__settings {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  margin-left: 0.25rem;
+  padding-left: 1.25rem;
+  border-left: 1px solid var(--border);
+}
+
+.site-nav__settings-label {
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+}
+
+.site-nav__setting {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.site-nav__setting-name {
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+}
+
+.site-nav__setting-select {
+  appearance: none;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  padding: 0.45rem 2rem 0.45rem 0.7rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  background-image: linear-gradient(45deg, transparent 50%, var(--text-muted) 50%),
+    linear-gradient(135deg, var(--text-muted) 50%, transparent 50%);
+  background-position:
+    calc(100% - 14px) calc(50% - 2px),
+    calc(100% - 9px) calc(50% - 2px);
+  background-size: 5px 5px;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.site-nav__setting-select:hover,
+.site-nav__setting-select:focus-visible {
+  border-color: var(--border-strong);
+  outline: none;
 }
 
 .pager {
@@ -1004,6 +1058,30 @@ button.tag-chip {
     font-family: var(--font-display);
     letter-spacing: 0.04em;
     padding: 0.7rem 0.15rem;
+  }
+
+  .site-nav__settings {
+    margin: 0.85rem 0 0;
+    padding: 1rem 0 0;
+    border-left: none;
+    border-top: 1px solid var(--border);
+  }
+
+  .site-nav__settings-label {
+    font-size: 0.75rem;
+  }
+
+  .site-nav__setting-name {
+    font-size: 0.95rem;
+    font-family: var(--font-display);
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+  }
+
+  .site-nav__setting-select {
+    width: 100%;
+    padding: 0.7rem 2.25rem 0.7rem 0.85rem;
+    font-size: 1rem;
   }
 
   .hero {
