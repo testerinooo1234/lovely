@@ -68,7 +68,7 @@ const story: Story = {
       `"Just once," he said on FaceTime, staring at her soft face on the screen. "Not sex. Just... let me put it in your mouth. Or just the tip in your ass. Something. Anything. I'm going crazy."`,
       `Lily's expression turned solemn, almost maternal. "No, baby. If I suck you, I'm taking your purity into my body for pleasure. That's greed. When I suck them, I'm not taking a husband from God. I'm just managing urges so I can stay sweet for you. Do you see the difference?"`,
       `"That difference is insane."`,
-      `"It's faith." She smiled. "Also, your cock is kind of small, babe. Not in a mean way. In a factual way. I'd be scared of accidentally making you finish too fast and then we'd both feel bad. Jake lasts forever. Jack lasts forever. You get pink in the face if I sit on your lap too long. I love that about you. It's cute. Pure boys are supposed to be sensitive."`,
+      `"It's faith." She smiled. "Also, your cock is kind of small, babe — not mean, just factual — and I'd be scared of accidentally making you finish too fast and then we'd both feel bad. Jake lasts forever and Jack lasts forever, while you get pink in the face if I sit on your lap too long, and I love that about you. It's cute. Pure boys are supposed to be sensitive."`,
       `Noah closed his eyes. "Please stop comparing."`,
       `"Comparisons help gratitude," Lily said. "When Jake cums in my asshole and it drips down my thigh while I'm texting you 'on my way,' I think: Noah gets my heart. They get a hole that doesn't count. Isn't that romantic if you tilt your head?"`,
       `He tilted his head. It did not become romantic. It became a shape he could survive.`,
