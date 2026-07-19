@@ -146,7 +146,7 @@ const chapter: StoryChapter = {
       `"Hana."`,
       `"Nothing too serious," she repeated, gentle and firm. "One-time accident. We don't have to make it a series. Unless another hike with him becomes our habit. I'm not promising the woods stay innocent. That's all I mean."`,
       `She stood, smoothed her shorts, and checked her glittery phone case. A message preview lit the glass — Matt — before she angled it away.`,
-      `"I'm going to shower at home," she said. "I almost showered here so you could watch the water take him off me. Then I decided you should sit with the smell and the sore facts longer. Not as jealousy punishment. Just so the night can't turn into something you pretend was only a goodnight text."`,
+      `"I'm going to shower at home," she said. "I almost showered here so you could watch the water take him off me. Then I decided you should keep smelling him on me, and keep the sore facts, longer. Not as jealousy punishment. Just so the night can't turn into something you pretend was only a goodnight text."`,
       `Liam nodded because speech had become a steep trail.`,
       `Hana kissed the top of his head, inhaled once like she was checking that he still smelled like himself, and moved to the door.`,
       `"Text me if the waiting gets too loud," she said. "I may not rescue you from it. I may describe the lake. Or the tent. Or how he felt when he finished the second time and said your name like a joke he liked." Her mouth tipped, cute and terrible. "Or I may only talk about the trees, if that's the gentler lie you need today."`,
