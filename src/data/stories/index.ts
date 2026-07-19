@@ -2,6 +2,7 @@ import type { Story } from '../../types'
 import aDaddyForHim from './a-daddy-for-him'
 import akaCockBobber from './aka-cock-bobber'
 import alreadyFree from './already-free'
+import analDiscipline from './anal-discipline'
 import anniversaryBudget from './anniversary-budget'
 import apartmentLease from './apartment-lease'
 import assAddict from './ass-addict'
@@ -143,6 +144,7 @@ export const stories: Story[] = [
   theBarTab,
   anniversaryBudget,
   alreadyFree,
+  analDiscipline,
   theSixPlates,
   queueOnTheRug,
   holdStillForScale,
