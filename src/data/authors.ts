@@ -298,7 +298,7 @@ export const authors: Author[] = [
     favoriteTags: ['findom', 'humiliation', 'online', 'tribute'],
   },
   {
-    handle: 'honeylogic',
+    handle: 'girl_logic',
     bio: 'Writes girlfriends who sound kind while they rewrite the room. Her specialty is the soft explanation after the hard act — vinyl wrap that took twelve hours, arguments that somehow sound like fucking, ex-roommates who just like underwear — until the boyfriend thanks her for clarifying.',
     writingStyle: [
       'VOICE: First person on the boyfriend (akaCockBobber-adjacent). Long spiraling internal thought; her dialogue is soft, patient, playful, and longer than his. He narrates what he heard/saw; she renames it.',

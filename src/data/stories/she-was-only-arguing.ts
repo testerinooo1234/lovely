@@ -9,7 +9,7 @@ const story: Story = {
   id: '76',
   slug: 'gaslighting',
   title: 'Gaslighting',
-  author: 'honeylogic',
+  author: 'girl_logic',
   excerpt:
     'Lila left the phone on so I could hear her ex spank her open and fuck her ass, then came back breathless to insist they were only arguing — and made me apologize for the soundtrack I heard.',
   firstChapterName: 'Underwear Weather',
