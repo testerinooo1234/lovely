@@ -104,7 +104,7 @@ const story: Story = {
       `Emily came home at 1:03 smelling like soap and someone else's cologne she hadn't fully washed off. Her hair was damp. Her eyes were bright. She found Mark on the couch in the dark, jeans open, pink cage exposed, face wet.`,
       `"Oh, baby," she said, not sorry enough, and straddled his thighs carefully. "You watched."`,
       `"They were so much bigger," Mark said, voice wrecked. "You looked — you looked like you loved it."`,
-      `"I did." Emily took his chin. "I loved it. I love you. Both things. Did it make you jealous?"`,
+      `"I did." Emily took his chin. "I loved it and I love you — both at once. Did it make you jealous?"`,
       `"Yes."`,
       `"Did it make you hard anyway?"`,
       `Mark laughed once, broken, and glanced down at the pink prison. "As hard as this stupid thing allows."`,
