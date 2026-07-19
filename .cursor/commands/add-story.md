@@ -24,7 +24,7 @@ Write a new erotica story for this site **in one author's voice**, using their b
    - `author`: exact author handle.
    - `excerpt`: one or two punchy sentences that **lead with concrete sexual beats** from the story (acts, implements, body, denial, pricing for unlock/orgasm — not logistics-only setup). See `.cursor/rules/story-writing.mdc` §5.
    - `pages`: `string[][]` — opening body; paragraphs as template strings like existing stories.
-   - Optional multi-chapter: `firstChapterName` + `firstChapterSummary` + `chapters: [{ name, summary, pages }, …]`. Every chapter needs a name and a short summary (distinct from the catalog excerpt). Still one catalog entry; read time sums all chapters. Dropdown shows names; minutes + summary sit under it for the selected chapter. See `.cursor/rules/story-writing.mdc` §7.
+   - Optional multi-chapter: `firstChapterName` + `firstChapterSummary` + `chapters: [{ name, summary, pages }, …]`. Every chapter needs a name and a short summary (distinct from the catalog excerpt). Still one catalog entry; read time sums all chapters. Dropdown shows names; minutes + summary sit under it for the selected chapter. See `.cursor/rules/story-writing.mdc` §8.
    - `tags`: 3–5 tags; prefer the author's `favoriteTags` plus story-specific ones.
    - `publishedAt`: ISO date (`YYYY-MM-DD`), typically "today" or a recent date.
    - `featured`: only if asked.
@@ -44,8 +44,9 @@ Also read `.cursor/rules/story-writing.mdc` — it is the source of truth for cr
 - **Banned names:** never name characters **Aaron** or **Eric**.
 - **Sparse names:** do not name characters unless the name does story work (brand, collar plate, text contact). Prefer he/she, girlfriend, Sir, the Domme.
 - **Boys/men in panties:** if the story puts panties on a boy or man, frame the beat as emasculation/humiliation (girl's underwear, private shame, being made smaller) — not “soft clothes,” care, or comfort. Vary wording per story; do not reuse one stock phrase. See `.cursor/rules/story-writing.mdc` §6. (Women wearing their own panties is unrelated.)
+- **No fragment spam:** do not stack tiny 1–4 word sentences for description or lists (“White ones. Ordinary.” / “Musk. Skin. Man.”). Fold weak crumbs into flowing sentences. Short sentences are fine for bombshells (“We fucked. Twice.”), sparse Domme commands, texts, and occasional character-true dialogue — not as a default cadence. See `.cursor/rules/story-writing.mdc` §7.
 - Match the site's literary voice: psychological, sensory, and paced — not spammy porn shorthand. Prefer a mix of narration, internal thought, and dialogue; do not write dialogue-only or dialogue-dominated scenes unless that author's `writingStyle` explicitly requires it.
-- Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.), except where it conflicts with the age / consent / excerpt / banned-name / male-panty-framing rules above — those win.
+- Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.), except where it conflicts with the age / consent / excerpt / banned-name / male-panty-framing / sentence-length rules above — those win.
 - Keep the new story **plot-unique** vs that author's existing work (different scenario, not a rewrite).
 
 ## Author-specific reminder

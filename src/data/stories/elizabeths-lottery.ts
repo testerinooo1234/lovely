@@ -24,8 +24,7 @@ const story: Story = {
     ],
     [
       `The paddle was wide, polished wood, the "hardest" grade reserved for severe draws. Elizabeth folded over the desk, bare feet apart, jeweled plug winking at the camera, and the first stroke exploded across both cheeks with a sound like a shot.`,
-      `"One!" she cried.`,
-      `Two landed harder. Three made her go up on her toes. By ten her ass was a furious red and her voice had broken into sobs; the plug jolted with every impact, turning spanking into a shameful internal nudge. Ward did not lecture much — the lottery was the lecture — only corrected form when Elizabeth's hips tried to twist away.`,
+      `"One!" she cried as two landed harder and three made her go up on her toes. By ten her ass was a furious red and her voice had broken into sobs; the plug jolted with every impact, turning spanking into a shameful internal nudge. Ward did not lecture much — the lottery was the lecture — only corrected form when Elizabeth's hips tried to twist away.`,
       `"Present. You asked to stay under Halden's system as an adult. You will take what adults draw."`,
       `Twenty. Thirty. Elizabeth's world narrowed to wood and heat and the gem between her cheeks. Forty made her howl. At fifty her bottom was deep scarlet, swollen, already hinting at bruise, and she was crying so hard she could barely shape the number.`,
       `"Fifty," she wailed.`,

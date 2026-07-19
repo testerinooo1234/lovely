@@ -33,7 +33,7 @@ const story: Story = {
     ],
     [
       `June did not delete the pictures when the party ended.`,
-      `Wren learned this the following Thursday, when he returned for a smaller gathering — four women again, same kitchen, same contract — and found a framed print leaning against the coffee bar like a housewarming gift. It was the group shot: him on his knees, mouth ruined with foam, four beautiful women smiling around him as if he were a trophy and a joke and a beloved pet all at once. The frame was nice. The paper was matte. Someone had written along the bottom border in gold paint pen: houseboy, cleaned.`,
+      `Wren learned this the following Thursday, when he returned for a smaller gathering — four women again, same kitchen, same contract — and found a framed print leaning against the coffee bar like a housewarming gift. It was the group shot: him on his knees, mouth ruined with foam, four beautiful women smiling around him as if he were a trophy and a joke and a beloved pet all at once — the frame was nice, the paper matte, and someone had written along the bottom border in gold paint pen: houseboy, cleaned.`,
       `His stomach dropped so hard he felt it in his knees.`,
       `"Do you like your portrait?" June asked, appearing at his shoulder with that soft smile. She was always softest right before she was meanest. "Camille had it printed. We're putting it above the wet bar. Permanent collection."`,
       `"June—" His voice came out thin.`,
@@ -42,7 +42,7 @@ const story: Story = {
       `"I'll stay," he said.`,
       `"Good boy." June kissed his cheek, lipstick cool. "Then hang it. Level. I want it straight."`,
       `He hung his own humiliation on the wall with a borrowed hammer while the women watched from the sofa, offering commentary like interior designers. A little higher. No, left. There — perfect. When he stepped back, the portrait dominated the wet bar exactly as promised: impossible to miss, impossible to explain to anyone outside this room, impossible for Wren to serve drinks beneath without feeling the soap all over again.`,
-      `Nora lifted her phone and took a picture of him looking at the picture. Recursive. Cruel. She showed him the screen — Wren staring up at himself on his knees — and then set it as her lock screen while he watched, thumb confirming with a cheerful click.`,
+      `Nora lifted her phone and took a picture of him looking at the picture — recursive, cruel — and showed him the screen, Wren staring up at himself on his knees, then set it as her lock screen while he watched, thumb confirming with a cheerful click.`,
       `"Now every time I get a text," she said sweetly, "I see you."`,
       `Camille already had hers as a wallpaper. Vivienne preferred the close-up of his foamed mouth; she'd cropped it tight and made it her contact photo for June's group chat, labeled mouthy help. Wren stood under the new frame with a tray of empty glasses and understood that the mouthsoaping had only been the first half of the punishment. The second half was permanence — laughter preserved, shame curated, his ruined face turned into décor.`,
       `June crooked a finger. He went. She took the tray from his hands, set it aside, and pressed two fingers to his soaped-memory lips as if checking whether the taste still lived there.`,
