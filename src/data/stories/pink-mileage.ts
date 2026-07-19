@@ -9,7 +9,7 @@ const story: Story = {
     'She pulled up last week\'s chastity photos on her phone, scolded a blurry shot like a missed homework assignment, then put him through a circuit until MILEAGE was written on his thigh.',
   pages: [
     [
-      `He knew the door this time. Knew the citrus smell, the white walls, the way afternoon light made the black mats look almost friendly. Knowing did not make his hands stop sweating on the handle.`,
+      `He knew the door this time — the citrus smell, the white walls, the way afternoon light made the black mats look almost friendly. Knowing did not make his hands stop sweating on the handle.`,
       `The Mistress was already cross-legged on the bench in a lavender sports bra and black compression shorts, scrolling her phone with the focused cheer of someone grading form videos. She looked up, beamed, and patted the mat beside her sneakers.`,
       `"There's my returning client! Shoes off. Come sit. We have homework review before circuit."`,
       `He sat. The leather was cool through his jeans. She turned the phone so he could see his own emailed photos from the week — cage shots against bathroom tile, collar half-visible, timestamps marching down the thread like a training log.`,
