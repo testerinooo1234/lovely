@@ -122,7 +122,7 @@ const story: Story = {
       `"Miss Miller," Holcomb said as he reached the door, not unkindly, which somehow made it worse. "Tomorrow you will read clearly, in full dress code, and you will not scowl. Am I understood?"`,
       `"Yes, sir," he whispered.`,
       `"Good girl," Holcomb said, and turned back to his desk.`,
-      `He stepped into the corridor ruined, stockings steady, skirt swinging, panties wet with the principal's creampie, and the next wave of St. Aurelia's young women parted around him already whispering his name as the boy who had been called second.`,
+      `He stepped into the corridor ruined, stockings steady, skirt swinging, panties wet with the principal's creampie, and the next wave of St. Aurelia's young women parted around him already whispering Jake — the boy who had been called second.`,
     ],
   ],
   tags: ['spanking', 'discipline', 'humiliation', 'feminization', 'anal', 'public'],
