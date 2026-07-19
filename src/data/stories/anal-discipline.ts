@@ -10,7 +10,7 @@ const story: Story = {
     'Panties, stockings, and a regulation skirt for dress-code inspection — then bare-bottom classroom spankings that leave tears and bruises — until the principal bends him over the desk, splits him open on his cock, and leaves a creampie dripping down his thighs while the seniors watch.',
   firstChapterName: 'Called Second',
   firstChapterSummary:
-    'Morning inspection and an all-girls classroom where he is Miss in staff mouths and the boy in whispered gossip; a brutal bare-bottom spanking; hushed talk of Maren\'s Anal Discipline; then his own turn, ruined before the period bell.',
+    'Morning inspection at St. Aurelia\'s: Jake Miller is Miss in every staff mouth and the boy in whispered gossip; a brutal bare-bottom spanking; hushed talk of Maren\'s Anal Discipline; then Jake\'s own turn, ruined before the period bell.',
   chapters: [chapter2],
   pages: [
     [
