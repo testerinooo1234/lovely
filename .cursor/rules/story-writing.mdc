@@ -1,5 +1,5 @@
 ---
-description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam
+description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam, no therapy-speak desire
 globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
 alwaysApply: false
 ---
@@ -161,7 +161,31 @@ Do **not** fill stories with stacks of tiny standalone sentences (1–4 words) t
 
 **Heuristic when editing:** if you see two or more tiny descriptive crumbs in a row (periods **or** commas/dashes), either cut them or turn the idea into one ordinary flowing sentence. Do not leave `word, word, word` stacks as style.
 
-## 8. Chapters (optional)
+## 8. No therapy-speak euphemism for desire
+
+Do **not** abstract kink, jealousy, or arousal into soft clinical / therapeutic phrases. Characters can avoid porn slang; they should still sound personal and ordinary, not like a worksheet.
+
+**Bad (floaty therapy / “feeling” abstraction):**
+> for your feeling
+> understand your feeling
+> try the feeling
+> if the feeling is the right shape
+> that's still your feeling
+> the jealousy stays warm *(when used as jargon instead of a concrete reaction)*
+
+**Good (personal, concrete):**
+> because you want this
+> understand this thing you like
+> try what you asked for
+> if this is actually what you meant
+> that's still what you asked for
+> your ears went red / your stomach dropped / you got hard when I told you
+
+Soft vocabulary ≠ vague psychology. Prefer “what you want,” “your thing,” “because you asked,” “the jealousy,” named acts, and body reactions over “your feeling,” “the feeling,” “process,” “space,” or “shape” talk about desire.
+
+Applies to **all** authors and stories, including cute/inquisitive girlfriends and Dommes who speak gently.
+
+## 9. Chapters (optional)
 
 Most stories are single-chapter (`pages` only). Multi-chapter stories:
 
@@ -172,13 +196,13 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - Read time on cards and the story kicker is the **sum** of all chapters.
 - Each chapter should still meet the 5-minute minimum on its own when practical.
 
-## 9. Length and registration (unchanged)
+## 10. Length and registration (unchanged)
 
 - Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`. Multi-chapter: count all chapters; prefer each chapter ≥5 min.
 - Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
-- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam) — **this file wins**.
+- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire) — **this file wins**.
 
-## 10. Quick checklist before shipping a new story
+## 11. Quick checklist before shipping a new story
 
 - [ ] Opens in a scene, not a premise dump
 - [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
@@ -188,5 +212,6 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - [ ] No safewords / traffic lights / “still okay?”
 - [ ] No characters named Aaron or Eric
 - [ ] If a boy/man wears panties: framed as emasculation/humiliation (not “soft clothes” / care) — see §6
-- [ ] No fragment spam: weak 1–4 word stacks folded; short lines reserved for bombshells / sparse commands / fitting dialogue — see §7
+- [ ] No fragment spam: weak 1–4 word stacks deleted or rewritten as full sentences — see §7
+- [ ] No therapy-speak for desire (“your feeling,” “right shape,” etc.) — see §8
 - [ ] ≥1150 words; `npm run count-words` clean; builds
