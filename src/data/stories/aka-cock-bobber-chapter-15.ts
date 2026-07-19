@@ -220,7 +220,6 @@ const chapter: StoryChapter = {
       `I reached up to pull the rank jockstrap off my face, but ... why not enjoy it a little longer, right? After tomorrow, Tanya swore I'd never 'have' to wear it again. I laid down in bed and tried to fall asleep. As my breathing deepened, the continued surging of my dick told me I'd be sleeping on my back tonight.`,
       `Tomorrow, I was going to cum. Finally, I'd get to cum. While sucking Malph's cock. And not via some trick where I was cramped in a little car seat. Tomorrow, I was going to suck his cock like it should be sucked.`,
       `And I could hardly wait.`,
-      `To be continued ...`,
     ],
   ],
 }

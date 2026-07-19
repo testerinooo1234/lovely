@@ -192,7 +192,6 @@ const chapter: StoryChapter = {
       `She swirled her tongue around the cock head one last time as my hand began to stroke and pull the cock toward my lips.`,
       `"Open wide, Bobby," she whispered, her voice quavering.`,
       `I opened my mouth.`,
-      `To be continued ...`,
     ],
   ],
 }

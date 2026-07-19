@@ -156,7 +156,6 @@ const chapter: StoryChapter = {
       `"Promise me, Bobby. Promise me it will always be like it was today. Promise me I'll feel like I feel right now," she begged, tears streaming down her face.`,
       `"I'd do anything for you, Tanya. Anything. I promise. I'll be everything you want me to be," I replied. The final walls had fallen. My fate was sealed. Sealed with a cum-soaked kiss.`,
       `As she threw her arms around me and sobbed with joy, part of me truly wondered what I'd gotten myself in to.`,
-      `To be continued ...`,
     ],
   ],
 }

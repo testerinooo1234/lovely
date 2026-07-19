@@ -148,7 +148,6 @@ const chapter: StoryChapter = {
     ],
     [
       `I gave up trying to explain whether I "liked it" or not. The main point was that I loved her. I really loved her. Tanya was the girl of my dreams and, today, she said she loved me, too. Nothing was going to spoil the wonder of that for me, especially not this little 'misunderstanding' about what I liked or didn't like. Tanya and I were going to be together forever and I swore I'd do whatever it takes to make her happy. Whatever it takes.`,
-      `To be continued ...`,
     ],
   ],
 }

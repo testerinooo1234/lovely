@@ -132,9 +132,6 @@ const chapter: StoryChapter = {
       `I was still too dazed to comment ... or even really hear what she was saying. She gave me a long, sweet, tongue-filled kiss ... and was gone in an instant. As I lay there regaining my senses from the powerful orgasm, one thought came to mind as I finally understood the full impact of what she had said:`,
       `Uh oh.`,
     ],
-    [
-      `To be continued ...`,
-    ],
   ],
 }
 

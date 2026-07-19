@@ -178,7 +178,6 @@ const chapter: StoryChapter = {
       `As soon as the car stopped, she pushed open the door and leapt out. She teetered up the sidewalk with her thighs held tightly together, as if she had to go pee really badly.`,
       `"Hurry UP!" she shouted playfully as she reached the door. "I can't hold it much longer!"`,
       `As I walked slowly up the front walk, I could hear the giggles and shrieks of the two women inside. The strangeness of the relationship between those two didn't even phase me; my brain had already been through enough loop-de-loops for one day. As I made it to the front door, the shock value of seeing Tanya's mother holding her daughter's legs open to provide me access to her sperm filled pussy provided only mild stimluation. I closed the door behind me and moved to my rightful place with my head between her cum coated thighs. The rightful place of a faggot cumsucker.`,
-      `To be continued ...`,
     ],
   ],
 }

@@ -149,7 +149,6 @@ const chapter: StoryChapter = {
     [
       `"Well okay, then. Thanks for the effort, Bobby, but since you can't cum, let's just stop this nonsense." She started to roll off of me.`,
       `"Tanya, no! No!" I said with exasperation. "I can cum! I really can! I'm so close!"`,
-      `As always ... to be continued ...`,
     ],
   ],
 }

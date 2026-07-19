@@ -205,7 +205,6 @@ const chapter: StoryChapter = {
     [
       `As she began to grind her pussy into my face in her usual fashion, I heard the words that I knew would come:`,
       `" ... Mom will want to hear all about this!"`,
-      `As always ... to be continued ...`,
     ],
   ],
 }

@@ -162,7 +162,6 @@ const chapter: StoryChapter = {
     ],
     [
       `But that Bobby sure was one lucky cumsucker!`,
-      `To be continued ...`,
     ],
   ],
 }

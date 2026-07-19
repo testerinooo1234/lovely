@@ -202,9 +202,6 @@ const chapter: StoryChapter = {
       `Dear God, was she serious?! My heart was beating a mile a minute. I couldn't speak ... or breathe. I mentioned before those moments where you know your life is about to change. Well, this felt like another one of those moments. I was truly afraid. My mouth just hung open -- my brain unable to muster the will to say anything.`,
       `"Well, Bobby?"`,
     ],
-    [
-      `As always ... to be continued ...`,
-    ],
   ],
 }
 
