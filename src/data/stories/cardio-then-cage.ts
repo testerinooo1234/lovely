@@ -9,7 +9,7 @@ const story: Story = {
     'He booked a dungeon fantasy and walked into daylight, sneakers squeaking on clean mats — then the Mistress made him jump until his cock was soft enough for pink.',
   pages: [
     [
-      `He had pictured stone and shadow. Chains. Something that smelled like leather left too long in a closet. Instead the street-level door opened onto a wash of daylight through high windows, white walls, black mats laid out like a boutique gym, and a leather bench so new the stitching still gleamed.`,
+      `He had pictured stone and shadow, chains, something that smelled like leather left too long in a closet. Instead the street-level door opened onto a wash of daylight through high windows, white walls, black mats laid out like a boutique gym, and a leather bench so new the stitching still gleamed.`,
       `A woman in a pink tank top and black athletic shorts bounced once on her toes when she saw him, ponytail swinging, smile already at full voltage.`,
       `"Hi! You must be my four-thirty. I'm Tessa — Mistress works fine once we start. Come in, come in, wipe your feet, the mats are fresh."`,
       `He laughed the awkward laugh of a man who had rehearsed a different entrance. The room smelled of citrus cleaner and warm vinyl. On the wall rack, paddles hung beside resistance bands as if they belonged to the same sport.`,
@@ -52,7 +52,7 @@ const story: Story = {
       `"See? Everything's connected. Soft cock, locked cock, red ass. Whole kinetic chain."`,
       `He gripped the bench legs. The room stayed relentlessly bright; there was nowhere for the sound of the paddle to go except back into his ears. She switched cheeks with coachy fairness, then laid a harder set across the sit-spots until he rocked onto his toes.`,
       `"That's the color I wanted," she said, pleased, rubbing once with her palm. "Hot. Even. You held pretty well for a dungeon tourist. Stay."`,
-      `He heard the harness buckle. The sound of lube. When he glanced back she was fastening a thick strap-on to her hips, still in the pink tank, still smiling, key glinting between her breasts with every small adjustment.`,
+      `He heard the harness buckle and the sound of lube. When he glanced back she was fastening a thick strap-on to her hips, still in the pink tank, still smiling, key glinting between her breasts with every small adjustment.`,
       `"Not yet," she said when he tensed for the bench. "Front of me. Knees. Mouth open. We're finishing with oral form."`,
     ],
     [

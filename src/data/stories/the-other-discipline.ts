@@ -28,7 +28,7 @@ const story: Story = {
       `The first spank landed without warning — flat palm, full hand, the sound sharp in the small room. Heat bloomed immediate and honest across Rachel's right cheek. She hissed through her teeth.`,
       `"Count," Simon said.`,
       `"One."`,
-      `Two. Three. Simon spanked the way Rachel had always wanted James to spank her when she meant business — steady, unhurried, each impact placed with attention to where the sting would sit tomorrow. Not rage. Architecture. By twelve Rachel's eyes were wet. By twenty her thighs trembled. Simon paused with his hand cupped over the blazing skin he'd made and squeezed until Rachel whimpered into the leather.`,
+      `Two and three followed — Simon spanked the way Rachel had always wanted James to spank her when she meant business — steady, unhurried, each impact placed with attention to where the sting would sit tomorrow. Not rage. Architecture. By twelve Rachel's eyes were wet. By twenty her thighs trembled. Simon paused with his hand cupped over the blazing skin he'd made and squeezed until Rachel whimpered into the leather.`,
       `Another cluster of spanks, lower, meaner, right where sitting would remind her all weekend. When Simon finally stopped, he helped Rachel up and guided her to the couch, water first, then the blanket around her shoulders while the heat pulsed and pulsed and pulsed.`,
       `"You did well," Simon said, thumb wiping under Rachel's eye. "Same time next week. And fix your mouth at work before I fix it harder here."`,
       `Rachel texted James from the stairs: done. sore. coming down.`,
