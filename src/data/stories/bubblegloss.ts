@@ -22,7 +22,7 @@ const story: Story = {
       `"I didn't mean —"`,
       `"Say it again, Elliot."`,
       `He met his own eyes in the mirror. Mascara made him look startled all the time now; he wasn't sure yet whether that was fair. "Shit," he repeated, quieter. "I said shit. The clip —"`,
-      `"I heard the clip." She smoothed a stray hair behind his ear. Her fingers were cool. "I also heard you. Boys in panties don't swear at their hardware. Girls in panties don't either, actually, but we can start with you."`,
+      `"I heard the clip." She smoothed a stray hair behind his ear. Her fingers were cool. "I also heard you. Boys in panties don't swear at their hardware — mostly because boys in panties have already forfeited the right to sound like boys. Girls in panties don't swear either, actually, but we can start with you."`,
       `"I'm sorry."`,
       `"I know." She kissed the top of his head, the way she might kiss a niece she was about to correct. "Sorry doesn't undo it, though, does it, baby. Sorry is a wish. We do consequences."`,
       `He watched her cross the room. The apartment was small and pretty, everything in it hers — the beaded lamp, the ficus, the shoebox of ribboned samples from her tailoring class. She went to the bathroom door. She came back holding two things: a wand of pale pink lip gloss with a sugared-glass cap, and a fresh bar of soap, still shrink-wrapped, the label lavender in a cursive he had teased her about the day she brought it home.`,
