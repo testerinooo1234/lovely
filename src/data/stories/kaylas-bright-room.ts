@@ -54,7 +54,7 @@ const story: Story = {
       `Kayla laughed. "I'm just playing with you — it's actually quite large for a submissive boy. Now get down on your knees."`,
       `Kayla had the key to the chastity cage on a necklace and fastened it around her neck, leaving the key dangling in the cleavage between her large breasts, pink tank top framing the glint of metal.`,
       `Ryan got down on his knees as instructed. Kayla fastened a pink collar around Ryan's neck, buckling it snug, tapping the ring at the front like a coach adjusting form.`,
-      `"Up. Panties next." She held out a pair of soft pink panties. Ryan stepped into them; she tugged them up over the cage until the pink plastic made a faint outline. "Cute. Over the bench."`,
+      `"Up. Panties next." She held out a pair of soft pink panties. Ryan stepped into them; she tugged them up over the cage until the pink plastic made a faint outline. "There. Locked boy in girl's cotton. Cute and useless. Over the bench."`,
       `Kayla made Ryan bend over the new black leather bench for a spanking. She started with her hands — sharp, athletic smacks that clapped through the bright room — then moved on to a paddle from the wall rack. The wood kissed and then cracked. Ryan hissed.`,
       `Kayla pulled down Ryan's panties. "Naughty little girls get bare bottom spankings!" She spanked Ryan harder, paddle landing in crisp sets, her ponytail swinging, still somehow sounding cheerful between blows.`,
       `"Good boy — I mean good girl — whatever fits under the pink." She finished with a flurry that left his ass hot and ringing, then rubbed once, proprietary, and let him recover draped over the leather.`,

@@ -91,7 +91,7 @@ const story: Story = {
       `ineedspankedbad: walking funny at work kinda. teachers lounge almost saw the outline lol`,
       `Melissa's counter: little-girl panties for Jordan — soft pink with a tiny bow — worn under his jeans to the office, mirror selfie required, her voice in text suddenly sing-song cruel.`,
       `ineedspankedbad: aww look at the little sissy girl`,
-      `ineedspankedbad: soft panties for a soft brat who writes lines for a "bitch teacher"`,
+      `ineedspankedbad: girl's panties for the brat who writes lines for a "bitch teacher." make the bow sit over your locked little problem`,
       `ineedspankedbad: keep them on till bedtime or you owe me another belt video`,
     ],
     [

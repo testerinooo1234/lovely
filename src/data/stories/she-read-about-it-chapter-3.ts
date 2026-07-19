@@ -11,7 +11,7 @@ const chapter: StoryChapter = {
       `"I meant what I said," she told him before he could invent a worse greeting. "It was a mistake. The tent. Matt. All of it. I am not hanging out with other guys anymore. Not soft dates. Not coffee that turns into mouths. Not overnight anything." She put one tea in his hand like a peace offering. "Just you. Just us. Back to normal."`,
       `Normal, in their case, had always been a soft word with sharp edges. Liam drank anyway. The tea was too sweet. He did not care.`,
       `"You promise?"`,
-      `"I promise." Hana's voice went small and bright, the same register she used for apologies that wanted to be believed. "I feel sick when I think about your face after the morning texts. I do not want to be the girl who keeps doing that. I want to be your girlfriend who sits next to you in chem and steals your fries and does not make you wait in pink panties for reports."`,
+      `"I promise." Hana's voice went small and bright, the same register she used for apologies that wanted to be believed. "I feel sick when I think about your face after the morning texts. I do not want to be the girl who keeps doing that. I want to be your girlfriend who sits next to you in chem and steals your fries and does not make you wait in girl's panties while other boys get the rest of me."`,
       `A pause. She glanced at his waistband where his shirt had ridden up — habit, inventory — and then looked away like she had caught herself.`,
       `"You can stop wearing them if you want," she added. "For a while. While I prove it."`,
       `Liam's ears went hot. He had worn the pink ones to school under jeans like a private weather system. Taking them off felt like dropping a shield and a collar at the same time.`,
