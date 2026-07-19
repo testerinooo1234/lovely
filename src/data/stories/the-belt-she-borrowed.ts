@@ -10,8 +10,7 @@ const story: Story = {
   pages: [
     [
       `The belt was heavier than Paige expected.`,
-      `It lived on the hook inside her father's closet, worn black leather with a brass buckle that had knocked softly against the door every morning of her childhood and somehow never stopped sounding like authority. Paige was eighteen now — a high school senior at Ravelin Academy, home on a Saturday afternoon while her father mowed the lawn and her older sister Jenna (back from college for the weekend) napped downstairs — and curiosity had finally outweighed caution.`,
-      `She took the belt down with both hands.`,
+      `It lived on the hook inside her father's closet, worn black leather with a brass buckle that had knocked softly against the door every morning of her childhood and somehow never stopped sounding like authority. Paige was eighteen now — a high school senior at Ravelin Academy, home on a Saturday afternoon while her father mowed the lawn and her older sister Jenna (back from college for the weekend) napped downstairs — and curiosity had finally outweighed caution enough that she took the belt down with both hands.`,
       `In her bedroom, door locked, she doubled it the way she'd seen in videos she watched with the brightness turned low. The first tentative slap against her own thigh through jeans was almost funny. The second, bare against the skin of her ass after she'd pushed her shorts down, was not funny at all. Heat bloomed. She bit her lip, tried again harder, and the sound filled the small room like a secret escaping. By the fifth self-administered stroke her eyes were wet and her face was hot and something low in her stomach had gone tight and interested in a way she refused to name out loud even to herself.`,
       `She hung the belt back before her father came inside. She told herself that was the end of it.`,
       `It was not the end of it.`,
@@ -21,7 +20,7 @@ const story: Story = {
       `"Will you spank me?" The words came out thinner than she'd practiced. "Not — not as a joke. For real. I've been... I've tried it myself. With a belt. I think I need someone who knows what they're doing."`,
       `Silence stretched. Mrs. Carrow studied her the way she studied essays that had unexpected theses.`,
       `"Curiosity is not the same as asking," Mrs. Carrow said at last. "If we do this, we do it properly. Private office. No audience. And you look me in the eye when you say you want it."`,
-      `Paige did. "I want it."`,
+      `Paige did, holding his gaze. "I want it."`,
       `"Then come to my office at four."`,
       `At four, Mrs. Carrow locked the office door, had Paige bend over the desk in her uniform skirt, underwear down, and spanked her with a steady open hand that made Paige's Saturday experiments feel like rehearsal for a play she hadn't understood.`,
       `Twenty strokes. Counted. No lecture, only the clean attention of a woman who refused to rush. Paige cried on sixteen and kept counting anyway. When it was over, Mrs. Carrow handed her tissues and a cup of water and waited until Paige's breathing evened before unlocking the door.`,
@@ -76,7 +75,7 @@ const story: Story = {
       `Paige tried to stand enough to see over her shoulder. In the dresser mirror she caught a glimpse — her own bottom, striped and swollen, a deep angry red mottled with darker welts, skin so inflamed it looked fevered. Fresh tears spilled at the sight. She dropped her face again.`,
       `"Are we clear?"`,
       `"Yes, sir," Paige gasped. "I'm sorry. I regret it. I — I regret all of it."`,
-      `"Good." He set the belt on the bed within her sightline, buckle still warm from his hand. "You stay there another minute. Hands on the bed. No rubbing. You feel it."`,
+      `"Good," he said, and set the belt on the bed within her sightline, buckle still warm from his hand. "You stay there another minute. Hands on the bed. No rubbing. You feel it."`,
       `She stayed. The minute lasted forever. Heat pulsed in waves. Tears kept coming even after the belt stopped, as if her body hadn't gotten the message that the spanking was over. Regret sat in her throat like something she couldn't swallow. Unfair, some stubborn corner of her still insisted — she'd already been spanked once today — and under that, louder: you asked for real, and real does not care about your schedule.`,
       `He helped her stand when the minute was up. He did not hug her immediately; he gave her water, let her cry, waited until she asked. Then he held her the way he had when she was small, except she was freshly belted and shaking, her ruined red ass throbbing against nothing, the complicated relief of having been caught by every authority she'd tested in a single day pressed into the front of his shirt in wet patches.`,
     ],
