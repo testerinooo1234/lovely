@@ -48,6 +48,7 @@ import rentMyAttention from './rent-my-attention'
 import sentFromNyx from './sent-from-nyx'
 import sheLetsHimStay from './she-lets-him-stay'
 import sheReadAboutIt from './she-read-about-it'
+import sheWasOnlyArguing from './she-was-only-arguing'
 import smileThroughIt from './smile-through-it'
 import soapAndFlash from './soap-and-flash'
 import sockDrawerTrophy from './sock-drawer-trophy'
@@ -101,6 +102,7 @@ export const stories: Story[] = [
   madameBeaumontsCorner,
   sheLetsHimStay,
   sheReadAboutIt,
+  sheWasOnlyArguing,
   justATaste,
   kaylasBrightRoom,
   theWrongDrawer,
