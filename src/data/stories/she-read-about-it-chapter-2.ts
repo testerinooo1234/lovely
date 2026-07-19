@@ -115,7 +115,7 @@ const chapter: StoryChapter = {
       `Liam's hand trembled on her. She kept it there.`,
       `"It's nothing too serious," Hana added quickly, inquisitive, almost soothing, worrying a loose thread on his sleeve. "It's not a relationship with him. It's not me leaving. It's one overnight that got away from the plan. A one-time accident. Okay? You can breathe."`,
       `He tried. The breath snagged.`,
-      `"Now I'll go slower," she said. "Explicit, but soft words. You taught me the feeling. I'm still not going to talk like a video."`,
+      `"Now I'll go slower," she said. "Explicit, but soft words. You taught me what you like. I'm still not going to talk like a video."`,
     ],
     [
       `Hana turned toward him on the bed and folded her legs under herself, knees pink from cold. She kept his hand on her stomach a moment longer, then laced their fingers in her lap.`,
