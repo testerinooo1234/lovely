@@ -7,10 +7,6 @@ const chapter: StoryChapter = {
     "Sasha converts lawnboy Deke with a biology myth until he begs for cock as the cure.",
   pages: [
     [
-      `Written, created, conceived, and masturbated to by AKA. Comments: akaCockBobber(at)yahoo(dot)com http://www.asstr-mirror.org/files/Authors/AKACockBobber/ =====================================================`,
-      `Disclaimer: This story is intended for adults. It contains themes and situations that are not suitable for those not considered adults in their communities. It also contains naughty words. All characters in this story are intended to be portrayed as adults and therefore legally entitled to perform the strange, disgusting, and often downright immoral acts they are described as doing.`,
-      `The following is part sixteen of the Bob Cocker saga.`,
-      `a.k.a. Cock Bobber - The Convert by AKA`,
       `Deke Hunsacker paced back and forth nervously in the hallway outside Sasha's infamous 'Den of Iniquity'. His hands jittered at his sides, occasionally grabbing his thighs or knees -- anything to avoid touching his throbbing dick. She'd told him not to touch it -- not even to wipe away the copious drool of precum that was now dangling down in a long chain. As he paced, he felt the coolness of sticky droplets drying on his bare thighs. God, this was torture! He'd never had to wait before, but Sasha's instructions over the phone had been explicit. If he wanted to finally get to suck some cock, he'd have to wait in the hallway until she came to get him.`,
       `'Get' to suck some cock. Jesus. Deke could hardly believe he was thinking like that, but he was. He'd spent much of the last year lapping semen for Sasha Kohmfetter and had been thrilled every step of the way. Sasha was a beautiful and sexy woman and sucking sperm from her pussy was a true privilege. He'd told himself that many times. And so had Sasha.`,
       `But tonight, he was going to receive the privilege of sucking cum straight out of a thick, raging cock. He could hardly believe he thought of it as a 'privilege', but ... he did. Did he ever. He wanted it so bad he could taste it.`,
@@ -19,12 +15,12 @@ const chapter: StoryChapter = {
       `But a cock? No way. At least, that's what he'd thought last month.`,
       `But then Sasha starting talking about how lucky that damn Bob Cocker was to be sucking cock. And how good he was at it. Deke had spent hours with his face buried in Sasha's crotch listening to her go on and on about every detail. Every new trick Bobby learned to make guys cum harder and longer. Every load he got to milk directly into his throat.`,
       `Deke had even met Bobby one night in the hallway outside. Bobby himself told him just how good cocksucking really was. And just talking about it made Bobby sprout a hardon.`,
-    ],
-    [
       `Deke had gone home that night and fantasized about being Bobby. He fantasized about sucking cock.`,
       `Since then, every detail Sasha told him made him want it more. He always leaked precum while eating the fuckslop from her cunt, but if she stroked his hair and talked about cocksucking, deepthroating, and cum swallowing, his dick flowed like a fountain. He wanted it so badly.`,
       `And tonight was the night. After all this time, it would finally happen tonight.`,
       `* * *`,
+    ],
+    [
       `Nine Months Ago`,
       `Every horny teenage boy in the neighborhood knew who Sasha Khomfetter was. Divorced, independent, and hot. Totally hot. Every kid knew she was an absolute sex bomb, but she wasn't like those 'MILF's in the movies who dressed slutty and batted their makeup-caked crow's feet at the poolboy. No, Sahsa was just plain ... sexy. She didn't need to strut or wag her ass to get the boys to pop a boner -- it just happened everytime she gracefully walked by.`,
       `Of course, every 'hot mom/poolboy' fantasy Deke had ever whacked off to flashed through his head when 'Mrs K' asked him to start helping out around her house last spring. Sasha had run into Deke's mom at the grocery store and the next thing Deke knew he was pushing a lawnmower down the sidewalk to the Kohmfetter place ... desperately hoping no one could see the hardon in his baggy shorts.`,
@@ -33,12 +29,12 @@ const chapter: StoryChapter = {
       `"Oh, NOW you call! Now that I'm all the way home. I just got in a few minutes ago," said Sasha, sounding a bit perturbed.`,
       `[Short pause]`,
       `"Of course I tried to reach you! I always try to call while it's still hot and fresh. But you didn't answ--"`,
-    ],
-    [
       `[Longer pause]`,
       `"I don't CARE about some silly City Council meeting! I've got a snatch full of man-juice that needs a good tonguing! You're the man in charge. You just need to tell them that 'something came up'."`,
       `[Short pause]`,
       `"Or, more correctly, sweetheart ... that 'someone came'. Or *three* 'someone's, in this case," Sasha giggled, taking a more forgiving tone.`,
+    ],
+    [
       `[Longer pause]`,
       `"Oh, I don't know. I'm already home, my shoes are off, I'm comfortable ... I'm not sure I want to go out again. Maybe I'll just douche and take a na--"`,
       `[Loud tinny squawk]`,
@@ -47,12 +43,12 @@ const chapter: StoryChapter = {
       `"Don't worry, baby -- it's not gone. The seats are treated leather; it won't soak in."`,
       `[Short pause]`,
       `"Well, sweetie, time's a wastin'. So ... while I'm not usually this sort of girl, I'll meet you in that parking lot by the West Street bridge. After you finish cleaning my car seat with your tongue, we can fold down the seats of that big SUV the city got for you. It's not exactly our usual room at the Hilton, but ... if I remember correctly ... there's plenty of room for you to lie down in the back while I sit on your face and drain this nice, big load of gooey semen into your eager mouth. You know I love to watch your little weenie strain and twitch while you eat me. Does that sound like fun, darling?"`,
-    ],
-    [
       `[Tinny groan]`,
       `"That's a good boy. Now, drive fast, but not too fast. If you get stopped by one of your policemen, you'd have a hard time explaining the little tent in your pants, wouldn't you?" she giggled.`,
       `[Short pause]`,
       `"Okay! Okay! I'm leaving right now. Let me just tell my sweet little lawnboy that I'm--"`,
+    ],
+    [
       `And that's when it happened. There was Deke standing there with a hose in his hand and a raging hardon pushing out the fabric of his shorts. Sasha had opened the back door, glanced at the open window, then down at his crotch, and realized that he'd obviously heard every word of the conversation. Deke just stood there. He had no idea what to do or say.`,
       `"I've got to go, sweetie," she said into the phone. "I'll see you in fifteen minutes." Then she folded the phone to end the call.`,
       `Deke opened his mouth to say something, but ... nothing came out.`,
@@ -61,12 +57,12 @@ const chapter: StoryChapter = {
       `"I've got to go, my dear. But we'll talk about this later." With that, she turned, closed the door, and was gone ... leaving Deke to work in the yard with a painfully hard dick and one hell of a lot of questions.`,
       `* * *`,
       `'Later' didn't come for another three weeks. That left Deke with two torturous afternoons working in Sasha's backyard dreading the impending 'conversation'. But it also left him with twenty nights for the reality of what he'd heard to sink in.`,
-    ],
-    [
       `There was no mistaking what he'd heard. She was talking to a guy ... about eating another guy's cum out of her pussy. And the guy seemed eager. Almost insistent. No, *very* insistent.`,
       `But that was impossible? Who would do that? Who would want to? Was that guy on the phone 'gay'? But then why would he eat pussy? Did people really do that kind of thing? Would *he* ever do that kind of thing.`,
       `Impossible.`,
       `Never.`,
+    ],
+    [
       `No way.`,
       `It didn't make sense! It was a sick idea! He could never ...`,
       `He'd heard of all kinds of kinky things that people were into. This must be some freaky fetish between Mrs K and whoever she was talking to on the phone. Best to just put it out of his mind. Because he'd surely never do anything like that.`,
@@ -75,12 +71,12 @@ const chapter: StoryChapter = {
       `"Deke, it's time we had a little talk."`,
       `Deke jumped upon hearing Mrs Kohmfetter's voice behind him. He nearly dropped the rake, but then took a deep breath and turned to talk with her. It had been three weeks since the eavesdropping incident at the back window. He'd spent two weekend afternoons in her yard dreading this conversation, but this was the first time they'd spoken since then.`,
       `"Look, Mrs K, I'm really sor--"`,
-    ],
-    [
       `"No, don't apologize, Deke," she said, holding her hand palm-out. "I owe *you* the apology."`,
       `"Wha--"`,
       `"I'm supposed to be the responsible adult here. And as an adult, it's up to me to keep my 'adult' life private. I should have been more careful."`,
       `"But I'm sorry for being outsi--"`,
+    ],
+    [
       `"No, Deke, it's simply not fair of me to let you hear me talking about grownup situations like that."`,
       `"Mrs. K, it's OK. Really. I --"`,
       `"Oh, I know. I figure you're not exactly a 'newcomer' when it comes to these things, Deke. Why, a boy like you? With your thin frame, shy demeanor, and all those math and computer skills? Why, you've probably got half the cheerleading squad lined up ... just dying to spread their legs for you. I'm quite sure they take one look at a body like yours and dream of doing things they'd never do with those meathead 'popular' boys they date."`,
@@ -89,12 +85,12 @@ const chapter: StoryChapter = {
       `Deke's eyes widened. "Wha--"`,
       `"God, I remember my first cleanup boy!" cooed Sasha as she looked up distractedly. "He had all the things a girl looks for in a cumsucker. The moment I saw his skinny arms and geeky demeanor, I knew he'd be perfect." Sasha touched his forearm and ran her hand up his arm and chucked his chin with a smile. "You know what I mean, right Deke?"`,
       `"I ... uhhh ... I do?"`,
-    ],
-    [
       `"God, I remember those first trembling moments in the back seat ... guiding his head between my sticky, shaking thighs. That boy didn't have a clue about what he was doing, but, boy, was he eager!" she grinned. "He must have licked out nearly a dozen creampies before we even figured out how to make me cum! I hardly knew what an orgasm was until then. It took DAYS! Can you just imagine the waste!? I mean, that's the whole point, right?" She turned her gaze back to Deke. "But I don't have to tell you, do I? You kids today know more about sex than we did at that age, right?"`,
       `Deke's head was swimming. "Well, uhh ..."`,
       `Sasha shook her head rapidly. "But that's my point, isn't it? That's why I'm apologizing. Here you are in the bloom of your youth, learning about your body and your sexuality. Learning about the taste of pussy and semen and what it means to a boy like you. Taking those first youthful steps as a skinny little cuntlapper. And then here I come along and let you overhear me talking about a full-fledged, post-gangbang facesitting! I mean, it's too much! Too fast!"`,
       `Deke swallowed hard, his eyes wide. She was talking like licking cum from a pussy was the most natural thing in the world. At least ... for a 'boy like him'.`,
+    ],
+    [
       `Sasha gripped his shoulders. "Deke, I know you can't forget what you heard, but ... please ... try to keep your mind on simpler matters. Take things slowly. Find yourself a sweet little slut -- one who knows that nerdy boys like you are made for cuntsucking. Lay her back on a nice soft bed, and lick her cumdrenched pussy until her whole body melts around your ears as she orgasms. Please, don't think about my fuckbattered, dripping cunt hovering over your face in the back of some nasty truck. That's too grownup for a sweet boy like you! Don't try to force it. Just let things happen naturally. Go ahead a let those high-school hotties wrap their sticky thighs around your face and don't worry that there's probably only one load of semen in there, ok? Do you promise, Deke? Do you promise to take your life as a cumeater slowly?"`,
       `Deke paused for a moment, then simply started nodding. It was all his brain could handle.`,
       `"Good boy!" beamed Sasha. She patted his head gently. "Now, back to work! That lawn isn't going to rake itself!"`,
@@ -103,12 +99,12 @@ const chapter: StoryChapter = {
       `For weeks, all Deke could think about was semen. Licking, tasting, and swallowing semen.`,
       `A month before, he'd have never *considered* it, but now ... nothing turned him on more. These desires made him feel ashamed. Sick. Perverted. But, God, that made it even nastier and more desireable.`,
       `Every whack-off fantasy he'd ever had about the pretty girls at school now morphed into a feast of cum-filled pussy. He used to dream of being the guy who'd fill those pussies with cum, but now he dreamt of licking it out. Licking. Sucking. Gulping. God, it was an obsession! He no longer felt at all jealous when he watched the popular girls at school walking & laughing with the jocks and studs. Instead, he thought of those guys as simply the source of the cum that he imagined dripping down their sexy legs. When the girls pointed and giggled as he walked by with the other boys in the Science Club, he realized they weren't making fun of him. No, they were flirting. Hoping he'd offer to be their 'cleanup boy'.`,
-    ],
-    [
       `Of course, he was still too shy to talk to them. But it made him smile now that he understood more about the way sex worked in this new day.`,
       `But most of all -- regardless of how she'd tried to discourage him -- he thought of Mrs K. He thought of her flushed and sweaty body after a good fucking. He thought of her red and swollen pussy lips gleaming with a glaze of cum. He thought of how she would smell. How she would taste.`,
       `He whacked off constantly to the thought of tounging out her gooey holes. He jerked into his hand and licked it up -- he wanted to get used to the taste. He wanted to learn to love the taste. It was difficult at first; some part of him would lose interest after cumming. But another part knew that gobbling down cum was something that 'boys like him' needed to do. Eventually, his diligence paid off and he began to look forward to lapping up his semen as much as he did the orgasm. It felt dirty and nasty and ... well, it just felt right.`,
       `He'd make a damn fine cleanup boy. Now all he needed was a cummy pussy. A beautiful, sexy, delicious cum-filled pussy.`,
+    ],
+    [
       `* * *`,
       `As Deke pushed his wheelbarrow down the sidewalk toward the Kohmfetter house he -- as usual -- desperately tried to hide the hardon jutting under his baggy shorts. In the weeks that followed their previous conversation, Mrs K had hardly said a word to him. That didn't stop his fantasies, of course. And his hardon while working in her yard only got worse as the weeks went by.`,
       `He parked the wheelbarrow in the yard and approached the door. As he raised his hand to knock, the door opened suddenly and he stood face to face with Rod Cannon, the plumber.`,
@@ -117,12 +113,12 @@ const chapter: StoryChapter = {
       `"G'wan in, boy," he chuckled, letting the door swing open behind him. "She's in the back den ... all ready for ya." He patted Deke on the head as he passed.`,
       `Deke stood on the front stoop dumbfounded as Rod crossed the front lawn and climbed into the van -- the one with the "Plumbing the Depths" banner printed on the side. He gave Deke a final smirk, then started the van and drove away.`,
       `Deke's heart started to race. Could it be? Could Mrs K be 'ready' for him? He went inside, closed the door, and moved toward the back of the house -- tiptoeing for some reason. He noticed the door to the back den was ajar, nudged it open, and peered inside.`,
-    ],
-    [
       `There she was. There was Mrs K sprawled out on the red velvet pillows that covered a corner of the room in lieu of furniture. She was breathing heavily -- almost panting. Her arm lay across her face, her nose buried in the crook of her elbow in a pose of near exhaustion.`,
       `And her legs lay splayed open toward the door revealing to Deke the most erotic sight he'd ever seen. There before him lay the object of Deke's dreams -- a freshly fucked pussy. A beautiful shrine of pink flesh coated with milky white fluid.`,
       `It was ... gorgeous. Stunning. Irresistible.`,
       `Almost without conscious thought, Deke began to cross the room -- never taking his eyes from the prize before him. As he dropped to his knees on the pillow conveniently laying between Mrs K's legs, his whole world narrowed to the neatly shaven, cum-spattered piece of heaven before him.`,
+    ],
+    [
       `Mrs K stirred slightly at the gently thump of his weight hitting the floor. Without pulling her arm from her face, she said softly, "Oh, sweetie, I thought you weren't going to be here for me today. I'm glad you decided to skip that stupid tax meeting and come over for ... dinner." Her free hand reached out behind his head, clasped the back of it, and began to guide it toward her pulsating, musky flesh.`,
       `Deke's heart beat at a screaming pace. Yes! This was perfect! He opened his mouth and let his tongue slip out -- questing for it's ultimate goal.`,
       `But then Mrs K's hand gripped his hair. She tensed up, as if sensing something wrong. "Sweetie, did you buy a toupee or someth--" She peered out from under her elbow ... into Deke's wide eyes.`,
@@ -131,12 +127,12 @@ const chapter: StoryChapter = {
       `He reached up and touched her knee. "Mrs Kohmfetter. Don't worry." He looked her straight in the eye. "It doesn't matter that you weren't expecting me, does it? I'm here now. Right here. Let me ... take care of you." His gaze dropped downward as he applied a slight sideways pressure to her leg. "Let me ... take care of everything." His gaze dropped downward.`,
       `Mrs K softened. "Oh, Deke. We can't. I mean .. you can't ..." She relaxed and allowed herself to slide down the pile of pillows.`,
       `"Yes, we can. I can. I want to. You want me to," Deke insisted, actually sounding seductive for the first time in his life. He continued staring down at the juncture of her legs. He reached out and put his hand on the inside of her leg.`,
-    ],
-    [
       `Sasha allowed Deke to push her knee aside ... then let both legs spread outward. "Oh, Deke ... are you sure?"`,
       `"I'm sure," Deke replied as his head descended between her legs.`,
       `Sasha's body tensed as his tongue touched her flesh. Then a broad smile came across her face. "Oh, Deke, you're such a good boy. And such a good little cuntsucker. A total and complete ... sucker."`,
       `* * *`,
+    ],
+    [
       `As the last pulses of orgasm rolled through Sasha's body, she released the pressure of her thighs from Deke's ears. She used the handful of hair she'd been gripping tightly to lift his head up from between her legs. Almost reluctantly, Deke stopped lapping at her now over-sensitive flesh and looked upward. Sasha's eyes unclenched, lazily opened, and gazed down at his face -- glazed as it was with a thin film of semen and her own sexual juices.`,
       `"My God, Deke ... that was INCRRRRRREDIBLE!"`,
       `"That was ... I mean ... did you ... did you cum?" he stammered.`,
@@ -145,12 +141,12 @@ const chapter: StoryChapter = {
       `"Then stop asking silly questions!" she scolded playfully. "A woman never fakes an orgasm for her cleanup boy. Remember that."`,
       `"Okay," said Deke, almost absentmindedly. He took a few more gentle licks.`,
       `"Good boy. Now ... what did you think of the taste? Was I right?"`,
-    ],
-    [
       `Deke's eyes widened as a big smile crept across his face. "Oh my God, it was DELICIOUS! It tasted so much better! I mean, it always tasted good, but ... tonight I just couldn't get enough. Who would think that would make such a difference?!"`,
       `"See??! I told you!" Sasha beamed. "The longer a boy like you goes without cumming, the better that real man-cum tastes! How long has it been, anyway?"`,
       `Deke continued casually lapping as he mentally counted. " ... eigh-- no, nine days!" he said proudly.`,
       `"My goodness! That's impressive. That man-cum must have tasted like nectar!"`,
+    ],
+    [
       `"God, yes."`,
       `"How's your dick? Is it hard right now?"`,
       `"It's so hard it hurts a little," Deke said, wincing slightly at the now-remembered ache.`,
@@ -159,12 +155,12 @@ const chapter: StoryChapter = {
       `"No, dear, it's just an expression. But let me see! Up you go!"`,
       `Deke gave her pussy a final kiss, then stood to show off his swollen, painful erection. Sasha knelt down in front of him and stared admiringly at the straining flesh that bobbed in front of her. A few months ago, Deke's fondest fantasies would have envisioned him receiving a hot, sloppy MILF-blowjob in this scenario. But this day, the thought never even entered his mind.`,
       `"My goodness, Deke. That *is* impressive!" cooed Sasha "It's a little achey, you say?" she teased as she ran a fingernail along the bottom of his shaft.`,
-    ],
-    [
       `Deke swallowed hard. "Y-yeah. Just a little."`,
       `"But it's worth it for the improved flavor of that man-cum you were gulping down, right?"`,
       `"Oh, hell yes," he agreed.`,
       `"Good boy! Then I'll expect to see you in this condition more often! Now, you've got to cum eventually -- once a month or so, but if you avoid touching or stroking at the moment of orgasm, it will be minimized. That will help you build up to this state again more quickly."`,
+    ],
+    [
       `"Umm ... ok. Thanks." Deke struggled to avoid cumming right there as Sasha continued to lightly graze the skin of his penis with her fingertips. "So ... um ... how does that work anyway?"`,
       `"What ... the taste thing? Well, I believe it's hormonal. As a boy like you slowly matures into a man, his body craves testosterone to grow up big and strong. And just like a deer is drawn to the taste of a salt lick to get what it's body needs, yours is drawn to the flavor of manly, hormone filled semen! Your body craves what's good for it, so as the need grows, that cum tastes better and better to you!"`,
       `Deke pondered this for a moment .. along with the pronounced ache in his penis. "But why does waiting make the need for testosterone grow?"`,
@@ -173,12 +169,12 @@ const chapter: StoryChapter = {
       `"Now, Deke, this is more of a topic for my psychology students at the university, but .. it's essentially a trick of the subconcious mind. As you go longer and longer without an orgasm, the part of your mind in control of sex drive doesn't feel like it's doing it's job. It feels less and less manly. So, it drives up the craving for testosterone and, therefore, makes that semen seem yummier & yummier."`,
       `Deke didn't really listen to her answer. It was difficult to concentrate with her gliding her fingers up and down his hard dick. He just acknowledged mentally that semen was delicious and getting hornier and hornier without orgasm only made it better. He was learning so much from her.`,
       `Sasha licked her finger and used the slickness to rub her finger in a circle around the sensitive spot on the underside of his cockshaft. "Beau-ti-ful," she whispered while staring intently at the twitches she caused. "Ohh, Deke. You're such a good boy. With a dick this hard, I know you're just going to love whatever I can feed you while you're in this state." Her face took on a disappointed pout. "It's just such a *shame* that the effect won't last! It won't be long before I lose you and your eager little tongue."`,
-    ],
-    [
       `Deke's eyes darted back and forth. "Won't last? Lose me!? What do you ... what are you talking about?!" Deke huffed, sounding almost panicked.`,
       `Sasha looked up at him, her brow furrowed in puzzlement. "What? Oh, Deke, I thought you knew! I thought by now one of the other girls would have told you during a good tongue-douching."`,
       `Mrs K's insistence that he was some kind of Don Juan of pussy sucking had always been flattering (the only other vagina he'd ever seen up close had been in a 'Health Class' video), but now it became suddenly frustrating. She'd been hoping someone *else* would tell him about this? "What? Tell me about what?" he asked, his voice cracking slightly.`,
       `"Oh, Deke. This can't go on forever -- soon you'll be a man."`,
+    ],
+    [
       `"What has that got to do with anything?"`,
       `Sasha closed her eyes and shook her head in frustration. "Oh my. I can't believe no one told you. I tell you -- girls today are downright irresponsible! Any cumfeeding cheerleader worth her salt know that it's extremely important to inform the boy cleaning cum from her sopping twat that his lif--"`,
       `"Tell me WHAT??!" Deke insisted.`,
@@ -187,12 +183,12 @@ const chapter: StoryChapter = {
       `"Well, remember what I said about hormones? As you continue to mature physically, your body will produce more and more of it's own testosterone. Therefore, you'll crave an outside source for it less and less. I know it doesn't seem like it now -- " Sasha's eyes crossed slightly to look at the still raging-hard penis in front of her face, " -- *especially* now -- but eventually you just won't WANT to suck cum from my pussy anymore. It's pure biology, Deke."`,
       `Deke's mouth just hung open in shock ... as if she'd just told him the sun wouldn't rise tomorrow.`,
       `Sasha leaned in and gave the tip of his dick the softest of kisses. She wiped a tear from her eye, sniffled, and said quietly, "I'm so sorry, Deke."`,
-    ],
-    [
       `Deke's mind tried desperately to make sense of this new information. "But ... but ... I've heard you! On the phone! Those were men, right?"`,
       `She shook her head. "No, Deke, you don't understand. Yes, I have other male friends who share this activi--"`,
       `"Your other cumsuckers, right? They're men, right?" Deke's voice rose in pitch.`,
       `Sasha smiled slightly at his use of the word 'cumsucker'. "Deke, that is an entirely different situation. Yes, it's true that they are older and th--"`,
+    ],
+    [
       `"Then why do *they* get to keep cleaning cum from you??!" he shouted. "It's not fair! Why do I ha--"`,
       `"DEKE!! Stop it!! It's your dick! Your DICK, okay!?"`,
       `Deke stopped shouting. He looked down at the still-hard shaft sticking out in front of him. He regained his calm, took a deep breath, and asked, "What about it?"`,
@@ -201,12 +197,12 @@ const chapter: StoryChapter = {
       `"Anyway, Deke, a cock like that dooms you to the testosterone future I described. I mean, 5 inches ain't nuthin' to crow about, but I'm sure it'll land you some chubby girl from your chess club or something. You'll forget all about rutting your face around in my wet, gooey fuckbox and lead a perfectly happy life of Saturday-night-missionary sex. You'll have a nice, solid, average life with your nearly average dick. It's nothing to be afraid of, Deke. It's just the way things are."`,
       `A slack-jawed Deke contemplated all this new information. This dismal, horrible information.`,
       `Sasha's gaze returned to the stiff, swollen cock before her. She reached up with a single finger and bobbed it up and down a little with her fingertip. "But, I do have to say ... it's a damn shame. You are an *excellent* cumsucker, Deke. Top notch, really."`,
-    ],
-    [
       `Deke actually whimpered.`,
       `With a final sigh, Sasha rose and walked across to the room to the bar and began to fix herself a drink. "It's sad, Deke, but there's no point in pouting about it. In fact, it's all the more reason to enjoy what little cummy-cuntsucking time you've got left to the fullest. While that 5-incher rules you out of the sperm-lapping life, it won't exactly be a real girl-pleaser, if you know what I mean. You're going to need all the pussy-licking experience you can get if you expect to make your future wife ever cum at all, so ... enjoy this time while you can. You've got weeks or maybe even months of goo gobbling time left, so you shou--"`,
       `"Weeks!??!" Deke cried in a panic.`,
       `"I know ... I know ... it doesn't leave much time, but I'll do what I can to help." She leaned back against the bar and sipped her drink. She looked up ponderingly and said, "I'm pretty booked for the next couple of days, but ... let's give those balls a few more days to swell and I'll call you this weeken--"`,
+    ],
+    [
       `"NO!" cried Deke.`,
       `"Oh, are you busy this weekend?"`,
       `"No, I mean 'NO'! This can't be true! I want to go on doing this forever. I ... I was *meant* to do this! I can feel it! Maybe ... maybe my dick's just the wrong size or something. It was meant to be smaller. I know it. Maybe ... "`,
@@ -215,12 +211,12 @@ const chapter: StoryChapter = {
       `"Excuse me?"`,
       `"You said 'almost nothing' can be done."`,
       `Sasha broke loose of her embrace with Deke. "No," she said plainly as she crossed the room and shook her head. "No, Deke, don't even go there. I ... I mean, there is a way, but ... it's nearly impossible. It would take some remarkable effort on your part. I'd rather not even discuss it."`,
-    ],
-    [
       `"Tell me!" Deke begged.`,
       `"Listen Deke, I'm sorry, but ..."`,
       `Deke dropped to his knees in front of her. "Please, Mrs K, tell me! I'll do anything. I don't want to stop. I don't want to lose ... " Deke paused as his gaze centered on the bare, smooth pussy mound in front of his face " ... you."`,
       `Sasha sighed heavily. "Oh, Deke, you're as cum-addicted as any boy I've ever seen! It's such a shame. If any mediocre dicked boy could pull it off, it might be you."`,
+    ],
+    [
       `"Tell me," said Deke softly ... planting a kiss on her clit.`,
       `"Oooh," she moaned. "I swear, Deke ... all right ... but don't say I didn't warn you."`,
       `He continued to kiss and gently nibble her clit as he looked up into her face.`,
@@ -229,12 +225,8 @@ const chapter: StoryChapter = {
       `"I'm afraid you're not quite understanding me, Deke. The cum you so enjoy lapping up from my pussy has already weakened in hormone strength significantly by the time you swallow it. You'll need to ... find a more direct source."`,
       `Deke stopped his nuzzling of Sasha'a crotch. Deke was not a stupid boy. Deke looked up questioningly. He knew what she was going to say before she said it.`,
       `"You need to suck cock."`,
-    ],
-    [
       `Regardless of his expectations ... Deke actually gasped.`,
       `To be continued ...`,
-      `===================================================== Copyright (c) December, 2006 - A.K.A. The above is a work of fiction, intended solely for entertainment. Any similarity to actual persons, living or dead, is done purely to make them look like the total perverts that they are. Remember, the exchange of bodily fluids between sexual partners -- including the eager and rabid swilling of a stranger's sperm -- is against the recommendation of the surgeon general's office. They think it's pretty damn freaky, too. AKA`,
-      `akaCockBobber16-TheConvert`,
     ],
   ],
 }

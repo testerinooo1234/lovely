@@ -7,10 +7,6 @@ const chapter: StoryChapter = {
     "Bob watches the van rock in the parking lot and loses an argument that redefines faggot as affection and kneeling as his rightful place.",
   pages: [
     [
-      `Written, created, conceived, and masturbated to by AKA. Comments: akaCockBobber(at)yahoo(dot)com =====================================================`,
-      `Disclaimer: This story is intended for adults. It contains themes and situations that are not suitable for those not considered adults in their communities. It also contains naughty words. All characters in this story are intended to be portrayed as adults and therefore legally entitled to perform the strange, disgusting, and often downright immoral acts they are described as doing.`,
-      `The following is part four of the Bob Cocker saga.`,
-      `a.k.a. Cock Bobber - Rightful Place by AKA`,
       `The next morning at school, I'd almost forgotten how much my life had changed the day before. As Tanya greeted me in the schoolyard that morning with a deep and lusty kiss, my joy at having her love returned. She stood there in front of everybody with her arms draped around my neck while I stood there grinning in stunned silence. I felt like the coolest kid in school.`,
       `"Good morning, baby," she purred, her hands wandering over my chest. "You're coming over to my house this afternoon, right?"`,
       `We were always walking around the schoolyard together, but she'd never made such obivous romantic moves toward me. I felt on top of the world. Here was the prettiest girl in school practically crawling all over me. I wanted to shout out to everyone to look at me. Look at me with my girlfriend. She's all mine.`,
@@ -19,12 +15,12 @@ const chapter: StoryChapter = {
       `I grinned goofily. The press of her body against mine and her sultry tone quickly caused my pants to tent out as a burgeoning boner strained against the fabric. She giggled as she felt it against her leg.`,
       `"Oooh," she whispered, "either that's a roll of Certs in your pocket .... or you're just as eager as I am to get that tongue of yours lapping loads of spermy residue from between my thighs." A giggle escaped her lips as she copped a feel of my hardon through my pants.`,
       `My eyes shot wide open. Dammit ... how did she do that?! How did she manage to interpret every reaction of mine to her inate sexiness as an eagerness to eat other men's cum? My mind screamed as I tried to find the words to disagree with her. But then, of course, the schoolbell rang.`,
-    ],
-    [
       `"Oh!" she exclaimed. "Gotta get to class. Meet me over at my house after school, ok?" she said quickly, skipping off toward the front door. "Oh ... and make sure you're hungry baby! You're going to get plenty of ..." she looked around as if noticing for the first time that there were other people around, "... your 'favorite treat'!"`,
       `With that, she joined a group of letter-jacket wearing jocks headed into the school. I saw Malph Ludder glance over his shoulder at me with a leer as his hand slid up her leg and squeezed her ass. She squealed with delight as she playfully slapped his hand away and pulled down her too-short skirt. I stood there dejected as the group disappeared through the front door of the school ... and praying that no one else understood exactly what she'd meant by her parting words.`,
       `I no longer felt like the coolest kid in school, that was for sure. I felt as if everyone was staring at me.`,
       `And as the schoolyard quickly emptied, my mind raced back over her words.`,
+    ],
+    [
       `"Certs??!"`,
       `* * *`,
       `I don't know why I waited in the parking lot after school, but for some reason ... if only out of morbid fascination ... I sat in my car and watched as Tanya climbed into the back of Malph's van with two muscle bound jocks. She spotted me and gave me a playful, fingery wave. She even blew me a kiss as the door slid shut. My heart sank as Malph drove out of the parking lot to who knows where.`,
@@ -33,12 +29,12 @@ const chapter: StoryChapter = {
       `"Knock knock", said the voice outside my car window. It was Tanya's mom. I rolled down the window.`,
       `"Bobby, there's no reason for you to sit outside while you wait for Tanya. Why don't you come inside and I'll see if I can dig up a snack for you."`,
       `I followed her inside ... a little surprised that she didn't expect to find Tanya with me.`,
-    ],
-    [
       `"I've got a whole kitchen full of snacks for a boy like you, Bobby. How about a nice frothy vanilla milkshake? I can even stir in some egg whites for texture."`,
       `"No, it's OK. I don't --"`,
       `"Some beef sausage then? I've got some thick meaty ones."`,
       `"I --"`,
+    ],
+    [
       `"Custard pie?"`,
       `"It's ok, really."`,
       `"Kielbasa? Rice pudding? Banana? Cucumber soup?"`,
@@ -47,12 +43,12 @@ const chapter: StoryChapter = {
       `Confused, I almost started to question her when we heard the squeal of tires out front.`,
       `"Oh! That must be my darling daughter now," she said, moving toward the front door.`,
       `Tanya came through the front door, looking an absolute mess. She was carrying one highheeled shoe. And her bra. Her dress was half unzipped and one strap was off her shoulder. Her bright red lipstick was smeared and her hair matted to her sweaty brow.`,
-    ],
-    [
       `"Oh-ho-ho-ho my, Tanya. You look like you were rode hard and put away wet," she chuckled, "which of course you were."`,
       `"You bet yer ass I was, Mom. This is so great. I'm soooo glad you convinced me to be a slut," my Tanya said frankly as her mother helped her across the room.`,
       `"Ohh, I'm so happy for you. I always knew it would happen for you someday, dear. I can tell you're exhausted, though. Until you're used to it, getting gangfucked can be a rough experience. Here, hon ... let's get you down on the couch."`,
       `I watched in awe as this woman spoke happily and frankly to her daughter about being fucked by a group of young men. I stared silently as she guided Tanya over to the couch. Tanya plopped down onto the couch, then scooted her hips to the very edge of the seat. She leaned back so that her head rested against the couch back then lifted her legs and hooked her arms under her knees. She wasn't wearing any panties.`,
+    ],
+    [
       `"I know what you mean, Mom. My pussy feels like raw hamburger."`,
       `It looked that way, too -- red, swollen, and obviously well stretched. A familiar sheen was glazed over her pussy and upper thighs.`,
       `"Well, dear ... that's why it's so great that you have Bobby to help you with that," said Mrs K as she placed a pillow on the floor between her outstretched knees.`,
@@ -61,12 +57,12 @@ const chapter: StoryChapter = {
       `"I know it sounds weird, Mom, but even as those big, thick cocks are ramming into my pussy and spurting their gooey cum, the only thing I can think of is how great Bobby's tongue will feel licking it out."`,
       `"That's not hard to believe, dear," said Mrs K as she stroked the back of my head, "Bobby here has obviously got a real natural talent for cumsucking. It's only natural that you should want to take advantage of it by getting your pussy filled with as much of it as possible." With that, she pressed the back of my head into Tanya's crotch. My entire face was immersed in the warmth of her flesh and the stickiness of several men's ejaculations ... as Tanya cooed with delight.`,
       `"Oooh, that tongue feels so GOOD!" she moaned. "Thank goodness Bobby has a long tongue to reach all the way up inside. I swear, there's enough of those spermy wigglers in me right now to breed an army. If it weren't for Bobby, I think I'd get pregnant for sure!"`,
-    ],
-    [
       `"But he's here now, honey -- doing his job. He's not the type to let that happen to you," Mrs K said with a pat to the back of my head. "Now, young lady, tell me all about .... say ... where are those thong panties I sent you to school in?"`,
       `Tanya's breathing changed as my licking began to have an effect on her. "Th-they're s-s-somewhere in Malph's v-van, I guess."`,
       `"Well, young lady, if you're not going to take care of them, I don't think you should wear panties at all."`,
       `"S-sounds good to m-me, Mom," Tanya purred. "Now, do y-you w-want to hear about how I got f- f-fucked t-today or not?"`,
+    ],
+    [
       `"Of course, dear. Tell me everything," said Mrs K as she continued to stroke the back of my head and press my face downward, "Did any of them fuck you in the ass?"`,
       `"C-c'mon, Mom, I've only been a s-s-slut for a day. Y-you know that I've only had Bobby's little p-pecker up m-my ass so far. But a-after Bobby gets his dick all hard from eating jism, I'd l-like to t-try taking it up the butt again, o-k-kay Mom?"`,
       `"Well, that's up to you, dear. You're the slut. But I must admit -- even though Bobby's dickie won't put on much of an assfucking show -- I would like to watch him suck the cum out of your ass. I can only imagine how sexy that will look."`,
@@ -75,12 +71,12 @@ const chapter: StoryChapter = {
       `"I don't know a-about 'fill', Mom. He doesn't sh-shoot v-very much. But it'll b-be enough for y-you to watch ooze into his mouth."`,
       `"I'm sure it will be plenty, dear. I can hardly wait," said Mrs. K. "And I bet Bobby here can hardly wait until you're stretched enough to take some real cock up your ass. I'm sure that eating his own cum from there must be somewhat like trying to tickle himself -- not nearly as satisfying as the real thing."`,
       `"And d-don't w-worry about ... (oh yes!) ... that, M-mom. Every g-guy ... (hunhhh) ... in the b-back of that v-van wanted to f-fuck my ass. I'll b-be bringing h-home ... (fuck, yeah) ... plenty of buttloads of c-cum for Bobby to s- suck out."`,
-    ],
-    [
       `I could tell by her faltering speech and convulsing thighs that Tanya was about to orgasm. I put any reluctance I might have had regarding their plans for me out of my mind and concentrated on making my Tanya happy.`,
       `"I'm cumming, Mom. Ohhhhhh-ohhhhh-ohmigod. Only B-bobby c-can make me cum this way. God, I l-love him!"`,
       `Her thighs clamped tightly around my head and I felt the muscles of her pussy tighten against my tongue. The spasming caused another huge mouthful of slimy white semen to push it's way into my mouth. I swallowed it easily and continued probing her with my tongue. All semblance of revulsion at what I was doing had disappeared. I simply focused my mind on the fact that it was me that was making her feel this way. She'd said it herself -- only I could make her cum this way. Only I could make her feel this way. She loved me -- that was all that was important. It didn't matter if I had to swallow all the cum in the world.`,
       `* * *`,
+    ],
+    [
       `Of course, Tonya's mom got her wish -- I later ate my own cum out of Tanya's ass. I was basically putty in the hands of these two women and they were quickly forming me into something which I'd never dreamed of being only a day before. I'd spent many an afternoon over at Tanya's house, but this was the second day in a row that I found myself driving home with the musky taste of semen permeating my mouth. I figured it wouldn't be the last.`,
       `Although I'd basically accepted my new role in Tanya's life, I did hope to have at least some say in what was going on. The next morning at school, I explained to Tanya how odd I'd felt watching her drive off in Malph Ludder's van. To my surprise, she quickly promised that I could certainly expect a different scene that afternoon. Sure enough, after school she came right over to my car after school ... but she came over to the driver's side door. I rolled down the window to hear her.`,
       `"Ok, honey ... I'll be back in just a little bit, ok? I understand how you want to be close to me while I get gangbanged, but I don't think Malph and the boys would be comfortable with you watching."`,
@@ -89,12 +85,12 @@ const chapter: StoryChapter = {
       `* * *`,
       `"Thank you so much for waiting for me, honey," she cooed huskily as she climbed in the car an hour later. "It's so nice of you not to make Malph drive so far out of his way to take me home." I thought about the fact that 'out of the way' was about 3 blocks as she scooted forward in the front seat and propped her legs up on the dashboard, waving her hands under her thighs to fan air against her obviously overheated pussy.`,
       `I started the car and pulled out of the parking lot, eager to get away from the stares of her 'friends'. I noticed her odd 'legs-up' position and commented, "Y'know, I think you'd have less chance of getting pregnant if you sat up and let some of that ... uh ... well, it might have a chance to drain if you--"`,
-    ],
-    [
       `"Oh, and the boys were all talking about you today," she beamed, totally ignoring my suggestion.`,
       `"Th-they were?" I stammered nervously. I sat horrified; I could only imagine how they'd made fun of me. I wasn't exactly popular with the jock crowd. "Wh-what did they say?"`,
       `"Honey, they're so sweet. They've all got tremendous respect for you. They all agree that they could never do what you do for me."`,
       `" ... what I do for ... " I repeated. Oh no, she wouldn't tell them ... no. No way. She wouldn't think of ... "Honey, you didn't tell them tha--"`,
+    ],
+    [
       `"I mean," she continued, ignoring my horrified look, "they all know they're not mature enough to be daddies at this point in their lives. They think it's fantastic that they don't need to worry about that with you around?"`,
       `"You mean ... you mean, they know?" I asked, panicking that everyone might know about our particular method of 'birth control'. God, I could just hear them all howling with laughter.`,
       `"Of course they know, silly. Everyone knows that I'm your girl. I make it perfectly clear to everyone that you're going to be my man forever ... even if I do get pregnant by someone else. They think it's incredible of you to be so understanding of my inherent sluttiness."`,
@@ -103,12 +99,12 @@ const chapter: StoryChapter = {
       `I was beginning to get nervous again about exactly what she'd told them. "Honey ... just to clarify. Y-you ... you didn't tell them about ... uh ... about--"`,
       `"About how you press your face into my warm, gooey, freshly fucked gash and use your tongue to scoop out all that goopy, spermy white cum?" she asked, her innocent questioning gaze in total opposition to the vulgar words she was speaking.`,
       `I winced at her frank language. "Yeah. That."`,
-    ],
-    [
       `"Well, no dear. I didn't. It didn't really come up. But I don't see what the big deal is. Is there some reason that you wouldn't want me to tell them?"`,
       `I almost screamed, but tried to hold my composure. "Honey, I ... please ... you've got to understand. Those ... 'friends' of yours have been picking on me since the 6th grade. They always push me around and call me names like geek, nerd, queer, faggot ... stuff like that. If they knew that I was --"`,
       `"OOH! That makes me sooo mad!!" she fumed, surprising me with her outburst. "You are NOT queer! You're my BOYFRIEND for Pete's sake! That's just ... OOH!"`,
       `I swelled a little inside at her vigorous defense.`,
+    ],
+    [
       `But then she continued. "Now 'faggot' I could understand. Sure. A faggot is someone who eats cum, so you could say that someone who eats as much cum as you do is a faggot, but --"`,
       `"HONEY!" I cried out, shocked at what she was saying, almost losing control of the car in my shock.`,
       `" -- but 'queer'? No way! That would mean that you're a homo. A gay-boy. Some limp-wristed pansy who runs around looking for some sperm to swallow. And that's just not a fair description of you. That's not how is it with you, right?"`,
@@ -117,12 +113,12 @@ const chapter: StoryChapter = {
       `"Exactly!"`,
       `Just a perfectly normal, completely heterosexual, sperm-gobbling faggot."`,
       `"R-right!" I agreed, then realized exactly what she'd said. "No ... wait. Stop that!" I protested, "I'm not a faggot!"`,
-    ],
-    [
       `"Of course you are, baby ... the way I define it. I mean, what else would you call someone who's sucked down over a dozen ball-loads of jism in only two days?"`,
       `"Tanya, stop! You're making it sound like I'm a homo!"`,
       `"But you're NOT a homo!" she said definitively. "We've been over this!"`,
       `"I know! So don't call me a 'faggot'!"`,
+    ],
+    [
       `"But baby, that's different! In my eyes, being a little faggot cumsucker doesn't mean that you're gay. Can't you see that?" she said as if it were the most logical argument in the world.`,
       `"No! I mean, yes! I mean ... " I was starting to get very frustrated. "Honey, I see what you're saying about how YOU want to define it, but ... everyone else ... I mean, the guys .... oh, look ... can you just agree not to call me that? You may not, but other people WILL think I'm gay."`,
       `"Oh, don't be silly, honey. Look, you're a guy, right?"`,
@@ -131,12 +127,12 @@ const chapter: StoryChapter = {
       `"Right!" I agreed empahatically.`,
       `"And you're a cumsucker, right?"`,
       `"Ri-- ... er ..."`,
-    ],
-    [
       `"And you suck cum from my pussy, right? A woman's pussy."`,
       `"Y-yeah, but .."`,
       `"And it's not like you're a cocksucker yet or anything, right? So, you see ... being a guy who eats cum makes you a faggot, but it's perfectly clear that you're not a queer-boy since you only lap up sperm from my freshly fucked pussy. It's so obvious, honey. So you don't need to worry ... no one would ever think that you're a homo, silly." She punctuated her 'explaination' with a cheerful note and a peck on my cheek.`,
       `We drove in silence as I tried to understand how she could possibly claim that her argument actually made any sense. She hummed quietly to herself, apparently perfectly satisfied that the issue was settled. After a few minutes, I finally found the guts to reply.`,
+    ],
+    [
       `"Listen, Tanya. Hear me out on this, would you please? I really don't think that everyone thinks of a fa-- ... I mean, I really do think that if people knew ... uhh ... what I do for you ... or if they heard you call me a f-f- faggot," I choked out the word to make absolutely clear what I meant, "they would probably think that I'm gay or something."`,
       `She remained silent for a moment, as if pondering what I'd said. "You really think so?" she asked like she'd never heard the word used that way.`,
       `"Yes, honey. Please ... don't call me that."`,
@@ -145,12 +141,12 @@ const chapter: StoryChapter = {
       `"Nooooo!" I groaned.`,
       `"Oh, all right!" she finally agreed, sounding a bit perturbed. "I would expect this from one of those big-cocked piles of muscle on the football team, but I expected you to be a little more secure than to worry about what other people think about how you and I use what is obviously a term of affection."`,
       `"Affection? What?!"`,
-    ],
-    [
       `She wasn't listening. "If you're so bothered by someone ELSE's defintion of a perfectly good word, I suppose I can refrain from using it." Now she actually sounded annoyed.`,
       `"Th-thank you," I stammered, unsure of her mood.`,
       `"At least in public. Not all the time, anyway."`,
       `"Arrrrrgh!" I growled in frustration. "Honey, please! If you tell anyone how I .. I mean .. if anyone finds out about ... about --"`,
+    ],
+    [
       `"Your cumsucking?" she added, actually managing to sound helpful and pissed off at the same time.`,
       `"Yes ... my cum ... sucking," I said, involuntarily using the term for the first time. I shook it off and continued, "I-if they find out, all hell will break loose, don't you see that?"`,
       `"Oh, don't you worry, honey. The amount of cock- cream you suck down will remain our little secret." She really sounded annoyed now. "It's becoming obvious to me that if someone like you is so 'sensitive'," she used finger-quotes, "to even the HINT of being considered a homo, I can only imagine what some of my hefty-hung friends would think. If they knew that their sperm made its way into the mouth of a faggot each day, I'm not sure how they'd react."`,
@@ -159,12 +155,12 @@ const chapter: StoryChapter = {
       `"No ... no, of course you ... wait ... I ..." Man, I had no clue what to say. I'd never heard her so mad at me before. So I just blurted out what I was most concerned about, "Honey, don't you realize that they'll beat me up if they think I'm queer."`,
       `She gasped at that and looked over at me in shock. "Oh my God. Do ... do you really think so, baby?"`,
       `"Yes," I said quietly. "You don't know how they are, Tanya. They've been picking on me for years."`,
-    ],
-    [
       `She remained quiet for a moment in thought. Her tone was much softer when she continued, "Wow, honey. You may have a point on that one. Mom's taught me an awful lot about male psychology. She says that men with bisexual tendencies are more likely be violent when faced with it. I'm pretty sure that most of those guys would just love to have a little faggot like you suckling their meaty cocks -- that's why I picked them -- but I suppose you're right in that they're unable to accept that right now. Those simple little minds of theirs are likely to think that just because you end up with a belly load of their semen, it somehow makes them gay. Right, honey?"`,
       `"Ok, yeah, but ... picked them? What do you mea- -"`,
       `"Oh, it's so OBVIOUS now! I see ... you're just pointing out that while you're sexually secure enough to admit you're a semen-sucking faggot, those monster-meated morons are the ones who have the problem. Oh, honey ... I'm so sorry that I got mad at you. Can you forgive me?" She batted her eyes at me.`,
       `I was confused as hell about what she'd said, but mostly just glad that she'd found a reason to stop being angry with me. "Well, of course I forgive you, Tanya, it's just ..."`,
+    ],
+    [
       `"You're SO right about them, Bobby." she continued, ignoring me. "It makes them feel all 'manly' to pound away at my pussy like they do, but they might not want to squirt their cum into me if they knew you end up swallowing each and every load. And neither of us wants THAT to happen, eh?"`,
       `"Well, I ..."`,
       `"Y'know, I'd forgotten just how silly the thought processes of a man can be. I guess I've just gotten too used to the way you think, baby. I'm so glad that you're different." She reached over and squeezed my hand.`,
@@ -173,18 +169,16 @@ const chapter: StoryChapter = {
       `"Of course we can," I replied, simply happy that she was no longer mad.`,
       `"Wow," she pondered, "I guess you could call this our first argument, Bobby. And ... I have to admit -- you won. I was wrong and you were right. I usually find it hard to admit when I'm wrong, Bobby, but you bring out the best in me," she cooed in a loving manner.`,
       `"Aw, shucks, honey. Thank you for saying that," I said, wearing a silly grin.`,
-    ],
-    [
       `"Ok, then. It's agreed. I promise to only call you a faggot when we're alone and that I won't tell any of those horse-cocked meatheads anything about your cum-guzzling until their weak, insecure minds are ready to hear it, ok?" She practically beamed at me, looking at me as though we'd reached a common ground.`,
       `"O ... k," I agreed, wondering what point I'd actually won in this argument.`,
       `"Wonderful!" she chirped. As we turned the last corner in our trip to her house, she said "Oh boy! We're almost home. I can hardly WAIT to get inside and get my pussy vacuumed out. God, it feels like there's a GALLON of cum in there."`,
       `I pulled up to the curb, silently dreading and accepting what would happen once we got inside.`,
+    ],
+    [
       `As soon as the car stopped, she pushed open the door and leapt out. She teetered up the sidewalk with her thighs held tightly together, as if she had to go pee really badly.`,
       `"Hurry UP!" she shouted playfully as she reached the door. "I can't hold it much longer!"`,
       `As I walked slowly up the front walk, I could hear the giggles and shrieks of the two women inside. The strangeness of the relationship between those two didn't even phase me; my brain had already been through enough loop-de-loops for one day. As I made it to the front door, the shock value of seeing Tanya's mother holding her daughter's legs open to provide me access to her sperm filled pussy provided only mild stimluation. I closed the door behind me and moved to my rightful place with my head between her cum coated thighs. The rightful place of a faggot cumsucker.`,
       `To be continued ...`,
-      `===================================================== The above is a work of fiction, intended solely for entertainment. Any similarity to actual persons, living or dead, is done purely to make them look like the total perverts that they are. Remember, the exchange of bodily fluids between sexual partners -- including the eager and rabid swilling of a stranger's sperm -- is against the recommendation of the surgeon general's office. They think it's pretty damn freaky, too. AKA`,
-      `akaCockBobber04-RightfulPlace`,
     ],
   ],
 }

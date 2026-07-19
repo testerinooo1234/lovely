@@ -7,10 +7,6 @@ const chapter: StoryChapter = {
     "Tanya arrives already fucked by Malph and his brother; Bob stretches her ass for him and seals his fate with a cum-soaked promise.",
   pages: [
     [
-      `Written, created, conceived, and masturbated to by AKA. Comments: akaCockBobber(at)yahoo(dot)com =====================================================`,
-      `Disclaimer: This story is intended for adults. It contains themes and situations that are not suitable for those not considered adults in their communities. It also contains naughty words. All characters in this story are intended to be portrayed as adults and therefore legally entitled to perform the strange, disgusting, and often downright immoral acts they are described as doing.`,
-      `The following is part three of the Bob Cocker saga.`,
-      `a.k.a. Cock Bobber - Sealed with a Kiss by AKA`,
       `I lay in bed that evening, trying desperately not to think about how my life had changed since that morning. But I couldn't help thinking about Tanya ... and how she said that she loved me. Every time I replayed those words of hers in my mind, I broke into a huge smile. I was almost giddy.`,
       `But there was a cloud to my silver lining. The events surrounding her declaration of love had been anything but perfect ... for me at least. From her viewpoint, I'm sure it WAS perfect -- she was in the middle of a series of powerful orgasms. And I was the cause of those orgasms. Sounds perfect, right? Well, it might be except for the fact that I gave her those orgasms as I licked a load of stranger's semen -- one of seven loads that day, if you included my own -- from her heavily-fucked pussy ... all under the watchful eye of her mother. It was an unusual set of circumstances, to say the least.`,
       `I'd driven home from her house in a daze, wiping dried cum and pussy juice from my face along the way. It was really only when I walked in the kitchen and kissed my mother hello that I realized the extent of my predicament.`,
@@ -19,12 +15,12 @@ const chapter: StoryChapter = {
       `It was Tanya. She looked a mess. Her hair was wet with sweat and matted to her forehead. Her makeup and lipstick were smeared across her face. I jumped up and opened the window to let her in.`,
       `"Oh my .... what happened to you?" I asked. I glanced at the outfit she was wearing and thought to myself that she looked hotter than ever. Her midriff was left exposed by a short loose-fitting tank top and I could see more of her legs than I'd ever seen while clothed due to the too-short skirt she was wearing. She stumbled as she came through the window in her high-heeled white pumps.`,
       `"Oh honey. I'm so glad to see you. I am so RAW!" she gasped as she fell into my arms. She kissed me hard and long ... almost vulgarly. As her tongue pushed its way into my mouth, I could smell the powerful scent of sex all over her. As she broke the kiss, she looked into my eyes with a sultry gaze. "God, I love you," she purred, "Just the thought of you makes me sooooo happy."`,
-    ],
-    [
       `"R-really?" I asked ... still surprised to hear such a beautiful girl saying such things to me.`,
       `"Of course, baby!" she giggled. "I was thinking about you the whole way over here and getting so incredibly turned on." She smiled and allowed her body to go limp as she fell lazily onto my bed -- face down. "Now come over here and give me some of your special kind of lovin'," she gleefully commanded.`,
       `I watched in open mouth awe as she hoisted her perfect ass up into the air while laying her head down on the bed. She wiggled her ass back and forth as she moved her knees out to the sides slightly. Her lewd display quickly caused a hard-on to tent out my pajamas.`,
       `"Oh, honey. I knew this would turn you on," she whispered as she looked back at my hardon. "I just love how excited you get when I bring you a snatch full of cum." Then she reached back and hoisted up her skirt over her ass to reveal the gooey mess that was her pussy.`,
+    ],
+    [
       `Her swollen pussy-lips were red and blotchy. They were also apparently freshly shaven; they glistened with the thin glaze of jism that coated them. The hair that still remained on her mound was matted and goopy with semen. Trails of cum ran down her thighs. I knew immediately what was expected of me.`,
       `"Honey, I've been thinking about what's happened today, and ...." I started nervously, hoping to talk her out of her expectations.`,
       `"Oh, so have I! God Damn, honey ... have I ever been thinking about it. It's been such an AMAZING day. I don't think I've ever been happier," she cooed.`,
@@ -33,12 +29,12 @@ const chapter: StoryChapter = {
       `"No, that's not what I ... wait ... did you say Malph's brother?" I asked confusedly.`,
       `"Yes, his broth-- ... ohh, I'm sorry, baby. I didn't tell you. Mom drove me over to Malph's house so I could apologize to him."`,
       `"Apologize? Why would ..."`,
-    ],
-    [
       `"Baby? I hate to interrupt, but you how I hate the feel of cum against my skin and there's quite a lot of it dripping down my thighs. Could you start with that, please?"`,
       `"But, I ..."`,
       `"Please, honey?!?" she purred. "It feels so ... icky."`,
       `"I ..."`,
+    ],
+    [
       `"Pleeeeeease!" she whined while waving her ass in the air insistently.`,
       `I could see that I wasn't going to get a word in until I did what she asked. I heard her purr with delight as she felt my tongue press against her thigh and begin to lick upward along the cum- trail, collecting the drained semen as it went. I finished cleaning up one thigh, but paused to ask my question before continuing to the next.`,
       `"What in heaven's name could you have to apologize to Malph for?"`,
@@ -47,12 +43,12 @@ const chapter: StoryChapter = {
       `"Baby ... let me finish. Besides, you've got better things to do with your tongue besides wagging it while you talk," she hinted with a giggle while wiggling her ass in my face.`,
       `She simply expected me to suck cum out of her pussy like it was the most natural thing in the world. I'm not sure why, but all my reluctance on the matter had disappeared. In fact, my dick was straining stongly against my pants as I sat with my face inches from her cum-filled cunt. Maybe it was simply the fact that I knew how happy it made her or maybe it was already becoming force of habit, but without hesitation I leaned in and pressed my face into the warm sliminess of her pussy lips and began to tongue her deeply, straining to reach the copious amounts of spermy white fluid within.`,
       `"Ohhhhhh yess, baby. God, you make me so h- happy. But, anyway ... as I w-was saying. Mom told me that it's the responsibility ... (wow, that feels good) ... of the w-women who enjoy and need sex as much as I do ... (suck it, baby) ... to keep that b-bad cum from building up within their b-bodies. If not for sluts like m- me, those young men would end up h-harrassing girls who don't really want it."`,
-    ],
-    [
       `"Honey! You're (slurp) not a slut! Don't (smack) talk about yourself that (gurgle) way!" I protested.`,
       `"Oh, you better believe I'm a slut, baby. That's why m-mom shaved my pussy today, so ... (wow, don't stop) ... all the b-boys would know it."`,
       `"Your own mother (slurp) shaved your pussy?" I asked in surprise.`,
       `"Yeah ... right before she d-drove me over to Malph's. She w-waited while I apologized to him for not being a slut for him earlier."`,
+    ],
+    [
       `As busy as I was scooping out globs of goopy jism from her gash, I almost missed what she said, but then the oddness of it struck me. "She really made you (lick) apologize and waited (slurp) in the car while he fucked you?" I asked.`,
       `"Well, she wasn't just going to l-leave me there, silly. She's waiting in the c-car right now. See, on the way over here, she told me ... (fuck, you're good at this!) ... how the two biggest problems for sluts like me are getting p- pregnant too young and ... (ok, lie down on your back) ... never finding a g-good, caring man," she explained.`,
       `I dutifully rolled over and lay face up on the bed. I felt the hard on I was sporting strain against my pants as I assumed the position I was coming to know all too well.`,
@@ -61,12 +57,12 @@ const chapter: StoryChapter = {
       `* * *`,
       `"Perverted. Deliciously perverted," whispered Sasha Kohmfetter to herself as her hips twitched with remnant waves of orgasm. Her legs were lewdly splayed out as she sat in the driver's seat of her car. One leg was flung out over the gear shift. One hand was holding her skimpy panties out of the way so the other could gain easy access to her now-swollen clit.`,
       `She had masturbated herself to orgasm three times already as she thought of the scene that must assuredly be developing inside little Bobby Cocker's bedroom right now. By now, Tanya would have her drooling pussy positioned over Bobby's face. Rivulets of gooey cum would be drizzling into Bobby's waiting mouth. She imagined Bobby's cute little pecker stiffening as he tasted the salty flavor of other men's semen.`,
-    ],
-    [
       `Sasha's fingers began dancing over her clit as she brought herself to yet another orgasm. Her panties were literally soaked with her own juices.`,
       `Oh my, she thought, I'm certainly going to have to go out and find some good cock tonite. And then some good tongue. Bob Cocker isn't going to be the only young man in this town who'll be eating fresh creampie tonite, that's for sure.`,
       `Sasha mentally flipped through her selection of available cocks and loving mouths, searching for the combination that would suit her mood tonite. The obvious choice for tonight's cuntlicker was the Hunsacker boy down the street. He had an amazing tongue and demonstrated an eagerness for cumsucking that surprised even Sasha.`,
       `Karen Hunsacker wonders why her boy Deke hasn't moved out on his own after graduating from high school last year, she thought to herself. Deke won't be doing that anytime soon -- that would deprive him of the pleasure he gets from lapping load after load of jism from my drooling cunt.`,
+    ],
+    [
       `Sasha's fingers began massaging her clit again as she thought back on the many afternoons that Deke had been called over to do "odd jobs". She took especially perverse pleasure in calling Karen and having her send Deke over to perform his duties.`,
       `"I just need some help cleaning out some places I can't reach on my own, Karen. Would you mind sending that nice young son of yours over to help out? I'll even make sure he doesn't go home hungry," whispered Sasha to herself with a gleeful giggle. Her pussy began to tingle at the sheer dirtiness of Deke's own mother sending him off to eat sperm from that "nice neighbor lady's" slippery cunt. And after watching her own daughter feed young Bobby a load of cum, Sasha was feeling very dirty indeed.`,
       `She'd thought of grooming young Deke for Tanya when the time was right, but Tanya was obviously way ahead of her. From the looks of things, Bobby was going to develop into a world class cumsucker. He'd make a fine husband for Tanya -- taking care of all her needs including vacuuming her pussy of all the sticky cream she'd have deposited there by her future lovers.`,
@@ -75,12 +71,12 @@ const chapter: StoryChapter = {
       `Before they married, Sasha's mother had introduced her to the joys of having her semen- filled gash licked clean by a willing young man. But she wasn't satisfied with the idea of marrying a cumsucking wimp. She wanted what the other girls wanted -- a big handsome stud. And Teague fit the bill perfectly. However, a stud like Teague came with a price.`,
       `Like any woman who's had her goopy snatch lapped clean by a young man's soft tongue, Sasha was firmly addicted to the idea. Teague would never do such a thing himself, of course, so Sasha had to go elsewhere to obtain her ultimate pleasure.`,
       `Things had gone rather smoothly for the first few years of their marriage. Teague's regular shifts at the steel plant gave her plenty of time to arrange a schedule of cumsuckers. She would wake Teague up every weekday morning by stroking his cock to hardness, then ride him till he filled her with his thick cum. Nearly ever weekday morning, she had a regular source for a good pussy vacuuming. The milkman, the paperboy, a few of the nieghborhood wusses ... she had a knack for finding men willing to bury their faces in sticky gash.`,
-    ],
-    [
       `Thinking back, Sasha figured that her biggest mistake was trying to keep her 'habit' a secret from Teague. The biggest fight of their marriage came when Tanya was 2 yrs old. A power failure at the mill meant that everyone was sent home early. Teague walked in on Sasha as she was straddling the face of the insurance agent she'd called over for a 'consultation'.`,
       `In the argument that followed, Sasha tearfully explained her 'addiction'. The bruise to Teague's male ego was considerably soothed when she told him that none of her cumsuckers ever touched her pussy with anything but their tongues. The fact that only his was the only cock that ever plunged its way into her depths made him feel much better. He let the insurance agent go with only a few small bruises on his throat and he and Sasha had a long talk.`,
       `At first, Teague seemed to accept the idea -- he actually gained some perverse pleasure from the concept. As she pointed out to him, if some sissy-boy wanted to suck his cock cream out of his wife's snatch ... and if it made her happy, what was the big deal?`,
       `The months that followed were the happiest Sasha could remember. She had a big, handsome man of a husband who fucked her long and hard every night and a small stable of willing mouths into which she could dump his copious loads of cum ... along with her orgasmic juices. Where she used to have to sneak off after Teague fell asleep, she would now brazenly grab her purse & keys and head off to find a pretty-boy face to straddle. It was absolute bliss.`,
+    ],
+    [
       `Her heaven was torn assunder when Teague suddenly left. One night after a particularly long and passionate fuck session, she'd gone off to have her cunt cleaned, only to come home to an empty house. Apparently, he'd been packing up a few things under her nose for weeks. The only thing she found was a note that simply said, "I can't do this anymore."`,
       `Beyond those words, Teague refused to talk to her at any length. They quietly divorced and Sasha went to the difficult task of raising Tanya on her own. Except for the checks that arrived promptly each month, Teague was a non- factor in their lives. She never really found out why he left. And she didn't care anymore; her anger at him for making her raise Tanya on her own now eclipsed any other feelings she might still have for him.`,
       `It certainly wasn't easy raising a little girl by herself. When she was married to Teague, the money didn't exactly flow like water, but things were especially tough in the first few years. Between working lousy jobs and going to night school, there wasn't a lot of time for Tanya. But she'd done it; Tanya had developed into a bright, beautiful young woman. And there was no way she was going to let Tanya repeat her mistakes.`,
@@ -89,12 +85,12 @@ const chapter: StoryChapter = {
       `Suddenly, a loud moan escaped her lips as her hips heaved wildly in orgasm. The most deliciously perverted thought had just "come" to her. She decided that the perfect source for a load of sweet cum to feed to Deke Hunsacker ... was Dave Hunsacker himself -- Deke's father. The dirty old bastard had been chasing her skirt for months now, but she'd been saving him for a special occasion. If her own daughter's acquisition of a beautiful little cumsucker of her own wasn't cause for celebration, what was?`,
       `She knew that Dave would be out working in the garage tonite -- she'd heard the wood saw running often enough this week to know his schedule. While Karen sat inside watching sitcoms, she'd get her snatch pumped full of cum by her husband, then slip around to the back bedroom to have it emptied again by little Deke.`,
       `As her latest orgasm subsided, she stroked herself and whispered, "Oh, Deke. I know you're already addicted to cum, but once I start feeding you your own father's semen, you'll be a cumsucker forever."`,
-    ],
-    [
       `--`,
       `"Ungh!" grunted Tonya as the head of my dick popped into her tightly puckered asshole. I stared in disbelief at the long dirty-blonde hair that cascaded down over her back as she tilted her head back. I was lying on the bed as she staddled my dick while facing away from me. This position gave her absolute control over how much of me to take up her asshole and gave me an incredible view of her near-perfect asscheeks as she slowly lowered herself downward.`,
       `"Wow," I whispered, in awe at the sight before me.`,
       `"Wow is right, baby," she moaned back. "I l- love how this feels. The s-stretching feeling is incredible."`,
+    ],
+    [
       `"D-does it hurt at all?" I stammered out.`,
       `"Just a little bit. I sure am glad Mom gave me that lubricant." She pushed back with her hips and lowered herself just a little more onto my dick; it was almost halfway in. "She had a g- good idea about starting out with your little pecker."`,
       `A bit perturbed about yet another comment regarding the size of my dick, I replied sarcastically, "My 'little pecker' seems to be filling your tight ass just fine." To accentuate the point, I bucked my hips up just a little and my dick slid in past the halfway point.`,
@@ -103,12 +99,12 @@ const chapter: StoryChapter = {
       `"This f-feels really good, honey," she purred. "It doesn't hurt at all anymore n-now that it's s-stretched out some. Soon I'll be ready to take a big c-cock like Malph's up there. Oh, thank you, honey. Thank you for s-stretching out my ass for him. It's gonna feel s-so good when he fucks my ass." She started riding up and down the full length of my shaft`,
       `I was speechless. I couldn't believe she was talking about fucking another guy with my dick inside her. Feeling a bit angry again, I started pushing upward with my hips as she rode downward -- hoping that the increased fucking action would get her to stop talking about Malph before I spurt my cum.`,
       `"Oh, wow ... I can really feel your little d- dick twitching, babe. I can only imagine what it will feel like when Malph's cock bucks and j- jumps while filling my ... guts with his ...thick ... cum." She was obviously fantasizing about Malph as she rode down on my dick harder and harder.`,
-    ],
-    [
       `"Do we have to talk about Malph right now?" I asked, unable to keep an angry edge out of my voice.`,
       `"Oh, I'm s-sorry, babe," she replied, not slowing down in the least. "I imagine you're excited enough as it is taking my ass-cherry. I guess it's not fair of me to turn you on more by making you think of Malph's cum."`,
       `"Now, I ..." I started to protest.`,
       `"Forget about it, baby. Just lie back. I want to try something. Tell me if you think this will excite Mal- ... I mean, just tell me if you think this is sexy." While still riding her puckered hole up and down my prick, she bent at the waist and leaned all the way forward, pressing her face to my feet. At the same time, she reached back with both hands on either side and pulled apart her asscheeks.`,
+    ],
+    [
       `"Oh my fucking god," I mumbled trying not to look at the stunning sight of my dick penetrating her spread ass.`,
       `"Do you like that? Do you think it's sex--"`,
       `"Uuunngh!" I grunted as my eyes rolled back into my head, an orgasmic wave spread over me, and I blew my load into her asshole.`,
@@ -117,12 +113,12 @@ const chapter: StoryChapter = {
       `"Open wide, baby. I've got your treat for you," she giggled.`,
       `"I -- mmmppph," her ass pressed onto my face.`,
       `"I know, baby. When you started licking my ass eariler today, baby, I knew that you wished it was full of sperm for you to suck out. It makes me so happy to give you what you want," she cooed.`,
-    ],
-    [
       `It was impossible to think of what to say or do in my post-orgasmic haze. It was bad enough that she thought I enjoyed eating cum from her pussy, but to have it squeezing from her ass into my mouth?`,
       `"My asshole is still pretty sensitive, baby. I guess you're waiting for the cum to drip out on it's own, but if you start licking now you might make me cum. I was really close when you spurted. It's only fair, y'know."`,
       `As I felt the drops of cum begin to drip onto my lips, my mouth just sort of opened ... as if it had a mind of it's own. My tongue reached out and began licking the stretched flesh of her asshole, probing inside the now-shrinking sphincter to scoop out my own semen within. I was doing as she asked. I knew I would always do as she asked.`,
       `As I licked her ass and pussy and listened to the orgasmic pleasure contained within her moans, I could foresee this scene repeating itself again and again. This was what made her happy. I loved her and if I wanted to be with her, I'd have to do what made her happy. Wasn't that what love was all about? Making someone happy?`,
+    ],
+    [
       `But I was still having trouble with the idea of eating cum. Eating my own was bad enough, but Tanya seemed intent on being a slut for Malph and his friends. As her orgasms subsided once again, the conflicting ideas swirled in my head - - the joy of making her happy vs the bitter taste in my mouth (figurative and literal) of having to share her.`,
       `"Oh baby, your tongue in my jism-soaked ass feels so much better than your little pecker. It's better than any real cock could ever be, too. Only you can make me cum this way, baby. Only you."`,
       `Hearing that, some part of me was actually ... proud.`,
@@ -131,12 +127,12 @@ const chapter: StoryChapter = {
       `She planted her lips against mine and gave me a long, loving, heavy-on-the-tongue kiss. She pulled back slightly, then used her tongue to guide errant globs of cum from my face into my mouth then returned to the deep french kiss, stopping only after several minutes before breaking.`,
       `"Oh wow, baby ... I absolutely love kissing you with cum in your mouth. That way I get to enjoy the taste just like you do, but without having to worry about the icky slimy way it feels in my mouth. You'll always let me kiss you after you suck down a load of sperm, right babe?"`,
       `"Uhh ... ok, but ..."`,
-    ],
-    [
       `"That's my baby!" she squealed delightedly. She pressed her nose against mine again in a playful gesture, then scooted down on the bed to lay her head on my chest. Her fingers lazily traced a pattern on my belly as her breathing slowed. At the moment, feeling her naked body next to mine was the best feelig in the world.`,
       `"This has been the best day of my life, baby. I just wanted you to know that," she said, her voice sounding as loving and tender as I'd ever heard it, "We learned so much about ourselves and each other today. Could you ever have expected that the day would turn out like this?"`,
       `"No ... never," I answered quite honestly as I realized I was swallowing the remnants of my tenth load of semen that day.`,
       `She squeezed my body tightly and squealed, "Happy Birthday, baby! Wow, it's been some birthday for you, huh? You were expecting just a little sucky-sucky action from me under the bleachers and you ended up getting blowjobs from two different women and got to fuck my virgin asshole!"`,
+    ],
+    [
       `She had a point. Not many guys got that kind of action in a single day, but the bitterness of the semen I'd swallowed was sitll -- literally -- fresh in my mouth. I sarcastically replied, "Well,hon ... I ended up swallowing my own cum each time along with that of several strange men, so ..."`,
       `Tanya turned to look me in the eye, obviously happy and excited. "I know, honey! And that's the BEST part! If it weren't for what happened today, we might never have found out how much you love eating sperm!" she interrupted, totally ignoring my sarcasm.`,
       `"Who said that I 'loved' it?" I asked.`,
@@ -145,12 +141,12 @@ const chapter: StoryChapter = {
       `"Listen, honey, I ..."`,
       `She cut me off with a finger over my lips and climbed up on top of me, straddling my chest. Her long hair cascaded around my head as she leaned down and planted a soft kiss on my lips. In the dim light, her beauty alone was enough to silence me. "No, wait. Before you say anything, I ... I just want to tell you how much what we've learned today means to me. What it really means to me." She paused to wipe a tear from her eye.`,
       `"Are ... are you crying?"`,
-    ],
-    [
       `"No. *sniff* I mean, yes. It's just ... I'm just so happy to have you, Bobby," she said, her voice cracking.`,
       `"Oh, Tanya. I've always thought I was really lucky to have you as my girl, too," I agreed.`,
       `"I know, Bobby. And that's really sweet. You're a sweet, kind person. But after today, I know that you're more than that to me. See, I guess I've always known that I'm a slut at heart. It's just been under the surface, waiting to come out. And Mom's always told me what happens to sluts ... that they always end up sad and alone and pregnant ... and that they never find a good husband. But I can tell you'll be a good husband, Bob Cocker. A great husband. And knowing that you'll be there for me makes me so, so happy."`,
       `"Husband? You ... you want to get married?" I stammered, suddenly feeling overjoyed and confused at the same time.`,
+    ],
+    [
       `"And knowing I've got you to slurp all that baby-making sperm out of my pussy ... well ... it's frees me, Bobby. I'm free to be the slut I am without having to worry about all those bad things my mom told me about."`,
       `"But .."`,
       `"And the BEST part is the fact that it turns you on, too! Seeing that hard little prick of yours ready to explode as you empty out my semen-filled snatch .... it's just makes me so *sniff* incredibly happy! It makes me love you so much."`,
@@ -159,12 +155,8 @@ const chapter: StoryChapter = {
       `"I ... I love you, too Tanya," I whispered, tears brimming in my eyes.`,
       `"Promise me, Bobby. Promise me it will always be like it was today. Promise me I'll feel like I feel right now," she begged, tears streaming down her face.`,
       `"I'd do anything for you, Tanya. Anything. I promise. I'll be everything you want me to be," I replied. The final walls had fallen. My fate was sealed. Sealed with a cum-soaked kiss.`,
-    ],
-    [
       `As she threw her arms around me and sobbed with joy, part of me truly wondered what I'd gotten myself in to.`,
       `To be continued ...`,
-      `===================================================== The above is a work of fiction, intended solely for entertainment. Any similarity to actual persons, living or dead, is done purely to make them look like the total perverts that they are. Remember, the exchange of bodily fluids between sexual partners -- including the eager and rabid swilling of a stranger's sperm -- is against the recommendation of the surgeon general's office. They think it's pretty damn freaky, too. AKA`,
-      `akaCockBobber03-Sealed`,
     ],
   ],
 }

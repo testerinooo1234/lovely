@@ -7,10 +7,6 @@ const chapter: StoryChapter = {
     "False choice: sissy buttslut versus heterosexual cumsucker \u2014 Mom's program ends his dick days.",
   pages: [
     [
-      `Written, created, conceived, and masturbated to by AKA. Comments: akaCockBobber(at)yahoo(dot)com http://www.asstr-mirror.org/files/Authors/AKACockBobber/ =====================================================`,
-      `Disclaimer: This story is intended for adults. It contains themes and situations that are not suitable for those not considered adults in their communities. It also contains naughty words. All characters in this story are intended to be portrayed as adults and therefore legally entitled to perform the strange, disgusting, and often downright immoral acts they are described as doing.`,
-      `The following is part eleven of the Bob Cocker saga.`,
-      `a.k.a. Cock Bobber - Something Different by AKA`,
       `"Well, Bobby?"`,
       `Here I was lying in my girlfriend's bed, spending the night with her for the first time ever. When I'd dreamed of this night, I'd never imagined that she'd be standing over me on the bed, straddling my body, asking me if I wanted to spend my life dressed like a girl getting regular assfuckings from large groups of men. Or groups of large men. Whatever.`,
       `My lungs were locked up. I opened my mouth to speak, but I couldn't force enough air outward in order to form actual words. How the hell did we get to this point?!? My mind raced through the scenario.`,
@@ -19,12 +15,12 @@ const chapter: StoryChapter = {
       `But then she shoved a cock in my mouth. I protested and resisted ... by Tanya can be irresistible. So I sucked it. I sucked cock. And I swallowed the cum.`,
       `And I think I liked it.`,
       `In fact, I know I liked it. The thought made me cringe. I'd given head and enjoyed it ... and it made me feel like I was going gay. And that reaction was the problem facing me right now. Tanya had just explained in no uncertain terms that if I was going to *think* I was gay, then she'd make sure I got the full experience. The full buttfucked-while-on-my-knees-wearing-high-heels experience.`,
-    ],
-    [
       `But I didn't want that.`,
       `I didn't want to be gay. That's why I told her I didn't want to suck cock anymore. Because I didn't want to be queer. But, as usual, she'd turned it around somehow. Somehow, not wanting to suck dick meant that I was doomed to a life in garters and stockings.`,
       `So now she was asking me if I *wanted* a life in stockings. NO! NO! My mind screamed. But not wanting cock down my throat had led to this. If I answered 'No', what would that lead to? Should I answer 'Yes'? Would wanting to be a 'public fuckhole' as she termed it somehow be the way out? No, that couldn't be it. Anything had to be better than that. But I'd never have dreamed she'd suggest this ... so what *else* could she have in mind?`,
       `"Bobby ..."`,
+    ],
+    [
       `Her impatient tone reminded me that I'd been staring right at her without speaking -- or breathing or blinking, for that matter -- for a long time.`,
       `" ... it's simple. Do you want me ... and mom, of course ... to turn you into a pretty little girl ... taking more dick than you can possibly handle up that cute little butthole of yours?"`,
       `She was insisting on an answer. I squeaked one out as best I could.`,
@@ -33,12 +29,12 @@ const chapter: StoryChapter = {
       `THANK GOD!! My mind cried in relief. My lungs, however, hadn't yet gotten the message.`,
       `Her body language softened drastically. Her shoulders loosened and she plopped down with a sigh and a friendly smile. "You're not queer, Bobby. Queers dream of being a buttslut sissy right from the start, but you dont't want that yet, do you, Bobby?"`,
       `"No," I managed to whimper.`,
-    ],
-    [
       `"Of course not! You've got years of cocksucking to do before we open your ass like that. Months, anyway. But don't you see? You're not a prancing little sissyhole; you're a cumsucker, Bobby. My sweet, beautiful, completely heterosexual cumsucker."`,
       `I just stared at her as my lungs and brain tried to work at the same time ... and failed.`,
       `She shook her head. "I can see you're still a little confused." She put her hand on my shoulder and looked me in the eye. "Honey, as eagerly as you gobbled down all that cock tonight, I can understand why you got a little worried about being light in the loafers, but will you let me tell why I *know* you're not turning gay?"`,
       `I nodded as my first breath in awhile filled my chest.`,
+    ],
+    [
       `"It's simple. All you have to do is think of it logically. Just follow along."`,
       `Oh, joy. Tanya and logic. My favorite.`,
       `"What color are Dave Hunsacker's eyes?" she asked.`,
@@ -47,12 +43,12 @@ const chapter: StoryChapter = {
       `"Well, no," I replied honestly.`,
       `"When you first walked in and saw him, did you want to give him a sloppy kiss?"`,
       `"Hell no!" I choked.`,
-    ],
-    [
       `"Did you want to caress his big chest muscles?"`,
       `"No! Of course not!"`,
       `"You came in the room without any pants on, honey. Did you feel like bending over and presenting him with your tight, hairless little ass?"`,
       `"NO!" I whispered loudly in the late night quiet, my breath returning.`,
+    ],
+    [
       `"Of course not! Those are the kinds of things a homo would do, right? Queers love MEN, Bobby, but you just love cocks. So when you saw Mr. Hunsacker, you didn't want to kiss him -- you just wanted to suck his cock, right?"`,
       `"Yes. Exactly!"`,
       `"You're sure?" she added, coyly.`,
@@ -61,12 +57,12 @@ const chapter: StoryChapter = {
       `"No, I got on the floor between their knees!"`,
       `"Exactly, Bobby. You did exactly what a good faggot cocksucker should do ... not anything queer or gay! You love cocks and cum, Bobby ... and you love sucking cocks until they cum. But you don't love MEN, silly!"`,
       `Oh my God ... it was actually starting to sound ... logical.`,
-    ],
-    [
       `"Don't you see, Bobby? You can love gobbling down sperm and choking on choad all you want without being the slightest bit gay. Do you understand, baby?"`,
       `"I ... I suppose so."`,
       `"Thank goodness, Bobby! I want you to remember this, ok? Your rabid desire to suck dick *proves* that you're not queer, ok? The faster you dip your head into a man's crotch and swallow up that meatpole, the more obvious it is that you love his big dick, not his hairy chest or whatever the queens are always raving about. Everyone -- me, you, real men -- will immediately know what kind of person you really are. Do you understand that now?"`,
       `Son of a bitch ... somehow, that actually made sense. Mostly. "Y-yeah, I ... I guess," I answered.`,
+    ],
+    [
       `"Don't 'guess', Bobby. You've got to 'know' it: By keeping your mouth filled with dickmeat, you can prove to me that you're not a homo and avoid having your ass become a wide-gaping partyhole, ok?"`,
       `THAT part I understood clearly. "Ok, yes! I understand!"`,
       `"I knew you would, baby! Mom was guessing you'd offer up your sissy-ass to the masses, but we'll show her, won't we? We'll make sure she never catches you without cock on your breath, right? I told her, Bobby. I told her that your ass was for family use only and it's your eager, open mouth that's the community cumhole. I told her that I knew you were that rare type who can love munching on both fresh-fucked pussy and sperm-shooting cock with equal fervor! You make me sooooo, happy Bobby."`,
@@ -75,12 +71,12 @@ const chapter: StoryChapter = {
       `"But ..."`,
       `"Oh, don't worry, Bobby. There's a lot of good healthy dick in this town, so I can make sure my pussy is still plenty full of sperm for you to lick out. It's a good thing your newfound love of giving head hasn't hurt your cuntlapping in the least, Bobby. You were superb tonight. I felt so alive and powerful with my slimy thighs wrapped around your faggot face. Don't be concerned, baby -- I'll never give up that feeling, that's for sure. It's ..."`,
       `She paused ... and I heard her breath stutter. She was ... choked up a little. She reached out and gently laid her hand on my shoulder.`,
-    ],
-    [
       `"Bobby ... it's as if when you suck the cum out of me, you breathe life into me."`,
       `The look in her eyes was amazing. My God ... how could I resist her when she was like this?`,
       `"And now that you suck dick, too ... Bobby, you just keep getting better and better. Your absolute love of both cummy pussy and stiff cock makes you the best boyfriend in the world!"`,
       `Pussy and cock. Cock and pussy. Wanting both of them proves that I'm not gay. Ok ... yeah ... I could handle that. After all, sucking cock wasn't that bad. It was kind of fun, actually. Tasty, too. Pussy and cock. Cock and pussy. It ... it made sense. I could suck cock ... and like it, but I'm not gay. I'm not gay. I'm ...`,
+    ],
+    [
       `I'd been deep in thought for a moment. I looked up to find Tanya staring at me with a pleasant smile on her face.`,
       `"Got it all straight in your head now, baby?"`,
       `"Yes, but ... " I thought I had it straight, but one question came to mind. " ... if I like eating pussy--"`,
@@ -89,12 +85,12 @@ const chapter: StoryChapter = {
       `"Ooh, good boy!"`,
       `" ... but I'm not gay, d-does ... does that mean I'm b-bisexual?"`,
       `"Bisexual? Heh ... oh, hell no, Bobby," she scoffed. "Think about it: Earlier tonight that you passed up your one and only chance to cum inside my pussy in order to spray your load while getting a cock shoved down your throat. It seems clear to me, Bobby -- you're not even 'sexual', much less 'BI-sexual'!"`,
-    ],
-    [
       `"But ..."`,
       `"Bobby, don't you see? This proves my point exactly! You're not gay. But straight guys don't suck cock, do they? But you're not even a switch hitter. You're something different. Something better, as far as I'm concerned -- a cumsucker, Bobby! A tiny-dicked, cockgobbling, faggot cumsucker! And I'm am SOOOO proud of you! Nobody sucks down the semen like you. Nobody!"`,
       `Not queer. Not straight. Not bi. Was there something else? Was there really some 'type' of guy known as a 'cumsucker'. I guess I'd met another one earlier tonight ... downstairs in the hallway ... so maybe she was right. While my brain tried to digest what she was saying, the oddest question came out of my mouth. "But what about that Deke guy? I saw him with ... your ... Mom." My voice trailed off as I realized how that sounded.`,
       `"Oooh, Bobby!" she squealed as a leering smile appeared on her face. "Do I detect a note of jealousy? Feeling a bit competetive, are we?"`,
+    ],
+    [
       `I honestly didn't have an answer for that. "I ..."`,
       `"Don't worry, Bobby. I've seen Deke in action. You've got him beat hands down -- or more like 'face' down, actually," she giggled. "While he gets points for eagerness and the sheer ferocity of his semen slurping, he'll never be able to challenge your place as the King of Cumsuckers."`,
       `The King of Cu-- ... huh?`,
@@ -103,12 +99,12 @@ const chapter: StoryChapter = {
       `"But I know you're different than that, right Bobby? I mean, you totally adore my cunt and butthole ... as well as utterly crave the warm, gooey sperm inside, right?"`,
       `Fuckpunk? "Er ... yes! Exactly!"`,
       `"That's my Bobby!" she cooed. "You're not a freelance faggot like Deke; you and I are a team, baby! No need to prep your ass for nightly group pounding just yet, huh? You're going to stay my -- and only 'my' -- eager little faggot cumsucker, aren't you?"`,
-    ],
-    [
       `"Yes! Yes, of course I am!" I replied in a panic.`,
       `"Wonderful!" She hugged me tight to her chest ... and I felt oddly at peace. It all seemed clear now. As I put my arms around her, however, she continued, "It feels so good to know that when I point out a nice big bulge in some tight jeans, I'll be able to look over and see that little stiffy growing in your lap from the mere thought of opening that package and sampling the treat within." She reached up and pinched my face like someone's 80 year old aunt would. "Isn't that right, babykins?"`,
       `"Yesh, of coursh," I mumbled through pursed lips.`,
       `"Of course, if I ever catch you drooling over a guy's butt or staring at his pecs, I'll dress you in kneesocks and have you pulling a train so long you'll be looser than a prison bitch after a 10 year ride."`,
+    ],
+    [
       `My breathing came to a complete stop again.`,
       `"You understand that, right Bobby?"`,
       `"Y-y-yes," I whimpered.`,
@@ -117,12 +113,12 @@ const chapter: StoryChapter = {
       `"Don't worry, baby. It turns me on, too. But all this talk of buttfucking has got me wanting a little rosebud action myself. You up for letting me ride my ass on this hot dog of a hardon you've got?!"`,
       `"Yes! Of course!" I replied, eager to divert attention away any talk of being a 'crossdressing fuckslut'.`,
       `"Wonderful! Let's poke that pucker!" She tackled me and pushed me flat on my back. Within seconds, she'd retrieved some lube from the nightstand and was sitting on my chest, smearing the gel on my dick.`,
-    ],
-    [
       `"This'll be nice, Bobby. It's kinda neat that the night you suck your first cock will also be the last time you use your little willy to stretch my ass." Her tone was downright cheery as she stroked my lubed-up pecker.`,
       `It was hard to concentrate with her hand stroking me so fast, but I had to question one thing, "Last ... what do you m-mean 'last time'?"`,
       `"Oh, see ... Mom says that since you're coming along so nicely, it's time to continue the program."`,
       `She picked up speed to an almost impossible pace, but I asked, "The ... the p-program?"`,
+    ],
+    [
       `"Oh ... uhh ... well, you know. You've ... been a real sweetheart and done a good job stretching out my butthole, but your little thing basically just glides in and out now, baby. Mom says she's got someone in mind from the University to continue opening up my hole. Someone with a little more 'substance', if you know what I mean."`,
       `The University? Her mother had specifically chosen someone to fuck her daughter's ass?`,
       `"It's so great, Bobby. Your little stunt in the parking lot tonight has given me a reputation as a high quality cocksucker. Mom knows how much I want to be a slut among sluts, so all that's left is to make my butthole as much of a party palace as my cunt is now!"`,
@@ -131,12 +127,12 @@ const chapter: StoryChapter = {
       `With one smooth movement, she scooted forward, guided the head of dick into her tight hole and bent forward at the waist ... presenting me with the view that always left me speechless. And it did once again.`,
       `As she rocked back, my dick smoothly disappeared inside her ass. I gasped at the sensation and at the amazing sight. Her knees were spread perfectly so that her cheeks were pulled as wide as possible, giving me the most incredible view of her stretched sphincter wrapped around my pecker. More incredible yet was the way she was able to keep talking about 'the plan' as she began to pick up speed ... even as I was stunned into silence.`,
       `"Mom says she's found a g-guy at the campus who's got a d-decent sized cock and is really into b-buttfucking college age girls. In fact, she says he's just about r-rabid for it, so you shouldn't have to w-worry about sucking him hard again b-between sessions -- unless you just want to, of course." Her speech was only interrupted by the wet whap of her ass against my thighs.`,
-    ],
-    [
       `"That's a g-good thing, though, because I'm sure I'll need l-lots of your loving attention on my p-poor little asshole. Mom says the only way to b-become a true buttwhore is the trial-by-fire method, so you'll be eating c-cummy asspie several times a day for the next f-few weeks."`,
       `I still couldn't speak as I was riveted by how easily she took my prick up her hole over and over again. Maybe she was right about being as stretched as I could get her.`,
       `"And it's a g-good thing you're such a great c-cocksucker because with my sore little b-body out of commission, the boys are going to n-need your car window services quite often."`,
       `My God, she was managing to go even faster. It was like my prick was hardly there. The sight was incredible. I couldn't hold out much longer. I moaned in anticipation.`,
+    ],
+    [
       `"Oooh ... you l-like that, don't you sweets? We'll s-stop at the drive in after school every d-day, ok baby?"`,
       `"Y-yeah. W-whatever," I groaned, barely listening to her. My aching dick yearned for it's third orgasm of the day. I could feel it building ... building as her ass slapped up and down. God, she was amazing. I was getting ready to cum. It felt sooo gooood ....`,
       `But then ... she stopped!`,
@@ -145,17 +141,15 @@ const chapter: StoryChapter = {
       `Huh?`,
       `"I know it's not easy for fellas like you to fuck much of anything more than once a week, much less three times in a day. It's downright rude of me to ride you when there's no cock to shove down your throat to make you cum. I know that once you've felt the heat of semen splattering directly on your tonsils, nothing else will do."`,
       `My dick literally throbbed inside her tight, clenching ass as my once-impending orgasm began to fade. Dammit, I had been so close! Almost involuntarily, my hips began to push up and down, trying desperately to get back the motion that had felt so good.`,
-    ],
-    [
       `"No no, stop it Bobby. You don't need to torture yourself just for my sake," she said as she shifted her weight to pin my hips down to the floor. "It's not as if your pencil-dick was doing much good anyway, but I'm not going to ask you to continue since there's no way for you to orgasm. It's just not fair."`,
       `"No, Tanya! I don't w-want to stop! I can cum again! I can!" I cried anxiously.`,
       `"Oh, I doubt it, Bobby. Mom says now that you've become an all around cumguzzler, you'll need an exploding dick in your mouth or me squatting on your face with a cuntful of spunk in order to orgasm at all. Your days of cumming in my pussy, ass, or mouth -- short as they were -- are over now. Mom's seen plenty of your type, Bobby, and she says that even fucking my tight little ass won't be enough if you've truly dedicated yourself to sucking cum for me. And you have truly dedicated yourself, right? You ... you didn't lie about your feelings tonight, did you Bobby?"`,
       `The words 'prison bitch' and 'fuckpunk' rang through my head again, "No! No, of course not!"`,
+    ],
+    [
       `"Well okay, then. Thanks for the effort, Bobby, but since you can't cum, let's just stop this nonsense." She started to roll off of me.`,
       `"Tanya, no! No!" I said with exasperation. "I can cum! I really can! I'm so close!"`,
       `As always ... to be continued ...`,
-      `===================================================== Copyright (c) July, 2003 - A.K.A. The above is a work of fiction, intended solely for entertainment. Any similarity to actual persons, living or dead, is done purely to make them look like the total perverts that they are. Remember, the exchange of bodily fluids between sexual partners -- including the eager and rabid swilling of a stranger's sperm -- is against the recommendation of the surgeon general's office. They think it's pretty damn freaky, too. AKA`,
-      `akaCockBobber11-SomethingDifferent`,
     ],
   ],
 }
