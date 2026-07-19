@@ -25,7 +25,7 @@ const story: Story = {
       `He typed with thumbs that weren't steady: 10 min unlock — Drew. Sent. The confirmation chirped. Selene screenshotted it immediately, dropped it into an album titled Drew's Budget, and only then reached for the key on her bar ring.`,
       `"Timer," she said, opening the clock app, setting 10:00 in fat digits. She placed the phone on the counter edge where both of them could see it. "When I click the lock, I hit start. Not before. No free seconds. And Drew — buying time does not buy my body. You can look at my tits while you stroke. You can beg. You don't get inside me on a kitchen timer. Clear?"`,
       `"Clear," he said, voice already ruined.`,
-      `Drew nodded. His cock tried to swell into a space that didn't exist. Eleven days of trapped heat made the promise of ten minutes feel like a courtroom recess — short, watched, decisive.`,
+      `Drew nodded. His cock tried to swell into a space that didn't exist. Eleven days of trapped heat made the promise of ten minutes feel like a courtroom recess that would be short, watched, and decisive.`,
       `Selene crouched. The padlock was warm from riding against her jeans all night. She worked it open with a practiced twist, slid the cage free, and set the pieces beside the cutting board like she was clearing space for prep work. Drew's cock sprang up so fast it almost hurt, flushed dark, veins standing, leaking at the tip before she had even stood — a thick bead that stretched and broke onto the linoleum. The cold kitchen air on the wet head made him shudder.`,
       `She hit Start.`,
       `10:00 became 9:59.`,

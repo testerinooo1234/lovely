@@ -41,7 +41,7 @@ const story: Story = {
       `"And if you come without permission?"`,
       `His stomach dropped, the good kind of dropping, the kind that made his breath catch. "Another two weeks. Minimum."`,
       `"Minimum," she agreed, and there was real warmth under the sternness, the particular tenderness of a woman who loved watching a man fall apart precisely because she trusted him to hold every piece together for her when she asked. "Lie back."`,
-      `The unlocking took four seconds and felt like a religious event. The little padlock clicked, she worked the cage free with practiced fingers, and the sudden absence of pressure combined with the sudden presence of her hand — bare, warm, real — nearly finished him before she'd even started stroking.`,
+      `The unlocking took four seconds and felt like a religious event. The little padlock clicked, she worked the cage free with practiced fingers, and the sudden absence of pressure combined with the sudden presence of her hand on him, bare and warm and real, nearly finished him before she'd even started stroking.`,
       `"Oh," he gasped, hips already lifting into her grip. "Oh god, Vanessa—"`,
       `"Two weeks and you're already talking. Impressive restraint." She stroked him slow, thorough, thumb dragging over the head on every upstroke, watching his face with the focus of a scientist and the smile of a woman enjoying her hobby. "Tell me how it feels."`,
       `"Everything. It feels like everything. I can't — it's too much, it's been too long, I'm going to—"`,

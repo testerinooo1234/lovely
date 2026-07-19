@@ -6,7 +6,7 @@ const story: Story = {
   title: 'The Guest in Our Bed',
   author: 'cornerseat',
   excerpt:
-    'Anniversary gift: Rafael. Marcus sat in the chair by the window while Elena came on another man\'s cock — hard, denied, stroking in time — then knelt for her hand and thanked her before she let him finish.',
+    'Anniversary gift: Rafael. Marcus sat in the chair by the window while Elena came on another man\'s cock, hard and denied and stroking in time, then knelt for her hand and thanked her before she let him finish.',
   pages: [
     [
       `Their anniversary gift arrived at eight sharp — tall, easy-smiled, wearing the kind of confidence Marcus had spent years pretending he didn't envy in other men. Elena had introduced him weeks ago, over drinks she hadn't invited Marcus to, and by the time she brought the idea home she'd already half-decided, the way she decided most things: thoroughly, and without much interest in his objections, though she'd asked for them anyway, patiently, the way she always did before doing exactly what she'd planned regardless.`,
