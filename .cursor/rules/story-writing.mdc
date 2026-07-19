@@ -1,5 +1,5 @@
 ---
-description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam, no therapy-speak desire, natural collocations for yes/no/stop/ask
+description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam, no therapy-speak desire, natural collocations for yes/no/stop/ask, cuckold "gaslighting" craft (never the word on-page)
 globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
 alwaysApply: false
 ---
@@ -290,9 +290,61 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 
 - Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`. Multi-chapter: count all chapters; prefer each chapter ≥5 min.
 - Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
-- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire, natural collocations, no obscure house jargon / worn-out stock phrases) — **this file wins**.
+- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire, natural collocations, no obscure house jargon / worn-out stock phrases, cuckold gaslighting craft / banned word) — **this file wins**.
 
-## 13. Quick checklist before shipping a new story
+## 13. “Gaslighting” in cuckolding — craft term only (never on-page)
+
+When the user says **gaslighting** (or asks for a story that gaslights the boyfriend/husband), they mean a specific erotic technique — **not** clinical psychology jargon, and **not** a word that may appear in story prose.
+
+**Hard ban:** never write `gaslight`, `gaslighting`, or close cousins (`she's gaslighting him`, `classic gaslight`) in narration, dialogue, tags, titles, or excerpts. Authors' `writingStyle` notes already forbid the word; this section defines what to *do* instead.
+
+### What it means here
+
+**Loving reality-rewrite.** The wife/girlfriend (or Momme/Domme coaching her) does **not** win by cartoon cruelty or by arguing the facts of the cheating. She **renames** what happened until humiliation, sharing, cleanup, denial, and escalation become the only “honest,” “mature,” “natural,” “romantic,” or “what’s best for us” reading — then she gets him to **say it back**.
+
+His accurate read (jealousy, horror, “this is cheating,” “I don’t want this,” “you’re using me”) is treated as the **defect**: insecurity, immaturity, selfishness, old-fashioned male pride, or a threat to the relationship. Compliance is treated as love, specialness, self-control, and proof he is “different from those men.”
+
+### Recipe (use when asked for gaslighting / soft rewrite / moved goalposts)
+
+1. **Seize or invent a soft frame** — pregnancy panic, “icky” cleanup, birthday favor, health, luck, instinct, “natural continuation,” helping her, making love vs fucking.
+2. **Rename the act** — cheating → sharing / taking care; creampie service → romance / duty; cock service → privilege / power / fluffer / cleanup; semen diet → breakfast / protein; denial → self-control / saving it for her.
+3. **Pathologize his correct perception** — jealousy = wanting closeness wrong; protest = volunteering; hard-on = he loves it; embarrassment = silly misconceptions; wanting old intimacy = selfish / “like all those men.”
+4. **Logic ladder with one safe exit** — questions he can’t deny → conclusion he didn’t mean to grant → “Right?” while the act continues.
+5. **Fake win / lesser evil** — tinted windows, “secret for now,” “only when we’re alone,” “you decide when they cum,” “cumsucker not sissy” — concessions that lock in more service.
+6. **Comfort that advances the agenda** — “oh baby / don’t cry / I’m sorry” → mis-hears his complaint → the “fix” is more of the same (fresher cum, better panties, next cock).
+7. **Extract spoken assent after the fact** — “tell me this is what you want,” “you’re not a liar,” “you DO appreciate it,” “forgive me for not letting you…” — preferably while he’s hard, crying, mid-act, or post-orgasm.
+8. **Retcon his past feelings** to match the new story — he cried because the substitute wasn’t real enough; he always saved his orgasm for her; resistance was “not him talking.”
+9. **Praise compliance as identity** — special, mature, beautiful relationship, proud boyfriend, “something better.”
+10. **Leave him concluding he chose it** — “I can do this for her,” “it made sense,” “back in control,” “who could argue with results?”
+
+### Voice
+
+Soft, proud, intimate, explanatory — honey/baby, tears of pride, patient “of course,” maternal or girlfriend-reasonable. Degradation arrives as **care**. Graphic sex words are fine; **moral** labels for what she is doing to him are not. Do not lecture the reader that he is being manipulated; dramatize the rewrite through her dialogue and his spiraling agreement.
+
+### Do / Don’t
+
+**Do:**
+- Imply the technique through soft insistence, moved goalposts, false binaries, and his after-the-fact “yes”
+- Let him notice “she’d done it again” in free indirect thought without naming the trick
+- Escalate labels he already accepted (cleanup → cocksucker → identity → program)
+
+**Don’t:**
+- Use the word gaslight/gaslighting anywhere in the story package
+- Have her monologue “I’m rewriting your reality” / “I’m training you to doubt yourself”
+- Substitute therapy-speak (§8) for the rewrite — say the acts; keep the loving frame concrete
+- Confuse this with consent theatre (§3) — no safewords; the erotic point is the soft trap, not a negotiated scene check
+
+**Bad (names the trick / clinical):**
+> She was gaslighting him again, and he knew it.
+> "I'm just recalibrating how you see our dynamic."
+
+**Good (shows the rewrite):**
+> "You're not upset that they fucked me — you're upset you weren't close enough to help. So stay. Watch the van. That's love."
+> He meant to say *no*. What came out was *okay*, and she kissed him like he'd won something.
+
+Applies whenever the user requests gaslighting, soft reality-rewrite, moved goalposts, or “prettytrap / honeykey-style” cuckold persuasion — and whenever an author’s `writingStyle` says to imply gaslighting without the word.
+
+## 14. Quick checklist before shipping a new story
 
 - [ ] Opens in a scene, not a premise dump
 - [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
@@ -306,4 +358,5 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - [ ] No therapy-speak for desire (“your feeling,” “right shape,” etc.) — see §8
 - [ ] No wrong collocations / reified yes-no-stop-ask nouns — see §9
 - [ ] No obscure house jargon (`soft things`, `soft steps`) or copy-pasted stock excuses — see §10
+- [ ] If the brief asks for gaslighting / soft rewrite: show §13 technique; never print the word
 - [ ] ≥1150 words; `npm run count-words` clean; builds
