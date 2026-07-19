@@ -139,7 +139,7 @@ const chapter: StoryChapter = {
       `"I still hate him," Nikki said, one last time, like a door she needed Danielle to help her hold shut.`,
       `Danielle looked at her for a long moment. Then she glanced down the hall at Brett, who had the sense to be studying a trophy case he had never cared about, and back at Nikki's face.`,
       `"Okay," Danielle said, not believing her. "Tell me again after Saturday."`,
-      `Nikki had no answer that was still hate and still true. The bell rang. The hallway moved. Brett waited without waiting. And Nikki Alvarez — clothed, grateful, furious, wet with a memory she refused to name — walked toward Algebra with Danielle's doubt sitting beside her like a third person, heavy as a blank hall pass with someone else's name on the back.`,
+      `Nikki had no answer that was still hate and still true. The bell rang. The hallway moved. Brett waited without waiting. And Nikki Alvarez walked toward Algebra clothed and grateful and furious, wet with a memory she refused to name, Danielle's doubt sitting beside her like a third person, heavy as a blank hall pass with someone else's name on the back.`,
     ],
   ],
 }
