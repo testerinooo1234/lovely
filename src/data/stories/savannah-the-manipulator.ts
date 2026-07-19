@@ -11,7 +11,7 @@ const story: Story = {
     [
       `Nolan learned early that Savannah did not need to raise her voice to win.`,
       `He was soft-spoken, the kind of man who rehearsed confrontations in the shower and then apologized to the tile. Savannah was petite and busty in a way that made grocery-store lighting look intentional — small waist, heavy chest, a round face with a beauty mark near her mouth, honey-brown hair she wore in a high ponytail when she wanted to look wholesome and down her back when she wanted to look like trouble. She smiled like a Sunday school teacher and dressed like she had lost a bet with lingerie brands.`,
-      `Brad was her ex — tall, easy, still in her group chats "for logistics."`,
+      `Brad was her ex, tall and easy, still in her group chats "for logistics."`,
       `Nolan knew — in the quiet animal part of his brain — what the overnight "study sessions" meant. He also knew he would not say it out loud. Social anxiety sat on his tongue like a stone. Savannah had clicked him into a tiny pink chastity cage in week six of their living together, explaining, sweetly, that Nolan was the one who needed help not masturbating or "looking at other girls online," and somehow the key ended up on her phone charm while she packed a toothbrush for Brad's couch.`,
       `"I'm helping him study for the licensing exam," Savannah said at the door, crop top riding up. "I might fall asleep there if we run late. Don't wait up. Love you."`,
       `She came home at noon the next day without panties.`,
@@ -105,7 +105,7 @@ const story: Story = {
       `"Can you believe Brad said he was surprised it didn't make me cry?" Savannah huffed. "What, just because I'm a girl? Doesn't he know I can handle just about any amount of pain? So anyway Brad said he thought he could make me cry easily. I told him no way, but he thinks he can make me cry in just fifteen minutes with a bare bottom belt spanking. He challenged me to a bet — if I win I get his PlayStation."`,
       `"And if you lose?" Nolan asked.`,
       `"Well there's no possible way I lose, but he gets to fuck my ass."`,
-      `Nolan gasped. Savannah waved it off, convincing, laughing, certain. She arranged for Brad to come to their apartment "to make sure Brad holds up his end of the bargain." In the bedroom she had already set anal lube on the nightstand.`,
+      `Nolan gasped. Savannah waved it off with a convincing laugh, already certain. She arranged for Brad to come to their apartment "to make sure Brad holds up his end of the bargain." In the bedroom she had already set anal lube on the nightstand.`,
       `"I know I'm not going to need this," she said brightly, "but Brad insisted!"`,
       `She stripped to panties. Brad told her to take them down. She did, cheeks pink, and bent over their bed. Nolan stood against the wall in his pink cage and CUMSLUT collar from earlier laundry he hadn't dared remove.`,
       `Brad's belt landed hard from the first stroke. Savannah grunted; pinned under his free hand at the small of her back, her petite frame looked almost swallowed by the mattress. After five, her voice jumped. "Wow that hurts way more than I expected it to!"`,

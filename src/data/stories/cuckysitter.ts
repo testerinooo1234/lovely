@@ -105,7 +105,7 @@ const story: Story = {
       `"Good boy," Lily sang. Then, sweeter: "Good girl."`,
       `Savanna hung up, patted James's burning ass, and tugged the striped pink panties back up over the cage with brisk ownership.`,
       `"Cookie jar stays labeled," she said. "Next theft is soap and corner time. Now fix your bow — it's crooked — and sit on the couch. Your girlfriend goes live in twenty minutes, and your cuckysitter expects attentive little eyes."`,
-      `James fixed the bow with shaking fingers. The pink collar sat neat at his throat. On the laptop, the streaming window buffered toward Lily in new lingerie, already smiling for strangers. Savanna poured herself fresh tea, hairbrush within reach, and James — locked, dressed, sore, devoted — opened his knees carefully around the ache and prepared, once again, to watch the woman he loved get exactly what he could not give her, while a best friend made sure even his jealousy wore ribbons.`,
+      `James fixed the bow with shaking fingers. The pink collar sat neat at his throat. On the laptop, the streaming window buffered toward Lily in new lingerie, already smiling for strangers. Savanna poured herself fresh tea, hairbrush within reach, and James — still locked and dressed and sore and devoted — opened his knees carefully around the ache and prepared, once again, to watch the woman he loved get exactly what he could not give her, while a best friend made sure even his jealousy wore ribbons.`,
     ],
   ],
   tags: [

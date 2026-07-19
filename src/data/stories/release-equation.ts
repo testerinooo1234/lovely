@@ -72,7 +72,7 @@ const story: Story = {
       `"You kept your mouth correct when it counted," she said, capping the marker. "That's why you got to finish. Next week's base resets to seven unless I say otherwise. Chore credit will not be assumed. Infractions still add."`,
       `"Yes, ma'am."`,
       `She threaded the key back under her sweater and set her palm on his hair for a moment — not long, not soft enough to undo the board, just present. "Up. Wash your face. Then you may sit at my feet while I erase everything except the conversion key."`,
-      `He stood on unsteady legs, locked, emptied, marked by the math as much as by her hand. At the whiteboard she left SCORE → MINUTES intact in the corner and wiped the rest away with two firm passes of a cloth, leaving blank white space where his week had been calculated.`,
+      `He stood on unsteady legs, still locked and emptied, marked by the math as much as by her hand. At the whiteboard she left SCORE → MINUTES intact in the corner and wiped the rest away with two firm passes of a cloth, leaving blank white space where his week had been calculated.`,
       `Blank, he understood, was not mercy. Blank was readiness for the next equation.`,
       `He washed his face at the sink, dried it, and knelt beside her chair when she moved to the living room. The kitchen light still caught the corner of the board where the conversion key waited. Between his legs the cage sat closed on a body that had been briefly, formally, expensively free.`,
       `"Thank you for the unlock window," he said into the quiet.`,

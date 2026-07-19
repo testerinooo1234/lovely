@@ -44,7 +44,7 @@ const story: Story = {
       `"Great, yes." Kayla flipped the sheet over, bouncing once on her toes. "Well, that's all for questions I have! It does seem like you are a pretty experienced little kinkster, so we are definitely going to have fun tonight."`,
     ],
     [
-      `"To start with I'm going to need you to take off all of your clothes and put them in this bag. Don't worry — you'll get them back at the end of the session." Kayla held out the bag as Ryan put his clothes in it — shirt, jeans, socks, shoes — one item at a time under the bright lights.`,
+      `"To start with I'm going to need you to take off all of your clothes and put them in this bag. Don't worry — you'll get them back at the end of the session." Kayla held out the bag as Ryan put his shirt and jeans in, then his socks and shoes, one item at a time under the bright lights.`,
       `Ryan seemed a little nervous when he was down to his boxers.`,
       `"Yes, all of them, dear."`,
       `Ryan slipped out of his boxers and put them in the bag, now totally naked in front of Kayla. Kayla quickly looked down at Ryan's vulnerable penis, then took the bag out of the room, leaving Ryan totally naked and alone in this strange bright room. The padding felt cool under his feet. Somewhere a vent hummed. Moments later Kayla returned to find Ryan with his hands covering his privates.`,

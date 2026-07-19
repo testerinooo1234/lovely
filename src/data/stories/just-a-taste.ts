@@ -35,7 +35,7 @@ const story: Story = {
       `"If I do it," he said, voice small, "you'll drop it."`,
       `Maya's smile widened, sweet as anything that had ever ruined him. "Of course, baby. Just a taste. Then it's done."`,
       `He leaned in. His tongue touched her fingertip.`,
-      `Salt, bitter, warm — his own. The flavor hit the back of his throat and his whole body tried to recoil and stay frozen at the same time, as if two different versions of him had been given contradictory instructions. Maya made a soft, pleased sound, like he'd passed a quiz she'd written in advance. The sound went straight through him — worse than the taste, somehow, because it meant she'd been right about more than the dare.`,
+      `It tasted salt-bitter and warm on his tongue — unmistakably his own. The flavor hit the back of his throat and his whole body tried to recoil and stay frozen at the same time, as if two different versions of him had been given contradictory instructions. Maya made a soft, pleased sound, like he'd passed a quiz she'd written in advance. The sound went straight through him — worse than the taste, somehow, because it meant she'd been right about more than the dare.`,
       `"Good boy," she whispered. "See? Not scary. Swallow."`,
       `He did, automatic, and the act of swallowing made something in his chest cave in. There was no undoing a swallow. There was only the aftertaste and the knowledge of how he'd gotten it. Maya wiped her finger on his lip like a signature, then sat back on her heels to admire the damage with open, uncomplicated satisfaction.`,
       `"There," she said. "Was that so hard?"`,
