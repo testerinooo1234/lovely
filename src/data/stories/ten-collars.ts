@@ -40,7 +40,7 @@ const story: Story = {
     ],
     [
       `He walked up to painslut first.`,
-      `She was soft everywhere, collar bright against her throat, pink pig tail curling behind her, hands still obediently behind her head. Damon reached out and grabbed one of her breasts — full, heavy, warm — and started squeezing, hard enough that her mouth opened on a punched-out breath. Fingers dug into soft flesh until the skin between his knuckles went pale. He watched her pupils blow. Around them the other women stayed frozen in presentation, wet and waiting, tails absurdly cheerful above ruined dignity.`,
+      `She was soft everywhere, collar bright against her throat, pink pig tail curling behind her, hands still obediently behind her head. Damon reached out and grabbed one of her breasts, full and heavy and warm, and started squeezing, hard enough that her mouth opened on a punched-out breath. Fingers dug into soft flesh until the skin between his knuckles went pale. He watched her pupils blow. Around them the other women stayed frozen in presentation, wet and waiting, tails absurdly cheerful above ruined dignity.`,
       `Then he slapped her in the face.`,
       `The sound cracked through the quiet living room. Several of the other women gasped; at least two visibly clenched on their plugs, thighs pressing, fat pussies flexing. Painslut's cheek bloomed pink in the exact shape of his palm. Her eyes watered and shone. A thin line of spit connected her lower lip to her upper for a second before it broke. Behind her, the curly pink tail twitched when her whole body jerked.`,
       `"Get down on your knees," Damon demanded, "and suck my cock. Keep the tail in. If it falls out while you suck, you start over with a welt."`,

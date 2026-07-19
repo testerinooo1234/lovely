@@ -72,7 +72,7 @@ const story: Story = {
       `He thought about the taste under the color. He thought about how the taste and the color were, from this Saturday forward, going to be paired in his mouth every time she painted him. He thought about the fact that this was the point.`,
       `"Thank you, Ivy, for cleaning my mouth and for putting the pretty color on it anyway."`,
       `"Good girl. Kiss the air. Don't smudge."`,
-      `He kissed the air. The kiss made a soft mwah he had not made on purpose in his life before this vanity, and Ivy — unhurried, entirely at ease — smiled at him in the glass like a woman whose weekend was going exactly to plan.`,
+      `He kissed the air. The kiss made a soft mwah he had not made on purpose in his life before this vanity, and Ivy smiled at him in the glass, unhurried and entirely at ease, like a woman whose weekend was going exactly to plan.`,
     ],
     [
       `The stockings were next.`,

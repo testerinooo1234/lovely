@@ -110,7 +110,7 @@ const story: Story = {
       `She started the engine. She checked her mirrors. She pulled smoothly away from the curb, and Mrs. Alvarez across the street lifted a gardening glove in greeting, and Corinne lifted one polished hand in return, and Theo sat in the passenger seat with his tongue coated and his cock aching and his eyes still glossy at the corners, and understood that his job description had just quietly rewritten itself in a hand that only he could read.`,
       `At the first red light she reached across without looking and put her palm flat over the front of his slacks, once, briefly, as if confirming a report she had already filed. She removed it before the light turned green.`,
       `"Good assistant," she said mildly, eyes on the road. "See you next Sunday."`,
-      `He nodded. The taste of Ivory rolled forward again — patient, persistent, hers — and he understood, with the specific clarity soap seemed to bring, that he was going to be at every one of her open houses for as long as she wanted him at them, and that he was going to keep his mouth clean in every way but the one she owned.`,
+      `He nodded. The taste of Ivory rolled forward again; it had been waiting behind his teeth all afternoon, patient and persistent, and it belonged to her. He understood, with the specific clarity soap seemed to bring, that he was going to be at every one of her open houses for as long as she wanted him at them, and that he was going to keep his mouth clean in every way but the one she owned.`,
     ],
   ],
   tags: [

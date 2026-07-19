@@ -37,7 +37,7 @@ const chapter: StoryChapter = {
       `"I watched the whole—"`,
       `"You also muttered, during minute nineteen, that Brad should slow down." Savanna stood, already fishing a wrapped hotel soap from her tote — leftover from some earlier Lily night, still sealed, white and ordinary and somehow worse for it. "Little girls who editorialize real men's thrusts get their mouths washed. That was the deal after the cookie. Or did the hairbrush knock the rules out of you?"`,
       `James's face burned. He had muttered. He'd hated himself for caring about Lily's comfort when Lily herself was begging for harder.`,
-      `In the bathroom Savanna unwrapped the soap, wet it under warm water until it foamed, and held James's chin. The pink collar made the angle worse — decorative, obedient, ridiculous. She slid the bar between his teeth.`,
+      `In the bathroom Savanna unwrapped the soap, wet it under warm water until it foamed, and held James's chin. The pink collar made the angle worse; it looked decorative and obedient and ridiculous all at once. She slid the bar between his teeth.`,
       `"Bite. Hold. Taste what backtalk costs."`,
       `The soap flooded his tongue bitter and chemical. James gagged; foam slid down his chin onto the frilly pink top. Savanna kept two fingers under his jaw so he couldn't spit, counting under her breath like a nursery rhyme.`,
       `"One little missy. Two little missy. Three—" She made it to sixty while his eyes watered and the cage ached under the panties. "Spit."`,

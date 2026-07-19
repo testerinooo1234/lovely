@@ -42,7 +42,7 @@ const story: Story = {
       `Emily counted through sobs. At twenty her bottom was pink. At forty it was red and throbbing. April did not rush; she spanked like the videos, methodical, tipping Emily's hips higher when she tried to close her thighs.`,
       `"Diaper position means open," April scolded. "Babies don't get to hide their bottoms mid-punishment. Open."`,
       `Emily opened. The brush taught her why. By the time April stopped, Emily's backside felt scorched and enormous, and she was sniffling into her own shoulder like the little girl she had only ever been in secret.`,
-      `April powdered her with brisk competence, taped the frilly pink diaper snug around her hips, and snapped her into the onesie before Emily could invent a protest. Plastic crinkled when Emily was sat upright. The sound made her moan — soft, horrified, unmistakable.`,
+      `April powdered her with brisk competence, taped the frilly pink diaper snug around her hips, and snapped her into the onesie before Emily could invent a protest. Plastic crinkled when Emily was sat upright. The sound made her moan, soft and horrified and impossible to mistake for anything else.`,
       `"Oh," April said quietly. "You really do like that."`,
       `Emily covered her face. "Don't say it."`,
       `"I don't have to." April tapped the crinkly front. "From now on, after school you come straight home for inspection. Homework at the kitchen table. No laptop without Mommy watching. Accidents in your diaper are not a crisis; they're information. And if you mouth off, sneak screenshots, or 'forget' the rules — hairbrush, diaper position, again. Understood?"`,
