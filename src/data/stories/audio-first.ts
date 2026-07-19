@@ -16,7 +16,7 @@ const story: Story = {
       `Another wet stroke. A tiny gag she turned into a giggle.`,
       `"That's him in my mouth right now. Not you. You can tell, can't you? It sounds heavier. It sounds like I'm working. When I suck you, it sounds polite. This sounds like a meal."`,
       `He locked his screen for half a second, pulse stupid, then unlocked it again because stopping felt worse than continuing under fluorescent light with a Slack status set to busy.`,
-      `She kept going — soft narration braided through wet noise. "Mmm. He's sitting on the edge of the bed. I'm on my knees in the little pink dress you like, the one with the white collar. My ponytail's already messy. I'm holding the phone against his thigh so you get the audio nice and close. Hear that? That's my spit. That's the head popping past my lips. That's me being a good girlfriend in the wrong direction."`,
+      `She kept going — soft narration braided through wet noise. "Mmm. He's sitting on the edge of the bed. I'm on my knees in the little pink dress you like, the one with the white collar. My ponytail's already messy. I'm holding the phone against his thigh so you get the audio nice and close. Hear that? That's my spit and the head popping past my lips — that's me being a good girlfriend in the wrong direction."`,
       `A long suck. A moan she didn't fake. The other man exhaled somewhere above the mic, low and pleased.`,
       `"Voice note one of three," she whispered. "Don't reply. Just listen. If you come at your desk from sound alone, tell me later so I can laugh."`,
       `The note ended on a sticky kiss sound and silence that felt louder than the office HVAC.`,

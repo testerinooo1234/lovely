@@ -73,7 +73,7 @@ const story: Story = {
       `"I love his heart emojis," Lily moaned, wrecked and smiling. "I love him. Fuck— Brad— deeper—"`,
       `"Hear that?" Brad slapped her ass again, red blooming under a palm that covered most of one cheek. "She can love you and still need this. That's the joke, man."`,
       `James stood with his fists clenched and his cage aching, stomach twisted into jealousy so physical it hurt. They took turns cutting him — Brad blunt, Lily syrupy — until James's eyes stung. When Brad finished he pulled out and came across Lily's lower back in thick ropes while Savanna whistled through the phone. Lily reached back, scooped a streak, tasted it, then held her clean hand out to James.`,
-      `"Come cuddle me after he leaves," she whispered. "I'll say sorry again. I always mean it. I always do it again."`,
+      `"Come cuddle me after he leaves," she whispered. "I'll say sorry again. I always mean it, and I always do it again."`,
     ],
     [
       `Savanna found the tabs on a Thursday while James was in the shower and she was "making sure the laptop wasn't about to upload something stupid from the shared drive."`,
