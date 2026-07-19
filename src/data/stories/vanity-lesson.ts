@@ -113,7 +113,7 @@ const story: Story = {
       `She kissed his forehead — no lipstick of her own, just the dry warm press of her mouth against his hairline — and stood up over him, her flat back at his eye level, faint lavender still riding on the polished toe.`,
       `"Good girl. Stand up carefully. We are going to walk to the kitchen in those heels, and you are going to pour me coffee without wobbling, and every time you swallow between now and dinner you are going to taste this morning and remember what my vanity is for. Understood?"`,
       `"Yes, ma'am."`,
-      `He stood; the heels held him, the slip settled, the taste rode along.`,
+      `He stood carefully in the heels, the slip settling around his thighs while the lavender taste rode along with every swallow.`,
       `In the mirror behind Ivy, Nate Ruiz saw a girl in a cream slip and blush-pink patent heels and Kitten Please on the mouth turn carefully toward the kitchen door, and understood — as fully as he had ever understood anything at a vanity — that the price of that reflection was a lavender bar in a covered dish, and that from this Saturday on he would pay it in full, gladly, every weekend she asked.`,
     ],
   ],

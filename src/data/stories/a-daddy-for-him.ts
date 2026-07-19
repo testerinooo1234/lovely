@@ -123,7 +123,7 @@ const story: Story = {
       `"One — I'm sorry — thank you, Daddy—"`,
       `"Louder."`,
       `"ONE — I'm sorry, Naomi — I'm sorry I hid — thank you, Daddy—"`,
-      `Two, three, four — the bear pressed into his belly, soft and accusatory, and each stroke of the brush drove Colin deeper into a headspace where adult shame couldn't follow — only heat, only need, only the brutal clarity of being punished for exactly what he'd done. Naomi leaned down, kissed his temple between counts, whispered "good boy" against his hair while Grant worked methodically up his ass and down his thighs.`,
+      `Two, three, four — the bear pressed into his belly, soft and accusatory, and each stroke of the brush drove Colin deeper into a headspace where adult shame couldn't follow, nothing left but heat and need and the brutal clarity of being punished for exactly what he'd done. Naomi leaned down, kissed his temple between counts, whispered "good boy" against his hair while Grant worked methodically up his ass and down his thighs.`,
       `By fifteen Colin was sobbing openly, not from pain alone but from release — the secret burned out of him stroke by stroke, Mr. Buttons witness to everything, Naomi's fingers in his hair, Grant's voice counting with him.`,
       `"Twenty," Grant said finally, setting the brush aside. "You took that well."`,
       `Colin stayed where he was — bent over the bear, chest heaving, hands still locked on Mr. Buttons' paws because nobody had told him he could let go. Grant looked at Naomi. She nodded once.`,

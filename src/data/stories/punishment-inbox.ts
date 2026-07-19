@@ -44,7 +44,7 @@ const story: Story = {
       `ineedspankedbad: "I am sorry for calling Melissa a bitch teacher. I will show respect. I am a naughty adult brat who earns lines."`,
       `ineedspankedbad: no typing. handwriting. if i cant read it you rewrite`,
       `Jordan egged, then obeyed. His hand cramped. He submitted crooked photos of notebook pages like a man mailing his dignity.`,
-      `After that the inbox became a dare machine — creative, sexual, childish, often both.`,
+      `After that the inbox became a dare machine — creative and sexual and childish, often all three at once.`,
       `beltmarks: New assignment naughty girl. Next self-spanking video, you don't stop when you're red. You put the brush down, pick it up by the bristles, and work the handle into your ass on camera. Slow. Nose-in-the-carpet slow. I want to see that freckled face twist around it.`,
       `ineedspankedbad: EXCUSE me sir`,
       `ineedspankedbad: the handle?? the WOODEN handle??`,

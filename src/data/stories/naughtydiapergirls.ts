@@ -27,7 +27,7 @@ const story: Story = {
       `"Mom—"`,
       `"This only continues if you stay," April added, resolved. "If you walk out, we talk tomorrow and throw the diapers away. If you stay, you obey. Choose."`,
       `Emily's eyes flicked to the paused video. To the pink plastic. To her mom's face. Her whole body shook with humiliation so thick it felt like heat. She did not walk out.`,
-      `She stripped — hoodie, bra, jeans, panties — ninety pounds of trembling senior with nowhere to put her hands. April pointed. Emily climbed onto the bed, onto the open frilly diaper, and lifted her legs like the women in the videos, ankles toward the ceiling, bottom exposed, face so red she felt fevered.`,
+      `She stripped out of her hoodie and bra and jeans and panties — ninety pounds of trembling senior with nowhere to put her hands. April pointed. Emily climbed onto the bed, onto the open frilly diaper, and lifted her legs like the women in the videos, ankles toward the ceiling, bottom exposed, face so red she felt fevered.`,
       `"There she is," April murmured, almost wonder. "My little girl. Holding the diaper position like she practiced."`,
       `"I didn't—"`,
       `"Quiet." April picked up the hairbrush. "You watched this enough to know what happens next."`,
