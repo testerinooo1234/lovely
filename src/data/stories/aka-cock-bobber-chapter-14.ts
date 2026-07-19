@@ -153,7 +153,6 @@ const chapter: StoryChapter = {
       `Mrs K just giggled. "Oh, don't panic, Bobby. It was just an idea. I know your true pleasure comes from what goes in your mouth. But listen, I do think that two weeks is entirely too long, so I'm going to talk this out with my daughter. We've got to be able to come up with something, ok?"`,
       `"Ok. Um ... thanks."`,
       `For some reason, as my aching and now freshly shaved hardon practically vibrated in front of me, I actually felt ... hopeful.`,
-      `To be continued ...`,
     ],
   ],
 }

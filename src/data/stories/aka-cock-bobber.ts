@@ -144,7 +144,6 @@ const story: Story = {
       `"What's the matter," I asked, once again forgetting what I was going to say.`,
       `"The marching band is coming onto the field for practice!"`,
       `We quickly pulled our clothes on and snuck out from under the bleachers. As we went off to my car, my mind was reeling with what had happened that afternoon. What had been said and what had gone unsaid. Little did I know how my life would be forever changed. Especially after we talked to Tanya's mom later that afternoon.`,
-      `To be continued ...`,
     ],
   ],
   tags: [

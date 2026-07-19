@@ -188,9 +188,6 @@ const chapter: StoryChapter = {
       `Two cums in one day. Wow ... it had been a long time since that had happened. For months now, I'd been so devoted to Tanya's needs that I'd forgotten what it felt like to be truly sexually satisfied. To be honest, the flood of anti-hormones that comes after a guy's orgasm was quickly making me feel selfconscious about having a softening dick in my mouth. I knew that an hour later I'd be horrified over what I'd been doing, but at that moment I knew how good that taste in my mouth had made me feel. I knew that the good sensations had come directly from the powerful bond we were able to share when I sucked cock for her, so I fought the resistant feelings and kept my mouth clamped around it and my eyes on Tanya. Mrs. K had explained it perfectly -- this was a path that would lead to an unbreakable bond between me and the woman I loved. Not to mention a sense of sexual satisfaction for me. The only real question was ...`,
       `... how many times a day would Tanya let me please her this way?`,
     ],
-    [
-      `As always ... to be continued ...`,
-    ],
   ],
 }
 

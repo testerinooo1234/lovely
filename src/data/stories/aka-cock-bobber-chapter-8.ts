@@ -109,7 +109,6 @@ const chapter: StoryChapter = {
       `Mrs. K. pulled my head between her breasts. She rocked me back and forth and through her own tears softly said, "Thank you, Bobby. Thank you for taking cock after cock between your lips. Thank you for swallowing mouthful after mouthful of thick creamy cum ... all in the name of love for my daughter. I just know she'll grow to be the biggest slut this county has ever seen ... maybe even the whole state. And you, Bobby, you are going have more sperm end up in your belly than anyone in history. I am so ... so proud of you both."`,
       `I cried.`,
       `I just cried.`,
-      `As always ... to be continued ...`,
     ],
   ],
 }

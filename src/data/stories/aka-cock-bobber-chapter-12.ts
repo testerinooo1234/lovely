@@ -192,7 +192,6 @@ const chapter: StoryChapter = {
       `But I had cum. As soon as I'd felt the cum spurt into my mouth, a wave of pleasure shot through me once again. To me, it had felt like I'd shot a gallon, but I guess I was just 'dry' from having already cum three times in twelve hours. And now I'd cum four times; three times with a spurting cock in my mouth and once while fantasizing about it. My balls ached ... badly. What ... what had I become?`,
       `Then again, who cares? I had the most beautiful girl in the world as my girlfriend ... and she raved about me. I'd cum more in one night than ever before in my life.`,
       `Who could argue with results like those, eh?`,
-      `To be continued ...`,
     ],
   ],
 }

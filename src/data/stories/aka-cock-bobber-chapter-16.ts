@@ -226,7 +226,6 @@ const chapter: StoryChapter = {
       `Deke stopped his nuzzling of Sasha'a crotch. Deke was not a stupid boy. Deke looked up questioningly. He knew what she was going to say before she said it.`,
       `"You need to suck cock."`,
       `Regardless of his expectations ... Deke actually gasped.`,
-      `To be continued ...`,
     ],
   ],
 }
