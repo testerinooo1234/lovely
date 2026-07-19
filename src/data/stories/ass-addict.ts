@@ -71,7 +71,7 @@ const story: Story = {
       `"You're still hard," she observed.`,
       `He hated that she was right. He hated the wet spot. He hated the way his hips chased her ass even now, traitor body begging for the original prize in the ruins of the bargain.`,
       `"Please," he heard himself say. "Yours. Just— just for a second. I did what you asked—"`,
-      `"You did the first ask." Sierra rose off him, denying the grind, and watched his face fall with open satisfaction. "Next ask is Tuesday. Marcus's roommate wants to meet you. Don't make that face. You don't have to like him. You just have to put your nose where I point and keep your eyes open while you remember what you're earning toward."`,
+      `"You did the first one." Sierra rose off him, denying the grind, and watched his face fall with open satisfaction. "Tuesday is next. Marcus's roommate wants to meet you. Don't make that face. You don't have to like him. You just have to put your nose where I point and keep your eyes open while you remember what you're earning toward."`,
       `Dylan sat on her couch in his ruined boxers with the ghost of another man still in his sinuses and understood, with sick clarity, that the night hadn't been a trick pulled from behind a scarf. It had been a negotiation he'd lost while nodding — orientation into a curriculum Sierra had already written.`,
     ],
     [

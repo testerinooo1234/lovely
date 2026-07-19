@@ -29,7 +29,7 @@ const story: Story = {
       `Mark stood up. The blanket fell. He paced to the TV and back because sitting suddenly felt like agreeing. "Absolutely not. You want a bunch of guys to paint you like a fucking pastry and put it online, and I'm supposed to sit at home in a dick prison? Emily, no. Hard no."`,
       `"It's my birthday," she said.`,
       `"That is not a coupon for gangbang catering."`,
-      `"It's not a gangbang. Nobody fucks me." She held up a finger. "Unless I decide mid-event I want that, which would be a separate negotiation. The ask right now is bukkake. Facial. Body. Eating it. Film. Upload to a paid tube with our faces blurred or not blurred — we can argue that later. And you in the cage at home so you're not in the room trying to supervise my orgasm like a hall monitor."`,
+      `"It's not a gangbang. Nobody fucks me." She held up a finger. "Unless I decide mid-event I want that, which would be a separate negotiation. What I'm asking for right now is bukkake. Facial. Body. Eating it. Film. Upload to a paid tube with our faces blurred or not blurred — we can argue that later. And you in the cage at home so you're not in the room trying to supervise my orgasm like a hall monitor."`,
       `"I would not—"`,
       `"You would." She stood too, smaller than him, somehow taller in the argument. "You get jealous when I like a bartender's arms. You think I haven't noticed? This fantasy only works if you're not there editing it with your face. I want to be greedy. I want to be filthy. I want to know you're home aching while it happens."`,
       `"So this is about humiliating me."`,
