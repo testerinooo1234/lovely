@@ -1,5 +1,6 @@
 import type { Story } from '../../types'
 import aDaddyForHim from './a-daddy-for-him'
+import akaCockBobber from './aka-cock-bobber'
 import alreadyFree from './already-free'
 import anniversaryBudget from './anniversary-budget'
 import apartmentLease from './apartment-lease'
@@ -78,6 +79,7 @@ import velvetRestraints from './velvet-restraints'
 
 export const stories: Story[] = [
   aDaddyForHim,
+  akaCockBobber,
   assAddict,
   backwardsSock,
   cuckysitter,
