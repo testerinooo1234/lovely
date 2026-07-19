@@ -101,7 +101,7 @@ const story: Story = {
     ],
   ],
   tags: [
-    'cuckolding',
+    'cuckolding', 'gaslighting',
     'hotwife',
     'humiliation',
     'chastity',
@@ -109,8 +109,7 @@ const story: Story = {
     'oral',
     'anal',
     'cum eating',
-    'voyeurism',
-  ],
+    'voyeurism',],
   publishedAt: '2026-07-17',
   featured: true,
 }

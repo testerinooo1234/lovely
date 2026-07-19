@@ -86,14 +86,13 @@ const story: Story = {
     ],
   ],
   tags: [
-    'cuckolding',
+    'cuckolding', 'gaslighting',
     'humiliation',
     'emotional',
     'hotwife',
     'voyeurism',
     'denial',
-    'oral',
-  ],
+    'oral',],
   publishedAt: '2026-07-13',
 }
 

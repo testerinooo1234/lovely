@@ -138,7 +138,7 @@ const story: Story = {
     ],
   ],
   tags: [
-    'cuckolding',
+    'cuckolding', 'gaslighting',
     'hotwife',
     'humiliation',
     'denial',
@@ -150,8 +150,7 @@ const story: Story = {
     'chastity',
     'forced-bi',
     'sissification',
-    'tease',
-  ],
+    'tease',],
   publishedAt: '2026-07-21',
   featured: true,
 }
