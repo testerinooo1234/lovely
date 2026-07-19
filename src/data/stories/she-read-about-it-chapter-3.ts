@@ -75,7 +75,7 @@ const chapter: StoryChapter = {
       `"I used my mouth," Hana said, a shy nervous sweetness under the guilt. "In his car. He finished on my tongue. I swallowed because spitting still seemed mean. I didn't text you while it happened — I told myself that made it less like the old pattern, and it didn't." She looked at her hands. "I came here right after. I brushed my teeth at a gas station. I still feel like you can tell."`,
       `Liam could not tell by smell. He could tell by the way her shoulders curved inward, guilty and bright.`,
       `"You promised," he whispered.`,
-      `"I know." Hana's eyes shone. "I know — it wasn't a date, not Matt, not me wanting a report. It was me being soft for a sad boy and then my body remembering the steps. I'm so angry at myself. I muted everyone and then I invented a new person." She reached for his wrist and stopped short of taking it. "Do you want me to leave?"`,
+      `"I know." Hana's eyes shone. "I know — it wasn't a date, not Matt, not me wanting a report. It was me being soft for a sad boy and then my body remembering how this usually goes. I'm so angry at myself. I muted everyone and then I invented a new person." She reached for his wrist and stopped short of taking it. "Do you want me to leave?"`,
       `"No," Liam said, wrecked. "Stay — just… stay."`,
       `She stayed. She cried once, quietly, into his shoulder. He held her and hated how hard he was under the grief. She noticed — she always noticed — and did not make a joke. She only said, "I'm still trying. Trying doesn't look like succeeding tonight."`,
       `He let her sleep on top of his covers in jeans, his arm numb under her neck, and told himself comfort was not the same trail as the tent.`,

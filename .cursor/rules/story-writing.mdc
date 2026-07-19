@@ -1,5 +1,5 @@
 ---
-description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam, no therapy-speak desire
+description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam, no therapy-speak desire, natural collocations for yes/no/stop/ask
 globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
 alwaysApply: false
 ---
@@ -193,7 +193,33 @@ Soft vocabulary ≠ vague psychology. Prefer “what you want,” “your thing,
 
 Applies to **all** authors and stories, including cute/inquisitive girlfriends and Dommes who speak gently. Character satire of wellness jargon is fine only when the line still makes the act clear.
 
-## 9. Chapters (optional)
+## 9. Natural collocations — don't reify yes / no / stop / ask
+
+Do **not** turn limits, refusals, and requests into weird protocol nouns, and do **not** pair ordinary English verbs with the wrong object.
+
+**The core problem:** some verbs expect a person or a concrete thing. Feeding them an abstract kink-noun makes the line stumble.
+
+**Bad (wrong frame + reified noun):**
+> I cheated on the stop you asked for *(cheat on → person)*
+> I'm proud of the no / I hated the no at one a.m. / He obeyed a no
+> Got your stop / your three nos / That no counted
+> part of the step / soft reports to stand on / that thing wants one more step
+> the smallest version of the ask / the quiet ask / Thank me for the almost
+> I'm punishing the jealousy *(punish a person, not an emotion-as-object)*
+
+**Good (keep verbs as verbs; name the act):**
+> I still feel like I cheated on you, even though we stopped where you asked
+> I'm proud I said no / I hated that you said no at one a.m. / he didn't touch because she'd said no
+> I got your texts — stop, please sleep / you saying no three times / When you said no, I stopped him
+> part of what we do next / enough soft reports that you can handle more / Now I want one more thing from you
+> shrinking what he wanted until they could say yes / quietly asking / Thank me for stopping you
+> I'm punishing you for getting jealous
+
+**Heuristic:** if the noun is just a yes/no/stop/ask/almost/step wearing a definite article, rewrite with the actual speech or act (`said no`, `stopped where you asked`, `almost came`). Findom SKUs and clear product talk (`unlock fee`, tip notes) are fine when the reader still knows what is being bought.
+
+Character research vocab that stays clear in context (`the report`, quoting `little steps` from an article) is allowed when the **verb frame** around it is ordinary English.
+
+## 10. Chapters (optional)
 
 Most stories are single-chapter (`pages` only). Multi-chapter stories:
 
@@ -204,13 +230,13 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - Read time on cards and the story kicker is the **sum** of all chapters.
 - Each chapter should still meet the 5-minute minimum on its own when practical.
 
-## 10. Length and registration (unchanged)
+## 11. Length and registration (unchanged)
 
 - Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`. Multi-chapter: count all chapters; prefer each chapter ≥5 min.
 - Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
-- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire) — **this file wins**.
+- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire, natural collocations) — **this file wins**.
 
-## 11. Quick checklist before shipping a new story
+## 12. Quick checklist before shipping a new story
 
 - [ ] Opens in a scene, not a premise dump
 - [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
@@ -222,4 +248,5 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - [ ] If a boy/man wears panties: framed as emasculation/humiliation (not “soft clothes” / care) — see §6
 - [ ] No fragment spam: weak 1–4 word stacks deleted or rewritten as full sentences — see §7
 - [ ] No therapy-speak for desire (“your feeling,” “right shape,” etc.) — see §8
+- [ ] No wrong collocations / reified yes-no-stop-ask nouns — see §9
 - [ ] ≥1150 words; `npm run count-words` clean; builds
