@@ -66,7 +66,7 @@ const story: Story = {
       `"Thirteen. Don't apologize with your eyes. Just take it. Fourteen. Ass still burning? Good. Hold that heat. Fifteen. Sixteen—"`,
       `By twenty his jaw ached and his knees hurt and somehow her voice still sounded like encouragement at a charity 5K. She pulled out, patted his cheek, and turned him with a hand on the collar.`,
       `"Bench again. Ass up. You earned the finisher."`,
-      `Lube-cold fingers opened him. The strap pressed, thick and insistent, and she pushed until the harness kissed the paddle-hot skin she'd built. He moaned into the leather. She fucked him with the same gym-rat rhythm she'd used on the counting — steady, bright, conversational.`,
+      `Lube-cold fingers opened him. The strap pressed, thick and insistent, and she pushed until the harness kissed the paddle-hot skin she'd built. He moaned into the leather. She fucked him with the same gym-rat rhythm she'd used on the counting, steady and bright and conversational.`,
       `"There we go. Taking your cardio. Don't drop the chest. Hands stay. God, you look good locked and stuffed under daylight. People waste so much money on mood lighting."`,
       `Each thrust made the pink cage knock softly against the bench edge. The key bounced between her breasts. She reached under once, cupped the plastic, and laughed when he jerked.`,
       `"Sensitive little program. Almost done being brave."`,

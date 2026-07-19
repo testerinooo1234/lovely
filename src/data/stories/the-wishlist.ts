@@ -73,7 +73,7 @@ const story: Story = {
       `"Good girl," Karen said quietly. "Legs down, honey. Slowly. Mommy's going to diaper you."`,
       `Brianna's whole body sagged. Karen dusted her with baby powder from a bottle Brianna hadn't even seen come out of the bag, brisk and businesslike, and folded the diaper up between her legs with a nurse's competence. Tabs pulled snug. Karen tugged the frilly onesie down over Brianna's head, threaded her arms through, and reached under to snap the crotch.`,
       `The plastic crinkled loud when Brianna sat up.`,
-      `She moaned — small, horrified, entirely unmistakable — and hid her face in her hands.`,
+      `She moaned, small and horrified and entirely unmistakable, and hid her face in her hands.`,
       `"Oh, baby," Karen said, and there was no cruelty in it, only recognition. "You really do like the sound."`,
       `"Don't say it."`,
       `"I don't have to. You did. It's in your notes."`,

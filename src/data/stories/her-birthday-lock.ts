@@ -89,7 +89,7 @@ const story: Story = {
       `Someone laughed. The first man stroked faster. Mark watched Emily lean forward, mouth open, eyes half-lidded, and the first shot painted her cheek and the bridge of her nose in a thick stripe. She gasped, delighted, filthy. "More. God, more —"`,
       `They gave her more.`,
       `Load after load hit her face, her open tongue, her throat, the white dress straps, the upper slopes of her breasts. Emily took it like birthday cake. She cupped her own tits to catch what slid down. She laughed when one missed and streaked her hair. She looked into the camera once — into Mark, whether she meant to or not — with cum on her eyelashes and said, "Hi, baby. Stay locked."`,
-      `Mark made a sound that was not language. Inside the pink cage his cock tried to swell and slammed into plastic denial so hard his eyes watered. Jealousy tore through him in sheets: their size, their access, her hunger, the easy way she said baby while wearing other men. Under the jealousy, worse, was heat — thick, humiliating heat — because she was radiant like this, because the mess made her look newly made, because he wanted to hate the men and instead hated how hard he would have been if the cage had allowed it.`,
+      `Mark made a sound that was not language. Inside the pink cage his cock tried to swell and slammed into plastic denial so hard his eyes watered. Jealousy tore through him in sheets: their size, their access, her hunger, the easy way she said baby while wearing other men. Under the jealousy, worse, was a thick humiliating heat, because she was radiant like this, because the mess made her look newly made, because he wanted to hate the men and instead hated how hard he would have been if the cage had allowed it.`,
       `"On my chest," Emily ordered, breathless. "Then stomach. I want to feel heavy with it."`,
       `They stroked off onto her body until the white dress was translucent and ruined, until her skin shone in the lights, until she was exactly what she had asked to be: covered. Completely. A glaze from forehead to navel, dripping off her chin onto her thighs.`,
       `"Filming still?" she asked the room.`,
@@ -116,7 +116,7 @@ const story: Story = {
       `Mark pressed his face into her neck, shaking, free and not free at all.`,
       `"Happy birthday," he said into her skin.`,
       `Emily's laugh was soft, satisfied, already halfway to next year. "Best one yet," she murmured. "Don't delete the link. I want it bookmarked on your phone. Right under our anniversary album."`,
-      `Outside, the city kept moving. Inside, the pink cage lay open on the coffee table like a dropped toy, the video kept accumulating views in Mark's pocket, and Emily — cleaned, glowing, birthday-complete — held her husband while jealousy and arousal finished arguing in his body without ever picking a winner.`,
+      `Outside, the city kept moving. Inside, the pink cage lay open on the coffee table like a dropped toy, the video kept accumulating views in Mark's pocket, and Emily held her husband while she was still cleaned and glowing and birthday-complete, jealousy and arousal finishing their argument in his body without ever picking a winner.`,
     ],
   ],
   tags: [

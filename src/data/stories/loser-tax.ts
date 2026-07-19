@@ -33,7 +33,7 @@ const story: Story = {
       `He stared at it, deleted it, typed again: running a little late on the tax, give me an hour? and hit send.`,
       `The reply arrived in forty seconds, which meant she'd been waiting with her phone face-up, nails already drying or about to be.`,
       `Rhea: lol. late fee. +$25 for thinking you might be something else. total $125. note still says because I'm a loser. the fee doesn't get its own poetry. you don't earn poetry when you're late.`,
-      `Travis's stomach dropped through the floor tiles. Something else. The phrase landed like a hand around his throat — gentle, amused, absolute. He'd hesitated for twelve minutes and she'd diagnosed the hesitation as ambition, then billed him for the fantasy.`,
+      `Travis's stomach dropped through the floor tiles. Something else. The phrase landed like a hand around his throat, gentle and amused and utterly absolute. He'd hesitated for twelve minutes and she'd diagnosed the hesitation as ambition, then billed him for the fantasy.`,
       `A follow-up bubble: also — is your little cock hard while you're drafting excuses? be honest in the bathroom. I want video proof of the payment AND the loser energy. Zoom. now.`,
       `He opened Venmo. 125.00. Note:`,
       `because I'm a loser`,
