@@ -1,4 +1,9 @@
 import type { Story } from '../../types'
+import chapter2 from './she-was-only-arguing-chapter-2'
+import chapter3 from './she-was-only-arguing-chapter-3'
+import chapter4 from './she-was-only-arguing-chapter-4'
+import chapter5 from './she-was-only-arguing-chapter-5'
+
 
 const story: Story = {
   id: '76',
@@ -6,11 +11,11 @@ const story: Story = {
   title: 'She Was Only Arguing',
   author: 'honeylogic',
   excerpt:
-    'The spank mark was still pink under Lila\'s shorts when she made me kiss it and say I trusted her. Her ex-roommate stayed in black boxer-briefs on the couch, smiling like underwear weather explained everything.',
+    'Lila left the phone on so I could hear her ex spank her open and fuck her ass, then came back breathless to insist they were only arguing — and made me apologize for the soundtrack I heard.',
   firstChapterName: 'Underwear Weather',
   firstChapterSummary:
     'Movie night at Lila\'s apartment turns into a lesson in what does and does not count: her ex in underwear, his hands on her waist, a joke spank in the kitchen, and the trust she patiently makes me say out loud.',
-  chapters: [],
+  chapters: [chapter2, chapter3, chapter4, chapter5],
   pages: [
     [
       `I brought the good popcorn because Lila had texted three exclamation points about movie night, which meant she wanted the olive-oil brand from the corner store and not the microwave bags under my sink. After work I changed shirts and walked the last block to her apartment. I knew the elevator shudder, the fourth-floor carpet stain, and the loose brass number on her door well enough to have favorites there, but not well enough to have a drawer, because Lila shared rent with someone else on a lease signed before I was the guy who stayed too late on Thursdays.`,
