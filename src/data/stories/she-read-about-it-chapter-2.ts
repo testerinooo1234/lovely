@@ -63,7 +63,7 @@ const chapter: StoryChapter = {
       `Night did not go quiet right away. It got warmer first.`,
       `Liam lay on top of his covers in the pink panties and watched the ceiling brighten with occasional headlights from the street. He checked the phone at 8:40, 9:15, 10:02. The last thing from Hana remained 7:11 and the word promise — until it didn't.`,
       `At 10:47 his screen lit.`,
-      `10:47: Still awake? We are not asleep yet. Just talking. He asked about you. I told him you are waiting at home in the panties. I did not say pink. I said the special ones. He went quiet like he got it. Then he put his hand on my stomach over the shirt. I did not move it. It is just a hand. We are still okay. I think.`,
+      `10:47: Still awake? We are not asleep yet. Just talking. He asked about you. I told him you are waiting at home in the panties. I did not say pink. I said girl's underwear. He went quiet like he got it. Then he put his hand on my stomach over the shirt. I did not move it. It is just a hand. We are still okay. I think.`,
       `Liam sent the next line before he could invent a softer one.`,
       `10:49: Please move his hand`,
       `10:56: I moved it. Then it came back lower. On the waistband of my panties. Not under. Just on. He asked if that was okay. I said I promised you nothing would happen. He said a hand on fabric is not nothing, but it is also not everything. I hate that it sounded kind of fair in the dark.`,

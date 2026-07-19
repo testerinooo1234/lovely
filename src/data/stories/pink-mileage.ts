@@ -20,7 +20,7 @@ const story: Story = {
       `"Strip. Bag. You know the drill."`,
       `He put everything in the drawstring bag while she watched, still smiling, one ankle bouncing. When he was naked she crouched and inspected the cage he was already wearing — last week's pink, scuffed faintly from a week of secret friction under office clothes.`,
       `"Still locked. Good boy. Blurry photo doesn't erase the hardware." She flicked the plastic. "But it does earn you panties and a circuit. Hands behind your head."`,
-      `She stepped away and came back with soft pink briefs and a matching collar. The panties went on first; she tugged them up until the cage made a shameless outline under the cotton. The collar buckled snug. She turned him toward the full-length mirror by the window.`,
+      `She stepped away and came back with soft pink briefs and a matching collar. The panties went on first; she tugged them up until the cage made a shameless outline under the cotton — homework failure rewritten as girl's underwear. The collar buckled snug. She turned him toward the full-length mirror by the window.`,
       `"Look. Returning client energy. Pink on pink. You emailed me a week of your locked cock and then tried to skate on Wednesday like I wouldn't notice. Smile for the mirror — no, bigger. There. That's the face of a boy about to do mileage."`,
     ],
     [

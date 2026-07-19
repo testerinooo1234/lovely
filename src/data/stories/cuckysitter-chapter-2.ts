@@ -16,7 +16,7 @@ const chapter: StoryChapter = {
       `Savanna angled the laptop so the webcam caught James in full nursery-aisle glory. "Show them your bow, princess."`,
       `James's stomach dropped. He lifted a hand and adjusted the pink satin. Brad barked a laugh that hit the apartment speakers like a slap.`,
       `"Holy shit," Brad said, stepping closer to Lily's camera. "That's the boyfriend? In a bow? Lily. You married a doll."`,
-      `Lily clapped, delighted, then kissed Brad's chest without looking away from the lens. "I told you he looks cute when Savanna dresses him. Baby, say hi to Brad properly."`,
+      `Lily clapped, delighted, then kissed Brad's chest without looking away from the lens. "I told you he looks cuter in panties than he ever did in jeans. Baby, say hi to Brad properly."`,
       `James's throat closed. Savanna's nail tapped the cage through his panties — hollow, proprietary.`,
       `"Hi, Brad," James managed.`,
       `"Louder. And call him Sir when you're in the bow," Savanna said.`,
