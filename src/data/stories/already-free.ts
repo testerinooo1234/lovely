@@ -19,7 +19,7 @@ const story: Story = {
       `Vespera: admit anyway.`,
       `Felix: A lot. I keep the tab open.`,
       `Vespera: of course you do. free men always keep the tab open. you want something that feels less free?`,
-      `He did. That was the whole disease. He wanted the same pixels with a price tag glued to them so his wanting would have paperwork.`,
+      `He did. That was the whole disease. He wanted the same pixels with a price tag glued to them so wanting them would come with a receipt.`,
       `She pitched it like a product page. $120 private screening session. One video. Live on a call. She would watch with him, comment, tell him when to thank her for access. Forty-five minutes on the calendar. Payment up front. No refunds if he got shy.`,
       `Felix paid from the same debit card he used for groceries. The confirmation email subject line was SCREENING CONFIRMED — VESPERA. He put on a collared shirt for a video call in his own bedroom like an idiot and sat down five minutes early with his headphones seated just so.`,
       `She joined two minutes late on purpose. Soft lamp light. Robe open over lingerie he'd seen in a clip that was also free. Her username floated under her face in the call window like a brand watermark.`,

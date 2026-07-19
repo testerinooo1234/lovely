@@ -109,7 +109,7 @@ const story: Story = {
       `It was a Sunday. Rain on the windows. Sierra naked from the waist down, on all fours on her bed, looking back at him with a softness that made his eyes sting. No third person in the room. Just her ass, finally, the original religion.`,
       `"Ten seconds," she said. "Because you've been good. Because Tuesday you asked Cole for me without me having to prompt the sentence. Because I'm feeling generous. Nose in. Now."`,
       `Dylan dove like a drowning man. Vanilla and skin and the perfect give of her. He made a broken noise into her that was pure relief, pure worship, the addiction briefly aligned with its true object. He counted in his head, frantic, trying to stretch each second. At ten she crawled forward, denying him the eleventh, and sat against the headboard with her knees together while he knelt there gasping, face shining, cock leaking.`,
-      `"That's what you're earning," she said quietly. "Remember the feeling. Next time you flinch on a practice run, remember I can take this away for a month."`,
+      `"That's what you're earning," she said quietly. "Remember how that felt. Next time you flinch on a practice run, remember I can take this away for a month."`,
       `"I won't flinch."`,
       `"I know." She smiled. "You're an ass addict. And I'm the only dealer who carries the real thing."`,
       `The following Saturday she texted him an address at six p.m. and the word accountability with a camera emoji, and Dylan's stomach did the elevator-drop it now did on cue.`,
