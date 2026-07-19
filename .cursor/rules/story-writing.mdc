@@ -1,5 +1,5 @@
 ---
-description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts
+description: Writing or editing erotica stories — pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation
 globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
 alwaysApply: false
 ---
@@ -99,7 +99,34 @@ When writing or revising any story: draft the excerpt **after** the filthy clima
 
 **ABDL phrasing:** say **in the diaper position** (on the back, legs up). Prefer “get in the diaper position” / “into the diaper position.” Do **not** write “strip for diaper position” — stripping and the position are separate steps.
 
-## 6. Chapters (optional)
+## 6. Boys/men in panties — emasculation and humiliation, not “soft clothes”
+
+When a **boy or man** wears panties (forced, volunteered, cuckold waiting clothes, sissy kit, cage cover, etc.), the erotic point is **emasculation / humiliation** — private shame, being dressed as less of a man, girl's underwear that marks him as the one who waits or serves. Frame it that way.
+
+This does **not** apply to women/girls wearing their own panties as ordinary clothing or sexual costume.
+
+**Do:**
+- Emphasize wrongness, girl's fabric, the bow as a punchline, being smaller than the men who get her, waiting in underwear that unmans him
+- Let each story use its own vocabulary (girl's underwear, sissy, pretty as a slur/command, locked boy in girl's cotton, taking him down a size). Do **not** paste the same stock phrase into every story
+- Keep “pretty,” “cute,” “good girl,” “soft boy” only when they **cut** — mockery, branding, sing-song cruelty — not when they sand the edges off the shame
+
+**Don't:**
+- Call male panties “soft clothes,” “the soft look,” or frame them mainly as care/comfort
+- Prefer “more like care than humiliation” or “keeping you soft” as the thesis of the panties
+- Soften the beat into aftercare aesthetics when the scene's job is to shrink him
+
+**Bad:**
+> Sometimes soft clothes for him — panties — so he feels cared for while she dates.
+> Pink panties over the cage if you want the soft look.
+
+**Good:**
+> Sometimes girl's underwear for him — panties — so the waiting itself takes the man out of him.
+> Pink panties over the cage so he can see what you wear for me.
+> Locked boy in girl's cotton. Cute and useless.
+
+When revising older stories: hunt male-panty beats for care/soft framing and re-aim them at shame/emasculation in that story's voice.
+
+## 7. Chapters (optional)
 
 Most stories are single-chapter (`pages` only). Multi-chapter stories:
 
@@ -110,13 +137,13 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - Read time on cards and the story kicker is the **sum** of all chapters.
 - Each chapter should still meet the 5-minute minimum on its own when practical.
 
-## 7. Length and registration (unchanged)
+## 8. Length and registration (unchanged)
 
 - Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`. Multi-chapter: count all chapters; prefer each chapter ≥5 min.
 - Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
-- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts) — **this file wins**.
+- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation) — **this file wins**.
 
-## 8. Quick checklist before shipping a new story
+## 9. Quick checklist before shipping a new story
 
 - [ ] Opens in a scene, not a premise dump
 - [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
@@ -125,4 +152,5 @@ Most stories are single-chapter (`pages` only). Multi-chapter stories:
 - [ ] If 18–21 appears, it appears once for a plot reason — not as a refrain
 - [ ] No safewords / traffic lights / “still okay?”
 - [ ] No characters named Aaron or Eric
+- [ ] If a boy/man wears panties: framed as emasculation/humiliation (not “soft clothes” / care) — see §6
 - [ ] ≥1150 words; `npm run count-words` clean; builds
