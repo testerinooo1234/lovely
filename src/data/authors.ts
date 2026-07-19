@@ -297,6 +297,19 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['findom', 'humiliation', 'online', 'tribute'],
   },
+  {
+    handle: 'honeylogic',
+    bio: 'Writes girlfriends who sound kind while they rewrite the room. Her specialty is the soft explanation after the hard act — vinyl wrap that took twelve hours, arguments that somehow sound like fucking, ex-roommates who just like underwear — until the boyfriend thanks her for clarifying.',
+    writingStyle: [
+      'VOICE: First person on the boyfriend (akaCockBobber-adjacent). Long spiraling internal thought; her dialogue is soft, patient, playful, and longer than his. He narrates what he heard/saw; she renames it.',
+      'PACING: Ordinary domestic friction → evidence he cannot ignore → loving rename of the evidence → logic ladder / fake win → his spoken assent → worse next time. Escalate across chapters: underwear roommate → all-day "errand" → phone left open → gangbang/bukkake/BDSM → identity lock.',
+      'GASLIGHTING CRAFT: Use story-writing.mdc §13 heavily. Never print gaslight/gaslighting. Soft voice. Pathologize his accurate jealousy. Extract "tell me you understand" after the fact.',
+      'THEMES: cuckolding, hotwife, humiliation, roommate/ex, anal, bukkake, gangbang, spanking, bdsm, forced cleanup / forced-bi optional late.',
+      'LENGTH: Multi-chapter arcs; each chapter 15–20 min (≥3450 words, aim ~3800–4200).',
+      'HARD RULES: Adults only (18+); adult context via jobs/leases/college — no filler age numbers. Sparse names (never Aaron/Eric). No consent theatre. Never use gaslight/gaslighting. Favor tags: cuckolding, humiliation, hotwife, anal, bukkake, spanking, bdsm.',
+    ].join(' '),
+    favoriteTags: ['cuckolding', 'humiliation', 'hotwife', 'anal', 'bukkake', 'spanking', 'bdsm'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
