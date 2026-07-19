@@ -68,7 +68,7 @@ const chapter: StoryChapter = {
     [
       `Tuesday arrived like a court date.`,
       `Liam spent Monday night staring at the pink cage in the dark, replaying the garage, the spanking, the way Hana had thanked him for watching as if his destruction were a gift basket. He tried to imagine saying no. Every no sounded like I don't love you enough in her voice. That was the trap. She had built it out of his own soft spots. He thought about the first articles again — the diagrams, the careful language, the way he had believed he could hand her a kink like a library book and get it back unmarked.`,
-      `At his locker Tuesday she squeezed his hand. "Sir says if you come, you kneel, you watch me get used first, and then you open your mouth when he tells you — blowjob and swallow, like I have, like Connor, like Matt in the tent mornings, like Dylan in the car, like Tyler's throat nights. I've swallowed so much cum for this feeling, Liam. I want you to know what that loyalty tastes like from the other side."`,
+      `At his locker Tuesday she squeezed his hand. "Sir says if you come, you kneel, you watch me get used first, and then you open your mouth when he tells you — blowjob and swallow, like I have, like Connor, like Matt in the tent mornings, like Dylan in the car, like Tyler's throat nights. I've swallowed so much cum because of what you taught me to want, Liam. I want you to know what that loyalty tastes like from the other side."`,
       `Liam's ears roared. "I don't… I'm not…"`,
       `"I know." Hana's voice gentled; she kissed his forehead. "You're still my virgin boyfriend in a pink cage. That's why it matters. Please — be there for me if you love me."`,
       `He went.`,

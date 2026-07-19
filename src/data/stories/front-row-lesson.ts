@@ -54,7 +54,7 @@ const story: Story = {
       `"Are you going to stop?" he asked.`,
       `"Spanking you?"`,
       `"Getting me spanked."`,
-      `Mira considered lying, but he deserved the shape of her honestly. "No."`,
+      `Mira considered lying, but he deserved her honesty. "No."`,
       `He laughed once, helpless, and covered his face. "I knew you would say that."`,
       `"You can tell Mr. Alden the truth."`,
       `"And read your messages aloud to the class? Never."`,
