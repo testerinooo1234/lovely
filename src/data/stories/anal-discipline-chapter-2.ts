@@ -3,7 +3,7 @@ import type { StoryChapter } from '../../types'
 const chapter: StoryChapter = {
   name: 'Sitting With It',
   summary:
-    'Orth\'s creampie leaks through his panties into the next periods while his face stays red and the seniors circle him for filthy comparisons to Maren — still Miss in every staff mouth, still the boy who went second.',
+    'Orth\'s creampie leaks through Jake\'s panties into the next periods while his face stays red and the seniors circle him for filthy comparisons to Maren — still Miss Miller in every staff mouth, still the boy who went second.',
   pages: [
     [
       `The corridor outside Mr. Holcomb's rhetoric room did not care that he had just been opened over a desk and left dripping. Skirts surged past him in a bright river of plaid and stockings, books hugged to chests, voices climbing as the period change freed every mouth that had been forced to whisper. He stood for a moment with his back near the doorframe because standing still felt safer than walking, and even standing still was a mistake. Cum shifted inside him the instant his weight settled differently on his heels. A warm, thick slide moved from the tender ring Orth had stretched and tracked lower into the crotch of the girl's panties, cooling as it wicked into cotton that had never been designed to hold a principal's finish.`,
