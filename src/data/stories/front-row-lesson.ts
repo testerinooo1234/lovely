@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Front Row Lesson',
   author: 'chalkpalm',
   excerpt:
-    'Mira knew exactly how to make Evan blush in front of the senior seminar, and exactly how to make him thank her for it later.',
+    'Mira slid a phone under Evan\'s notes so he took three with the maple paddle in front of the senior seminar — then put him over her own lap in the practice room and made him thank her for both.',
   pages: [
     [
       `Ravelin Academy called itself a private charter for adult completion students, which was a tidy way of saying the senior class had outgrown ordinary rules. Every student in Room Four was eighteen or older. Their parents had signed the old discipline papers years ago, but at Ravelin the only signature that mattered now was the student consent form renewed each September: a neat paragraph about corporal correction, public accountability, and the right to refuse any scene before it began. Mira Vale had signed hers with a little heart over the i. Evan Sutter, a senior, had signed his with the grim concentration of someone pretending not to want anyone to notice his hand shaking.`,
@@ -38,7 +38,7 @@ const story: Story = {
       `He should have been angry. She could see him searching for it, trying to assemble outrage from the pieces available to him. But there was too much embarrassment in the way, and beneath that too much fondness. Evan liked her. Evan had liked her since September, since she borrowed his pen and returned it with her number written along the barrel in tiny blue script. He liked her now, even with the heat of the paddle still under him, maybe especially now, because Mira had discovered the part of him he kept hidden under good grades and polite answers.`,
       `"You are impossible," he said, but softly.`,
       `"And yet you're here."`,
-      `The private spanking happened the following Friday in the unused music practice room after debate club. That one was not an accident and not a trap. Evan stood with his back to the piano, dignity trembling on the edge of surrender, while Mira locked the door and set her bag on the piano bench like she owned the room. They had talked all week in fragments: dares whispered beside lockers, the shape of what she wanted under the library clock, the way he never quite said no hard enough to make her stop planning.`,
+      `The private spanking happened the following Friday in the unused music practice room after debate club. That one was not an accident and not a trap. Evan stood with his back to the piano, dignity trembling on the edge of surrender, while Mira locked the door and set her bag on the piano bench like she owned the room. They had talked all week in fragments: dares whispered beside lockers, how she wanted him over her lap under the library clock, the way he never quite said no hard enough to make her stop planning.`,
       `"You keep getting me in trouble," he said, reading the card as if it might save him.`,
       `"I do."`,
       `"And you want to do it yourself too."`,

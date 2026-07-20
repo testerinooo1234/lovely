@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Queue On The Rug',
   author: 'crowdcollar',
   excerpt:
-    'Eight collared women came back from the night before. He put them on their knees in a line and started a two-minute clock.',
+    'Eight collared women came back from the night before. He lined them naked on their knees and gave each two minutes on his cock — mouth only — before the next plate crawled forward.',
   pages: [
     [
       `They came back without being asked twice.`,

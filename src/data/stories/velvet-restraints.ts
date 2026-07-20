@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Velvet Restraints',
   author: 'silk_and_spank',
   excerpt:
-    'Silk around the wrists. A blindfold that smelled like her perfume. Trust, tightened one knot at a time.',
+    'Velvet cuffs to the headboard, a silk blindfold, and her mouth teasing his cock until he begged — then she rode him blind and bound and only let him come when she said.',
   pages: [
     [
       `Jonah offered his wrists before Priya even asked, palms up, eyes already soft with anticipation, and that was the part that always undid her most — not the scene itself, not the ropes or the cuffs or any of the equipment laid out with such deliberate care on the bed, but the eagerness underneath the nerves, the way he trusted her enough to want this before he even fully understood what tonight's version of it would look like.`,

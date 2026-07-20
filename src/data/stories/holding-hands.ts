@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Holding Hands',
   author: 'little_softie',
   excerpt:
-    'Daddy borrowed her when he wanted — and when she was asleep, he borrowed her brother instead. Between borrows, they held hands in the dark.',
+    'Both siblings wore chastity for Daddy. When Maya was asleep he took Theo over the bathroom counter instead — and between borrows, the locked brother and sister held hands in the dark.',
   pages: [
     [
       `The house rules had been written on the kitchen whiteboard in black marker the week after the wedding, and neither of them had pretended not to read them. Maya was eighteen, a high school senior. Theo was nineteen, finished with his first year of community college and home for the summer in the spare room that still smelled faintly of paint. Their mother's new husband — calm-handed, the man they had already started calling Daddy in the soft voice reserved for after bedtime — had sat them both down at the table with tea and a printed list of house rules.`,

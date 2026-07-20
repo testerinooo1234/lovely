@@ -6,7 +6,7 @@ const story: Story = {
   title: 'NaughtyDiaperGirls',
   author: 'sternapron',
   excerpt:
-    'Emily was eighteen, ninety pounds, and sure her tabs were private. Then Mom found the pink diapers — and the script from the videos.',
+    'Emily cleared her history twice and still got caught. Mom found the pink diapers and the NaughtyDiaperGirls script — then put her in the diaper position, took the hairbrush to her bare ass, and taped her into plastic for the night.',
   pages: [
     [
       `Emily Cole was eighteen years old, a high school senior, ninety pounds soaking wet, and absolutely certain that if she cleared her history twice she was safe.`,

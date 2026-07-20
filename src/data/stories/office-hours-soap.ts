@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Office Hours Soap',
   author: 'chalkpalm',
   excerpt:
-    'Riley dropped one F-bomb about a grade in his TA\'s office. Morgan closed the frosted-glass door, unlocked the desk drawer, and produced a little travel soap she kept "for manners cases."',
+    'Riley dropped one F-bomb about a grade in his TA\'s office. Morgan locked the frosted-glass door, soaped his mouth with travel Ivory, and spanked him over the desk while footsteps slowed in the hallway.',
   pages: [
     [
       `The frosted glass on Morgan Ellis's office door was the kind that turned people in the hallway into pale, moving shapes — outlines of shoulders and backpacks, the fuzz of a voice going by — but it did nothing at all for sound. Riley Quinn had known that for six weeks and had ignored it for exactly as long. He was nineteen, a sophomore, and until 2:47 p.m. on a Wednesday in early April he had considered himself pretty good at controlling his mouth in university buildings.`,

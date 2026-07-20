@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Punishment Inbox',
   author: 'inboxpaddle',
   excerpt:
-    'BeltMarks and INeedSpankedBad were both subs. That did not stop them from assigning each other homework that stung.',
+    'BeltMarks and INeedSpankedBad were both subs. That did not stop them from assigning each other hairbrush videos, belt marks, and fridge-bowl cum homework that stung for days.',
   pages: [
     [
       `They met in a spanking discord that smelled, digitally, like nervous honesty.`,

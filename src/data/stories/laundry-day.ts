@@ -219,7 +219,7 @@ const story: Story = {
       `"Good girl."`,
       `Diane did not put the hairbrush away. She set it, bristles down, wooden back up, on the end table by the couch where anyone sitting down could see it. Megan crinkled beside her, sore and diapered and — worst and truest — grateful that the six months of hidden hampers had finally ended in a room with the lights on and her mother's hand on her shoulder and a brush on the table close enough to reach.`,
       `"Yes, Mommy," she said again, softer, to no question in particular.`,
-      `Diane clicked on the television. On the counter, a phone Megan no longer owned the alone-hours of buzzed. Diane did not look up. "Ignore it. Mommy will read it later."`,
+      `Diane clicked on the television. On the counter, Megan's phone buzzed — she didn't get private hours with it anymore. Diane did not look up. "Ignore it. Mommy will read it later."`,
       `Megan crinkled once, softly, and did.`,
     ],
   ],

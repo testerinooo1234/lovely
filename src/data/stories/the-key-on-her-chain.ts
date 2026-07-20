@@ -6,7 +6,7 @@ const story: Story = {
   title: 'The Key on Her Chain',
   author: 'locked4her',
   excerpt:
-    'He thought the lock was temporary. She wore the key like jewelry — and made him ask permission for every ache.',
+    'Fourteen days in the cage. Vanessa wore the key at her throat, edged him unlocked until he begged, then locked him sticky again when she decided he hadn\'t earned the orgasm.',
   pages: [
     [
       `The key never left her throat. Small, silver, warm from her skin — it rested in the hollow of Vanessa's collarbone like a secret she wanted David to see, every single day, whether he was looking or not. He always was. Three weeks in and his eyes still went there first, before her face, before her mouth, straight to the glint of metal that decided when — if — he got to feel anything below his waist again.`,

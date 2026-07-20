@@ -11,7 +11,7 @@ const story: Story = {
   author: 'soft_accident',
   excerpt:
     'Liam taught Hana cuckolding. Shorter skirts and coffee with other boys first — then Connor on her tongue, live-texted mouth "accidents," and denial in the pink panties she bought him.',
-  firstChapterName: 'Little Steps',
+  firstChapterName: 'Coffee and Panties',
   firstChapterSummary:
     'Hana studies cuckolding like homework, puts Liam in pink panties after her first coffee date, then builds through flirting and touching to oral "accidents" — and jealousy punished by live texts.',
   chapters: [chapter2, chapter3, chapter4, chapter5],

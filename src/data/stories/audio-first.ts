@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Audio First',
   author: 'dollzoom',
   excerpt:
-    'Three voice notes arrived before any video — wet oral sounds and a soft narration that ruined him at his desk. When the footage finally landed, she waved between thrusts like the camera was a friend.',
+    'Three voice notes hit first — wet blowjob sounds and her soft narration of another man\'s cock in her mouth. When the video landed, she waved between thrusts like the camera was a friend.',
   pages: [
     [
       `The first voice note hit at 2:04 p.m., while he was mid-email about a vendor invoice that did not deserve to share a timestamp with this.`,

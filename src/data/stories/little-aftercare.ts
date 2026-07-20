@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Little Aftercare',
   author: 'little_softie',
   excerpt:
-    'The scene was over. The stuffed fox was waiting. So was the hard part — letting herself be soft again.',
+    'Twenty minutes over Noah\'s knee left her ass throbbing and her face sticky with tears. Afterward he wrapped her in a fleece blanket, put the stuffed fox in her lap, and kept her little until grown-up Maya came back.',
   pages: [
     [
       `Maya knew exactly what she'd asked for. That didn't stop her from floating afterward like someone had unplugged all the sharp edges of the world at once, leaving nothing but soft static and the deep, bone-level relief of having been handled thoroughly by someone she trusted completely.`,

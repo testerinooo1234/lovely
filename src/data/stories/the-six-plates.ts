@@ -6,7 +6,7 @@ const story: Story = {
   title: 'The Six Plates',
   author: 'crowdcollar',
   excerpt:
-    'He posted for tall, lean women who wanted to be mocked for not being woman enough. Six showed up. Six plates were waiting.',
+    'He posted for tall, lean, flat-chested women who wanted to be mocked for not being woman enough. Six showed up, buckled nameplates at their throats, and took turns on their knees for the insult.',
   pages: [
     [
       `The ad had been mean on purpose — looking for tall, lean, flat-chested women who want to be mocked for being built like boys / not woman enough, living-room night, group, collars with names, you asked for the insult and he delivered it.`,

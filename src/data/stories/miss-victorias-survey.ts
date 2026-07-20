@@ -6,7 +6,7 @@ const story: Story = {
   title: "Miss Victoria's Survey",
   author: 'towerlap',
   excerpt:
-    'Reid checked every box Miss Victoria loved most. At six-foot-nine, she had no trouble showing a twenty-one-year-old college boy what those boxes meant over her knee.',
+    'Reid ticked forced feminization, ageplay, chastity, SPH, and hard spankings. At six-foot-nine, Miss Victoria locked his cock in pink plastic, put him in a princess pull-up, and spanked him over her knee until he cried.',
   pages: [
     [
       `Miss Victoria's intake form arrived as a clean PDF with checkboxes that looked almost administrative until you read them twice. Reid Hahn, twenty-one, junior year, filled it out at his dorm desk at 1:14 a.m. with the door locked and his headphones on, pulse climbing every time he ticked another box he had never said out loud to another human being — forced feminization, ageplay, chastity, small penis humiliation, intense spankings.`,

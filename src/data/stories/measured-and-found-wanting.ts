@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Measured and Found Wanting',
   author: 'silk_and_spank',
   excerpt:
-    'She brought a ruler to bed. He laughed — until she started reading the numbers out loud.',
+    'She tied his wrists and pressed a wooden ruler along his cock. Four and a quarter, she read out loud — then stroked him while he admitted he was small and still hard from hearing it.',
   pages: [
     [
       `"Hold still," Gwen said, as if Nolan had anywhere to go, tied loosely at the wrists to the headboard, more suggestion than restraint, more ritual than necessity. The cool edge of the wooden ruler pressed along the length of him with clinical patience, the kind of unhurried thoroughness that made his stomach twist in on itself.`,

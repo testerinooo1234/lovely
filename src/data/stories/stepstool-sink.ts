@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Stepstool Sink',
   author: 'towerlap',
   excerpt:
-    'Owen Briggs booked "manners correction." Hestia Crane, six-foot-two and cheerful, put him on a stepstool at her kitchen sink and let him find out what that meant.',
+    'Owen booked manners correction. Six-foot-two Hestia put him on a kitchen stepstool, washed his mouth with Ivory soap, then hairbrush-spanked him until he thanked her for the manners.',
   pages: [
     [
       `Owen Briggs, five-foot-six on a generous day, arrived at the address on his booking confirmation ten minutes early because being late to Hestia Crane felt like arriving already spanked. He had chosen "Manners Correction — 90 minutes" off the drop-down menu on her website at 1 a.m. on a Tuesday and paid the deposit before he could talk himself out of it, and now it was Saturday, and he was standing on a doormat that said WIPE THAT ATTITUDE with a novelty smiley face.`,

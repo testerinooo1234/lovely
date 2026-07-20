@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Listing Day',
   author: 'suds_witness',
   excerpt:
-    'One dropped sign, one muttered fuck, and a broker who did not intend to hear it twice. Between showing windows Theo learned what Corinne kept in the master bath at every listing — and how quietly she could use it with the door half open.',
+    'One dropped sign, one muttered fuck, and a broker who did not intend to hear it twice. Between showing windows Corinne soaped Theo\'s mouth with Ivory at the master vanity — door half open — then again in the parked SUV after the open house.',
   pages: [
     [
       `The sign fell at nine forty-two on a Sunday morning, exactly eighteen minutes before the open house was supposed to open, and Theo Marsh — second year as Corinne Vale's assistant, still not paid enough to be careless — said the word out loud before he could catch it.`,

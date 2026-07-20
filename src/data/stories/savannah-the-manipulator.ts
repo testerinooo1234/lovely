@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Savannah the Manipulator',
   author: 'softvow',
   excerpt:
-    'She said she would never. She described exactly how. Nolan kept the pink key on her phone case and told himself he was being mature.',
+    'She swore nothing happened at Brad\'s — then came home without panties, kept Nolan locked in pink plastic, filmed a birthday bukkake on his phone, and later dressed him in pink panties to suck Brad\'s cock and swallow.',
   pages: [
     [
       `Nolan learned early that Savannah did not need to raise her voice to win.`,

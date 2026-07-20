@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Pretty Things Wear Pink',
   author: 'locked4her',
   excerpt:
-    'The skirt was shorter than he admitted online. The lace itched. Her lipstick on his mouth felt like a brand.',
+    'Simone dressed Toby in pink satin, lace panties that tucked his cock small, and a wig — made him say sissy to the mirror, smeared lipstick on his mouth, and put him on his knees to eat her until she came.',
   pages: [
     [
       `The ad had been simple, almost boring in its wording — experienced trainer, transformation specialty, discretion guaranteed — and Toby had read it probably forty times over two weeks before he'd finally worked up the courage to reply, hands shaking on the keyboard like he was confessing to a crime rather than answering a classified listing. Simone's response had come within the hour, warm and businesslike at once, asking careful questions that made him feel, for the first time in years of quietly wanting this alone, like wanting to wear panties for a woman wasn't something to be ashamed of.`,
