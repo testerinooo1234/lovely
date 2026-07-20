@@ -6,7 +6,7 @@ const story: Story = {
   title: 'He Asked for It',
   author: 'chalkpalm',
   excerpt:
-    'Julian asked Mrs. Lark for discipline in private, so she found a way to make the lesson real enough for everyone to remember.',
+    'Julian asked Mrs. Lark to spank him. She waited for a real excuse — red ink on a peer critique — then bent him over the front desk for four with the school paddle while the class watched.',
   pages: [
     [
       `Julian Voss was an eighteen-year-old high school senior in the charter track at St. Bartholomew's, a peculiar old academy that kept its senior seminar separate from the rest of the school. The door bore a brass plaque that said CONSENT COHORT, which visiting parents found dramatic until they read the handbook: public correction by lecture, written apology, or corporal discipline was available to seniors who had signed the annual charter, with opt-out cards faceup on every desk and no recordings permitted. The system was old-fashioned, embarrassing, and, for Julian, impossible to stop thinking about.`,

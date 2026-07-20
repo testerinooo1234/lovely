@@ -6,7 +6,7 @@ const story: Story = {
   title: 'French Class Invite',
   author: 'little_softie',
   excerpt:
-    'Caleb asked Krissi to be his girlfriend. She said no — then invited him to watch her submit to Daddy, with her feet in his face the whole time.',
+    'Caleb asked Krissi to be his girlfriend. She said no — then invited him to watch Daddy fuck her while she shoved both feet in Caleb\'s face and made him thank her for the soles.',
   pages: [
     [
       `Krissi Vale was eighteen years old, a high school senior who still took French for the easy A, and she looked like someone had designed a doll and then taught it to giggle on purpose.`,

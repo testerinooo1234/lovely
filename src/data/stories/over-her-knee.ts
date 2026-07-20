@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Over Her Knee',
   author: 'silk_and_spank',
   excerpt:
-    'He had been careless. She had been patient. Tonight, patience ended with the sharp music of her palm.',
+    'Dishes, ignored texts, porn on the toilet — Claire put him bare-assed over her knee, made him count every spank, then edged him through his boxers and denied the orgasm until aftercare was done.',
   pages: [
     [
       `Daniel knew the second he walked in that he was fucked. Not the fun kind. The kind where Claire was already sitting on the edge of the couch with her sleeves rolled up and that quiet look she got when she'd decided something hours ago and had only been waiting for him to come home and collect it.`,

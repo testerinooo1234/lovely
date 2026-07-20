@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Bubblegloss',
   author: 'foamfemme',
   excerpt:
-    'Elliot is in pink satin and pale gloss for practice night at his girlfriend\'s vanity — until a snapped garter clip earns him a word he should not have said, and a bar of lavender soap held between his teeth while he watches the mirror learn a girl\'s mouth.',
+    'Elliot is in pink satin and pale gloss for practice night at his girlfriend\'s vanity — until a snapped garter clip earns him a word he should not have said, and a bar of lavender soap held between his teeth while he watches her paint a girl\'s mouth onto his reflection.',
   pages: [
     [
       `The vanity had been Celeste's grandmother's — walnut and gilt-mirrored, older than either of them — and Elliot Voss, freshly shaved from collarbone to ankle, was learning that antique furniture made every small mistake echo. He sat on the padded stool in nothing but a pair of pink satin panties, one garter still unclipped down his right thigh, the strap dangling like a scolding finger. The bulb ring around the mirror was on its softest setting. Celeste liked her practice nights lit like a magazine shoot.`,

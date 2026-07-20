@@ -6,7 +6,7 @@ const story: Story = {
   title: 'She Lets Him Stay',
   author: 'cornerseat',
   excerpt:
-    "He wasn't invited into the bed. He was invited into the corner — close enough to hear everything he wasn't allowed to touch.",
+    "He wasn't invited into the bed. He sat in the corner chair, hard and denied, while Dev ate Elena out and fucked her — then she crossed the floor and stroked him off for waiting.",
   pages: [
     [
       `The guest's mouth was already on Elena's throat when Marcus took his seat, and the chair beneath him creaked in the sudden quiet, loud enough to feel like an announcement, though nobody in the room bothered to look over. That was the entire point of the corner — close enough to hear every sound the two of them made, far enough that he existed at the edge of the frame rather than inside it, a presence tolerated rather than included.`,

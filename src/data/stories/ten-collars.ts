@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Ten Collars',
   author: 'crowdcollar',
   excerpt:
-    'He posted for chubby women he could treat like pigs — humiliated together, named, and used. Twenty answered. Ten got collars.',
+    'He posted for chubby women he could treat like pigs. Twenty answered; ten got collars, stripped naked, and lined up to suck and fuck while he named them out loud.',
   pages: [
     [
       `Damon Cole was six-foot-three, dark-haired, the kind of tall attractive Dominant who collected unread DMs from women who had only seen his jawline in a mirror selfie beside a flogger. He did not need to chase. What he wanted was specific and ugly and honest: chubby women he could look at and call pigs without softening it — soft stomachs, thick thighs, bodies he could stack in a room and degrade until they dripped. He posted once, blunt, in a local kink board: looking for chubby women who want to be humiliated together as pigs. Group night. Consensual. No romance.`,

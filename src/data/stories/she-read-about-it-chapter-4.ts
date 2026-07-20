@@ -4,7 +4,7 @@ import type { StoryChapter } from '../../types'
 const chapter: StoryChapter = {
   name: 'Yes Sir',
   summary:
-    'Tyler becomes regular and Hana starts calling him Sir — rough anal, facefucking, spanking, hogtied use — while Liam waits through advance warnings and gutting after-reports, still untouched, still hers on paper.',
+    'Tyler becomes regular and Hana starts calling him Sir — rough anal, facefucking, spanking, hogtied use — while Liam waits through advance warnings and detailed after-sex reports that gut him, still untouched, still hers on paper.',
   pages: [
     [
       `The week after Tyler, Hana stopped pretending the hallway grab had been weather.`,

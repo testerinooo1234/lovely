@@ -6,7 +6,7 @@ const story: Story = {
   title: "Madame Beaumont's Corner",
   author: 'chalkpalm',
   excerpt:
-    'In French 4, corner time meant nose on the floor and bottom in the air. Then Madame held up a sauce cup and the boys stopped breathing.',
+    'In French 4, corner time meant naked, nose on the floor, bottom in the air. Then Madame filled a sauce cup with another boy\'s cum and made Tomas bury his nose in it while the class watched his hole.',
   pages: [
     [
       `Every student in Madame Beaumont's French 4 was eighteen — seniors who had signed the academy's discipline addendum in September and still somehow never got used to what "unique" meant in her room.`,

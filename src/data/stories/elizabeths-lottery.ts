@@ -6,7 +6,7 @@ const story: Story = {
   title: "Elizabeth's Lottery",
   author: 'chalkpalm',
   excerpt:
-    'Twice a year every senior girl drew her luck. Elizabeth had always drawn soft. Today the card said nude, jeweled plug, fifty paddle, one hundred belt.',
+    'Twice a year every senior girl drew her luck. Elizabeth had always drawn easy — hand over panties. Today the card said nude, jeweled plug, fifty paddle, one hundred belt.',
   pages: [
     [
       `Master Halden had declared it years before Elizabeth enrolled, and the academy treated the rule like gravity: all senior girls were to be spanked twice a year no matter what, and their spankings were to be filmed and categorized for his pleasure. Dress, implements, number of strokes, and other factors ran through a lottery system administered by the principal's office with the same dry seriousness as exam seating. No spanking was truly "light," but the luckiest girls got hard hand-spankings over their panties. The unluckier ones might have their panties taken down or be stripped totally naked. They might get the paddle, the belt, or the cane. It might only be six strokes with the cane, or it could climb as high as a hundred.`,

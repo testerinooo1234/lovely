@@ -6,7 +6,7 @@ const story: Story = {
   title: 'The Other Discipline',
   author: 'silk_and_spank',
   excerpt:
-    'She needed correction in her life. He was not the right man to give it. Then the man above the bakery started giving her much more.',
+    'James was too soft to spank her properly. Simon above the bakery was not — hard spankings, plugs, a blowjob she traded for delay, then cock with the plug still in while her husband watched the last twenty minutes.',
   pages: [
     [
       `Rachel had been married eight years, and she had learned the difference between a fantasy you whispered in bed and a structure you built on a calendar. James was careful with his words and his hands — the kind of man who read every contract twice and still hesitated before he let her tie him. She loved that about him. She also knew, with a clarity that had stopped being romantic and started being practical, that he was not the right man to correct her.`,

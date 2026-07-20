@@ -6,7 +6,7 @@ const story: Story = {
   title: 'House Rules with Miss Hale',
   author: 'chalkpalm',
   excerpt:
-    'Eighteen-year-old Lena had asked Miss Hale for a home with rules. On the night she broke one, the house kept its promise.',
+    'Lena broke curfew and turned her phone off. Miss Hale put her over the couch for twenty-four with the wooden hairbrush — then held her while the sting settled and the house rules still meant something.',
   pages: [
     [
       `Lena Marsh was eighteen, a high school senior, and the adoption decree lay in a cream folder on the hall table where Miss Hale kept important things: insurance papers, report cards, the spare key to the storm windows. Adult adoption sounded strange when Lena said it quickly. It sounded stranger at school, where Miss Hale was still Miss Hale, literature teacher, iron-gray bun, precise handwriting, the woman who could silence a room of seniors with one lifted finger. At home she was Marianne Hale on the legal form and Mother only when Lena was brave enough to let the word happen.`,
