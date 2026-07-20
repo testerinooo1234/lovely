@@ -23,7 +23,7 @@ const chapter: StoryChapter = {
       `James lifted a hand and touched the bow. Brad stepped into frame behind Lily — six-foot-two, shirtless already, jeans open — and barked a laugh that hit the apartment speakers like a slap.`,
       `"Onesie again," Brad said. "Perfect. Keep watching, ribbon boy. I'm about to fuck your girl while the camera rolls."`,
       `Lily kissed Brad's chest without looking away from the lens, sweet as syrup and already breathless. "I love you, James. Don't unlock. Don't mutter. Just watch me get fucked by a real man while Savanna keeps your clitty locked."`,
-      `Savanna leaned toward James's ear, sportscast soft. "Listen to your girlfriend. That's a woman in a bunny suit built to make strangers hard. That's you on my couch in pastel with a bow in your hair. Sip nothing. Eyes on her."`,
+      `Savanna leaned toward James's ear, sportscast soft. "Listen to your girlfriend. That's a woman in a bunny suit built to make strangers hard. That's you on my couch in pastel with a bow in your hair. Hands in your lap. Eyes on her."`,
     ],
     [
       `Brad freed his cock without ceremony — ten inches thickening toward that Coke-can girth James had learned by heart across uploads — and the head was already shiny with a bead of precum that Lily caught on her tongue before she even knelt. She dropped to her knees on the hotel carpet in fishnets and heels, cottontail high, ears tipping forward as she tipped her face up and opened her mouth like a hungry little hole.`,
