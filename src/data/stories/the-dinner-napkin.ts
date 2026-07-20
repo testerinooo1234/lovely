@@ -64,7 +64,7 @@ const story: Story = {
       `"Now," Nora said. She turned him — actually turned him, both hands on his shoulders — until he faced their hosts. Elise was still against the island. Paul was still one step behind her. The dinner napkin was still tucked into Grant's collar. His chin was still wet. His mouth felt like a room after a fire.`,
       `"Apologize to Elise," Nora said. "Properly. Out loud. And don't rush."`,
       `He tried. His tongue had swelled a little around the taste, and the first word came out furred at the edges.`,
-      `"Elise—" he said. Foam bubbled faintly at the corner of his mouth as he spoke and he felt it and did not wipe it. "I'm sorry. That joke was — it was ugly. You were being kind to my wife. I made you a punchline in your own house. I'm sorry, and I'm sorry to Paul, and I'm sorry to Nora, and I will not speak about you that way again."`,
+      `"Elise—" he said. Foam bubbled faintly at the corner of his mouth as he spoke and he felt it and did not wipe it. "I'm sorry. That joke was — it was ugly. You were being kind to my wife. I made a joke of you in your own house. I'm sorry, and I'm sorry to Paul, and I'm sorry to Nora, and I will not speak about you that way again."`,
       `Elise looked at him for a long moment. Her cheeks were still pink. Her chin was still up. When she finally spoke, her voice was so level it sounded rehearsed, though he knew perfectly well it was not.`,
       `"Thank you, Grant," she said. "Apology accepted."`,
       `Paul, behind her, made a small quiet sound that was, this time, definitely a laugh — one soft huff, immediately swallowed. "For what it's worth," he added, "we've all had a Thursday."`,
