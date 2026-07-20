@@ -314,10 +314,10 @@ export const authors: Author[] = [
     handle: 'akacockbobber',
     bio: 'Classic ASSTR author of the Bob Cocker / a.k.a. Cock Bobber saga — Tanya, Mom, Malph, and the long soft road from cleanup boy to convert. Original texts preserved as published.',
     writingStyle: [
+      'GOLD STANDARD / DO NOT REWRITE: The existing a.k.a. Cock Bobber saga files (aka-cock-bobber.ts and aka-cock-bobber-chapter-*.ts) are verbatim ASSTR imports. Never rewrite, modernize, de-gibberish, re-pace, or lightly edit them for style. Catalog-wide prose cleanups must skip these files. Only touch them for build/registration breakage or an explicit user request that names this saga.',
       'VOICE: First person on Bob/Bobby. Long internal spiral; Tanya and Mrs. Kohmfetter speak in soft loving logic ladders.',
-      'NOTE: Existing aka-cock-bobber chapters are verbatim imports — do not rewrite them. New stories in this handle may continue the saga voice.',
       'THEMES: cuckolding, gaslighting craft, cum eating, forced-bi, humiliation, spanking, anal, bukkake.',
-      'HARD RULES: Adults only (18+). Never use gaslight/gaslighting in prose (catalog tag OK). Never name Aaron or Eric. No consent theatre.',
+      'HARD RULES: Adults only (18+). Never use gaslight/gaslighting in prose (catalog tag OK). Never name Aaron or Eric. No consent theatre. Plain English — no AI gibberish (§14 in story-writing.mdc).',
     ].join(' '),
     favoriteTags: ['cuckolding', 'gaslighting', 'humiliation', 'oral', 'anal', 'bukkake', 'forced-bi'],
   },
