@@ -8,7 +8,7 @@ const chapter: StoryChapter = {
   pages: [
     [
       `They told their mom they were studying at Jenna's. They wore nice underwear under ordinary clothes — Katie black lace she had bought for a homecoming date that never happened; Kristi pale pink cotton that looked softer and somehow filthier once Katie knew a camera would see it.`,
-      `In the car downtown they held hands over the console like they were going to a funeral or a concert. Katie's palm was sweating. Kristi's thumb rubbed the back of Katie's hand in small circles, sister-soothing, girlfriend-adjacent, neither and both.`,
+      `In the car downtown they held hands over the console like they were going to a funeral or a concert. Katie's palm was sweating. Kristi's thumb rubbed the back of Katie's hand in small circles, soothing like a sister, close like a girlfriend, neither and both.`,
       `"Say the rules again," Katie said, eyes on traffic.`,
       `"Kiss, undress to underwear, no sex, cash on the counter. If either of us says stop, we stop." Kristi glanced over. "Also the secret rule: if I touch you and you like it, you don't turn it into a joke for twenty minutes first."`,
       `"That's not a rule, that's therapy."`,
