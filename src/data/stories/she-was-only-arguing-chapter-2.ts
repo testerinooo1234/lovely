@@ -3,7 +3,7 @@ import type { StoryChapter } from '../../types'
 const chapter: StoryChapter = {
   name: "Twelve Hours",
   summary:
-    "Lila returns from twelve hours wrapping Vance's car anal-sore and cum-slick; Owen tongues her clean while she soft-renames the garage, then holds her hair while Vance finishes in her ass.",
+    "Lila comes home from twelve hours wrapping Vance's car with a sore, cum-slick ass; Owen tongues her clean while she insists the garage fuck wasn't cheating, then holds her hair while Vance finishes in her ass.",
   pages: [
     [
       `Saturday morning Lila kissed my forehead over coffee and told me not to make that face yet.`,

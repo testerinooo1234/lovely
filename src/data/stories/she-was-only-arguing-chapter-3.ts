@@ -3,7 +3,7 @@ import type { StoryChapter } from '../../types'
 const chapter: StoryChapter = {
   name: "She Was Only Arguing",
   summary:
-    "Lila leaves FaceTime connected; Owen hears belt, anal, and roommate cock for thirty-one minutes \u2014 then she returns flushed to insist it was an argument and extract his apology.",
+    "Lila leaves FaceTime connected; Owen hears belt, anal, and roommate cock for thirty-one minutes \u2014 then she returns flushed to insist it was an argument and get him to apologize.",
   pages: [
     [
       `Wednesday should have been mine. Weekends had excuses; Wednesday was FaceTime with wet hair and cereal-for-dinner teasing.`,
