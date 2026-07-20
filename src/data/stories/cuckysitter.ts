@@ -1,5 +1,6 @@
 import type { Story } from '../../types'
 import chapter2 from './cuckysitter-chapter-2'
+import chapter3 from './cuckysitter-chapter-3'
 
 const story: Story = {
   id: '28',
@@ -11,7 +12,7 @@ const story: Story = {
   firstChapterName: 'Cuckysitter on Duty',
   firstChapterSummary:
     'Pink-cage watch parties, Brad on their own couch, and Savanna turning James\'s browser history into a bow, panties at the ankles, and a hairbrush for stolen cookies.',
-  chapters: [chapter2],
+  chapters: [chapter2, chapter3],
   pages: [
     [
       `James had thought the worst night of his life would be the first upload.`,
