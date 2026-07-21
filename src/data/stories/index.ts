@@ -23,6 +23,7 @@ import herUberHisCard from './her-uber-his-card'
 import holdStillForScale from './hold-still-for-scale'
 import holdingHands from './holding-hands'
 import houseRulesWithMissHale from './house-rules-with-miss-hale'
+import humiliatrix from './humiliatrix'
 import inspectionCosts from './inspection-costs'
 import justATaste from './just-a-taste'
 import justACleanTaste from './just-a-clean-taste'
@@ -117,6 +118,7 @@ export const stories: Story[] = [
   heAskedForIt,
   herBirthdayLock,
   holdingHands,
+  humiliatrix,
   soapAndFlash,
   tenCollars,
   savannahTheManipulator,
