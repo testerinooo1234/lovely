@@ -114,7 +114,7 @@ const story: Story = {
       `"Yes, Ma'am," Cole said into her shoe.`,
       `"Say you're my little cuck."`,
       `"I'm your little cuck."`,
-      `"Say Humiliatrix owns my pathetic locked cock."`,
+      `"Say Humiliatrix owns your pathetic locked cock."`,
       `"Humiliatrix owns my pathetic locked cock."`,
       `"Say I want Marcus to use you again while I watch."`,
       `Cole shuddered. "I want Marcus to use you again while I watch."`,
