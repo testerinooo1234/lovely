@@ -53,7 +53,7 @@ const chapter: StoryChapter = {
     ],
     [
       `The arrangement thickened the way bruises did — overnight, then obvious.`,
-      `Sunday afternoon they were supposed to study for a history quiz on her bedroom floor — backpacks open, the old shape of them before cuckolding had a syllabus. Twenty minutes in her phone lit. She read it, cheeks pink, and stood.`,
+      `Sunday afternoon they were supposed to study for a history quiz on her bedroom floor — backpacks open, the old shape of them before sticky notes owned the floor. Twenty minutes in her phone lit. She read it, cheeks pink, and stood.`,
       `"He's free," she said. "Not a whole scene. Just a quick video. He wants me on my knees for a minute." She already had her earbuds. "Don't watch, don't leave — just… sit there and know. Okay?"`,
       `Liam sat. On her phone screen, tilted just enough that he could see color and motion without details, Hana knelt beside her desk and said Yes Sir into the camera with her childhood seahorse shower curtain behind her. Sixty seconds. Then she hung up, face flushed, and returned to flashcards like nothing holy had been interrupted.`,
       `"That wasn't sex," she said quietly, not quite convincing either of them. "That was him reminding my body who opens the door. The next long one is Friday. He bought rope."`,
