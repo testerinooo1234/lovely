@@ -51,7 +51,7 @@ const chapter: StoryChapter = {
       `Liam's throat closed. She brushed his cheek with the backs of her fingers.`,
       `"But I can stop adding to it," she said. "That's the promise — no more mouths for other boys, no more overnight, no more Matt asking about lakes." Her mouth tipped. "If he texts about trees I'll send a sticker and nothing else."`,
       `He laughed wetly. She kissed his forehead the way she used to after tests.`,
-      `"Stay until my parents text they're twenty minutes out," she whispered. "Then you go home in your own clothes and sleep in your own bed and we do homework tomorrow like a couple that didn't invent a whole genre together."`,
+      `"Stay until my parents text they're twenty minutes out," she whispered. "Then you go home in your own clothes and sleep in your own bed and we do homework tomorrow like a couple that didn't turn sticky notes into this."`,
       `He stayed. They did not have sex. She did not put him in panties. She held his hand until the garage door rumbled and then she shooed him out with a lunch-box kiss and a look that said she meant it.`,
       `Sunday he woke up almost happy.`,
       `Sunday night his phone buzzed once.`,
