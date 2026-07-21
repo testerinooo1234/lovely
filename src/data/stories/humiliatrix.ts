@@ -1,6 +1,7 @@
 import type { Story } from '../../types'
 import chapter2 from './humiliatrix-chapter-2'
 import chapter3 from './humiliatrix-chapter-3'
+import chapter4 from './humiliatrix-chapter-4'
 
 const story: Story = {
   id: '79',
@@ -8,11 +9,11 @@ const story: Story = {
   title: 'Humiliatrix',
   author: 'humiliatrix',
   excerpt:
-    'She locks his pink cage on video, spanks him raw in her apartment, then makes the senior kneel in a diaper while Marcus facefucks her and finishes in her ass — and Cole has to thank him out loud.',
+    'She locks his pink cage on video, makes him watch Marcus finish in her — diaper, skirt, and thank-yous — then paddles his bare bottom and soaps his mouth for commenting on her ass.',
   firstChapterName: 'Send Proof',
   firstChapterSummary:
     'Online to her living room: Humiliatrix laughs at his cock, locks the cage, puts him in pink panties, spanks him, then goes out and makes him hear every filthy detail after.',
-  chapters: [chapter2, chapter3],
+  chapters: [chapter2, chapter3, chapter4],
   pages: [
     [
       `Cole was eighteen, a senior at Westfield High, and lonely in the specific way that made forums feel like company. He had a narrow chest, a quiet voice, and a browser history he cleared twice a night. On a Thursday after midnight he clicked a profile named Humiliatrix — older woman, sharp smile, bio that promised cages, cucks, and boys who cried cute.`,
@@ -130,6 +131,8 @@ const story: Story = {
     'ageplay',
     'abdl',
     'spanking',
+    'mouthsoaping',
+    'discipline',
     'bdsm',
     'anal',
     'oral',
