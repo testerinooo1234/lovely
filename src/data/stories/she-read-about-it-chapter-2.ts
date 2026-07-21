@@ -188,7 +188,7 @@ const chapter: StoryChapter = {
       `"Naomi."`,
       `"Okay, okay." She tucked hair behind her ear. "I will not promise I will never hike with him again, because last night's promise is still wet on my thighs and I am not going to stack a clean lie on top of a messy truth. I can promise I will tell you before I go. I can promise I will pack better. I can promise that if I pack condoms, it means I am at least admitting what might happen."`,
       `"That does not help."`,
-      `"It helps me be honest." She softened her voice. "And honesty is the only pretty thing left when I keep doing ugly things, okay? 🥺"`,
+      `"It helps me be honest." She softened her voice. "And honesty is the only pretty thing left when I keep doing ugly things, okay?"`,
       `He shook his head, but the emoji voice in her mouth, the little okay?, the ridiculous sweetness of it, all worked on him the way her hand on his stomach had worked on Matt. It did not persuade him that this was fine. It persuaded him to keep listening.`,
       `Naomi checked her phone. A message preview lit the glitter case. Matt's name appeared with a lake emoji and a blue heart he had no right to use.`,
       `She hesitated, then turned the screen toward Liam instead of hiding it.`,
