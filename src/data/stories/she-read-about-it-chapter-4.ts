@@ -237,7 +237,7 @@ const chapter: StoryChapter = {
       `They sat in the quiet after the telling. Liam shook. Naomi finally moved closer and fixed the twisted waistband of the pink panties with two careful fingers — a domestic little gesture that made the humiliation sharper because it was so tender.`,
       `"There. Pink belongs flat against the little boyfriend, not bunched. If you're going to sit in girl's underwear while Sir picks my week, at least look correctly ruined."`,
       `"Please don't make it sound cute."`,
-      `"You are cute," she whispered, and kissed the top of his head. "Cute and sad and hard and mine in every way he doesn't bother wanting. He wants my mouth and my ass and my Yes Sir. I come home for your red face and your tiny brave okay."`,
+      `"You are cute," she whispered, and kissed the top of his head. "Cute and sad and hard and still mine in the ways he doesn't care about. He wants my mouth and my ass and Yes Sir. I come home for your red face and that little okay you keep giving me."`,
       `At the door she paused, phone in hand. "If not-touching starts driving you crazy tonight, text me. I might comfort you, or send the belt part again, or ask about the history quiz."`,
       `He hated that she already knew what he'd say. "Okay."`,
       `She blew him a kiss she didn't deliver to his mouth and left.`,
