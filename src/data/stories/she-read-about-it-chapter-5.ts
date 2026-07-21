@@ -67,7 +67,7 @@ const chapter: StoryChapter = {
     ],
     [
       `Tuesday arrived like a court date.`,
-      `Liam spent Monday night staring at the pink cage in the dark, replaying the garage, the spanking, the way Hana had thanked him for watching as if his destruction were a gift basket. He tried to imagine saying no. Every no sounded like I don't love you enough in her voice. That was the trap. She had built it out of his own weak spots. He thought about the first articles again — the diagrams, the careful language, the way he had believed he could hand her a kink like a library book and get it back unmarked.`,
+      `Liam spent Monday night staring at the pink cage in the dark, replaying the garage, the spanking, the way Hana had thanked him for watching as if his destruction were a gift basket. He tried to imagine saying no. Every no sounded like I don't love you enough in her voice. That was the trap. She had built it out of his own weak spots. He thought about the first articles again — the gentle beginner guides, the careful language, the way he had believed he could hand her a kink like a library book and get it back unmarked.`,
       `At his locker Tuesday she squeezed his hand. "Sir says if you come, you kneel, you watch me get used first, and then you open your mouth when he tells you — blowjob and swallow, like I have, like Connor, like Matt in the tent mornings, like Dylan in the car, like Tyler's throat nights. I've swallowed so much cum because of what you taught me to want, Liam. I want you to know what that loyalty tastes like from the other side."`,
       `Liam's ears roared. "I don't… I'm not…"`,
       `"I know." Hana's voice gentled; she kissed his forehead. "You're still my virgin boyfriend in a pink cage. That's why it matters. Please — be there for me if you love me."`,
@@ -81,7 +81,7 @@ const chapter: StoryChapter = {
       `"Relax your throat and breathe when he lets you. Look at him — yes, that's Sir, that's the cock I need, and you're sharing it with me because that's what love looks like now." She wiped a tear from Liam's cheek with her thumb and kept going, mercilessly tender. "Connor finished on my tongue and I swallowed. Matt finished in me and I still tasted him the next morning. Dylan shook apart in my mouth in a parking lot. Sir paints my throat whenever he wants. I told you all of it. Now you know the texture, not just the sentences."`,
       `When Sir finished, he held Liam's head and came on his tongue in thick pulses. "Swallow," he said.`,
       `Liam swallowed. It was warm and wrong and final. He coughed once and still kept it down because Hana's eyes said please without sound. She kissed his cheek, not his mouth, and whispered, "All the boys I told you about — that's what I carried home to you, and now you carried one too. Thank you for staying. I love you. You were there for me in the bravest ugly way."`,
-      `Liam cried with his hands still behind his back. Regret and arousal and humiliation braided until he could not tell which fiber hurt most. He thought of the diagrams in the first articles and wanted to laugh until he broke.`,
+      `Liam cried with his hands still behind his back. Regret and arousal and humiliation braided until he could not tell which fiber hurt most. He thought of the beginner guides he'd sent her and wanted to laugh until he broke.`,
       `Sir laughed under his breath. "Next baseline he takes it in the ass. Train him."`,
       `Hana nodded against Liam's hair. "Yes, Sir."`,
     ],
