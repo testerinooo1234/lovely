@@ -15,7 +15,7 @@ const chapter: StoryChapter = {
       `8:05: Please don't do anything`,
       `Hana replied with a heart emoji and a photo of her trail shoes by the door, ankles already socked, the hem of her shorts high enough that he could see the soft inner line of her thigh.`,
       `8:11: Packed water and granola. Nothing dramatic. It's just nature!! You like when I do the before-sex stuff — short shorts, making you wait, telling you about it. This is just the shorts version. Okay?`,
-      `He believed her the way he always believed her: incompletely, hungrily, with his stomach already preparing for the report.`,
+      `He believed her the way he always believed her: incompletely, hungrily, with his stomach already preparing to be made to hear it.`,
       `10:12: At the trailhead. His backpack is way bigger than mine. He laughed and said I pack like a girl who expects to be carried. I said I can walk!! He said he knows. Then he took my water bottle into his pack anyway "to balance the weight." It felt less like manners and more like he just decided. Maybe I'm reading too much into it because of you.`,
       `Liam pressed his thumb against the screen until the glass warmed. He did not touch himself. He ached in the pink cotton and hated how useful the ache was as proof he was obeying.`,
       `10:47: Uphill already. My legs are pink. He keeps looking at them when he thinks I'm looking at the trees. I'm looking at him looking. Is that still just me letting him stare at my legs, or am I past that… um.`,
@@ -135,7 +135,7 @@ const chapter: StoryChapter = {
       `"I did." Hana nodded, eyes shining. "And I broke it. I'm still your girlfriend, and I'm also the girl who got filled twice on purpose after saying she was only going to sleep — while you're still waiting for your first time with anyone. I know. I can see it in your face." She pouted softly when he frowned. "I won't do a whole speech about forever. It isn't that serious. It was one night that went further than the day-hike plan."`,
     ],
     [
-      `They sat in the quiet that always followed her reports — not peace, exactly. More like the pause after a bell.`,
+      `They sat in the quiet that always followed her making him hear it — not peace, exactly. More like the pause after a bell.`,
       `Hana finally hugged him, careful, her cheek against his temple. She smelled like creek mineral and cheap lemon wipe and under that the skin-scent of someone else. She let him breathe it. She still did not offer her mouth.`,
       `"You're hard," she observed, not unkind, a shy giggle catching in it. "Even while you're sad, which is still our old pattern. I won't touch you, and you don't get to touch yourself either; if you do, I'll have to go further with someone this week, and I'd rather not turn your private failure into a public schedule. Okay?"`,
       `"Okay," Liam said, ruined.`,
