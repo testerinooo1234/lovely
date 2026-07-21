@@ -90,7 +90,7 @@ const chapter: StoryChapter = {
       `7:58: Awake. Sun's up. I need to tell you what happened after I said goodnight.`,
       `Liam sat up so hard the panties tugged wrong. His thumbs hovered and produced nothing useful.`,
       `8:01: After I put the phone under my shirt so I'd stop typing, I didn't stop him. I need you to hear that first. Putting the phone away wasn't me keeping the promise.`,
-      `8:03: He finished inside me bare and warm, no condom. He didn't bring any, and neither did I. I said we shouldn't, but it came out softer the second time, and then I was holding onto his shoulder while he stayed all the way in me. Same as before, except this time my screen was dark on purpose.`,
+      `8:03: He finished inside me bare and warm, no condom. He didn't bring any, and neither did I. I said we shouldn't, but it came out softer the second time, and then I was holding onto his shoulder while he stayed all the way in me. My screen was dark on purpose.`,
       `Liam made a sound into his own wrist. The bedroom stayed ordinary around him — his desk, the strap of his backpack, pale morning light through the blinds — while the chat rewrote the night he had been guarding.`,
       `8:07: I'm sore — not hurt, just used. I rinsed with a wipe from his pack. I smell like plastic lemon and him. There's more. I'm sorry. I'm going to keep going.`,
       `8:09: Around four I woke up wanting him again. He asked if I wanted more, and I still said we shouldn't — then I climbed on him anyway, because I need you to know that part was me. Second time, bare again. I came, and then he finished inside me again, and I can still feel it when I sit.`,
