@@ -2,7 +2,7 @@
 
 **Live site:** https://testerinooo1234.github.io/lovely/
 
-A dark, literary erotica reading site — frontend only.
+A dark, taboo erotica reading site — plain dirty stories, frontend only.
 
 ## Stack
 

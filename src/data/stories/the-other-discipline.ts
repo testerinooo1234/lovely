@@ -106,7 +106,7 @@ const story: Story = {
       `Simon's mouth curved. "Once. To buy a week. She told you?"`,
       `"Tonight."`,
       `"Good. Secrets rot marriages." He stood. "Over the bench. Belt. We'll start there."`,
-      `James's first spanking from Simon felt nothing like Rachel's attempts. Rachel loved him; her hand carried forgiveness in the spaces between strikes, and he had always felt it. Simon spanked like weather — impersonal, total, each lash laying down a line he would feel in tomorrow's staff meeting. He counted to twenty-five and broke on twenty-six, voice cracking. Simon did not soothe. He adjusted the angle and continued until James was shaking, cock hard and leaking against the bench, humiliation complete.`,
+      `James's first spanking from Simon felt nothing like Rachel's attempts. Rachel loved him; her hand carried forgiveness in the spaces between strikes, and he had always felt it. Simon spanked hard and impersonal — each lash laying down a line he would feel in tomorrow's staff meeting. He counted to twenty-five and broke on twenty-six, voice cracking. Simon did not soothe. He adjusted the angle and continued until James was shaking, cock hard and leaking against the bench, humiliation complete.`,
       `"Up," he said. "Pants down was already handled. You don't get to hide your body's response. It tells the truth your mouth won't."`,
       `Rachel was allowed back for the last twenty minutes. She sat on the couch, plug in place, and watched her husband bent for another man's belt with tears on his face and his ass striped in ways her palm had never managed.`,
       `"He's been jealous," Rachel told Simon, voice low. "Not of you. Of what I get that he doesn't — the part I told him he couldn't give me."`,
