@@ -35,7 +35,7 @@ const story: Story = {
     ],
     [
       `The flirting-and-coffee phase started like weather, but Hana narrated it like excited updates between classes.`,
-      `"I'm hot," she said on Monday, knotting her shirt higher in his driveway, "so I'm gonna wear a shorter skirt. The article about teasing said visual attention counts as a first step even without touching." She spun once, ponytail bouncing. "Does this look okay? Not too much? I want boys to notice… and I also want you to be the one who approved it. Please?"`,
+      `"I'm hot," she said on Monday, knotting her shirt higher in his driveway, "so I'm gonna wear a shorter skirt. The article about teasing said just letting boys look counts as a first step even without touching." She spun once, ponytail bouncing. "Does this look okay? Not too much? I want boys to notice… and I also want you to be the one who approved it. Please?"`,
       `It was too much. The skirt was a pale denim pleat that barely cleared mid-thigh when she stood still and climbed higher when she spun, flashing the soft insides of her legs like she had already decided the answer and only wanted him to stamp it. Liam swallowed. "It's fine."`,
       `Tuesday she bent to pick up a dropped pencil in chemistry and stayed down a beat longer than needed. After class she found him at his locker, cheeks pink, voice going tiny. "I think Connor saw my panties when I bent over — ordinary white ones. The reading said accidental flashes are still a kind of offering if you choose not to prevent them. My face feels so warm. Is that the kind of thing you meant?"`,
       `"Yeah," Liam managed. "That's… yeah."`,
