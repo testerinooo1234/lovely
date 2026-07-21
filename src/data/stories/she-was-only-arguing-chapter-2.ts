@@ -22,7 +22,7 @@ const chapter: StoryChapter = {
       `Leggings down by the door. No panties. Pussy puffy-shiny; ass pink-stretched and slick; cum drying on her thigh.`,
     ],
     [
-      `"He fucked my ass in the garage after the quarter panel," she said like weather. "Pig. I was tired-wet from bending over his hood twelve hours. Not a date — a disgusting footnote to unpaid labor. Knees. Ass first. Get him out of me before I kiss you properly."`,
+      `"He fucked my ass in the garage after the quarter panel," she said, flat and bored. "Pig. I was tired-wet from bending over his hood twelve hours. Not a date — a disgusting footnote to unpaid labor. Knees. Ass first. Get him out of me before I kiss you properly."`,
       `I knelt. Her hole leaked a white bead. I pushed my tongue in and tasted cum, lube, garage air. She moaned and shoved back onto my face.`,
       `"Deeper— fuck— swallow— tongue-fuck it— that's my boyfriend cleaning the footnote—"`,
       `I worked her ass until the taste thinned. She turned and ground her used pussy on my mouth while narrating the day filthy-soft: heat gun, spank for a vinyl bubble, bent over the fender, cock working into her ass while she held the panel, coming on him like an idiot, making him drive her home instead of round two because she wanted me.`,

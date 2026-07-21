@@ -86,7 +86,7 @@ const chapter: StoryChapter = {
       `He did not touch himself. He ached in the pink cotton and hated how useful the ache was as proof he was still waiting correctly. Somewhere on a ridge, he told himself, Hana was asleep in black panties under an open sleeping bag with a boy who packed a tent "just in case." The silence was supposed to mean that. Silence could also mean other things. He chose the kinder translation because the alternative was looking down.`,
     ],
     [
-      `Morning messages did not arrive like weather. They arrived like a door opening.`,
+      `Morning messages did not creep in slow. They hit all at once.`,
       `7:58: Awake. Sun's up. I need to tell you what happened after I said goodnight.`,
       `Liam sat up so hard the panties tugged wrong. His thumbs hovered and produced nothing useful.`,
       `8:01: After I put the phone under my shirt so I'd stop typing, I didn't stop him. I need you to hear that first. Putting the phone away wasn't me keeping the promise.`,
@@ -151,7 +151,7 @@ const chapter: StoryChapter = {
       `Hana kissed the top of his head, inhaled once like she was checking that he still smelled like himself, and moved to the door.`,
       `"If the quiet starts chewing on you, text me," she said. "I may not rescue you from it. I may describe the lake. Or the tent. Or how he felt when he finished the second time and said your name like a joke he liked." Her mouth tipped, sweet and merciless. "Or I may only talk about the trees, if that's the gentler lie you need today."`,
       `She left.`,
-      `Liam stayed on the bed in the pink panties, phone dark in his hand, the chat scroll still heavy above the conversation like weather that refused to clear. Somewhere across town a girl who had learned his fantasy like a language was washing creek water out of her hair and deciding, with the kind of steady inevitability that had stopped feeling cruel, whether the next map would include an overnight box she forgot to check on purpose.`,
+      `Liam stayed on the bed in the pink panties, phone dark in his hand, the chat scroll still heavy in his head — every bubble from the tent still there whether he scrolled or not. Somewhere across town a girl who had learned his cuckolding kink was washing creek water out of her hair and deciding, with the kind of steady inevitability that had stopped feeling cruel, whether the next map would include an overnight box she forgot to check on purpose.`,
       `His screen buzzed.`,
       `11:48: Home. Shower was warm and I'm still a little sore in the good way. Don't touch, okay? If you're good this week maybe I only do coffee with Connor, and if you're not I might ask Matt about the lake — partly for the trees, and partly because another overnight with him is already in my head. I love you.`,
       `Liam answered without typing about the lake or about condoms.`,

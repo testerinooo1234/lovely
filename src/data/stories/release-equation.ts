@@ -37,7 +37,7 @@ const story: Story = {
       `She started the phone timer with her thumb and set it on the counter beside the whiteboard, eight minutes glowing. Then her hand hovered an inch from his cock, close enough for heat, not contact.`,
       `"Ask."`,
       `His voice came rough. "Please may I have a stroke of your hand, ma'am."`,
-      `Her fist closed around him once, base to tip, devastatingly complete, and lifted away.`,
+      `Her fist closed around him once, base to tip, tight and complete, and lifted away.`,
       `He shuddered. "Please may I have a stroke of your hand, ma'am."`,
       `Again — slower, thumb dragging just under the head where the week had made him stupid — she released.`,
       `On the counter the timer ticked through seven twenty, seven twelve, while he asked and she stroked, asked and stroked again. The kitchen filled with the wet sound of a week ending in measured increments, her sweater sleeve brushing his hip when she leaned in, the whiteboard equation still shouting 8 MINUTES over her shoulder in black marker.`,

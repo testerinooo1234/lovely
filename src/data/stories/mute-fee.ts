@@ -32,7 +32,7 @@ const story: Story = {
       `Gia: and going forward — $15 per unnecessary message. unnecessary = anything I didn't ask for, anything that stacks, anything that sounds like you're auditioning for attention. keep a tally. I will.`,
       `Paul: understood`,
       `He waited, sweating, to learn if understood counted.`,
-      `A sticker arrived — one cartoon padlock snapping open. No words. Then a photo: Gia from the collarbones down, cream blouse open three buttons, the inner slopes of her breasts framed like a moodboard, Venmo confirmation screenshot tucked into the corner of the image like a watermark. Caption: receipt art. you funded the unmute. you still don't get the skin. look while you're hard. that's the whole product.`,
+      `A sticker arrived — one cartoon padlock snapping open. No words. Then a photo: Gia from the collarbones down, cream blouse open three buttons, tits on display, Venmo confirmation screenshot tucked into the corner of the image. Caption: receipt art. you funded the unmute. you still don't get the skin. look while you're hard. that's the whole product.`,
       `Paul set the phone down carefully, as if sudden movement might trigger another fee, and realized he was hard enough to hurt — not from a nude, not from a voice note, from a sticker and a price list for his own mouth and a cleavage shot he'd paid sixty dollars to be allowed to receive without touching.`,
     ],
     [
