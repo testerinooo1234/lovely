@@ -10,7 +10,7 @@ const story: Story = {
   title: 'Humiliatrix',
   author: 'humiliatrix',
   excerpt:
-    'She locks his pink cage, makes him watch Marcus finish in her, paddles and soaps him for commenting on her ass, then hairbrush-spanks and face-slaps him over a C on his report card.',
+    'She locks his pink cage, paddles and soaps him for commenting on her ass, then makes him watch Marcus anal-creampie her — and eat it out when she cumfarts in his face.',
   firstChapterName: 'Send Proof',
   firstChapterSummary:
     'Online to her living room: Humiliatrix laughs at his cock, locks the cage, puts him in pink panties, spanks him, then goes out and makes him hear every filthy detail after.',
@@ -135,9 +135,11 @@ const story: Story = {
     'face slap',
     'mouthsoaping',
     'discipline',
+    'small penis humiliation',
     'bdsm',
     'anal',
     'oral',
+    'creampie',
   ],
   publishedAt: '2026-07-21',
 }
