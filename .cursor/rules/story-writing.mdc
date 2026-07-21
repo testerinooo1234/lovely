@@ -271,6 +271,38 @@ When a character quotes research or names a first escalation, prefer **ordinary 
 
 **Heuristic:** if the noun could sit in a bullet list titled "escalation stages" without naming a body or an act (`attention`, `offering`, `duration`, `genre`, `syllabus`, `visual X`), rewrite with who did what. Cute research-girlfriend voice can still cite "the article" — the **cited idea** should be plain English.
 
+### Ordinary verbs for rules — not cute metaphors
+
+When a character is cheating, bending, or soft-breaking a label/limit/promise, use the **ordinary verb for that act**. Do not dress it in a clever physical metaphor or a softening adverb stack.
+
+**Bad (cute / elastic metaphor):**
+> treated the label like a pinkie promise she intended to stretch gently
+> even your waiting has a uniform
+> framed as structure that was supposed to sting
+> taking inventory out of habit
+> like a private weather system
+> assuming the weather had learned manners
+> needing the answer shaped like a grade
+> memorized the rubric
+> Asking and relaxing were not the same muscle
+> warped into ritual / structure was better than freefall
+> patient only in the way weather is patient before it breaks
+
+**Good (ordinary verb / plain saying):**
+> treated the label like a rule she intended to bend
+> then even the waiting will look like waiting
+> neat and absolute, meant to sting
+> checking out of habit
+> like a private secret
+> assuming it was finally done
+> needing a clean yes or no
+> practiced saying no
+> Asking and relaxing weren't the same thing
+> now colder / having something to do was better than sitting empty
+> patient only until it wasn't
+
+**Why this lands:** `bend` is what people actually say you do to a rule. `Stretch gently` is writer ornament — an elastic metaphor plus a softener. Same failure mode as syllabus nouns and reified kink SKUs: the line gets cute instead of doing the act. Prefer the verb a stranger would use out loud.
+
 Quoting an article once in ordinary English is fine. Do **not** mint private house jargon (`soft things`, `soft steps`, `the report` as a reusable kink SKU) and reuse it as if the reader already knows the code.
 
 ## 10. No obscure house jargon — and don't wear out stock phrases
@@ -284,6 +316,7 @@ Do **not** invent private euphemisms that only make sense inside the story's own
 > the report / a report / reports *(as the reusable name of the cuckold-telling kink — prefer a sparse definition beat + ordinary telling verbs; see §9)*
 > visual attention / a kind of offering / small attention / duration is a choice *(syllabus nouns — prefer plain acts: letting boys look, letting him see, saying yes to little things; see §9)*
 > Insane is our genre / finished the syllabus / invent a whole genre *(meta workshop labels for the kink arc)*
+> stretch gently / pinkie promise she intended to stretch / waiting has a uniform / weather had learned manners / shaped like a grade / memorized the rubric / not the same muscle / warped into ritual *(cute metaphors where an ordinary verb would do — prefer bend the rule, checking, private secret; see §9)*
 > little steps *(as a repeated house code after the articles have already been explained once)*
 > the waiting gets too loud / cute and terrible / for your own good *(when it stands in for a named escalation)*
 > spitting seemed mean *(as a copy-paste swallow excuse every oral telling)*
@@ -296,6 +329,7 @@ Do **not** invent private euphemisms that only make sense inside the story's own
 - If a refrain is character voice (`sorryyy`, sticky notes), keep it sparse; do not let one swallow-excuse or one metaphor become the whole telling style
 - For cuckold aftercare/telling beats: land verb-first dominance once if needed (`making you hear it`), then ordinary telling aimed at him — not a pasted refrain and not a SKU noun (`the report`)
 - When citing articles: plain act verbs (`letting boys look`), not syllabus nouns (`visual attention`, `offering`, `duration`)
+- When she cheats a label/limit: ordinary verbs (`bend the rule`), not cute metaphors (`stretch gently`)
 
 **Don't:**
 - Treat `soft X` as a reusable category for "gentle version of the kink"
@@ -460,7 +494,7 @@ The multi-chapter saga **a.k.a. Cock Bobber** (`author: akacockbobber`, files `a
 - [ ] If a boy/man wears panties: framed as emasculation/humiliation (not “soft clothes” / care) — see §6
 - [ ] No fragment spam: weak 1–4 word stacks deleted or rewritten as full sentences — see §7
 - [ ] No therapy-speak for desire (“your feeling,” “right shape,” etc.) — see §8
-- [ ] No wrong collocations / reified yes-no-stop-ask nouns — verb-first kink framing + plain act verbs (not `the report` / `visual attention` syllabus nouns) — see §9
+- [ ] No wrong collocations / reified yes-no-stop-ask nouns — verb-first framing, plain act verbs, ordinary rule-verbs (not `the report` / `visual attention` / `stretch gently`) — see §9
 - [ ] No obscure house jargon (`soft things`, `soft steps`, `the report` as kink label) or copy-pasted stock excuses — see §10
 - [ ] Plain English: no AI gibberish (soft-renames, anal-sore tags, “like content,” “Sip nothing,” fabric-as-job, opaque nicknames) — see §14
 - [ ] Did **not** touch aka-cock-bobber files unless the user named that saga — see §15
