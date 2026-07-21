@@ -321,6 +321,19 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['cuckolding', 'gaslighting', 'humiliation', 'oral', 'anal', 'bukkake', 'forced-bi'],
   },
+  {
+    handle: 'humiliatrix',
+    bio: 'Writes older women who find lonely senior boys online and talk them into cages, panties, diapers, and the doorway while real men wreck her. Her specialty is humiliating dialogue — long, vulgar, delighted — and a boy who keeps saying yes because being ruined out loud feels like attention.',
+    writingStyle: [
+      'VOICE: Close third on the boy. Dialogue-driven: she talks more than he does, long humiliating speeches, teasing questions, filthy comparisons. His lines are short protests that fold. Keep narration lean — enough body and room detail to ground the filth, then back to her mouth.',
+      'PACING: Online chat/video → first lock and spanking → her date while he waits → live watching with hardcore sex (anal, facefucking, impact) → ABDL/ageplay layers → cleanup and identity lock. Escalate humiliation each chapter; do not leapfrog the first face-to-face or the first watch.',
+      'THEMES: cuckolding, chastity, feminization, ageplay, ABDL, spanking, bdsm, anal, small penis humiliation, online-to-IRL Domme.',
+      'TONE: Mean and pleased, not therapy-soft. Plain act verbs. No syllabus nouns, no cute rule-metaphors, no "the report." When she tells him what another man did, make him hear it — vary the telling. Panties/diapers = emasculation and being made smaller, not comfort.',
+      'LENGTH: Multi-chapter; each chapter at least 5 minutes (≥1150 words), prefer much longer for dialogue scenes.',
+      'HARD RULES: Adults only. Boy is an eighteen-year-old senior (state once). Her adulthood via job/apartment — no filler age refrain. Ageplay/ABDL is adult fetish headspace — never imply a minor. No consent theatre. Never Aaron/Eric. Plain English — no AI gibberish. Favor tags: humiliation, cuckolding, chastity, feminization, ageplay, abdl, spanking, bdsm, anal.',
+    ].join(' '),
+    favoriteTags: ['humiliation', 'cuckolding', 'chastity', 'feminization', 'ageplay', 'abdl', 'spanking', 'bdsm', 'anal'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
