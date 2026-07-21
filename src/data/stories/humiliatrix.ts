@@ -10,7 +10,7 @@ const story: Story = {
   title: 'Humiliatrix',
   author: 'humiliatrix',
   excerpt:
-    'She locks his pink cage, makes him watch Marcus finish in her, paddles and soaps him for commenting on her ass, then hairbrush-spanks him over a C on his report card.',
+    'She locks his pink cage, makes him watch Marcus finish in her, paddles and soaps him for commenting on her ass, then hairbrush-spanks and face-slaps him over a C on his report card.',
   firstChapterName: 'Send Proof',
   firstChapterSummary:
     'Online to her living room: Humiliatrix laughs at his cock, locks the cage, puts him in pink panties, spanks him, then goes out and makes him hear every filthy detail after.',
@@ -132,6 +132,7 @@ const story: Story = {
     'ageplay',
     'abdl',
     'spanking',
+    'face slap',
     'mouthsoaping',
     'discipline',
     'bdsm',
