@@ -59,7 +59,6 @@ const chapter: StoryChapter = {
       `"That wasn't sex," she said quietly, not quite convincing either of them. "That was him reminding my body who opens the door. The next long one is Friday. He bought rope."`,
       `Liam asked if she was still his.`,
       `Hana cupped his jaw and kissed his forehead. "I'm your girlfriend. I sleep in my own bed most nights thinking about your face. I also get on my knees when Sir tells me to in the middle of our plans. Those aren't the same kind of belonging. I'm not going to pretend they are."`,
-      `On the walk into school Monday, the seahorse curtain was still behind Hana's eyes. Sixty seconds on her knees between flashcards had proved that dominance no longer needed a bedroom. Liam listened with his backpack straps strangling his shoulders while she talked about rope like weather.`,
       `Hana started keeping a spare pair of plain black panties in her backpack "in case he wants me bare under my skirt at his place." She showed Liam the folded cotton like evidence, cheeks pink, bouncing once. She still kissed his cheek in the hallway. She still helped him with stoichiometry. She still said I love you like a true thing. Between those ordinary facts she answered Tyler's texts with Yes Sir and left mid-sentence when the whim arrived.`,
     ],
     [
