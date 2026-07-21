@@ -39,7 +39,7 @@ const story: Story = {
       `He stripped under the windows. Daylight made no exceptions; it found every awkward angle, every place he wanted shadow. She took the bag to the hallway and came back with something small and aggressively pink cupped in her palm.`,
       `"Hands at your sides," she said when he tried to cover himself. "Mistress looks. That's the point. Look at you — all soft and ready. Perfect timing."`,
       `She worked the ring behind his balls with brisk, practiced fingers, then slid the pink cage over him. The plastic was smooth, toy-bright, almost cheerful against the serious heat in his gut. The lock clicked. She hung the key on a thin chain and dropped it between her breasts like a whistle.`,
-      `"There we go. Instant honesty." She flicked the cage once with a fingernail. The sound was small and devastating. "Pink looks good on boys who thought they were booking a dungeon. On your knees a second — collar."`,
+      `"There we go. Instant honesty." She flicked the cage once with a fingernail. The sound was small and mean. "Pink looks good on boys who thought they were booking a dungeon. On your knees a second — collar."`,
       `The collar was pink too, soft leather, buckle snug enough that he felt every swallow. She tapped the front ring.`,
       `"Up. Bench. We're going to talk about form."`,
       `He bent over the black leather. The padding was cool under his chest. She stood behind him and rubbed his ass with both palms like she was warming clay, still chatting.`,

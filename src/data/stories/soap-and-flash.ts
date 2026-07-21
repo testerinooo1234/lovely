@@ -6,7 +6,7 @@ const story: Story = {
   title: 'Soap and Flash',
   author: 'prettytrap',
   excerpt:
-    'Four women. One bar of soap. A camera shutter that sounded like a verdict — and a photo wall that would not let him forget it.',
+    'Four women. One bar of soap. A camera shutter that snapped hard and final — and a photo wall that would not let him forget it.',
   pages: [
     [
       `The party was already loud when Wren was told to kneel in the kitchen.`,
