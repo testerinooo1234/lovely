@@ -57,7 +57,7 @@ const story: Story = {
       `He didn't wipe. He stood there in the beautiful open kitchen with borrowed Ivory foaming inside his mouth, a dinner napkin tucked at his throat, and two hosts breathing quietly at his back, and he understood — with the clarity soap seemed to bring — that some corrections are not private because the offense was not private, and that Nora had known this longer than he had.`,
     ],
     [
-      `Finally, without ceremony, Nora slid the bar out. It emerged shiny with a coat of his spit. She set it on the little porcelain dish beside the tap, precise as a jeweler setting a stone.`,
+      `Finally, without ceremony, Nora slid the bar out. It emerged shiny with a coat of his spit. She set it on the little porcelain dish beside the tap, neat and unhurried.`,
       `"Rinse and spit," she said. "Once. Just enough to talk."`,
       `He cupped water with a shaking hand, tipped it into his mouth, swished, and spit into the sink. The foam that came out was denser than any foam he had ever made in his life. It clung to the drain like meringue. He rinsed a second time on reflex and Nora said, quietly, "I said once. The taste stays."`,
       `The taste stayed.`,

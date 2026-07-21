@@ -66,7 +66,7 @@ const story: Story = {
       `"How many guys?" Mark asked, throat dry.`,
       `Emily checked a note on her phone. "Eight confirmed. All tested. All bigger than you, before you ask — I checked the screening pics. I'm shallow for one night. Sue me."`,
       `"Jesus Christ, Emily."`,
-      `"You're already locked. The blasphemy won't unlock you." She kissed the tip of the pink cage, absurd and devastating, then stood. "I'm going to try on what I'm wearing. You can watch. Hands off. Not that you have a choice."`,
+      `"You're already locked. The blasphemy won't unlock you." She kissed the tip of the pink cage, absurd and cruel, then stood. "I'm going to try on what I'm wearing. You can watch. Hands off. Not that you have a choice."`,
       `He watched. She tried on a white micro dress that would not survive the first load. She practiced kneeling on a towel in front of the mirror and laughed at herself, then looked at Mark's face in the reflection and softened.`,
       `Emily came back to him, cupped his jaw, rested her forehead on his. "Talk."`,
       `"I'm scared it'll change us. I'm scared I'll hate you. I'm scared I won't."`,

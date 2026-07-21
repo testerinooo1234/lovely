@@ -40,7 +40,7 @@ const story: Story = {
       `She kissed his forehead, then his mouth, slow and deep while her hand finally wrapped around his cock through the cotton. Not a reward exactly — more like ownership, a reminder that even his orgasm lived downstream of her mood. She stroked him until he was shaking and begging under his breath, hips stuttering, right on the edge, then stopped with her thumb pressed hard under the head, denying him the finish until his eyes watered again.`,
       `"Aftercare first," she said. "Water. Couch. Ice if you need it. Lotion when I say. You come tonight only if you finish the dishes, send me a proper apology text you'll actually mean, and ask nicely with your face in my lap. Your little problem doesn't get to set the schedule."`,
       `He nodded, ruined and grateful, cheek against her thigh where the spanking had started. She made him drink a full glass of water before anything else, then inspected the color blooming across his ass with clinical care that somehow felt more intimate than sex. "You'll bruise a little," she said. "Good. I want you thinking about me every time you sit tomorrow."`,
-      `Outside, the city kept going. Inside their dark living room, his ass pulsed with every heartbeat, and the only thing that felt like prayer was her hand in his hair, keeping him right where she'd put him — sore, hard, corrected, and finally, finally paying attention.`,
+      `Outside, the city kept going. Inside their dark living room, his ass pulsed with every heartbeat, and the only thing that mattered was her hand in his hair, keeping him right where she'd put him — sore, hard, corrected, and finally, finally paying attention.`,
     ],
   ],
   tags: [

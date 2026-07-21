@@ -25,7 +25,7 @@ const story: Story = {
       `Lila turned like she'd forgotten any other human existed. "Oh. Vance is home. Don't make your face weird, honey. Come in before the hallway eats the AC."`,
     ],
     [
-      `I stepped in. The apartment was hot. No shorts within reach. Just him — black fabric stretched over thighs and the heavy outline of his cock — sprawled like weather.`,
+      `I stepped in. The apartment was hot. No shorts within reach. Just him — black fabric stretched over thighs and the heavy outline of his cock — sprawled on the couch like he owned the room.`,
       `"Is he always like that?"`,
       `"Like what?" Lila asked, soft and patient.`,
       `"In his underwear."`,
