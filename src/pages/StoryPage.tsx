@@ -1,5 +1,5 @@
-import { useEffect, useLayoutEffect, useRef, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { useEffect, useLayoutEffect, useMemo, useRef } from 'react'
+import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { Pager } from '../components/Pager'
 import { StoryCard } from '../components/StoryCard'
 import { StoryTags } from '../components/StoryTags'
@@ -12,39 +12,143 @@ import {
 import { formatDate, getReadingMinutes } from '../lib/search'
 import { flattenStoryParagraphs, paginateParagraphs } from '../lib/storyPages'
 
+/** Parse 1-based positive ints from the URL; invalid → fallback. */
+function parsePositiveInt(value: string | null, fallback: number): number {
+  if (value == null || value === '') return fallback
+  const n = Number.parseInt(value, 10)
+  return Number.isFinite(n) && n >= 1 ? n : fallback
+}
+
+/**
+ * Build story location search params.
+ * - chapter omitted when single-chapter, or multi-chapter chapter 1 on page 1
+ * - page omitted when page 1 (unless multi-chapter and chapter > 1, still omit page=1)
+ */
+function storySearchParams(
+  multiChapter: boolean,
+  chapterOneBased: number,
+  pageOneBased: number,
+): URLSearchParams {
+  const next = new URLSearchParams()
+  if (multiChapter && chapterOneBased > 1) {
+    next.set('chapter', String(chapterOneBased))
+  }
+  if (pageOneBased > 1) {
+    next.set('page', String(pageOneBased))
+  }
+  return next
+}
+
+function paramsMatchLocation(
+  params: URLSearchParams,
+  multiChapter: boolean,
+  chapterOneBased: number,
+  pageOneBased: number,
+): boolean {
+  const expected = storySearchParams(multiChapter, chapterOneBased, pageOneBased)
+  return (
+    params.get('chapter') === expected.get('chapter') &&
+    params.get('page') === expected.get('page')
+  )
+}
+
 export function StoryPage() {
   const { slug } = useParams()
+  const [params, setParams] = useSearchParams()
   const story = slug ? getStoryBySlug(slug) : undefined
-  const [chapterIndex, setChapterIndex] = useState(0)
-  const [pageIndex, setPageIndex] = useState(0)
   const pageStartRef = useRef<HTMLDivElement>(null)
   const scrollToPageStart = useRef(false)
+  const lastSlugRef = useRef(slug)
+  const prevLocRef = useRef<string | null>(null)
 
+  const chapters = useMemo(
+    () => (story ? getStoryChapters(story) : []),
+    [story],
+  )
+  const multiChapter = story ? isMultiChapter(story) : false
+
+  const requestedChapter = parsePositiveInt(params.get('chapter'), 1)
+  const requestedPage = parsePositiveInt(params.get('page'), 1)
+
+  const safeChapterIndex =
+    chapters.length === 0
+      ? 0
+      : Math.min(Math.max(requestedChapter, 1), chapters.length) - 1
+  const currentChapter = chapters[safeChapterIndex]
+  const pages = useMemo(
+    () =>
+      currentChapter
+        ? paginateParagraphs(flattenStoryParagraphs(currentChapter.pages))
+        : [[]],
+    [currentChapter],
+  )
+  const totalPages = Math.max(1, pages.length)
+  const safePageIndex = Math.min(Math.max(requestedPage, 1), totalPages) - 1
+  const urlChapter = safeChapterIndex + 1
+  const urlPage = safePageIndex + 1
+
+  // Keep URL canonical (clamp out-of-range / strip defaults) without stacking history.
   useEffect(() => {
-    setChapterIndex(0)
-    setPageIndex(0)
+    if (!story) return
+
+    if (slug !== lastSlugRef.current) {
+      lastSlugRef.current = slug
+      scrollToPageStart.current = false
+      prevLocRef.current = null
+      window.scrollTo({ top: 0, behavior: 'instant' })
+      if (params.get('chapter') != null || params.get('page') != null) {
+        setParams(new URLSearchParams(), { replace: true })
+      }
+      return
+    }
+
+    if (!paramsMatchLocation(params, multiChapter, urlChapter, urlPage)) {
+      setParams(storySearchParams(multiChapter, urlChapter, urlPage), {
+        replace: true,
+      })
+    }
+  }, [
+    story,
+    slug,
+    params,
+    multiChapter,
+    urlChapter,
+    urlPage,
+    setParams,
+  ])
+
+  // Explicit pager/chapter clicks set the flag; back/forward also scrolls into view.
+  useLayoutEffect(() => {
+    if (!story) return
+    const key = `${slug}:${safeChapterIndex}:${safePageIndex}`
+    const prev = prevLocRef.current
+    prevLocRef.current = key
+    if (prev == null) return
+    if (!prev.startsWith(`${slug}:`)) return
+
+    if (scrollToPageStart.current) {
+      scrollToPageStart.current = false
+      pageStartRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
+      return
+    }
+
+    if (prev !== key) {
+      pageStartRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
+    }
+  }, [story, slug, safeChapterIndex, safePageIndex])
+
+  function goToPage(nextZeroBased: number) {
+    scrollToPageStart.current = true
+    setParams(storySearchParams(multiChapter, urlChapter, nextZeroBased + 1))
+  }
+
+  function goToChapter(nextZeroBased: number) {
     scrollToPageStart.current = false
     window.scrollTo({ top: 0, behavior: 'instant' })
-  }, [slug])
-
-  useLayoutEffect(() => {
-    if (!scrollToPageStart.current) return
-    scrollToPageStart.current = false
-    pageStartRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
-  }, [pageIndex])
-
-  function goToPage(next: number) {
-    scrollToPageStart.current = true
-    setPageIndex(next)
+    setParams(storySearchParams(multiChapter, nextZeroBased + 1, 1))
   }
 
-  function goToChapter(next: number) {
-    scrollToPageStart.current = false
-    setChapterIndex(next)
-    setPageIndex(0)
-  }
-
-  if (!story) {
+  if (!story || !currentChapter) {
     return (
       <div className="page">
         <div className="empty-state">
@@ -58,13 +162,6 @@ export function StoryPage() {
     )
   }
 
-  const chapters = getStoryChapters(story)
-  const multiChapter = isMultiChapter(story)
-  const safeChapterIndex = Math.min(chapterIndex, chapters.length - 1)
-  const currentChapter = chapters[safeChapterIndex] ?? chapters[0]
-  const pages = paginateParagraphs(flattenStoryParagraphs(currentChapter.pages))
-  const totalPages = Math.max(1, pages.length)
-  const safePageIndex = Math.min(pageIndex, totalPages - 1)
   const currentPage = pages[safePageIndex] ?? []
   const related = stories
     .filter(
