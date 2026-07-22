@@ -937,21 +937,24 @@ button.tag-chip {
 .pager__select {
   appearance: none;
   max-width: 100%;
+  min-height: 2.5rem;
   background: var(--bg-elevated, transparent);
   background-image: linear-gradient(45deg, transparent 50%, var(--text-faint) 50%),
     linear-gradient(135deg, var(--text-faint) 50%, transparent 50%);
   background-position:
-    calc(100% - 14px) 55%,
-    calc(100% - 9px) 55%;
+    calc(100% - 14px) 50%,
+    calc(100% - 9px) 50%;
   background-size: 5px 5px, 5px 5px;
   background-repeat: no-repeat;
   border: 1px solid var(--border-strong);
   border-radius: 2px;
   color: var(--text-faint);
-  font: inherit;
+  font-family: inherit;
   font-size: 0.8rem;
+  font-weight: inherit;
+  line-height: 1.25;
   letter-spacing: 0.08em;
-  padding: 0.45rem 1.75rem 0.45rem 0.75rem;
+  padding: 0.55rem 1.75rem 0.55rem 0.75rem;
   cursor: pointer;
 }
 
@@ -1137,7 +1140,7 @@ button.tag-chip {
     letter-spacing: 0.05em;
     padding: 0.7rem 1.7rem 0.7rem 0.7rem;
     background-position:
-      calc(100% - 12px) 55%,
-      calc(100% - 7px) 55%;
+      calc(100% - 12px) 50%,
+      calc(100% - 7px) 50%;
   }
 }
