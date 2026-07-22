@@ -58,7 +58,8 @@ export function StoryPage() {
   const story = slug ? getStoryBySlug(slug) : undefined
   const pageStartRef = useRef<HTMLDivElement>(null)
   const scrollToPageStart = useRef(false)
-  const lastSlugRef = useRef(slug)
+  // undefined until first story entry so mount-from-browse still scrolls to top
+  const lastSlugRef = useRef<string | undefined>(undefined)
   const prevLocRef = useRef<string | null>(null)
 
   const chapters = useMemo(
@@ -87,20 +88,33 @@ export function StoryPage() {
   const urlChapter = safeChapterIndex + 1
   const urlPage = safePageIndex + 1
 
+  // Land at the top whenever a story is opened or the slug changes.
+  // (Must not init lastSlugRef to `slug` — then first mount never counts as a change,
+  // and the browse scroll position sticks.)
+  useLayoutEffect(() => {
+    if (!story || !slug) return
+    if (slug === lastSlugRef.current) return
+
+    const previousSlug = lastSlugRef.current
+    lastSlugRef.current = slug
+    scrollToPageStart.current = false
+    prevLocRef.current = null
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' })
+
+    // Reset chapter/page only when switching stories in-session — not on first
+    // open, so deep links like ?chapter=2&page=3 still work.
+    if (
+      previousSlug != null &&
+      (params.get('chapter') != null || params.get('page') != null)
+    ) {
+      setParams(new URLSearchParams(), { replace: true })
+    }
+  }, [story, slug, params, setParams])
+
   // Keep URL canonical (clamp out-of-range / strip defaults) without stacking history.
   useEffect(() => {
     if (!story) return
-
-    if (slug !== lastSlugRef.current) {
-      lastSlugRef.current = slug
-      scrollToPageStart.current = false
-      prevLocRef.current = null
-      window.scrollTo({ top: 0, behavior: 'instant' })
-      if (params.get('chapter') != null || params.get('page') != null) {
-        setParams(new URLSearchParams(), { replace: true })
-      }
-      return
-    }
+    if (slug !== lastSlugRef.current) return
 
     if (!paramsMatchLocation(params, multiChapter, urlChapter, urlPage)) {
       setParams(storySearchParams(multiChapter, urlChapter, urlPage), {
@@ -117,7 +131,8 @@ export function StoryPage() {
     setParams,
   ])
 
-  // Explicit pager/chapter clicks set the flag; back/forward also scrolls into view.
+  // Explicit pager clicks set scrollToPageStart; back/forward restores a sensible
+  // scroll target (page body for page changes, window top for chapter changes).
   useLayoutEffect(() => {
     if (!story) return
     const key = `${slug}:${safeChapterIndex}:${safePageIndex}`
@@ -132,8 +147,13 @@ export function StoryPage() {
       return
     }
 
-    if (prev !== key) {
+    if (prev === key) return
+
+    const prevChapter = prev.slice((slug?.length ?? 0) + 1).split(':')[0]
+    if (prevChapter === String(safeChapterIndex)) {
       pageStartRef.current?.scrollIntoView({ behavior: 'instant', block: 'start' })
+    } else {
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' })
     }
   }, [story, slug, safeChapterIndex, safePageIndex])
 
@@ -144,7 +164,7 @@ export function StoryPage() {
 
   function goToChapter(nextZeroBased: number) {
     scrollToPageStart.current = false
-    window.scrollTo({ top: 0, behavior: 'instant' })
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' })
     setParams(storySearchParams(multiChapter, nextZeroBased + 1, 1))
   }
 
