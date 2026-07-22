@@ -825,12 +825,55 @@ button.tag-chip {
 }
 
 .site-nav__settings {
-  display: flex;
-  flex-direction: column;
-  gap: 0.55rem;
+  position: relative;
   margin-left: 0.25rem;
   padding-left: 1.25rem;
   border-left: 1px solid var(--border);
+}
+
+.site-nav__settings-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.35rem;
+  height: 2.35rem;
+  padding: 0;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.site-nav__settings-toggle:hover,
+.site-nav__settings-toggle:focus-visible,
+.site-nav__settings-toggle[aria-expanded='true'] {
+  color: var(--text);
+  border-color: var(--border-strong);
+  outline: none;
+}
+
+.site-nav__settings-panel {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.55rem);
+  right: 0;
+  z-index: 5;
+  min-width: 13.5rem;
+  flex-direction: column;
+  gap: 0.55rem;
+  padding: 0.9rem 1rem;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+}
+
+.site-nav__settings-panel--open {
+  display: flex;
 }
 
 .site-nav__settings-label {
@@ -854,7 +897,8 @@ button.tag-chip {
 
 .site-nav__setting-select {
   appearance: none;
-  background: var(--bg-elevated);
+  width: 100%;
+  background: var(--bg-soft);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   color: var(--text);
@@ -1070,6 +1114,21 @@ button.tag-chip {
     border-top: 1px solid var(--border);
   }
 
+  .site-nav__settings-toggle {
+    display: none;
+  }
+
+  .site-nav__settings-panel,
+  .site-nav__settings-panel--open {
+    display: flex;
+    position: static;
+    min-width: 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
   .site-nav__settings-label {
     font-size: 0.75rem;
   }
@@ -1085,6 +1144,7 @@ button.tag-chip {
     width: 100%;
     padding: 0.7rem 2.25rem 0.7rem 0.85rem;
     font-size: 1rem;
+    background-color: var(--bg-elevated);
   }
 
   .hero {
