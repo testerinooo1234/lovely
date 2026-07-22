@@ -161,7 +161,7 @@ const story: Story = {
       `"I don't like him calling you pretty."`,
       `"Yes you do."`,
       `"I don't."`,
-      `"You don't like that you like it." She blinked up at him. "That's different. I'll remember."`,
+      `"You don't like that you like it." She blinked up at him. "Okay. I'll remember."`,
       `At 4:06 she sent a photo of the cafe table. Two iced coffees, her notebook, Connor's watch at the edge of the frame. Liam sat at his desk with the same paragraph of homework unread for twenty minutes.`,
       `4:11: He paid even tho I said I could. Said pretty girls shouldn't buy their own coffee when they meet him after school`,
       `4:19: He asked if you get jealous. I said sometimes and he smiled — didn't say anything, just liked that answer`,
