@@ -3,6 +3,7 @@ import chapter2 from './humiliatrix-chapter-2'
 import chapter3 from './humiliatrix-chapter-3'
 import chapter4 from './humiliatrix-chapter-4'
 import chapter5 from './humiliatrix-chapter-5'
+import chapter6 from './humiliatrix-chapter-6'
 
 const story: Story = {
   id: '79',
@@ -10,11 +11,11 @@ const story: Story = {
   title: 'Humiliatrix',
   author: 'humiliatrix',
   excerpt:
-    'She locks his pink cage, paddles and soaps him for commenting on her ass, then makes him watch Marcus anal-creampie her — and eat it out when she cumfarts in his face.',
+    'Overnight pizza and Buffy, an unlocked handjob, then Humiliatrix schedules Cole\'s first cocksucking date with Marcus — and makes him hold the cum for inspection.',
   firstChapterName: 'Send Proof',
   firstChapterSummary:
     'Online to her living room: Humiliatrix laughs at his cock, locks the cage, puts him in pink panties, spanks him, then goes out and makes him hear every filthy detail after.',
-  chapters: [chapter2, chapter3, chapter4, chapter5],
+  chapters: [chapter2, chapter3, chapter4, chapter5, chapter6],
   pages: [
     [
       `Cole was eighteen, a senior at Westfield High, and lonely in the specific way that made forums feel like company. He had a narrow chest, a quiet voice, and a browser history he cleared twice a night. On a Thursday after midnight he clicked a profile named Humiliatrix — older woman, sharp smile, bio that promised cages, cucks, and boys who cried cute.`,
