@@ -1,4 +1,5 @@
 import type { Story } from '../../types'
+import chapter2 from './faceslapped-and-facefucked-chapter-2'
 
 const story: Story = {
   id: '80',
@@ -7,6 +8,10 @@ const story: Story = {
   author: 'cheekbloom',
   excerpt:
     'Candice is tiny, bubbly, and wanted by every boy who sees her Whataburger shorts — until a soft-spoken Tesla guy named Evan takes her home, and she proves how good she can be with her mouth and a slapped little face.',
+  firstChapterName: 'Tesla Window',
+  firstChapterSummary:
+    'Drive-thru bounce, register reunion, a ride to a house he owns, and Candice on her knees learning that harder slaps make him harder — twice in one night, once before bed.',
+  chapters: [chapter2],
   pages: [
     [
       `Candice looked like a tiny little girl in a grown uniform — blonde hair in a soft tie, a voice that barely filled the drive-thru speaker, maybe eighty pounds of narrow shoulders and skinny legs, with a round little ass ready to break out of the Whataburger shorts she was wearing. Soft round cheeks, big bright eyes, lip gloss that caught the fluorescents when she smiled too wide — a little-girl pretty face on an eighteen-year-old who talked like every good thing was a secret she couldn’t keep. She wore a mini backpack with no shame; on her it sat high and childish above that round little ass in the work shorts.`,
