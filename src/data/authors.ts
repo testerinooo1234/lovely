@@ -330,9 +330,9 @@ export const authors: Author[] = [
       'PACING: Public want (stares she does not bite) → forward escalation she initiates → slap-coached facefuck → domestic creep toward living there.',
       'THEMES: oral, facefucking, face slapping, petite scale contrast, rough sex, cumslut domestic.',
       'LENGTH: At least 5 minutes (≥1150 words); prefer 15+ for full sex chapters.',
-      'HARD RULES: Adults only (18+ once if youth matters). No condoms. No consent theatre. Plain dirty erotica. Favor tags: oral, spanking, humiliation, bdsm, tease.',
+      'HARD RULES: Adults only (18+ once if youth matters). No condoms. No consent theatre. Plain dirty erotica. Favor tags: oral, face slap, spanking, humiliation, bdsm, petite, anal, creampie, tease.',
     ].join(' '),
-    favoriteTags: ['oral', 'spanking', 'humiliation', 'bdsm', 'tease'],
+    favoriteTags: ['oral', 'face slap', 'spanking', 'humiliation', 'bdsm', 'petite', 'anal', 'creampie', 'tease'],
   },
   {
     handle: 'humiliatrix',

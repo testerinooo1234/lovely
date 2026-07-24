@@ -106,7 +106,7 @@ const story: Story = {
       `She smiled against him and went still. In the morning she would still be there. By the afternoon she would start figuring out which of her tiny things could live on his floor without anyone needing to call it moving in.`,
     ],
   ],
-  tags: ['oral', 'spanking', 'humiliation', 'bdsm', 'tease'],
+  tags: ['oral', 'face slap', 'spanking', 'humiliation', 'bdsm', 'petite', 'anal', 'creampie', 'tease'],
   publishedAt: '2026-07-24',
   featured: true,
 }
