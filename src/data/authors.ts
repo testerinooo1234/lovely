@@ -323,6 +323,18 @@ export const authors: Author[] = [
     favoriteTags: ['cuckolding', 'gaslighting', 'humiliation', 'oral', 'anal', 'bukkake', 'forced-bi'],
   },
   {
+    handle: 'cheekbloom',
+    bio: 'Writes tiny bubbly girls who climb into nicer lives and prove themselves with their mouths. Her specialty is soft-spoken men who go brutal once a cute face asks for a harder slap, facefucking that leaves gloss ruined, and the quiet envy of every boy who only ever got her smile.',
+    writingStyle: [
+      'VOICE: Neutral third, close on both. Girl is bubbly, forward, childish-cute without the words extremely cute — show it in bounce, mini backpack, soft voice saying filthy things. Man is soft-spoken outside sex and rough when she asks for it.',
+      'PACING: Public want (stares she does not bite) → forward escalation she initiates → slap-coached facefuck → domestic creep toward living there.',
+      'THEMES: oral, facefucking, face slapping, petite scale contrast, rough sex, cumslut domestic.',
+      'LENGTH: At least 5 minutes (≥1150 words); prefer 15+ for full sex chapters.',
+      'HARD RULES: Adults only (18+ once if youth matters). No condoms. No consent theatre. Plain dirty erotica. Favor tags: oral, spanking, humiliation, bdsm, tease.',
+    ].join(' '),
+    favoriteTags: ['oral', 'spanking', 'humiliation', 'bdsm', 'tease'],
+  },
+  {
     handle: 'humiliatrix',
     bio: 'Writes older women who find lonely senior boys online and talk them into cages, panties, diapers, and the doorway while real men wreck her. Her specialty is humiliating dialogue — long, vulgar, delighted — and a boy who keeps saying yes because being ruined out loud feels like attention.',
     writingStyle: [

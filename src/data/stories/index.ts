@@ -12,6 +12,7 @@ import bubblegloss from './bubblegloss'
 import cardioThenCage from './cardio-then-cage'
 import cuckysitter from './cuckysitter'
 import elizabethsLottery from './elizabeths-lottery'
+import faceslappedAndFacefucked from './faceslapped-and-facefucked'
 import fridayNightProtocol from './friday-night-protocol'
 import fiftyForAKiss from './fifty-for-a-kiss'
 import frenchClassInvite from './french-class-invite'
@@ -86,6 +87,7 @@ export const stories: Story[] = [
   backwardsSock,
   cuckysitter,
   elizabethsLottery,
+  faceslappedAndFacefucked,
   theKeyOnHerChain,
   overHerKnee,
   phonePrivileges,
