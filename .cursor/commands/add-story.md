@@ -15,8 +15,8 @@ Write a new erotica story for this site **in one author's voice**, using their b
 ## Steps
 
 1. Read `src/data/authors.ts` and load the matching author (`handle`, `bio`, `writingStyle`, `favoriteTags`).
-2. Skim 1–2 existing stories by that author in `src/data/stories/` (grep `author: '<handle>'`) to match length, page structure, and tone.
-3. Read `src/types.ts` and one recent story file for the exact `Story` shape.
+2. Skim **one** existing story by that author in `src/data/stories/` (grep `author: '<handle>'`) for **structure, POV, and tone only** — not for phrase mining. Do not reuse that story's distinctive catchphrases. See `.cursor/rules/story-writing.mdc` §16.
+3. Read `src/types.ts` and one recent story file for the exact `Story` shape (shape only).
 4. Create a new file `src/data/stories/<slug>.ts`:
    - `id`: next unused string id (check existing story ids).
    - `slug`: kebab-case, unique.
@@ -24,48 +24,44 @@ Write a new erotica story for this site **in one author's voice**, using their b
    - `author`: exact author handle.
    - `excerpt`: one or two punchy sentences that **lead with concrete sexual beats** from the story (acts, implements, body, denial, pricing for unlock/orgasm — not logistics-only setup). See `.cursor/rules/story-writing.mdc` §5.
    - `pages`: `string[][]` — opening body; paragraphs as template strings like existing stories.
-   - Optional multi-chapter: `firstChapterName` + `firstChapterSummary` + `chapters: [{ name, summary, pages }, …]`. Every chapter needs a name and a short summary (distinct from the catalog excerpt). Still one catalog entry; read time sums all chapters. Dropdown shows names; minutes + summary sit under it for the selected chapter. See `.cursor/rules/story-writing.mdc` §11.
+   - Optional multi-chapter: `firstChapterName` + `firstChapterSummary` + `chapters: [{ name, summary, pages }, …]`. Every chapter needs a name and a short summary (distinct from the catalog excerpt). Still one catalog entry; read time sums all chapters. See `.cursor/rules/story-writing.mdc` §11.
    - `tags`: 3–5 tags; prefer the author's `favoriteTags` plus story-specific ones.
    - `publishedAt`: ISO date (`YYYY-MM-DD`), typically "today" or a recent date.
    - `featured`: only if asked.
 5. Register the default export in `src/data/stories/index.ts` (import + array entry).
-6. Run `node scripts/count-words.mjs` and confirm the new file is **not** flagged `UNDER 5 MIN`. If it is, expand before finishing.
+6. Run `node scripts/count-words.mjs` and confirm the new file is **not** flagged `UNDER 5 MIN`. If it is, expand with **new unique sexual dialogue and acts** (`.cursor/rules/story-writing.mdc` §10b) — not repeated thesis refrains.
 7. Do **not** change other authors' stories unless asked.
 
 ## Hard rules (all authors)
 
-Also read `.cursor/rules/story-writing.mdc` — it is the source of truth for craft learned from catalog edits.
+Also read `.cursor/rules/story-writing.mdc` — source of truth. Prefer **principles** over copying example lines from that file.
 
-- **Minimum length: 5-minute read.** At least **1150 words** of story body text (site uses 230 WPM via `getReadingMinutes` / `scripts/count-words.mjs`). Comfortably longer is better; do not ship a story that rounds below 5 minutes.
-- **Adults only (18+).** Never write minors or imply underage characters. On this site, "boy" / "girl" in kink context means adult. Establish adulthood with jobs, college, marriage, cohabiting — **do not** open with age numbers for ordinary adults. Numeric ages **18–21 only** when youth is plot-critical (HS senior, living with parent, freshman/age-gap), and **once** at intro — never as a refrain.
-- **No consent theatre.** The site waiver already covers consenting adults. CNC is welcome. Never insert safewords, traffic lights (green/yellow/red), "Color?", "still okay?", or mid-scene check-ins.
-- **Dramatize, don't summarize.** Write scenes (specific time, dialogue, sensory detail). Do not leapfrog important beats with "by then / eventually / it became weekly" montages, and do not dump the whole premise in the first sentence.
-- **Sexual excerpts.** Catalog `excerpt` must sell the kink: name the act/implement/body/denial/price. Do not ship bland premise blurbs (wallet, mute, hamper, AirPlay) without the filthy turn. Draft the excerpt after the story's heat is clear.
-- **Banned names:** never name characters **Aaron** or **Eric**.
-- **Sparse names:** do not name characters unless the name does story work (brand, collar plate, text contact). Prefer he/she, girlfriend, Sir, the Domme.
-- **Boys/men in panties:** if the story puts panties on a boy or man, frame the beat as emasculation/humiliation (girl's underwear, private shame, being made smaller) — not comfort clothes, care, or cozy framing. Vary wording per story; do not reuse one stock phrase. See `.cursor/rules/story-writing.mdc` §6. (Women wearing their own panties is unrelated.)
-- **No fragment spam:** do not stack tiny descriptive crumbs as periods **or** as comma/em-dash chains (“White ones. Ordinary.” / “musk, skin, man”). Also ban robotic spoken cadence: Then-ladders (“Then X. Then Y.”), thesis stamps (“It’s not A. It’s not B.”), love PowerPoints (“I love you. I love X.”). Delete or rewrite as full natural speech with and/because/while. Bombshells (“We fucked. Twice.”) and sparse Domme commands stay. See `.cursor/rules/story-writing.mdc` §7.
-- **No therapy-speak for desire:** do not abstract kink into clinical phrases (“your feeling,” “this feeling,” “the wanting,” “sit with it,” “emotional labor,” “the need,” “check-in,” “the dynamic,” “right shape,” “unregulated/reset”). Ordinary affectionate vocabulary still means personal/ordinary and names the act (“what you want,” “because you asked,” “keep tasting it,” body reactions). See `.cursor/rules/story-writing.mdc` §8.
-- **Natural collocations / verb-first kink framing:** do not reify yes/no/stop/ask into protocol nouns with the wrong verb (`cheated on the stop`, `proud of the no`). Keep verbs as verbs. For cuckold telling beats, have her tell him what happened in ordinary dirty speech — vary the verbs; do not invent a private noun for the telling kink. When citing research, prefer plain acts (`letting boys look`) over workshop nouns. When she cheats a label/limit, prefer ordinary verbs (`bend the rule`) over cute metaphors. See `.cursor/rules/story-writing.mdc` §9.
-- **No obscure house jargon / worn-out stock phrases:** do not mint private codes (`the report`, `little steps`, workshop SKUs) that mean “take it slow” or “tell him after” without saying so. Name the act (coffee only, kissing only, tell him everything after). Do not copy-paste the same witty excuse or metaphor across every escalation beat — vary with clearer meaning or cut. See `.cursor/rules/story-writing.mdc` §10.
-- **Nicknames:** use realistic pet names / insults that fit the speaker. Do not invent a branded identity noun and stamp it every beat. If you need a humiliating erotic nickname, research real slang for that kink, then pick something that sounds spoken. See `.cursor/rules/story-writing.mdc` §10a.
-- **Beefing / padding length:** expand with **new unique sexual dialogue and acts**, not repeated thesis refrains. See `.cursor/rules/story-writing.mdc` §10b.
-- **Craft examples ≠ house slang:** do not promote craft-doc examples or one story's catchphrase into a reusable brand. See `.cursor/rules/story-writing.mdc` §10c.
-- **Site voice — plain dirty porn, dark/taboo:** this is porn. Write direct filthy language. Do not elevate into “literary” or “psychological” erotica, and do not avoid ordinary porn wording as “spam.” The catalog’s edge is dark/taboo subject matter, not fancy prose. See `.cursor/rules/story-writing.mdc` §0.
-- **Plain English — no AI gibberish:** if a line sounds clever in the writer's head but means nothing out loud, rewrite it in ordinary dirty talk. Summaries and dialogue must pass a read-aloud test. See `.cursor/rules/story-writing.mdc` §14.
-- **Never rewrite a.k.a. Cock Bobber:** `aka-cock-bobber*.ts` are a verbatim gold-standard import — skip them in catalog-wide cleanups. See `.cursor/rules/story-writing.mdc` §15.
-- **Cuckold “gaslighting” (craft term only):** when the brief asks for gaslighting / loving reality-rewrite / moved goalposts, use the loving rename-and-assent technique in `.cursor/rules/story-writing.mdc` §13 (Cock Bobber-pattern examples there). **Never** put `gaslight` / `gaslighting` in narration, dialogue, or excerpts — show the rewrite. **Do** add catalog tag `gaslighting` when that craft is load-bearing. Title exception: only the girl_logic story *Gaslighting*.
-- Prefer a mix of narration, internal thought, and dialogue unless the author's `writingStyle` calls for dialogue-heavy scenes. Stay paced enough to dramatize beats (§1) — not so “crafted” that the sex gets euphemized.
-- Follow the selected author's `writingStyle` closely (POV, pacing, dominant tone, themes, taboo words to avoid, etc.), except where it conflicts with the age / consent / excerpt / banned-name / male-panty-framing / sentence-length / no-therapy-speak / natural-collocation / no-obscure-jargon / nicknames / beefing / plain-porn-voice / plain-English / aka-gold-standard / cuckold-gaslighting-craft rules above — those win.
-- Keep the new story **plot-unique** vs that author's existing work (different scenario, not a rewrite).
+- **Minimum length: 5-minute read.** ≥ **1150 words** at 230 WPM. Longer is fine; expand via new sex dialogue/acts, not stamped refrains.
+- **Adults only (18+).** No minors. “Boy” / “girl” in kink = adult. Adulthood via jobs/college/marriage — no filler adult ages. Numeric **18–21** only when youth is plot-critical, **once** at intro.
+- **No consent theatre.** No safewords, traffic lights, “Color?”, mid-scene check-ins.
+- **Dramatize, don't summarize.** Scenes over montages. No premise dump in sentence one.
+- **Sexual excerpts.** Lead with the filthy beat, not logistics-only setup.
+- **Banned names:** never **Aaron** or **Eric**. Sparse names otherwise.
+- **Boys/men in panties:** emasculation/humiliation framing — not comfort clothes. Vary wording; no stock panty line. §6.
+- **No fragment spam / robotic spoken stacks.** Full natural sentences. §7.
+- **No therapy-speak for desire.** Name the act and the body. §8.
+- **Ban categories, not phrase dictionaries:** no reified yes/no protocol nouns; no private product-name for a kink; no workshop/syllabus nouns; no cute metaphors where an ordinary verb will do. §9.
+- **No house slang packs.** Don't invent a branded identity label and lecture with it every beat. Examples in the craft doc are illustrations only. §10 / §10c.
+- **Nicknames:** realistic for this speaker/scene. If stuck, research real slang, pick one, use it here — **do not** add it to rules, author notes, or a whitelist for later. §10a.
+- **Plain dirty porn voice.** Dark/taboo subject matter, not fancy literary erotica. §0 / §14.
+- **Never rewrite a.k.a. Cock Bobber** unless the user names that saga. §15.
+- **Cuckold “gaslighting”:** loving rename-and-assent technique (§13). Never put `gaslight`/`gaslighting` in prose. Tag OK when load-bearing. Title exception: *Gaslighting* only. Learn pattern from Cock Bobber; don't paste its lines.
+- Follow the author's `writingStyle`, except where it conflicts with the rules above — those win.
+- Keep the new story **plot-unique** and **dialogue-unique** vs that author's existing work.
+
 ## Author-specific reminder
 
-After loading the author, treat `writingStyle` as the source of truth for craft. Treat `bio` as the public personality the prose should feel like it came from.
+After loading the author, treat `writingStyle` as craft for POV/pacing/themes. Treat `bio` as public personality. Neither is a slang kit to stamp into every paragraph.
 
 ## Done when
 
 - New story file exists and compiles.
 - `src/data/stories/index.ts` exports it.
 - Excerpt leads with concrete sexual beats (not setup-only).
-- `node scripts/count-words.mjs` shows ≥5 min for the new story (no `UNDER 5 MIN` flag).
+- `node scripts/count-words.mjs` shows ≥5 min (no `UNDER 5 MIN` flag).
 - `npm run build` succeeds (run it if feasible).

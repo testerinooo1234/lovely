@@ -1,596 +1,172 @@
 ---
-description: Writing or editing dark/taboo porn stories — plain dirty language (not literary elevation), pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual catalog excerpts, male panties as emasculation/humiliation, no fragment-sentence spam, no therapy-speak desire, natural collocations, cuckold "gaslighting" craft (tag OK; title exception; never in prose)
+description: Writing or editing dark/taboo porn stories — plain dirty language, pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual excerpts, male panties as emasculation, no fragment spam, no therapy-speak, natural collocations, cuckold gaslighting craft (tag OK; never in prose)
 globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
 alwaysApply: false
 ---
 
 # Story writing rules (house craft)
 
-Use these whenever you write, expand, or revise stories in `src/data/stories/`. They override older notes that said to "state ages" on every character.
+Use these whenever you write, expand, or revise stories in `src/data/stories/`.
+
+**How to use this file:** follow **principles**. Examples are illustrations only — invent new dialogue for the scene you are writing. Do not treat example lines, other stories' catchphrases, or this doc's craft words as a shared slang pack.
 
 ## 0. Site voice — plain dirty porn, dark and taboo
 
-This site is **porn**, not literary fiction that happens to include sex. The catalog’s edge is **dark / taboo subject matter** (CNC, ageplay-as-adult-fetish, incest-tagged adult play, heavy humiliation, cuckolding, etc.) — **not** elevated prose, psychological padding, or “tasteful” vanilla erotica.
+This site is **porn**, not literary fiction that happens to include sex. The edge is **dark / taboo subject matter** — not elevated prose or “tasteful” vanilla erotica.
 
-**Do:**
-- Write plain, direct language. Name the acts: cock, cunt, asshole, cum, fuck, spank, cage, panties, soap, diaper.
-- Prefer dirty talk and concrete bodies over metaphor. If a simile does not make the beat filthier or clearer, cut it.
-- Keep narration readable out loud. Short and blunt beats are fine.
+**Do:** Name the acts (cock, cunt, asshole, cum, fuck, spank, cage, panties, soap, diaper). Prefer dirty talk and concrete bodies over metaphor. Keep narration readable out loud.
 
-**Do not:**
-- “Elevate” the writing to sound literary, poetic, or magazine-erotic.
-- Avoid ordinary porn wording because it feels “spammy,” “sloppy,” or low-brow. Direct porn language is correct here.
-- Water down taboo premises into vague aesthetic mood pieces. The heat is the taboo + the act, said plainly.
-
-Older notes that told authors to keep a “literary / psychological” tone and avoid “porn spam” / “spammy porn shorthand” are **revoked**. Plain dirty English wins.
+**Don't:** Elevate into literary/magazine erotic. Avoid ordinary porn wording because it feels “spammy.” Water taboo down into vague mood pieces.
 
 ## 1. Dramatize — do not summarize plot
 
-Do **not** leapfrog a beat with a one-sentence synopsis of what happened. If the moment matters (first discovery, first spanking, first betrayal, a ritual becoming weekly), write the scene: dialogue, sensory detail, a specific time/place, what the character does with their hands.
+If a moment matters, write the scene (dialogue, senses, time/place, hands). Do not leapfrog with “by then / eventually / it became weekly.”
 
-**Bad (summary / montage):**
-> By spring the loophole had a schedule. She went to Brad twice a week and Noah waited in the car.
+When expanding: replace high-value summary with one concrete scene. Do not pad every transition.
 
-**Good (dramatize the turn):**
-> The first Tuesday after spring break she texted *studying at Jack's* at 3:40. Noah parked under the maple with three unread books on the passenger seat. At 4:23 the upstairs blind went down. He sat there hard and useless, already knowing which page he would not turn.
-
-**Also bad:** Opening with the entire premise dumped in one line
-> Today the principal required Nikki to go to school completely naked because one sock was backwards.
-
-**Better:** Arrive in the moment (locker, hallway, the order landing), then let cause and consequence unfold on the page.
-
-When expanding existing stories: hunt for “by then / eventually / sessions became weekly / after that it was normal” and replace high-value ones with a single concrete scene. Do **not** pad every transitional phrase — only expand where a scene would actually earn its keep.
+**Illustration only (do not reuse as house language):**
+- Bad: `By spring the loophole had a schedule.`
+- Good: Arrive on a specific Tuesday with a text, a parked car, and a blind going down.
 
 ## 2. Ages — almost never, and never as a refrain
 
-Most stories were opening with “X was twenty-eight, Y was thirty-four…” It reads like ID cards, not fiction.
+**Default:** adulthood via jobs, marriage, college, cohabiting — **no numbers**.
 
-**Default:** Establish adulthood with jobs, marriages, college, cohabiting, leases, dinner parties — **no numbers**.
-
-**Allowed numeric ages (18–21 only)** when youth is load-bearing:
-- High-school senior plots
-- Living-with-parent / just-graduated ABDL or household discipline
-- Freshman / explicit age-gap dynamics where the young age is the point
-
-Even then: state it **once** at intro (excerpt + first paragraph is enough). Do **not** repeat “she was eighteen” every spanking, diaper change, or closing image. Parents and side characters almost never need ages.
-
-**Bad:**
-> Megan was twenty… She was twenty and secret… “You are twenty.” … twenty years old on the kitchen floor… twenty-year-old woman in the grocery aisle…
-
-**Good:**
-> Megan Shaw was twenty years old, worked closing at the Craft Barn, and had been careful about her hamper for six months.
-> Later: “Adult daughter. Employed. Living under my roof.”
-
-**Bad (adult filler):**
-> Jordan Hale was twenty-six… Melissa Ruiz was twenty-four…
-> Rachel was thirty-two… James was thirty-four… Simone was forty-one…
-
-**Good:** Drop the numbers; keep jobs, temperament, and relationship length.
-
-Never write or imply minors. “Boy” / “girl” in kink = adult. Never compare ageplay characters to a child age (“like an 8-year-old”).
+**Numeric ages 18–21 only** when youth is load-bearing (HS senior, living with parent, freshman/age-gap). State **once** at intro. Never write or imply minors. “Boy” / “girl” in kink = adult. Never compare ageplay to a child age.
 
 ## 3. No consent theatre
 
-The site waiver already covers consenting adults. CNC and reluctant heat are welcome. Do **not** insert:
-
-- Safewords, traffic lights (green / yellow / red)
-- Mid-scene “Color?” / “Still okay?” / “You can stop this”
-- Negotiation transcripts that break erotic momentum
-- Disclaimers that the characters “discussed boundaries earlier” unless that *is* the scene
-
-Show power, fear, want, and aftermath. Do not lecture the reader that everyone consented.
+CNC and reluctant heat are welcome. Do **not** insert safewords, traffic lights, mid-scene “Color?” / “Still okay?”, or negotiation transcripts that break momentum (unless negotiation *is* the scene).
 
 ## 4. Names — sparse, never Aaron/Eric
 
-Do **not** name characters **Aaron** or **Eric** (any spelling).
-
-Prefer **not** naming characters at all unless a name does real story work (a Domme brand, a collar plate, a text contact, a public introduction). Default to he/she, girlfriend, husband, Sir, Mommy, the Domme, the bull. If you use a name, one is usually enough — do not roll-call every side character.
-
-**Bad:** Opening with full names and ages for everyone in the room.  
-**Good:** “His girlfriend sent the video at 9:14. On screen, the other man’s belt buckle filled the frame before his face did.”
+Never name characters **Aaron** or **Eric**. Prefer not naming unless the name does story work. Default to he/she, girlfriend, Sir, Mommy, the Domme, the bull.
 
 ## 5. Excerpts — lead with the sexual beat
 
-The catalog `excerpt` is a **hook**, not a spoiler-safe premise blurb. Bland setup-only summaries underperform.
+Catalog `excerpt` is a hook. Must name acts/implements/body/denial/price. Must not stop at logistics alone. Draft after the filthy climax is clear.
 
-**Must include** one or more concrete sexual elements from the story: acts, implements, body parts, pricing for orgasm/unlock, positions, fluids, denial, chastity, spanking counts, etc.
+**ABDL:** say **in the diaper position** (on the back, legs up). Stripping and the position are separate steps.
 
-**Must not** stop at logistics alone (cleared history, AirPlay, hamper, wine poured, Discord mute, shared wallet) without naming what the sex/kink actually is.
+**Illustration only:**
+- Bad: dinner, Uber, hotel charges with no sex named
+- Good: locked at home while she chokes on someone else — then he cleans the receipt
 
-**Shape:** 1–2 punchy sentences. Specific nouns beat vague teasing. A choice / receipt / countdown / “thank you” line is fine if it carries heat.
+## 6. Boys/men in panties — emasculation, not comfort
 
-**Bad (setup only):**
-> She swore it was just a drinking game. Then she moved the goalposts, smiled, and asked which boy was brave enough to clean up the other.
-
-**Good (sexual beat first):**
-> Just a drinking game, she swore. Then both boys were bare on her carpet, Avery milking them onto their own stomachs — and asking which one was brave enough to lick the other clean, mouth only, swallow what you collect.
-
-**Bad:**
-> Elise had dinner with Marcus. Cole paid the Uber, the wine, the hotel — locked in pink plastic at home, watching the charges land like love notes.
-
-**Good:**
-> Locked in pink plastic at home, Cole paid Uber, wine, hotel — then listened while Elise choked on Marcus and came on the cock his Visa rented the room for. When she got home, she put him on his knees and made him tongue-clean the receipt.
-
-When writing or revising any story: draft the excerpt **after** the filthy climax of the piece is clear, and audit it the same way — if you could swap brands and still not know the kink, rewrite.
-
-**ABDL phrasing:** say **in the diaper position** (on the back, legs up). Prefer “get in the diaper position” / “into the diaper position.” Do **not** write “strip for diaper position” — stripping and the position are separate steps.
-
-## 6. Boys/men in panties — emasculation and humiliation, not comfort clothes
-
-When a **boy or man** wears panties (forced, volunteered, cuckold waiting clothes, sissy kit, cage cover, etc.), the erotic point is **emasculation / humiliation** — private shame, being dressed as less of a man, girl's underwear that marks him as the one who waits or serves. Frame it that way.
-
-This does **not** apply to women/girls wearing their own panties as ordinary clothing or sexual costume.
-
-**Do:**
-- Emphasize wrongness, girl's fabric, the bow as a punchline, being smaller than the men who get her, waiting in underwear that unmans him
-- Let each story use its own vocabulary (girl's underwear, sissy, pretty as a slur/command, taking him down a size). Do **not** paste the same stock phrase into every story
-- Keep “pretty,” “cute,” or “good girl” only when they **cut** — mockery, branding, sing-song cruelty — not when they sand the edges off the shame
-
-**Don't:**
-- Frame male panties mainly as care, comfort, or cozy aftercare clothes
-- Prefer “more like care than humiliation” or “keeping him comfortable” as the thesis of the panties
-- Turn the beat into aftercare aesthetics when the scene's job is to shrink him
-
-**Bad:**
-> Sometimes comfort clothes for him — panties — so he feels cared for while she dates.
-> Pink panties over the cage if you want the gentle look.
-
-**Good:**
-> Sometimes girl's underwear for him — panties — so the waiting itself takes the man out of him.
-> Pink panties over the cage so he can see what you wear for me.
-
-When revising older stories: hunt male-panty beats for care/comfort framing and re-aim them at shame/emasculation in that story's voice.
+When a **boy or man** wears panties, the point is **shame / being made smaller** — girl's fabric, waiting, serving. Not care, comfort, or cozy aftercare clothes. Women in their own panties are unrelated. Vary wording per story; do not paste one stock panty line everywhere.
 
 ## 7. Sentence length — no fragment spam
 
-Do **not** fill stories with stacks of tiny standalone sentences (1–4 words) that only describe, list, or hedge. Weak little quips should be **deleted** or rewritten as a **full natural sentence** with verbs and ordinary flow.
-
-**Do not** “fix” fragments by gluing them with commas or em-dashes into crumb chains (`musk, skin, man` / `tall, easy, sales` / `— chemical, floral, wrong —`). That is still fragment spam — just punctuated differently. Swapping commas for a string of “and…and…and” is also not enough if the line is still a crumb list.
-
-**Short sentences are allowed** when they earn their keep:
-- A real bombshell / erotic punch (“We fucked. Twice.” / “I came.” / “She was not safe.”)
-- Sparse Domme/command voice, used sparingly
-- Occasional dialogue that matches a specific personality (a blunt Domme; a rattled one-word reply) — **not** every character, and not as their default cadence
-- Text-message / timestamp lines
-- Isolated action beats (“He swallowed.”) when not stacked in threes
-- Intentional sound/ritual beats (`tap, tap, tap` / counting) when that *is* the point
-
-**Bad (standalone crumbs):**
-> "I think Connor saw my panties when I bent over. White ones. Ordinary. The reading said…"
-> Musk. Skin. Man. The inhale punched through him.
-> Marcus. Tall. Easy. Sales.
-
-**Also bad (glued crumbs — not a fix):**
-> His nose sank into the cleft — musk, skin, man — and the inhale punched through him.
-> Marcus was tall, easy, sales — the kind of man who…
-> She stripped — shoes, jeans, shirt, bra, panties last…
-> Soap flooded his tongue — chemical, floral, wrong.
-
-**Good (delete the quip, or write a real sentence):**
-> "I think Connor saw my panties when I bent over, the ordinary white ones. The reading said…"
-> The smell hit him first, musk and skin and something unmistakably male, and the inhale punched through him so hard his eyes watered.
-> Marcus was a tall sales guy who laughed with his whole chest and never checked his phone under the table.
-> She took off her shoes and jeans, then her shirt and bra, and left the panties for last, folding each piece once out of habit.
-> Soap flooded his tongue with a chemical floral taste that felt wrong in every way food was right.
-> We fucked. Twice. *(bombshell — keep)*
-
-**Heuristic when editing:** if you see two or more tiny descriptive crumbs in a row (periods **or** commas/dashes), either cut them or turn the idea into one ordinary flowing sentence. Do not leave `word, word, word` stacks as style.
-
-**Also ban robotic spoken cadence** (even when each sentence is longer than 4 words):
-- **Then-ladders:** `Then X. Then Y. Then Z.` report logs in dialogue — braid with *and* / *before I decided* / *somehow*
-- **Thesis stamps:** `It's not A. It's not B. It's C.` / `Both can be true.` / `I'm proud of X. I'm also Y.` as three separate stamps
-- **Love PowerPoints:** `I love you. I love how you listen. I love how you wait.` — one flowing sentence
-- Cute/guilty/nerd girlfriends must sound **human and connected**, not like a worksheet reading itself aloud. Bombshells and one rattled short reply are fine; stacks of three+ short declaratives are not.
-
-**Bad (spoken robot):**
-> "Then he kissed me. Then I said we shouldn't. Then I said quieter. Then my hand was on his jeans."
-> "I'm proud I said no. I'm also wet from it. Both can be true."
-> "I love you. That's still true. It just has a Sir in it now."
-
-**Good:**
-> "He kissed me and I said we shouldn't — quieter the second time — and somehow my hand was already on his jeans."
-> "I'm proud I said no, and I'm also really wet from it, which feels unfair but both are sitting in me at once."
-> "I love you — that's still true — it just has a Sir living inside it now."
-
-## 8. No therapy-speak euphemism for desire
-
-Do **not** abstract kink, jealousy, or arousal into clinical / therapeutic phrases. Dirty words and blunt desire are fine (§0) — what fails is worksheet talk that never names the act. Vague therapy talk is a turn-off because readers cannot tell what is actually happening.
-
-**Bad (floaty therapy / worksheet abstractions):**
-> for your feeling / understand your feeling / try the feeling / this feeling / that feeling / the shape of this feeling
-> sit with it / sit with the unread feeling / sit with the smell
-> emotional labor / even the energy out / mature framework / self-care *(when used as kink cover)*
-> unregulated / help me reset / I feel centered / Growth. *(when used as kink cover without naming the act)*
-> hides her need / the need / my need used your regret
-> a check-in *(when it means a Domme call or soap follow-up — say what it is)*
-> the dynamic / permission practice / version of you *(when floaty)*
-> the wanting / his wanting / hiding the wanting / emotional flood / leaned into that *(when abstract)*
-> billed by the feeling / tip the feeling / buying the feeling of being chosen
-> fully known, fully seen / the actual state of things *(when psychology stand-ins for arousal or confession)*
-
-**Good (personal, concrete):**
-> because you want this / this thing you like / try what you asked for / how badly I can want another boy inside me
-> keep tasting it / keep smelling him on me / sit in the unread silence you bought
-> that's a lot of work for him with no thank-you / even things out / just me working on myself
-> I've been acting up / Brad's going to spank me straight / I feel better — my butt got paddled
-> sneaks off to get fucked / wanting it / I used your regret as a door
-> Sunday call / quick video / follow-up / another session
-> the Daddy arrangement / saying yes to little things like a number / the little waiting boyfriend I'm keeping
-> billed for the tease / tip for that / paying to feel chosen by a girl who sells that to everyone
-> your ears went red / your stomach dropped / you got hard when I told you
-> ask her to put him through it / the truth, not the polite version / every inch of him under someone's hands
-
-Ordinary affectionate vocabulary ≠ vague psychology. Prefer “what you want,” “your thing,” “because you asked,” named acts, and body reactions over “your feeling,” “this feeling,” “the wanting,” “the need,” “process,” “space,” “check-in,” “framework,” “energy,” or “shape” talk about desire.
-
-Applies to **all** authors and stories, including cute/inquisitive girlfriends and Dommes who speak gently. Character satire of wellness jargon is fine only when the line still makes the act clear.
-
-## 9. Natural collocations — don't reify yes / no / stop / ask
-
-Do **not** turn limits, refusals, and requests into weird protocol nouns, and do **not** pair ordinary English verbs with the wrong object.
-
-**The core problem:** some verbs expect a person or a concrete thing. Feeding them an abstract kink-noun makes the line stumble.
-
-**Bad (wrong frame + reified noun):**
-> I cheated on the stop you asked for *(cheat on → person)*
-> I'm proud of the no / I hated the no at one a.m. / He obeyed a no
-> Got your stop / your three nos / That no counted
-> part of the step / that thing wants one more step
-> the smallest version of the ask / the quiet ask / Thank me for the almost
-> I'm punishing the jealousy *(punish a person, not an emotion-as-object)*
-
-**Good (keep verbs as verbs; name the act):**
-> I still feel like I cheated on you, even though we stopped where you asked
-> I'm proud I said no / I hated that you said no at one a.m. / he didn't touch because she'd said no
-> I got your texts — stop, please sleep / you saying no three times / When you said no, I stopped him
-> part of what we do next / enough coffee-and-kiss details that you can handle more / Now I want one more thing from you
-> shrinking what he wanted until they could say yes / quietly asking / Thank me for stopping you
-> I'm punishing you for getting jealous
+Do not stack tiny descriptive crumbs (`White ones. Ordinary.` / `musk, skin, man`) or glue them with commas/dashes. Rewrite as full natural sentences.
 
-**Heuristic:** if the noun is just a yes/no/stop/ask/almost/step wearing a definite article, rewrite with the actual speech or act (`said no`, `stopped where you asked`, `almost came`). Findom prices and clear product talk (`unlock fee`, tip notes) are fine when the reader still knows what is being bought.
+Short sentences are fine for bombshells, sparse commands, texts, or one rattled reply — not as default cadence.
 
-### Verb-first kink framing — do the act; don't invent a product name for the kink
+Also avoid robotic spoken stacks: Then-ladders, thesis stamps (`It's not A. It's not B.`), love PowerPoints.
 
-When a beat is about **her doing something to him** (especially cuckolding, denial, mean-girl humiliation), prefer an **ordinary verb that names the act** over a **private noun** for the kink.
+## 8. No therapy-speak for desire
 
-**Bad (private product name for "she tells him what happened"):**
-> It's about the report — which is kinda cute and mean at the same time?
-> waiting for a report / gave the full report / survive the report / the hogtie report
-
-**Good (say what she does to him, in plain English):**
-> I'll tell you everything after.
-> She described the hike while he stayed in the panties.
-> She sat him down and walked him through what the other man did.
-> What followed wasn't a phone summary from across town. It was watching with nowhere to hide.
-
-**Don't** invent a clever house phrase for the telling kink and reuse it every chapter. Ordinary verbs (`tell`, `describe`, `walk through`, `sit down and say`) are enough — and they should **vary**.
-
-### Plain act verbs — not syllabus nouns
-
-When a character quotes research or names a first escalation, prefer **ordinary verbs that do the act** over **workshop labels** that sound like a kink handout.
-
-**Bad (syllabus / workshop noun):**
-> visual attention counts as a first step
-> accidental flashes are still a kind of offering
-> saying yes to small attention
-> duration is a choice
-> Insane is our genre / finished the syllabus / invent a whole genre
-
-**Good (plain act):**
-> just letting boys look counts as a first step
-> letting him see by accident still counts if you don't stop it
-> saying yes to little things like that / saying yes when a boy asks for your number
-> how long you let a hand stay is a choice
-> We're past sane / finished what he had her read / turn homework into this
-
-**Heuristic:** if the noun could sit in a bullet list titled "escalation stages" without naming a body or an act (`attention`, `offering`, `duration`, `genre`, `syllabus`, `visual X`), rewrite with who did what. Cute research-girlfriend voice can still cite "the article" — the **cited idea** should be plain English.
-
-### Ordinary verbs for rules — not cute metaphors
-
-When a character is cheating, bending, or quietly breaking a label/limit/promise, use the **ordinary verb for that act**. Do not dress it in a clever physical metaphor or a hedging adverb stack.
-
-**Bad (cute / elastic metaphor):**
-> treated the label like a pinkie promise she intended to stretch gently
-> even your waiting has a uniform
-> framed as structure that was supposed to sting
-> taking inventory out of habit
-> like a private weather system
-> assuming the weather had learned manners
-> needing the answer shaped like a grade
-> memorized the rubric
-> Asking and relaxing were not the same muscle
-> warped into ritual / structure was better than freefall
-> patient only in the way weather is patient before it breaks
-
-**Good (ordinary verb / plain saying):**
-> treated the label like a rule she intended to bend
-> then even the waiting will look like waiting
-> neat and absolute, meant to sting
-> checking out of habit
-> like a private secret
-> assuming it was finally done
-> needing a clean yes or no
-> practiced saying no
-> Asking and relaxing weren't the same thing
-> now colder / having something to do was better than sitting empty
-> patient only until it wasn't
-
-**Why this lands:** `bend` is what people actually say you do to a rule. `Stretch gently` is writer ornament — an elastic metaphor plus a hedging adverb. Same failure mode as syllabus nouns and private kink product-names: the line gets cute instead of doing the act. Prefer the verb a stranger would use out loud.
-
-### Cover story + one concrete consequence
-
-When she offers an innocent excuse (heat, project, tutoring) and he knows better, do **not** invent a private code word (`weather`) and do **not** stack synonymous admissions (`it's revealing` + `boys will look` + pink ears).
-
-**Pattern that works:**
-1. She names the cover in ordinary speech (`I'm just trying to cool off`)
-2. He grants the cover once (`It is hot`)
-3. He lands **one** concrete consequence (`Boys are still going to look`) — the act, not a label
-4. She accepts the consequence as the point (`Good`) and keeps the cover as garnish (`I do have a pretty good excuse`)
-
-**Bad:**  
-> whether that counted as a revealing outfit or only as weather. He said weather. His ears said otherwise.
-
-**Also weaker:** stacking `pretty revealing` and `boys are going to look` in the same breath — pick the concrete act.
-
-Quoting an article once in ordinary English is fine. Do **not** mint private house jargon (`the report`, `little steps`, `the syllabus` as reusable kink labels) and reuse it as if the reader already knows the code.
-
-## 10. No obscure house jargon — and don't wear out stock phrases
-
-Do **not** invent private euphemisms that only make sense inside the story's own codebook, then reuse them until they feel like a brand. If a phrase means "take it slow," "coffee only," "kissing but not sex," or "denial is getting unbearable," **say that**. Cute girlfriend voice is fine; cryptic house slang is not.
-
-**Also:** do not let one cute refrain do the same job four times in a row. Either vary it with a clearer concrete meaning, or cut the repeats.
-
-**Banned / scrub patterns (and close cousins):**
-> the report / a report / reports *(as the reusable name of the cuckold-telling kink — prefer ordinary telling verbs; see §9)*
-> visual attention / a kind of offering / small attention / duration is a choice *(syllabus nouns — prefer plain acts: letting boys look, letting him see, saying yes to little things; see §9)*
-> Insane is our genre / finished the syllabus / invent a whole genre *(meta workshop labels for the kink arc)*
-> stretch gently / pinkie promise she intended to stretch / waiting has a uniform / weather had learned manners / shaped like a grade / memorized the rubric / not the same muscle / warped into ritual *(cute metaphors where an ordinary verb would do — prefer bend the rule, checking, private secret; see §9)*
-> little steps *(as a repeated house code after the articles have already been explained once)*
-> the waiting gets too loud / cute and terrible / for your own good *(when it stands in for a named escalation)*
-> spitting seemed mean *(as a copy-paste swallow excuse every oral telling)*
-> iced tea / coffee / kissing "as if that was the promise" metaphors stacked the same way every beat
-
-**Do:**
-- Name the act or limit: coffee that stays coffee; kissing only; no mouths yet; denial in the cage; go further — mouths, more texts, maybe more than mouths
-- Quote an article once if the character is researching (`going one level at a time`), then speak in concrete acts afterward
-- If a refrain is character voice (`sorryyy`, sticky notes), keep it sparse; do not let one swallow-excuse or one metaphor become the whole telling style
-- For cuckold aftercare/telling beats: have her **tell him** what happened in ordinary dirty speech — vary the verbs; do not invent a private noun for the telling kink
-- When citing articles: plain act verbs (`letting boys look`), not syllabus nouns (`visual attention`, `offering`, `duration`)
-- When she cheats a label/limit: ordinary verbs (`bend the rule`), not cute metaphors (`stretch gently`)
-
-**Don't:**
-- Invent a private codebook category the reader must already know (`the report`, `little steps`, craft hyphenates like `reality-rename` used as if they were dialogue)
-- Assume the reader remembers what a house phrase meant three chapters ago
-- Paste the same witty excuse or thesis smile into every escalation beat
-- Reify the telling kink as `the report` / `reports` across chapters
-
-**Bad:**
-> We should stick to little steps for a while.
-> It's about the report. / waiting for a report. / gave the hogtie report.
-> She made him hear every detail. *(×4 as the same stamped line)*
-> I swallowed because spitting seemed mean. *(×4 across chapters)*
-> Text me if the waiting gets too loud.
-
-**Good:**
-> Coffee and kissing only for a while — no mouths, no sex.
-> Start with shorter clothes and coffee dates that stay coffee, then kissing, then touching.
-> I'll tell you everything after. / She described the hike while he stayed in the panties.
-> I swallowed — I didn't want to spit in his car. / I swallowed the same way I did with Connor.
-> Text me if denial starts driving you crazy.
-
-**Heuristic when editing:** if a phrase could mean three different acts depending on chapter, rewrite it. If the same colorful excuse or metaphor appears more than twice for the same beat type, vary or delete.
-
-Applies to **all** authors. Cute/inquisitive girlfriends are the highest risk for inventing private house codes; Domme product talk is fine when the price/act is still clear.
-
-## 10a. Nicknames and humiliating pet names
-
-Nicknames must sound like something a real person would say out loud in that relationship — not a craft-doc brand stamped onto every beat.
-
-**Do:**
-- Prefer ordinary pet names, role titles, or filthy insults that fit **this** speaker and **this** scene (baby, good boy, Sir, bitch, slut, whore, cucky, princess — pick what fits; do not paste a list)
-- Match the nickname to the kink and the speaker's voice; **vary it**; never invent one identity noun and lecture with it every third line
-- When you need a humiliating or erotic nickname and nothing natural comes to mind, **look it up** — web-search real slang / pet names / humiliating phrases for that kink or body focus, then pick something that sounds spoken, not workshopped
-- A Domme who always says "good boy" is fine character voice. A girlfriend who invents a branded category for him and stamps it into every speech is not.
-
-**Don't:**
-- Mint opaque craft nicknames the reader has to decode (`ribbon` for a bow, private codes that only work inside the outline)
-- Use the same invented nickname as a thesis stamp across setup, sex, and aftercare
-- Treat example nicknames in this file (or in other stories) as a house whitelist to reuse everywhere
-
-**Bad:**
-> Soft boys honor bets. Soft boys stay pink. Soft boys process. Insecure boys invent disasters.
-> "You're my soft boyfriend doing something hard."
-> Locked boys keep time. Locked boys stay. Locked boys honor bets. *(same failure — new brand, same stamp)*
-
-**Good:**
-> "Stay locked while I pay up — I like knowing who's collecting and who's keeping me."
-> "Your turn. Mouth open. Hands behind your back."
-> "Surprises keep you tender, baby."
-
-## 10b. Beefing up / padding length
-
-When the user asks to **beef up**, **pad**, **expand**, or hit a longer read time, the job is **new sexual content**, not a longer loop of the same thesis.
-
-**Do:**
-- Add **new unique sexual dialogue** — fresh objections from him, fresh dirty renames from her, new logistics arguments, new mid-act coaching that is not a synonym of the last speech
-- Extend the **acts** with concrete detail (more strokes, more positions, more fluids, more clock time inside the scene)
-- Add scene/body description that earns heat (what she looks like doing it; what the room smells like; what the cage does)
-- Let conversations branch: he names a specific fear; she answers that fear; the next beat is different
-
-**Don't:**
-- Pad by repeating one branded phrase with a new verb ("X boys do Y / X boys do Z")
-- Paste the same maturity/loyalty/growth lecture four times with synonyms
-- Add empty atmospheric paragraphs that never touch sex or persuasion
-- Summarize ("they kept going for a while") instead of dramatizing another beat (§1)
-
-**Bad (padding-by-refrain):**
-> Soft boys keep time. Soft boys stay. Soft boys honor bets. Soft boys process.
-> Mature boyfriends do X. Mature boyfriends do Y. Mature boyfriends do Z. *(any branded category loop)*
-
-**Good (padding-by-new dirty talk):**
-> "The PlayStation is bait." / "Maybe he cares about both. That's what makes it a fair bet."
-> "Hold my hand — don't unlock — I like you locked while I pay up."
-> Brad makes her describe nine inches in her ass; she apologizes and still calls it anatomy, not romance.
-
-## 10c. Craft examples are not house slang
-
-Examples in this file (and phrases coined in one story) are **illustrations**, not a vocabulary pack.
-
-**Do not:**
-- Promote a craft example into a reusable identity label (`soft boy`, `locked boy`, `making you hear it`, `the report`, `little steps`)
-- Build false binaries as a padding template (`brave/mature/loyal boys do X; insecure boys do Y`)
-- Copy Cock Bobber lines verbatim into new stories — learn the **pattern** (rename + assent), invent new dialogue
-
-If a phrase only works because the craft doc said it, rewrite it in ordinary dirty speech for **this** scene.
+Do not abstract kink into clinical worksheet talk (`your feeling`, `the wanting`, `sit with it`, `the dynamic`, `check-in`, `framework`). Name the act and the body. Ordinary affectionate speech is fine when it still says what happened.
+
+## 9. Natural collocations — ban the *category*, not a phrase dictionary
+
+**Ban these failure modes** (rewrite whenever you see them):
+
+1. **Reified yes/no/stop/ask** — don't turn limits into protocol nouns with the wrong verb (`proud of the no`, `cheated on the stop`). Keep verbs as verbs: she said no; he stopped where she asked.
+2. **Private product-name for a kink** — don't invent a reusable noun for “she tells him what happened,” “take it slow,” etc. Say the act in ordinary English, and **vary** the verbs.
+3. **Workshop / syllabus nouns** — don't escalate via handout labels (`visual attention`, `offering`, `duration`, `genre`, `syllabus`). Say who did what to whom.
+4. **Cute metaphors instead of ordinary rule-verbs** — bend the rule; don't “stretch a pinkie promise gently.”
+
+**Illustration only (one pair):**
+- Bad: `It's about the report.`
+- Good: `I'll tell you everything after.`
+
+## 10. No house slang packs / worn-out refrains
+
+Do not invent private euphemisms and reuse them until they feel like a brand. If you mean coffee only, kissing only, or denial getting unbearable — **say that**.
+
+**Ban the category:** stamped identity labels, catchphrase lectures, one witty excuse pasted onto every escalation beat.
+
+Cute character voice (`sorryyy`) can recur sparsely. A branded thesis repeated every beat cannot.
+
+### 10a. Nicknames — realistic; research then discard
+
+Nicknames must sound spoken in **this** relationship. Prefer ordinary pet names or filthy insults that fit the speaker. Vary them.
+
+If nothing natural comes to mind, **look up** real slang / humiliating pet names for that kink, pick one that fits this scene, and use it. **Do not** add the result to these rules, author notes, or a mental whitelist for the next story.
+
+**Don't:** opaque decoder-ring nicknames; one invented identity noun lecturing every paragraph; treating this file's or another story's nicknames as approved house terms.
+
+### 10b. Beefing / padding length
+
+Expand with **new unique sexual dialogue and acts** — new objections, new renames, extended concrete sex, scene/body detail that earns heat.
+
+**Don't:** pad by repeating a branded category with new verbs; synonym-loop the same maturity/loyalty lecture; add empty atmosphere; summarize instead of dramatizing (§1).
+
+### 10c. Examples and other stories are not slang packs
+
+- Examples in this file are **illustrations only**
+- Distinctive catchphrases from **other** stories in the repo are not shared dialect — do not reuse them
+- Craft words in this file (`reality-rewrite`, `moved goalposts`) describe technique for the agent; they are not dialogue
+- Cock Bobber quotes teach **pattern**; do not paste them into new stories
 
 ## 11. Chapters (optional)
 
-Most stories are single-chapter (`pages` only). Multi-chapter stories:
-
-- Keep one catalog entry (browse / author / home). Never register extra chapters as separate stories.
-- Set `firstChapterName` + `firstChapterSummary` for the opening `pages` body, plus `chapters: [{ name, summary, pages }, …]` for the rest.
-- **Every chapter has a name and a short summary.** Summaries are chapter-specific blurbs for the story-page dropdown — **not** a copy of the catalog `excerpt`.
-- The story page shows a chapter dropdown (name only) below tags and above page pagination; minutes and that chapter's summary appear directly under the dropdown for the selected chapter.
-- Read time on cards and the story kicker is the **sum** of all chapters.
-- Each chapter should still meet the 5-minute minimum on its own when practical.
+One catalog entry. `firstChapterName` + `firstChapterSummary` + `chapters: [{ name, summary, pages }, …]`. Every chapter named and summarized (not a copy of the excerpt). Read time sums all chapters. Prefer each chapter ≥5 min when practical.
 
 ## 12. Length and registration
 
-- Minimum **5-minute** read: ≥ **1150** words of body text at **230 WPM** (`node scripts/count-words.mjs` / `getReadingMinutes`). No `UNDER 5 MIN`. Multi-chapter: count all chapters; prefer each chapter ≥5 min.
-- When the user asks for longer chapters (“beef up,” “pad,” “12–15 minutes”), expand with **new unique sexual dialogue and acts** — see §10b. Do not hit the word count by repeating a branded refrain.
-- Match `Story` shape in `src/types.ts`; register in `src/data/stories/index.ts`.
-- Follow the selected author’s `writingStyle` in `src/data/authors.ts`, except where this rule file conflicts (ages, consent theatre, banned names, no plot-summary, sexual excerpts, male panties as emasculation/humiliation, fragment spam, no therapy-speak desire, natural collocations, no obscure house jargon / worn-out stock phrases, nicknames §10a, beefing §10b, craft-examples-are-not-slang §10c, plain dirty porn voice §0, plain English / no AI gibberish / no fake-literary elevation, aka Cock Bobber gold-standard ban, cuckold gaslighting craft / prose ban) — **this file wins**.
+- Minimum **5-minute** read: ≥ **1150** words at **230 WPM**. No `UNDER 5 MIN`.
+- Longer requests (“beef up,” “12–15 minutes”): expand per §10b — new sex dialogue/acts, not refrains.
+- Match `Story` shape; register in `src/data/stories/index.ts`.
+- Author `writingStyle` applies except where this file conflicts — **this file wins**.
 
 ## 13. “Gaslighting” in cuckolding — craft term (prose ban; tag + one title OK)
 
-When the user says **gaslighting** (or asks for a story that gaslights the boyfriend/husband), they mean a specific erotic technique — **not** clinical psychology jargon.
+**Craft meaning:** loving reality-rewrite. She renames humiliation/sharing/cleanup/denial until it sounds like honesty, maturity, romance, or what’s best for them — then she gets him to **say it back**. His accurate jealousy is treated as the defect (insecurity, pride); compliance is treated as love and specialness.
 
-**Allowed:**
-- Catalog **tag** `gaslighting` when the loving reality-rewrite technique is load-bearing
-- **Title exception:** the girl_logic story *Gaslighting* (`slug: gaslighting`) may use the word as its title — the one catalog-title exception
+**Allowed:** catalog tag `gaslighting` when that technique is load-bearing. Title exception: girl_logic story *Gaslighting* only.
 
-**Still banned in prose:** never write `gaslight`, `gaslighting`, or close cousins (`she's gaslighting him`, `classic gaslight`) in **narration, dialogue, or excerpts**. Show the rewrite; do not name the trick on the page. Authors' `writingStyle` notes forbid the prose word; this section defines what to *do* instead.
+**Banned in prose:** never write `gaslight` / `gaslighting` (or close cousins) in narration, dialogue, or excerpts. Show the rewrite; do not name the trick.
 
-### What it means here
+**Do (principles):** invent a loving cover that fits **this** plot; rename the act; pathologize his correct read; move the goalposts; comfort that advances the agenda; extract assent (especially mid-act / after); retcon his past feelings; leave him concluding he chose it. Vary the dialogue. Escalate **acts**, not a branded nickname.
 
-**Loving reality-rewrite.** The wife/girlfriend (or Momme/Domme coaching her) does **not** win by cartoon cruelty or by arguing the facts of the cheating. She **renames** what happened until humiliation, sharing, cleanup, denial, and escalation become the only “honest,” “mature,” “natural,” “romantic,” or “what’s best for us” reading — then she gets him to **say it back**.
+**Don't:** clinical monologues about rewriting his reality; therapy-speak (§8); consent theatre (§3); stamping one identity brand or false-binary lecture (`mature boys do X; insecure boys do Y`).
 
-His accurate read (jealousy, horror, “this is cheating,” “I don’t want this,” “you’re using me”) is treated as the **defect**: insecurity, immaturity, selfishness, old-fashioned male pride, or a threat to the relationship. Compliance is treated as love, specialness, self-control, and proof he is “different from those men.”
+**Learn the pattern from** a.k.a. Cock Bobber (`aka-cock-bobber*.ts`) — specialness vs “those men,” cleanup as duty, mishear/retcon, expected service as logistics. **Do not edit those files** (§15). **Do not paste their lines** into new stories.
 
-Gold-standard voice for this technique lives in **a.k.a. Cock Bobber** (`aka-cock-bobber*.ts`) — learn the pattern; do not edit those files (§15).
+**Illustration only:**
+- Bad: `She was gaslighting him again.`
+- Good: She tells him he's upset he wasn't close enough to help — so stay and watch. That's love. He meant to say no; he says okay.
 
-### Recipe (use when asked for gaslighting / reality-rewrite / moved goalposts)
+## 14. Plain English — no AI gibberish
 
-1. **Seize or invent a loving cover story** — pregnancy panic, cleanup as care, birthday favor, health, luck, instinct, helping her, making love vs fucking. Pick a cover that fits **this** plot; do not stamp one stock phrase across stories.
-2. **Rename the act** — cheating → sharing / taking care; creampie service → romance / duty / preventing pregnancy; cock service → privilege / cleanup / devotion; semen diet → breakfast / protein; denial → self-control / saving it for her.
-3. **Pathologize his correct perception** — jealousy = wanting closeness wrong; protest = volunteering; hard-on = he loves it; embarrassment = silly misconceptions; wanting old intimacy = selfish / “like all those men.”
-4. **Logic ladder with one safe exit** — questions he can’t deny → conclusion he didn’t mean to grant → “Right?” while the act continues.
-5. **Fake win / lesser evil** — tinted windows, “secret for now,” “only when we’re alone,” “you decide when they cum,” “cumsucker not sissy” — concessions that lock in more service.
-6. **Comfort that advances the agenda** — “oh baby / don’t cry / I’m sorry” → mis-hears his complaint → the “fix” is more of the same (fresher cum, better panties, next cock).
-7. **Extract spoken assent after the fact** — “tell me this is what you want,” “you’re not a liar,” “you DO appreciate it,” “forgive me for not letting you…” — preferably while he’s hard, crying, mid-act, or post-orgasm.
-8. **Retcon his past feelings** to match the new story — he cried because the substitute wasn’t real enough; he always saved his orgasm for her; resistance was “not him talking”; he “misheard” the swallow instruction.
-9. **Praise compliance as identity** — special, mature, proud boyfriend, “you’re different from those men.” Invent the compliment for this scene; do not reuse one house identity brand.
-10. **Leave him concluding he chose it** — “I can do this for her,” “it made sense,” “back in control,” “who could argue with results?”
+If a stranger overheard the line and couldn't tell what happened, rewrite it in ordinary dirty talk or ordinary narration.
 
-### Voice
+**Ban the category:** invented craft compounds in prose; SEO hyphen-tags for body state; meta creator jargon in character mouths; clipped nonsense commands; nicknames that need a footnote; workshop abstractions that hide the act; fake-literary weather/tableau elevation.
 
-Proud, intimate, explanatory — honey/baby, tears of pride, patient “of course,” maternal or girlfriend-reasonable. Degradation arrives as **care**. Graphic sex words are fine; **moral** labels for what she is doing to him are not. Do not lecture the reader that he is being manipulated; dramatize the rewrite through her dialogue and his spiraling agreement.
-
-### Examples from *a.k.a. Cock Bobber* (pattern only — do not rewrite those files)
-
-**Specialness vs “those men” (cleanup / cum-eating as proof of love):**
-> "Actually, I think it takes a special kind of guy to eat another man's sperm and not have it turn him off completely. Those neanderthal jocks who filled that pussy up would probably wither away completely if you simply mentioned the idea of drinking jism to them. But you, honey ... you've obviously got a special kind of mindset."
-
-**Cleanup reframed as good boyfriend duty:**
-> "You truly amaze me, Bobby. You're not just some man who'd leave my Tanya filled with cum and miserable. You're different than that."
-
-**Mishear / retcon mid-kiss (he thinks he imagined the swallow order):**
-> She broke the kiss momentarily. "Uh ... I said 'I just want you to be with me, Bobby'." Of course he'd heard her wrong. It was silly to think she actually wanted him to swallow cum.
-
-**Identity ladder (Mrs. K inventing a better class than “real men”):**
-> "You're not like most males ... the loud, boorish, skirt-chasing jerks. You're not like these real men at all, but part of a different class that I call 'Gentle men'."
-
-**Expected service named as logistics, not humiliation:**
-> "Now that you're a cocksucker, it's basically just expected that you perform 'clean up duty' for Tanya's lovers after they're through fucking her."
-
-### Do / Don’t
-
-**Do:**
-- Imply the technique through patient insistence, moved goalposts, and his after-the-fact “yes”
-- Let him notice “she’d done it again” in free indirect thought without naming the trick
-- Escalate labels he already accepted when the plot earns it (cleanup → cocksucker → deeper service) — escalate the **acts**, not a branded nickname
-- Write **varied** loving-dirty dialogue; do not stamp one branded noun into every speech (§10a / §10b / §10c)
-
-**Don’t:**
-- Use the word in narration, dialogue, or excerpts (tag + the *Gaslighting* title exception are fine)
-- Have her monologue “I’m rewriting your reality” / “I’m training you to doubt yourself”
-- Substitute therapy-speak (§8) for the rewrite — say the acts; keep the loving cover story concrete
-- Confuse this with consent theatre (§3) — no safewords; the erotic point is the loving trap, not a negotiated scene check
-
-**Bad (names the trick / clinical):**
-> She was gaslighting him again, and he knew it.
-> "I'm just recalibrating how you see our dynamic."
-
-**Good (shows the rewrite):**
-> "You're not upset that they fucked me — you're upset you weren't close enough to help. So stay. Watch the van. That's love."
-> He meant to say *no*. What came out was *okay*, and she kissed him like he'd won something.
-
-Applies whenever the user requests gaslighting, loving reality-rewrite, moved goalposts, or cuckold persuasion in that vein — and whenever an author’s `writingStyle` says to imply gaslighting without the word.
-
-## 14. Plain English — no AI gibberish (and no fake-literary elevation)
-
-Readers should never have to decode a line. If a phrase sounds clever in the writer's head but means nothing out loud, **rewrite it in ordinary dirty talk or ordinary narration**.
-
-This is **not** a ban on porn slang. Cock, cunt, cumdump, fuckslime, and blunt humiliation lines are welcome when they fit the scene (§0). The failure mode is the opposite: hyphenated tag-speak, invented craft compounds, meta creator jargon, clipped “style” commands, **and** thesaurus / weather / tableau metaphors that try to make porn sound fancy.
-
-### Hard bans (and close cousins)
-
-**Invented craft / workshop talk in prose or summaries:**
-- Do not write private craft verbs as if they were dialogue (`she reality-renames the garage`, `extracts trust`)
-- Do not use hyphenated body-state tags that read like SEO (`anal-sore`, `cage-sore`) — say “sore from the anal,” “ass still sore”
-- Do not put meta creator jargon in character mouths (`used like content`, `Genre match`, `finished rendering`) unless the character is literally talking shop — and even then prefer plain words
-- Do not invent clipped nonsense commands — say the ordinary order (`Don't drink. Watch.`, `Stay in the onesie and keep your eyes on her.`, corner him so he remembers what he watched)
-- Do not use nicknames that need a footnote (§10a)
-- Do not hide the act behind workshop abstractions (`love languages`, `relationship accident`, `scripted the humiliation`)
-
-### Do instead
-
-- Say the act: fucked her ass until she was sore; came home leaking; talked him into calling it trust; insisted the garage wasn't cheating
-- Keep dirty words dirty and concrete: cock, cunt, asshole, cum, spank, cage, onesie, bow
-- Prefer blunt porn over poetic stand-ins (`the ache became weather`, `like a mise-en-place`, `devastating tableau`, `luminous`, `learned his fantasy like a language`)
-- Nicknames must be immediately readable from what's on the page (princess + bow visible = fine; “ribbon” alone = not)
-- Summaries and excerpts especially must pass the **read-aloud test**: if you stumble, rewrite
-
-### Heuristic
-
-If a stranger overheard only that sentence and could not tell what happened in the scene, it fails. If the line only works as a private joke with the craft doc, it fails.
-
-Applies to **narration, dialogue, excerpts, and chapter summaries**. Applies to **all authors**.
+Porn slang is welcome when it fits (§0).
 
 ## 15. Gold standard — never rewrite *a.k.a. Cock Bobber*
 
-The multi-chapter saga **a.k.a. Cock Bobber** (`author: akacockbobber`, files `aka-cock-bobber.ts` + `aka-cock-bobber-chapter-*.ts`) is a **verbatim imported classic**.
+`aka-cock-bobber*.ts` are a **verbatim imported classic**. Do not rewrite, modernize, or run catalog-wide cleanups on them unless the user **explicitly** names this saga. Learn from them; do not sand them down.
 
-- **Do not** rewrite, “improve,” modernize, de-gibberish, re-pace, or lightly edit those files for style.
-- **Do not** run catalog-wide prose cleanups against them.
-- Allowed touches only: build/type/registration breakage, or an **explicit** user request that names this saga.
-- Treat the saga as the house **gold standard** for long-form voice — learn from it; do not sand it down.
-- Author note in `src/data/authors.ts` (`akacockbobber`) repeats this; this section is the hard rule.
+## 16. Corpus feedback — stay thin
 
-## 16. Quick checklist before shipping a new story
+When matching an author's voice: skim **one** existing story by that author for **structure, POV, and tone** — not for phrase mining.
 
-- [ ] Opens in a scene, not a premise dump
-- [ ] Excerpt leads with concrete sexual beats (not logistics-only setup)
-- [ ] Multi-chapter: every chapter named + summarized; still one catalog entry
-- [ ] No adult age numbers used as character IDs
-- [ ] If 18–21 appears, it appears once for a plot reason — not as a refrain
-- [ ] No safewords / traffic lights / “still okay?”
-- [ ] No characters named Aaron or Eric
-- [ ] If a boy/man wears panties: framed as emasculation/humiliation (not comfort clothes / care) — see §6
-- [ ] No fragment spam: weak 1–4 word stacks deleted or rewritten as full sentences — see §7
-- [ ] No therapy-speak for desire (“your feeling,” “right shape,” etc.) — see §8
-- [ ] No wrong collocations / private kink product-names — plain act verbs — see §9
-- [ ] No obscure house jargon or stamped craft examples — see §10 / §10c; nicknames realistic — §10a; beefing = new dirty dialogue — §10b
-- [ ] Plain English: no AI gibberish and no fake-literary elevation — see §0 and §14
-- [ ] Did **not** touch aka-cock-bobber files unless the user named that saga — see §15
-- [ ] If the brief asks for gaslighting / reality-rewrite: show §13 technique; never print the word in prose (tag `gaslighting` when load-bearing; title exception only for *Gaslighting*)
+Do **not** harvest distinctive catchphrases from other stories (or earlier chapters of a different arc) and replay them as house style. Plot-unique; dialogue-unique.
+
+## 17. Quick checklist
+
+- [ ] Scene-first opening; sexual excerpt; dramatized beats
+- [ ] Ages rule; no consent theatre; no Aaron/Eric
+- [ ] Panties (if any) = emasculation; no fragment spam; no therapy-speak desire
+- [ ] No private kink product-names / workshop nouns / cute rule-metaphors (§9)
+- [ ] No stamped house slang or catchphrase loops (§10 / §10c)
+- [ ] Nicknames realistic; researched terms discarded after use (§10a)
+- [ ] Beefing = new sexual dialogue/acts (§10b)
+- [ ] Skimmed one peer story for tone only (§16)
+- [ ] Gaslighting (if any): show rewrite, never name it; tag OK (§13)
+- [ ] Did not touch aka-cock-bobber unless named (§15)
 - [ ] ≥1150 words; `npm run count-words` clean; builds
