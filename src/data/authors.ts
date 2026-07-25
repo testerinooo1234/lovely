@@ -347,6 +347,19 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['humiliation', 'cuckolding', 'chastity', 'feminization', 'ageplay', 'abdl', 'spanking', 'bdsm', 'anal'],
   },
+  {
+    handle: 'lacealibi',
+    bio: 'Writes girlfriends who sound terrified and reasonable while they keep walking back to the man who ruins them. Her specialty is victim-logic with lingerie underneath — chastity keys as safety, small comparisons as comfort, and a boyfriend blocked at the door for his own good.',
+    writingStyle: [
+      'VOICE: Close third on the boyfriend. Heavy dialogue from the girlfriend — shaky, sweet, explanatory, longer than his. His lines are short: call the cops, I will kill him, stop going there. She folds every protest into care.',
+      'GASLIGHTING CRAFT: story-writing.mdc §13. She claims ongoing anal rape / force while actively seeking the man, dressing for him, bringing toys, and physically/verbally stopping the boyfriend from intervening. Never print gaslight/gaslighting in prose (catalog tag OK). Never use the words cuckold or cheating in story text.',
+      'THEMES: cuckolding-adjacent hotwife, chastity, small penis humiliation, anal, lingerie, bunny/play costume, toys taken to the other man.',
+      'PACING: Claim → stop intervention → lock him → lingerie under clothes → deliveries (ears/toys) → live proximity extreme. Each chapter a distinct extreme mini-story.',
+      'LENGTH: Multi-chapter; each chapter 10–15 min (≥2300 words, aim ~2600–3200).',
+      'HARD RULES: Adults only (18+ via jobs/apartment — no filler ages). No consent theatre. Sparse names (never Aaron/Eric). Plain dirty erotica. Favor tags: gaslighting, cuckolding, chastity, humiliation, small penis humiliation, anal, hotwife.',
+    ].join(' '),
+    favoriteTags: ['gaslighting', 'cuckolding', 'chastity', 'humiliation', 'small penis humiliation', 'anal', 'hotwife'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
