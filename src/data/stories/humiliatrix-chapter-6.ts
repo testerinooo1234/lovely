@@ -138,7 +138,7 @@ const chapter: StoryChapter = {
       `Cole sealed his lips around the head and sucked. Salt and skin filled his mouth. His cage jerked uselessly in pink panties.`,
       `"Listen to that little wet sound," she said. "That's ownership. Deeper. Not all at once — work down an inch. Look at me while you do it. I want your eyes watering at me, not at him."`,
       `Cole looked up. Humiliatrix smiled like Christmas. Marcus's cock pushed further, stretching Cole's jaw until his eyes did water.`,
-      `"Good boy," she praised. "Pathetic boy. Child on his knees with a real cock in his mouth after pizza and Buffy and french-toast talk. You got a soft night. You got my bed. You got my hand. And now you get this. Tell Marcus thank you between strokes — messy is fine."`,
+      `"Good boy," she praised. "Pathetic boy. Child on his knees with a real cock in his mouth after pizza and Buffy and french-toast talk. You got an easy night. You got my bed. You got my hand. And now you get this. Tell Marcus thank you between strokes — messy is fine."`,
       `Cole pulled off with a wet sound. "Thank you—"`,
       `"Thank you, Marcus, for letting a locked little cuck suck you."`,
       `"Thank you, Marcus, for letting a locked little cuck suck you."`,
@@ -188,7 +188,7 @@ const chapter: StoryChapter = {
       `Cole nodded frantically around the cock.`,
       `"Words."`,
       `He pulled off just enough. "Clear — hold it — show you — Ma'am—"`,
-      `"Back on. Make him cum. Earn the soft night by being disgusting in daylight."`,
+      `"Back on. Make him cum. Earn the easy night by being disgusting in daylight."`,
     ],
     [
       `Cole sucked like homework — tongue working the underside, lips sealed, eyes locked on Humiliatrix even when they blurred. Marcus's fingers tightened in his hair. Humiliatrix narrated like sportscast cruelty.`,

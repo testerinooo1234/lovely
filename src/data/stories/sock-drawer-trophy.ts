@@ -68,7 +68,7 @@ const story: Story = {
       `"Say what I did in the locker-room bathroom."`,
       `His face burned. She waited, smiling, sock swaying.`,
       `"You sucked him," he managed. "On your knees. You swallowed. You brought his sock home for me to smell while you sat on my face and talked about how small I am."`,
-      `"Perfect homework recap." She leaned down and kissed his forehead with sticky-sweet affection, then his mouth, letting him taste himself on her. "You did so well with your nose. Tomorrow maybe I'll text you from the parking lot before I go in, so the anticipation has a timestamp. Or maybe I won't warn you at all. Surprises keep soft boyfriends tender."`,
+      `"Perfect homework recap." She leaned down and kissed his forehead with sticky-sweet affection, then his mouth, letting him taste himself on her. "You did so well with your nose. Tomorrow maybe I'll text you from the parking lot before I go in, so the anticipation has a timestamp. Or maybe I won't warn you at all. Surprises keep locked boyfriends tender."`,
       `She rolled off, padded to his dresser in bare feet, and opened the sock drawer with ceremonial care. In went the black gym sock — still damp, still wrong — nestled against his clean pairs like a stain with rights. She patted the drawer shut.`,
       `"There," she murmured. "Museum quality."`,
       `He lay on the bed tasting her, smelling him, cock still aching and ignored. She glanced at it, tilted her head, and blew a tiny kiss without moving closer.`,
