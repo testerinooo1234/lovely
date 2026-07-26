@@ -23,7 +23,7 @@ const chapter: StoryChapter = {
     [
       `Mackenzie bent over the couch arm. The striped top rode up. Her tits hung heavy in the fabric. Sheer black nylon smoothed her legs down into nowhere; the open oval left both cheeks bare and framed, still mottled from leather and cane. Grant recorded a few seconds on his phone first — her face turned to the side, freckled and ashamed, then a slow pan down her back to the presented bottom.`,
       `"State your name."`,
-      `"Mackenzie Reed."`,
+      `"Mackenzie."`,
       `"State what this is."`,
       `"Adjustment Four. I'm getting paddled because I rolled my eyes and mouthed off, and because you have photos, and because my cunt gets wet when you hurt me."`,
       `"Good enough." He set the phone aside still recording. "Count to twenty-five."`,
@@ -62,7 +62,7 @@ const chapter: StoryChapter = {
       `Mackenzie came apart with her face in the patterned cushion and her jeans binding her thighs, topless and striped with punishment, freckles wet with tears. "Thank you for adjusting me — thank you for One through Five — thank you for not sending the photos — thank you for fucking me sore—"`,
       `Grant followed her over with a groan, burying himself deep and spilling inside her while her cunt fluttered around him. He stayed put until she stopped shaking, then pulled out and watched his cum drip down toward the jeans bunched at her thighs.`,
       `"Stay bent," he said softly. "I'm taking one last photo for the closed album. Ass, jeans, my cum. Your face turned toward me."`,
-      `She turned her face. He snapped it. She looked like what she was — Mackenzie Reed, adjusted, used, marked, eyes dark and emptied-out soft.`,
+      `She turned her face. He snapped it. She looked like what she was — Mackenzie, adjusted, used, marked, eyes dark and emptied-out soft.`,
     ],
     [
       `He helped her stand. The room tilted. Grant steered her to the couch and sat her carefully on a folded towel, jeans still open, cum leaking, tits bare, curly hair a mess around her freckled face.`,
@@ -78,7 +78,7 @@ const chapter: StoryChapter = {
       `"Take a picture of your own ass in the bathroom mirror if you want," he said. "For you. Not for sending. You've earned a private souvenir."`,
       `She almost laughed. It came out a broken little sound. "Yes, Sir."`,
       `In the bathroom she did take the picture — jeans down, bottom glowing, the patterned-chair memory still in her muscles — and then she stepped into the shower and hissed when the water hit, forehead to tile, one hand on the wall, the other carefully away from her cunt because he had not said she could touch.`,
-      `Adjustment Five was complete. The album was closed. The summer was long. Mackenzie Reed washed soap from her skin and felt every stripe answer, and when she whispered thank you to the empty shower it was not performance anymore. It was the truth the hairbrush had started teaching her in a navy pinafore, on a kitchen floor, with pink panties at her ankles and her whole life suddenly organized by the heat in her ass.`,
+      `Adjustment Five was complete. The album was closed. The summer was long. Mackenzie washed soap from her skin and felt every stripe answer, and when she whispered thank you to the empty shower it was not performance anymore. It was the truth the hairbrush had started teaching her in a navy pinafore, on a kitchen floor, with pink panties at her ankles and her whole life suddenly organized by the heat in her ass.`,
     ],
     [
       `Grant knocked once and came in while the water was still running.`,
@@ -99,7 +99,7 @@ const chapter: StoryChapter = {
       `Mackenzie nodded. Her cunt clenched at the threat like a traitor.`,
       `That night she slept on her stomach again, phone charging face-down, pink rabbit on the floor where it had fallen, teddy bear on the nightstand, body lotion-soft and belt-deep sore. Before she dropped off she opened her private mirror photo one more time — jeans down, bottom glowing, cum memory, the woman in the frame looking ruined on purpose — and locked the phone without sending it to anyone.`,
       `In the living room the patterned armchair sat empty under the striped curtains. The green bench waited against the wall. The wicker basket of canes stayed closed.`,
-      `Mackenzie Reed, adjusted through Five, dreamed of schoolgirl socks and soap foam and the crack of wood, and woke once in the dark with her hand dangerously close to her cunt before she put it back on the sheet where Grant had told her hands belonged.`,
+      `Mackenzie, adjusted through Five, dreamed of schoolgirl socks and soap foam and the crack of wood, and woke once in the dark with her hand dangerously close to her cunt before she put it back on the sheet where Grant had told her hands belonged.`,
       `She almost wanted morning. She almost wanted to earn Six. She pressed her face into the pillow instead, smiled a small shameful smile into the cotton, and let the heat in her ass lull her under like a promise she could still feel breathing.`,
     ],
   ],

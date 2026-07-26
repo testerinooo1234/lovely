@@ -16,7 +16,7 @@ const story: Story = {
   chapters: [chapter2, chapter3, chapter4],
   pages: [
     [
-      `Mackenzie Reed was eighteen, home from her first year of college for the summer, and the porch light was already on when she tried the front door at twelve-forty with wine on her breath and her phone dead in her bag.`,
+      `Mackenzie was eighteen, home from her first year of college for the summer, and the porch light was already on when she tried the front door at twelve-forty with wine on her breath and her phone dead in her bag.`,
       `Grant sat in the living-room chair like he had been waiting long enough to get comfortable with it. Sleeves rolled. Belt still on. The wooden hairbrush from her mother's old vanity set lay on the side table beside his glass of water, face up, the dark oval wood catching the lamp.`,
       `Mackenzie stopped on the mat. Her curly dark hair had come half-loose from the low ponytail she had left the house in; freckles stood out on her cheeks under the porch glow still clinging to her skin. The black top she wore dipped low enough that Grant's eyes went to her cleavage before they went to her face, and she hated that she noticed him noticing.`,
       `"You're late," he said.`,
