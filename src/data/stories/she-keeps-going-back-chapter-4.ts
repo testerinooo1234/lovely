@@ -5,6 +5,7 @@ const chapter: StoryChapter = {
   name: 'He Came to Our Door',
   summary:
     'Trent shows up at their apartment. Cole tries to stop it with a bat and a phone; Paige blocks him, locks the bedroom door on her boyfriend, and gets anally raped on their bed while Cole listens — then cleans her and thanks him for staying put.',
+  image: `${import.meta.env.BASE_URL}stories/she-keeps-going-back/chapter-4.png`,
   pages: [
     [
       `The doorbell rang at nine-fourteen on a Tuesday that had been ordinary until it wasn't.`,

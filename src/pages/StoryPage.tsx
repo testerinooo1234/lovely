@@ -255,6 +255,16 @@ export function StoryPage() {
         </header>
 
         <div ref={pageStartRef} className="story-reader__page">
+          {safePageIndex === 0 && currentChapter.image && (
+            <figure className="story-reader__chapter-figure">
+              <img
+                className="story-reader__chapter-image"
+                src={currentChapter.image}
+                alt=""
+                loading="eager"
+              />
+            </figure>
+          )}
           {totalPages > 1 && (
             <Pager
               className="pager--top"

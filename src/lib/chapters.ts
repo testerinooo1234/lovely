@@ -20,7 +20,11 @@ export function getChapterCount(story: Pick<Story, 'chapters'>): number {
 export function getStoryChapters(
   story: Pick<
     Story,
-    'pages' | 'firstChapterName' | 'firstChapterSummary' | 'chapters'
+    | 'pages'
+    | 'firstChapterName'
+    | 'firstChapterSummary'
+    | 'firstChapterImage'
+    | 'chapters'
   >,
 ): StoryChapter[] {
   if (!story.chapters?.length) {
@@ -29,6 +33,7 @@ export function getStoryChapters(
         name: story.firstChapterName ?? '',
         summary: story.firstChapterSummary ?? '',
         pages: story.pages,
+        image: story.firstChapterImage,
       },
     ]
   }
@@ -37,6 +42,7 @@ export function getStoryChapters(
       name: story.firstChapterName ?? 'Chapter 1',
       summary: story.firstChapterSummary ?? '',
       pages: story.pages,
+      image: story.firstChapterImage,
     },
     ...story.chapters,
   ]

@@ -25,6 +25,8 @@ export type StoryChapter = {
    * manual group boundaries are not treated as page breaks.
    */
   pages: string[][]
+  /** Optional image shown at the top of the chapter (first page only). Site-root path. */
+  image?: string
 }
 
 export type Story = {
@@ -48,6 +50,8 @@ export type Story = {
    * Required when `chapters` is set; distinct from `excerpt`.
    */
   firstChapterSummary?: string
+  /** Optional image for chapter 1 when the opening body lives in `pages`. */
+  firstChapterImage?: string
   /**
    * Additional named chapters after the first.
    * Browse/author catalog still list this as one story; read time sums all chapters.

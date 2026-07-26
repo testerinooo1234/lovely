@@ -5,6 +5,7 @@ const chapter: StoryChapter = {
   name: 'Bunny Ears and a Bag',
   summary:
     'Paige buys bunny ears, plugs, and a thick toy Trent \'requested.\' Cole tries to trash them; she takes him along to deliver the bag and makes him wait while Trent uses her in costume.',
+  image: `${import.meta.env.BASE_URL}stories/she-keeps-going-back/chapter-3.png`,
   pages: [
     [
       `Paige found the bunny ears on a peg hook between Halloween clearance and pet costumes, pink faux fur with wire inside the ears so they stood up and wobbled when she shook her head.`,

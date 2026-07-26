@@ -13,6 +13,7 @@ const story: Story = {
   firstChapterName: "Don't Call Anyone",
   firstChapterSummary:
     'Paige comes home claiming Trent raped her ass; Cole wants cops; she locks him instead and makes him hear every detail while comparing sizes.',
+  firstChapterImage: `${import.meta.env.BASE_URL}stories/she-keeps-going-back/chapter-1.png`,
   chapters: [chapter2, chapter3, chapter4],
   pages: [
     [

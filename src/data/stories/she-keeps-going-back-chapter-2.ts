@@ -4,6 +4,7 @@ const chapter: StoryChapter = {
   name: 'Lingerie Under Everything',
   summary:
     "Paige starts wearing lace for Trent so he'll 'finish faster and leave her alone.' Cole tries to stop her leaving; she cages his protest, undresses for the lingerie show, and comes home with her ass used.",
+  image: `${import.meta.env.BASE_URL}stories/she-keeps-going-back/chapter-2.png`,
   pages: [
     [
       `Three days after Trent bent her over the weight bench in the back room and took her ass while she cried into a rolled towel, Paige came home from the mall with a bag from a lingerie shop Cole had never seen her enter before. She set it on the kitchen counter like groceries, peeled an orange, and only mentioned it when he stared at the tissue paper sticking out of the top.`,

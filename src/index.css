@@ -814,6 +814,21 @@ button.tag-chip {
   scroll-margin-top: calc(var(--header-h) + 0.75rem);
 }
 
+.story-reader__chapter-figure {
+  margin: 0 0 1.25rem;
+  max-width: 42rem;
+}
+
+.story-reader__chapter-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+  background: var(--surface-2, #1a1a1a);
+}
+
 .story-reader__body {
   display: grid;
   gap: 1.25rem;
