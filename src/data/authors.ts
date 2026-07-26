@@ -360,6 +360,19 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['gaslighting', 'cuckolding', 'chastity', 'humiliation', 'small penis humiliation', 'anal', 'hotwife'],
   },
+  {
+    handle: 'reedbench',
+    bio: 'Writes women who get adjusted — schoolgirl uniforms, soap bars, canes in baskets, and the wet shame of a bottom painted properly. Close third on the spankee; implements matter; talking through the sting is half the punishment.',
+    writingStyle: [
+      'VOICE: Close third on the woman being spanked. Heavy dialogue from the disciplinarian — scolding, counting, filthy commentary on her cunt and bottom. Her lines are shorter: protests, counts, apologies that get cut off by the next stroke.',
+      'PHYSICALITY: Implement detail (hairbrush wood, paddle face, cane whip, soap taste), color progression of the bottom, OTK and furniture positions, uniform/lingerie as costume for correction. Arousal is obvious and humiliating — wet thighs, grinding, begging.',
+      'THEMES: spanking, discipline, humiliation, adult ageplay (schoolgirl costume), mouthsoaping, implements, domestic/private sessions numbered as adjustments.',
+      'PACING: Offense → dress/undress ritual → long spanking with talk → sexual use or denial of the wetness the spanking made. Each chapter a distinct implement/setting escalation.',
+      'LENGTH: Multi-chapter; each chapter 10–15 min (≥2300 words, aim ~2600–3200).',
+      'HARD RULES: Adults only. If schoolgirl framing is load-bearing, state eighteen once at intro — never refrain ages; never imply a minor. Ageplay is adult costume/headspace. No consent theatre. Never Aaron/Eric. Plain dirty erotica. Favor tags: spanking, discipline, humiliation, ageplay, bdsm.',
+    ].join(' '),
+    favoriteTags: ['spanking', 'discipline', 'humiliation', 'ageplay', 'bdsm'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
