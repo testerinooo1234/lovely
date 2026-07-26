@@ -6,7 +6,7 @@ import chapter4 from './she-keeps-going-back-chapter-4'
 const story: Story = {
   id: '81',
   slug: 'she-keeps-going-back',
-  title: 'she keeps going back',
+  title: 'She Keeps Going Back',
   author: 'lacealibi',
   excerpt:
     'Locked in pink plastic while she walked like every inch still hurt from forced anal she would not report, Cole reached for the cops — and Paige took his phone, caged him, made him compare his small cock to what Trent left inside her, and texted Trent not to tell anyone where Cole could see.',

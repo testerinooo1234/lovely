@@ -20,7 +20,7 @@ Write a new erotica story for this site **in one author's voice**, using their b
 4. Create a new file `src/data/stories/<slug>.ts`:
    - `id`: next unused string id (check existing story ids).
    - `slug`: kebab-case, unique.
-   - `title`: lowercase, in the house style of existing titles (understated, not clickbait).
+   - `title`: Title Case, in the house style of existing titles (understated, not clickbait).
    - `author`: exact author handle.
    - `excerpt`: one or two punchy sentences that **lead with concrete sexual beats** from the story (acts, implements, body, denial, pricing for unlock/orgasm — not logistics-only setup). See `.cursor/rules/story-writing.mdc` §5.
    - `pages`: `string[][]` — opening body; paragraphs as template strings like existing stories.
