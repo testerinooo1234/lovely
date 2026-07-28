@@ -83,7 +83,7 @@ const chapter: StoryChapter = {
       `Brad's cock was nine inches and thick enough to stretch Nolan's jaw immediately.`,
       `"Easy," Brad said, not unkind. "Open."`,
       `"I can't fit—" Nolan tried.`,
-      `"You fit me on Tuesdays." Savannah filmed from the side, voice sweet enough for church and filthy enough for the clip. "Deeper. Hands behind your back. Good. Look at you — my boyfriend the cumslut. Don't pull off. Breathe through your nose. Brad, he can take more. He's been practicing on me by proxy — and I've been practicing on you by proxy every time I deepthroat something your little cage will never need."`,
+      `"You fit me on Tuesdays." Savannah filmed from the side, voice sweet enough for church and filthy enough for the clip. "Deeper. Hands behind your back. Good. Look at you — my boyfriend the cumslut. Don't pull off. Breathe through your nose. Brad, he can take more. He's been practicing on me by proxy — and I've been practicing on hard mode for a someday I still haven't scheduled on your little locked cock."`,
       `Nolan gagged. Tears wrecked the liner she'd spent half an hour on. Savannah made a delighted sound.`,
       `"Sav—" Nolan tried, muffled.`,
       `"Shh. Mouth full means listening." She crouched beside him so the camera caught both their faces, heavy tits shifting in her bra as she leaned in. "Tell the camera who you belong to."`,
