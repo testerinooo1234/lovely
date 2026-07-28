@@ -9,7 +9,7 @@ const chapter: StoryChapter = {
     [
       `The bet began with a scraped elbow and pride.`,
       `Savannah had come home from "gym stuff with Brad" with a scrape on her forearm and a story she told three times before Nolan finished plating dinner — how she'd fallen on the turf, how Brad had laughed, how she'd laughed harder, how Brad had said she took pain weirdly well for a girl.`,
-      `"Can you believe he said that?" she huffed, perched on the kitchen counter with an ice pack on her arm, crop top riding up under her bust, honey-brown hair still in the high ponytail she wore when she wanted to look wholesome. "What, just because I'm a girl? Doesn't he know I can handle just about any amount of pain?"`,
+      `"Can you believe he said that?" she huffed, perched on the kitchen counter with an ice pack on her arm, crop top riding up under her bust, honey-brown hair still in the high ponytail she wore when she wanted to look wholesome. "What, just because I'm a girl? Doesn't he know I can handle just about any amount of pain? I deepthroat that man twice a week in training and he thinks a belt is going to break me?"`,
       `Nolan set forks down carefully. "What kind of pain are we talking about."`,
       `"Hypothetical pain. Pride pain." She swung her legs. Beauty mark near her mouth. Sunday-school smile. "So anyway Brad said he thought he could make me cry easily. I told him no way. Then he got specific. He thinks he can make me cry in just fifteen minutes with a bare-bottom belt spanking."`,
       `Nolan's stomach dipped. "Savannah."`,

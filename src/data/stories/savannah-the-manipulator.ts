@@ -2,6 +2,7 @@ import type { Story } from '../../types'
 import chapter2 from './savannah-the-manipulator-chapter-2'
 import chapter3 from './savannah-the-manipulator-chapter-3'
 import chapter4 from './savannah-the-manipulator-chapter-4'
+import chapter5 from './savannah-the-manipulator-chapter-5'
 
 const story: Story = {
   id: '30',
@@ -9,11 +10,11 @@ const story: Story = {
   title: 'Savannah the Manipulator',
   author: 'softvow',
   excerpt:
-    'She swore nothing happened at Brad\'s — then came home without panties, kept Nolan locked in pink plastic, lost a belt bet with her ass, dressed him to suck Brad, and made him film the championship celebration when she was the special performer.',
+    'She swore nothing happened at Brad\'s — then came home without panties, kept Nolan locked in pink plastic, had Brad train her throat as a favor, lost a belt bet with her ass, made him film the championship celebration, and dressed him to suck Brad.',
   firstChapterName: 'Basically Family',
   firstChapterSummary:
     'Savannah keeps Nolan caged and sweet while Brad gets the overnights, the waterpark float, the plugs, and weekly spankings with a thank-you blowjob — every denial dressed like loyalty.',
-  chapters: [chapter2, chapter3, chapter4],
+  chapters: [chapter2, chapter3, chapter4, chapter5],
   pages: [
     [
       `Nolan learned early that Savannah did not need to raise her voice to win.`,
@@ -114,7 +115,7 @@ const story: Story = {
       `Sessions became weekly. Then twice a week. Savannah would come home pink-eyed and walking careful, always with a small new refinement to the ritual — "he did over-the-knee this time, it felt more traditional," "we tried it after a shower, apparently the skin takes it better," "he said swallowing is technically part of the spanking thank-you now so I don't want to under-report" — and Nolan would sit on the tub edge while she brushed her teeth and nod like a man receiving weather reports.`,
       `"You're taking this so well," Savannah told him one night, foam still at the corner of her mouth. "Most guys would get weird. You're my favorite person. Cage check?"`,
       `He nodded. She checked. She kissed the lock.`,
-      `"Proud of you," she whispered. "Next I want to talk about a fantasy. Not tonight. Soon. You'll be brave for me. I can already tell."`,
+      `"Proud of you," she whispered. "Next I want to talk about my mouth. Not tonight. Soon. Brad says the thank-yous could get even better if I practiced properly — and practice means you get a better girlfriend. You'll see."`,
     ],
   ],
   tags: [

@@ -93,7 +93,7 @@ const chapter: StoryChapter = {
       `"And I was telling the truth." She took his face in both hands. Beauty mark. Mouth soft. Eyes sincere enough to rearrange rooms. "You're not participating. You're operating the camera. I need that from you. Don't make this about your feelings. Make it about my face and their win."`,
       `"I tried— I don't—"`,
       `"You're overthinking." She kissed him once. "You already nodded with your feet when you walked over here. Phone up. Landscape. Thumb off the lens. Be useful."`,
-      `She stripped without ceremony — skirt, top, heels kept on — and knelt naked on the quilt with her ponytail high, mouth open in the specific rehearsed way of a girl who had watched enough videos to know what her face was supposed to do. Heavy tits settled as she sat back on her heels. The loft got quieter in the way rooms get quieter when everyone already knows the next beat.`,
+      `She stripped without ceremony — skirt, top, heels kept on — and knelt naked on the quilt with her ponytail high, mouth open in the specific rehearsed way Brad's oral training had drilled into her. Heavy tits settled as she sat back on her heels. The loft got quieter in the way rooms get quieter when everyone already knows the next beat.`,
       `"Camera on, baby?" she called across the loft.`,
       `Nolan nodded because his throat wouldn't work. He held the phone at eye level in both hands the way Brad had shown him — landscape, thumb off the lens, keep her face and at least one cock in frame at all times.`,
     ],
