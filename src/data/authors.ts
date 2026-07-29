@@ -373,6 +373,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['spanking', 'discipline', 'humiliation', 'ageplay', 'bdsm'],
   },
+  {
+    handle: 'oaklecture',
+    bio: 'Writes mothers who catch sons in filthy little thefts and make them answer in front of a sister. Her specialty is long hairbrush scoldings, bare-bottom dread, and the kind of questioning that makes a grown boy sound smaller than the crime.',
+    writingStyle: [
+      'VOICE: Close third on the son being scolded. Heavy maternal interrogation and hairbrush talk; sister taunts from the side that Mom mostly ignores. His lines are short, cracking, begging.',
+      'PACING: Discovery → long questioning scolding → strip in front of sister → harsh bare hairbrush OTK with reach/pin → corner and lingering fear of sitting.',
+      'THEMES: spanking, humiliation, discipline, adult ageplay/feminization-adjacent (panties, Samantha), sister witness.',
+      'LENGTH: Long single scenes; aim 25+ minutes when requested (≥5750 words at 230 WPM).',
+      'HARD RULES: Adults only. Do not state numeric age in story text when user forbids it — adulthood via living at home/jobs/college context without numbers. Never imply a minor. Mom does not say "ass" (bottom/seat/cheeks). No consent theatre. Never Aaron/Eric. Plain dirty erotica. Favor tags: spanking, humiliation, discipline, ageplay.',
+    ].join(' '),
+    favoriteTags: ['spanking', 'humiliation', 'discipline', 'ageplay'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {

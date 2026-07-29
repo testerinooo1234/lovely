@@ -59,6 +59,7 @@ import sockDrawerTrophy from './sock-drawer-trophy'
 import savannahTheManipulator from './savannah-the-manipulator'
 import sheKeepsGoingBack from './she-keeps-going-back'
 import mackenziesAdjustments from './mackenzies-adjustments'
+import samScolded from './sam-scolded'
 import soapSentences from './soap-sentences'
 import stepstoolSink from './stepstool-sink'
 import summerRules from './summer-rules'
@@ -128,6 +129,7 @@ export const stories: Story[] = [
   savannahTheManipulator,
   sheKeepsGoingBack,
   mackenziesAdjustments,
+  samScolded,
   summerRules,
   theBeltSheBorrowed,
   untilTheVows,
