@@ -382,6 +382,7 @@ const story: Story = {
       `"Night night, ruined," she whispered, and padded away laughing.`,
       `Sam stared into the pillow. His bottom throbbed. His ears still held Mom's questions like hooks. The panties on the table — even gone to laundry — still looked louder than shouting in his memory. He tried to swallow and heard it again. His knees remembered wanting to fold. The word bare still opened a pit.`,
       `He slept eventually, scared and sore and corrected, with the wooden hairbrush waiting in the bathroom like a promise that did not need to be repeated to be believed.`,
+      `And under every other thought, one stayed sharp enough to cut: if he ever got caught like that again, there would be no talk, no hug, no soft landing — only Mom's questions, Sarah's eyes, and the hairbrush turning his bottom into a week he could not sit through.`,
     ],
   ],
   tags: ['spanking', 'humiliation', 'discipline', 'ageplay'],
