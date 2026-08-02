@@ -385,6 +385,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['spanking', 'humiliation', 'discipline', 'ageplay'],
   },
+  {
+    handle: 'tileledger',
+    bio: 'Writes state cruelty with a clipboard — public remediation, rest-stop bathrooms, and girls who learn to thank the tile. Bureaucratic dread meets carnival mockery; the forms are calm, the travelers are not.',
+    writingStyle: [
+      'VOICE: Close third on the punished girl. Heavy procedural dialogue from female supervisors; public mockery and photos; her lines shrink into yes ma\'am and thank you as she breaks.',
+      'SETTING: High-traffic rest-stop bathrooms, both men\'s and women\'s; naked cleaning; toothbrush toilets; mild porcelain-shame (face to stains, no scat eating); living on the bathroom floor after hours.',
+      'TONE: Clipboard calm + sadistic public carnival. Break early; later mistakes are exhaustion, not defiance.',
+      'LENGTH: Multi-chapter; each chapter 15–20 min (≥3450 words, aim ~3600–4200).',
+      'HARD RULES: Adults only (college/early-20s via context — no filler ages unless plot-critical once). No consent theatre. Never Aaron/Eric. Plain dirty humiliating erotica. Favor tags: humiliation, public, discipline, bdsm, spit/watersports if present.',
+    ].join(' '),
+    favoriteTags: ['humiliation', 'public', 'discipline', 'bdsm'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {

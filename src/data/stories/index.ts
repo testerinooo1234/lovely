@@ -60,6 +60,7 @@ import savannahTheManipulator from './savannah-the-manipulator'
 import sheKeepsGoingBack from './she-keeps-going-back'
 import mackenziesAdjustments from './mackenzies-adjustments'
 import samScolded from './sam-scolded'
+import bathroomSentence from './bathroom-sentence'
 import soapSentences from './soap-sentences'
 import stepstoolSink from './stepstool-sink'
 import summerRules from './summer-rules'
@@ -130,6 +131,7 @@ export const stories: Story[] = [
   sheKeepsGoingBack,
   mackenziesAdjustments,
   samScolded,
+  bathroomSentence,
   summerRules,
   theBeltSheBorrowed,
   untilTheVows,
