@@ -65,8 +65,9 @@ Average number of days per year the high reaches **≥ 80 °F** (lower = better 
 | **San Francisco** (downtown) | **~18** (mostly Sep–Oct) | 71 °F | ~3 | ✅ Yes — genuinely rare |
 | **Daly City / Pacifica** (SF coast) | fewer than SF | ~65 °F | ~0–2 | ✅ Yes — even cooler than SF |
 | **Richmond, CA** (bayfront) | low (marine) | ~71 °F | **~0.3** | ✅ Yes at bayfront; ⚠️ slightly warmer in the inland/hill ZIPs where the big affordable homes are |
+| **Santa Monica, CA** (LA coast) | **~8** | 74–75 °F | ~1 | ✅ Yes — but SFH ~$3.85M, price eliminates it |
 | **Santa Cruz / Monterey** (Central Coast) | Monterey low; **Santa Cruz ~36** | 70–76 °F | few–6 | ✅ Monterey; ⚠️ Santa Cruz borderline |
-| **Coastal San Diego** (Lindbergh/coast) | **~25–35** | 76 °F | ~2–3 | ⚠️ Mild, but not "rare" |
+| **Coastal San Diego** (Point Loma/La Jolla) | **~10–20** (lower than airport's ~35) | 74–76 °F | ~1–3 | ✅ Right on the water; ⚠️ warmer inland |
 | **Seattle / Tacoma** (Sea-Tac) | **~31 long-term; ~40 since 2013** | 77–79 °F | ~4–7 | ⚠️ ~a month+/yr and rising — not "rare" |
 | **Vallejo, CA** (Solano) | many (dozens) | **80 °F** | some | ❌ Sits right *at* 80 °F — fails |
 | **Portland, OR** (PDX) | **~63** | 82–83 °F | ~16 | ❌ Fails badly |
@@ -228,9 +229,12 @@ If that tax picture is a dealbreaker, the fallbacks are:
   highs rarely above the low 80s and cool nights).
 
 - **Want the coolest possible summer, period?** → **coastal San Francisco /
-  Daly City / Pacifica**, buying a **condo or small home (~900–1,100 sq ft) under
+  Daly City / Pacifica** (SF's ocean-facing Sunset District averages just ~2–5
+  days/yr over 80 °F), buying a **condo or small home (~900–1,100 sq ft) under
   $800k** — the best climate in the country, but you give up the 1,750+ sq ft
-  house and still pay CA taxes.
+  house and still pay CA taxes. (The Southern-California equivalent is **Santa
+  Monica** — ~8 days/yr over 80 °F — but single-family homes there run ~$3.85M, so
+  price rules it out entirely.)
 
 - **Want a warm-but-mild coast with an MLB + brand-new MLS club?** → **coastal-
   adjacent San Diego (National City, western Chula Vista 91911, inland
