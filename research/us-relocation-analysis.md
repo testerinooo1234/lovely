@@ -202,9 +202,52 @@ Verdict: Nice climate-and-sports blend near a metro, but it **breaks the
   ~2,180 sq ft for $800k) and within ~1 hr of SF, but its **July/Aug average high
   is right at 80 °F**, so it exceeds 80 °F on a large share of summer afternoons.
   Fails #3 (this is the trade-off vs. cooler, pricier Richmond next door).
-- **Great Lakes / Midwest / Northeast / South** (Buffalo, Cleveland, Duluth,
-  coastal New England, etc.) — hot, humid summers with 40–90+ days/yr over 80 °F.
-  Fail #3.
+
+### Can the Midwest or the northern states work? (No — here's the data)
+
+A natural question is whether the Midwest or northern states can hit "very rarely
+over 80 °F." They can't — and near a major metro they're actually **worse** than
+the West Coast, because #3 (climate) and #4 (metro proximity) pull in opposite
+directions there.
+
+**Every major Midwest / Great Lakes metro exceeds 80 °F far more often than the
+Pacific coast** (NOAA 1991–2020 normals):
+
+| Metro | Avg days/yr ≥ 80 °F | Days/yr ≥ 90 °F | July avg high |
+|---|---|---|---|
+| Minneapolis–St. Paul, MN | ~71 | 13 | 85 °F |
+| Cleveland, OH | ~74 | 12 | 84 °F |
+| Chicago, IL | ~70–75 | 18 | 82 °F |
+| Detroit, MI | ~65–70 | 11 | 83 °F |
+| Milwaukee, WI | ~65 | ~10 | 80 °F |
+| Buffalo, NY | ~54 | 3 | 80 °F |
+| *(ref)* San Francisco | ~18 | 3 | 71 °F |
+| *(ref)* Seattle | ~31 | 4 | 77–79 °F |
+
+That's **50–75 days/yr over 80 °F** — roughly 2–4× Seattle and 3–4× SF — and it's
+humid heat.
+
+**The genuinely cool northern spots fail the metro test (#4) instead:**
+- **Duluth, MN** — July high ~78 °F, ~1 day/yr ≥ 90 °F, but still ~20–30 days/yr
+  over 80 °F, and it's a ~290k metro **~2.5 hrs from Minneapolis.**
+- **Marquette, MI** (Upper Peninsula) — July/Aug high ~75 °F, ~3 days/yr ≥ 90 °F,
+  but a ~66k town with **no major metro within ~2.5+ hrs.**
+- International Falls, far-northern MN/WI, the U.P. generally: cool-ish, cheap, but
+  isolated. You get "cool + affordable" *or* "near a metro," never both.
+
+**Why (physics):** the Pacific coast is capped by the **cold California Current**
+(ocean in the 50s °F all summer). The **Great Lakes warm into the 70s °F by
+August**, so they only mildly moderate heat and add humidity — no cold-ocean cap.
+Interior/eastern climates are humid continental: 80 °F is an ordinary summer day.
+
+**High elevation is the only inland route to cool summers — and it still fails:**
+Denver itself averages ~38 days/yr ≥ 90 °F; genuinely cool 7,000-ft towns near
+Denver/Salt Lake (Evergreen, Nederland, Park City) are small, pricey resort/
+foothill markets (often $800k+ for 2,000 sq ft) and still hit 80 °F on clear
+summer afternoons, with state income tax to boot.
+
+- **South / Southeast** (Atlanta, Dallas, Houston, etc.) — 70–110+ days/yr over
+  80 °F. Not remotely a fit.
 
 ---
 
