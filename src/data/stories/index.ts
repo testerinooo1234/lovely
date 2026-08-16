@@ -68,6 +68,7 @@ import tenCollars from './ten-collars'
 import tenMinuteWindow from './ten-minute-window'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
 import theBarTab from './the-bar-tab'
+import theBombshell from './the-bombshell'
 import theDinnerNapkin from './the-dinner-napkin'
 import theSixPlates from './the-six-plates'
 import theGuestInOurBed from './the-guest-in-our-bed'
@@ -154,6 +155,7 @@ export const stories: Story[] = [
   muteFee,
   herUberHisCard,
   theBarTab,
+  theBombshell,
   anniversaryBudget,
   alreadyFree,
   analDiscipline,
