@@ -67,6 +67,7 @@ import summerRules from './summer-rules'
 import tenCollars from './ten-collars'
 import tenMinuteWindow from './ten-minute-window'
 import theBeltSheBorrowed from './the-belt-she-borrowed'
+import theBombshell from './the-bombshell'
 import theBarTab from './the-bar-tab'
 import theDinnerNapkin from './the-dinner-napkin'
 import theSixPlates from './the-six-plates'
@@ -97,6 +98,7 @@ export const stories: Story[] = [
   phonePrivileges,
   goodGirlRules,
   theGuestInOurBed,
+  theBombshell,
   prettyThingsWearPink,
   punishmentInbox,
   sentFromNyx,
