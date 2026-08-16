@@ -3,7 +3,7 @@ import type { StoryChapter } from '../../types'
 const chapter: StoryChapter = {
   name: 'Just Trying It On',
   summary:
-    "Chris gets a joke-dare text and a lingerie selfie from Lena mid-shift, sure Owen is just her gay friend helping with a clasp — then she comes home and confesses two bareback rounds against the dressing-room mirror, a facefuck, a spanking, and a knock on the door that almost caught them.",
+    "Chris gets a joke-dare text and a lingerie selfie from Lena mid-shift, sure Owen is just her gay friend helping with a clasp — then she comes home and confesses two bareback rounds in the dressing room, a facefuck, a spanking, a knock on the door that almost caught them, and a third round taking her ass in the stockroom on the way out.",
   pages: [
     [
       `Chris was two hours into a double at the restaurant when Lena's first text came through, phone buzzing against his hip through his apron. *Going to the mall with Owen after his spin class. He dared me to try on something slutty for a joke. Don't worry, it's just for laughs, he's gay, remember, zero threat level.*`,
@@ -20,7 +20,7 @@ const chapter: StoryChapter = {
     [
       `The next text came forty minutes later, right as the dinner rush started. *Clasp on the back won't catch, Owen's helping me with the hooks, don't be weird about it, he's gay, his hands are basically furniture.*`,
       `Chris didn't have time for a real answer between tickets. He fired off *Furniture doesn't have eyes* while running a plate to table nine, and didn't see her reply until he was back at the pass.`,
-      `*Gay men still have eyes, not hands. He's literally leaving the second the clasp catches. It's a joke, Chris. Focus on your food.*`,
+      `*Gay men still have eyes, that doesn't mean anything's happening. He's literally leaving the second the clasp catches. It's a joke, Chris. Focus on your food.*`,
       `He focused on his food, or tried to, plating three entrees with a knot in his stomach that had nothing to do with the heat of the kitchen.`,
     ],
     [
@@ -62,7 +62,7 @@ const chapter: StoryChapter = {
       `Chris didn't say anything else. He reached over, pulled the shopping bag off the dresser, and dropped it on the bed between them. "Put it on."`,
       `"Chris—"`,
       `"Put it on. I want to see what he saw."`,
-      `She changed in front of him instead of in the bathroom, the black set settling over skin that still, he was fairly sure, hadn't been washed as thoroughly as she'd claimed on the phone, and when she turned around he could see exactly what the salesgirl's five-minute warning had interrupted — a body, lace-framed, made for exactly the kind of trouble it had already caused.`,
+      `She changed in front of him instead of in the bathroom, the black set settling over skin that still, he was fairly sure, hadn't been washed as clean as her shower earlier had made it look, and when she turned around he could see exactly what the salesgirl's five-minute warning had interrupted — a body, lace-framed, made for exactly the kind of trouble it had already caused.`,
       `He pulled her onto the bed, flipped her onto her stomach the way she'd described being bent over the bench, and pushed inside her without asking, chasing the same shape of what Owen had done two hours earlier because some ugly, honest part of him needed to overwrite it with his own.`,
       `"Say his name while I do this," Chris said, hips already moving.`,
       `"Owen." Her voice broke on it. "He came in me three times tonight and I let him every time, and I'm still wet from it."`,

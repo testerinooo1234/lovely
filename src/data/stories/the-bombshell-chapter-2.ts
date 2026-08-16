@@ -6,10 +6,10 @@ const chapter: StoryChapter = {
     "Daniel is stuck home with bronchitis, reading Chloe's clinical, minimizing texts about a nude beach — sunscreen on her tits, hands spreading her ass \"for the burn line\" — then she comes home and confesses breast play, fingers reaching in, oral in the dunes, a parking lot fuck, and bareback anal with his roommate Marcus.",
   pages: [
     [
-      `Daniel had bronchitis bad enough that his own coughing woke him up three times a night, so when Chloe said she still wanted to go to Gunnison for the weekend with his old college roommate Marcus, he didn't have the lung capacity to argue much past "have fun, take pictures." He walked her to the door in his robe, wheezing a little, and watched Marcus load a cooler and two folding chairs into the Jeep in the driveway with the easy, shirtless confidence of a guy who had never once worried about how he looked doing physical labor in front of somebody else's girlfriend.`,
+      `Daniel had bronchitis bad enough that his own coughing woke him up three times a night, so when Chloe said she still wanted to drive out to Gunnison for the day with his old college roommate Marcus, he didn't have the lung capacity to argue much past "have fun, take pictures." He walked her to the door in his robe, wheezing a little, and watched Marcus load a cooler and two folding chairs into the Jeep in the driveway with the easy, shirtless confidence of a guy who had never once worried about how he looked doing physical labor in front of somebody else's girlfriend.`,
       `"You sure you're okay staying home?" Chloe asked, keys already in hand.`,
       `"I'm contagious and useless. Go. Send pictures of the ocean, not Marcus."`,
-      `"No promises on the second part," she said, laughing, and kissed him quick before the cough started again, and then she was gone, and Daniel went back to the couch to breathe through a hot towel and wait out a weekend he already didn't love the shape of.`,
+      `"No promises on the second part," she said, laughing, and kissed him quick before the cough started again, and then she was gone, and Daniel went back to the couch to breathe through a hot towel and wait out a day he already didn't love the shape of.`,
     ],
     [
       `The first text came an hour into the drive: *So apparently Gunnison is the nude beach one. Marcus "forgot" to mention that until we were already committed on the highway.*`,
@@ -64,13 +64,13 @@ const chapter: StoryChapter = {
     ],
     [
       `Daniel's cock was aching now, obscene and undeniable against his sweatpants, his stomach still sick with it. "That's the dunes. What happened after."`,
-      `"There's a parking lot too," Chloe said quietly. "Before we even left the beach. He said he couldn't wait for his apartment, so he pulled into an empty spot at the far end of the lot, reclined my seat, and fucked me right there — bare again, both of us still covered in sand, windows barely cracked in that heat. He came inside me a third time before we'd even pulled back onto the road."`,
+      `"There's a parking lot too," Chloe said quietly. "Before we even left the beach. He said he couldn't wait for his apartment, so he pulled into an empty spot at the far end of the lot, reclined my seat, and fucked me right there — bare again, both of us still covered in sand, windows barely cracked in that heat. He came inside me a second time before we'd even pulled back onto the road."`,
       `"And at his place."`,
       `"He said I still smelled like him, and he bent me over the kitchen counter." Her voice had dropped, unsteady now. "Same as the beach — hands on my ass, spreading me open — except this time he used the coconut oil from the beach bag and pushed into my ass instead. Slow, then not slow. He held my cheeks apart the whole time, the exact same grip from the towel, and came in me there too."`,
       `"Did it hurt."`,
       `"At first. Then it didn't, and that scared me more than the pain did." She looked down at her own hands. "He kept one palm flat on my lower back the entire time, pressing me down into the counter, the same pressure Marcus used to arch me for sunscreen that morning like it had all been leading to this one grip. When he finished he stayed inside me a second longer than he needed to, just to feel me clench around him, and then he pulled out slow enough that I felt every inch of it leaving."`,
       `Daniel stood up so fast the bed creaked. "How many times total."`,
-      `"Four. All bare. Two in my pussy, one in my ass, and the parking lot makes three in my pussy — I lost count of which one leaked where. I drove home with all of it still in me because there wasn't time to clean up properly."`,
+      `"Three. All bare. Twice in my pussy, once in my ass — I lost count of which one leaked where by the time we got back on the road. I drove home with all of it still in me because there wasn't time to clean up properly."`,
     ],
     [
       `He didn't say anything else. He pulled her up off the bed, turned her around, and pulled her bikini bottoms down himself — dried salt and something else on her thighs that he didn't ask about because he already knew — and bent her over the mattress the way she'd just described being bent over a kitchen counter three hundred miles away.`,

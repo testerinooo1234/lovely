@@ -44,7 +44,7 @@ const story: Story = {
       `James lifted two fingers in something between a wave and a warning he didn't have the energy to mean. Mia blew him a kiss through the glass and climbed into the passenger seat, and the truck pulled away, and James went back to the couch to be sick and alone and, for one ugly second before he caught himself, a little bit turned on by how much he didn't like it.`,
     ],
     [
-      `The first text came from the trailhead two hours later: *Made it. One bad spot for service so texting while I have it.* Then, right behind it: *Bad news — outfitter's out of two-person tents. We got a two-man tent and one sleeping bag. Queen size though. We'll survive.*`,
+      `The first text came from the trailhead two hours later: *Made it. One bad spot for service so texting while I have it.* Then, right behind it: *Bad news — my sleeping bag got left behind, must still be in the garage. Camp store here only had one bag left to sell us, queen size. Tent's still the two-person one we packed, so that part's fine. We'll just have to share the one bag tonight.*`,
       `James read it twice from the couch, tea forgotten, the fever making the screen swim a little. He typed: *One bag?*`,
       `*One bag. It's fine. Bodies are bodies, it's camping, not a hotel.*`,
       `*Gentlemen don't usually share a queen sleeping bag with somebody's girlfriend.*`,
@@ -84,7 +84,7 @@ const story: Story = {
     [
       `"Mia."`,
       `"I'm gross, James, let me shower."`,
-      `"You texted me nothing was happening at eleven-forty. Then nothing for four hours. Then good morning like it was a normal camping trip." He kept his voice level, which took everything he had. "I was awake the whole time. I know exactly when you stopped answering."`,
+      `"You texted me nothing was happening at eleven-forty. Then nothing for eight hours. Then good morning like it was a normal camping trip." He kept his voice level, which took everything he had. "I was awake the whole time. I know exactly when you stopped answering."`,
       `Her hand slid off the doorknob. Water ran uselessly on the other side of the door where she'd started the shower out of habit before he stopped her. She turned around, and for a second James watched something flicker across her face he'd never seen there before — not quite guilt, something closer to a decision being made in real time.`,
       `"Sit down," she said finally, nodding at the closed toilet lid like it was a chair in an office. "I'll tell you everything. All of it. Don't stop me halfway."`,
     ],
@@ -134,7 +134,7 @@ const story: Story = {
       `After, they sat on the bathroom floor with their backs against the tub, her head on his shoulder, both of them wrung out in different ways. James looked at the phone on the counter, the thread still open — *it's fine, it's biology, don't make it weird* — and didn't delete anything.`,
       `"Next time," he said, "you tell me while it's happening. Not after."`,
       `Mia lifted her head. "You want texts. During."`,
-      `"I want to know in real time instead of finding out four hours behind." He said it like a rule, not a request, and she studied his face for a long moment before she nodded, slow, like she was already picturing the next trip and what she'd type from inside somebody else's sleeping bag.`,
+      `"I want to know in real time instead of finding out eight hours behind." He said it like a rule, not a request, and she studied his face for a long moment before she nodded, slow, like she was already picturing the next trip and what she'd type from inside somebody else's sleeping bag.`,
     ],
   ],
   tags: [

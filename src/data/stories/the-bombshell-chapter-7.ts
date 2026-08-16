@@ -41,7 +41,7 @@ const chapter: StoryChapter = {
       `He grabbed the spare kit from the shop rack and walked it over himself instead of sending it with a staffer, because he needed to see her face before he decided how angry he was allowed to be.`,
     ],
     [
-      `She was in a towel when he knocked, hair dripping, and she let him in and locked the stall door behind him without being asked. Red marks showed at her throat when she tilted her head — not choking marks exactly, something lighter, but new, and definitely not from a towel.`,
+      `She was in a towel when he knocked, hair dripping, and she let him into the private locker room and locked the door behind him without being asked. Red marks showed at her throat when she tilted her head — not choking marks exactly, something lighter, but new, and definitely not from a towel.`,
       `"You're see-through again," he said, meaning her skin under the fluorescent light, meaning that he could see straight through whatever version of the morning she was about to give him if she tried to give him the easy one.`,
       `"Tell me," Sean said. "All of it. Don't clean it up for me."`,
       `Kelly leaned against the tile, towel clutched at her chest, and started talking like she'd been rehearsing it the whole walk from the court.`,
@@ -56,9 +56,9 @@ const chapter: StoryChapter = {
     [
       `"There's more," she said, before he could say anything. "I need you to hear the rest before you say anything, because if you stop me now I don't think I finish."`,
       `Sean nodded once, throat tight, some ugly heat building low in him that he was furious at himself for feeling.`,
-      `"Round two was different equipment, he called it. He bent me over the empty hopper — bag collapsed, balls scattered everywhere — ass up, and he didn't ask before he put his cock in my ass. No warning. It burned and then it didn't, and I screamed into the canvas bag while he fucked me the same rhythm he'd used on my pussy. Spanking between every few strokes. He pulled my hair so my head came up and I had to watch us in the mirror on the far wall — me bent over a ball hopper with a coach's cock in my ass and tennis balls everywhere like a wrecked drill."`,
+      `"New equipment, he called it. He bent me over the empty hopper — bag collapsed, balls scattered everywhere — ass up, and he didn't ask before he put his cock in my ass. No warning. It burned and then it didn't, and I screamed into the canvas bag while he fucked me the same rhythm he'd used on my pussy. Spanking between every few strokes. He pulled my hair so my head came up and I had to watch us in the mirror on the far wall — me bent over a ball hopper with a coach's cock in my ass and tennis balls everywhere like a wrecked drill."`,
       `"Jesus, Kelly."`,
-      `"He came in my ass," she said. "Deep. Grinding. Then he pulled out slow and it ran down my leg onto one of the balls on the floor, and he spanked me once more and zipped up like nothing on the planet had shifted. Told me skirt, shirt, bra, court in five, I was demoing serves."`,
+      `"He came in my ass," she said. "Deep. Grinding. Then he pulled out slow and it ran down my leg onto one of the balls on the floor, and he spanked me once more and zipped up like nothing on the planet had shifted. Told me bra, shirt, skirt, court in five, I was demoing serves."`,
       `Sean sat down hard on the closed toilet lid, because his legs had apparently reached their limit for the morning. "And you went back out there. With that still — with him still in you."`,
       `"I went back out there," she said. "I showered before you knocked, fingered what I could of it out of my own ass in the sink, but I'm still sore, Sean, and I can still feel where his hands were." She stepped closer, towel slipping at her collarbone. "I watched you from the equipment room window without meaning to — no, I didn't, I'm sorry, that's not — I mean he had me facing the mirror. I don't know what I saw and what I'm imagining now that I'm telling you."`,
       `"Stop," Sean said, not unkindly. "Just tell me if you wanted it."`,
