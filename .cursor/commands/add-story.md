@@ -30,7 +30,13 @@ Write a new erotica story for this site **in one author's voice**, using their b
    - `featured`: only if asked.
 5. Register the default export in `src/data/stories/index.ts` (import + array entry).
 6. Run `node scripts/count-words.mjs` and confirm the new file is **not** flagged `UNDER 5 MIN`. If it is, expand with **new unique sexual dialogue and acts** (`.cursor/rules/story-writing.mdc` §10b) — not repeated thesis refrains.
-7. Do **not** change other authors' stories unless asked.
+7. **Mandatory adversarial review** (`.cursor/rules/story-writing.mdc` §17): after the draft is finished, launch **three separate judge agents in parallel** on the new story (or each chapter):
+   1. **Continuity / sense** — character swaps, wrong past references, contradictions, POV leaks, nonsense logistics
+   2. **Clarity / natural language** — awkward phrases, strange dialogue, confusing lines, craft/planning leaks into prose; prefer plain easy-to-follow language
+   3. **Heat / cut fluff** — boring unnecessary padding; erotic acts must be explicit and arousing (this is a porn site)
+   
+   Automatically apply every clear valid fix the judges return. If a judge majority-fails dialogue/sense, fix and optionally re-run that judge once. Do **not** skip this step.
+8. Do **not** change other authors' stories unless asked.
 
 ## Hard rules (all authors)
 
@@ -51,6 +57,7 @@ Also read `.cursor/rules/story-writing.mdc` — source of truth. Prefer **princi
 - **Plain dirty porn voice.** Dark/taboo subject matter, not fancy literary erotica. §0 / §14.
 - **Never rewrite a.k.a. Cock Bobber** unless the user names that saga. §15.
 - **Cuckold “gaslighting”:** loving rename-and-assent technique (§13). Never put `gaslight`/`gaslighting` in prose. Tag OK when load-bearing. Title exception: *Gaslighting* only. Learn pattern from Cock Bobber; don't paste its lines.
+- **Adversarial judges required** after every draft/edit (§17): continuity, clarity, heat — then auto-apply fixes.
 - Follow the author's `writingStyle`, except where it conflicts with the rules above — those win.
 - Keep the new story **plot-unique** and **dialogue-unique** vs that author's existing work.
 
@@ -63,5 +70,6 @@ After loading the author, treat `writingStyle` as craft for POV/pacing/themes. T
 - New story file exists and compiles.
 - `src/data/stories/index.ts` exports it.
 - Excerpt leads with concrete sexual beats (not setup-only).
+- §17 three adversarial judges have run; their fixes are applied.
 - `node scripts/count-words.mjs` shows ≥5 min (no `UNDER 5 MIN` flag).
 - `npm run build` succeeds (run it if feasible).

@@ -1,6 +1,6 @@
 ---
-description: Writing or editing dark/taboo porn stories — plain dirty language, pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual excerpts, male panties as emasculation, no fragment spam, no therapy-speak, natural collocations, cuckold gaslighting craft (tag OK; never in prose)
-globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md
+description: Writing or editing dark/taboo porn stories — plain dirty language, pacing, ages, consent theatre, banned names, dramatize vs summarize, sexual excerpts, male panties as emasculation, no fragment spam, no therapy-speak, natural collocations, cuckold gaslighting craft (tag OK; never in prose), mandatory adversarial review after draft
+globs: src/data/stories/**/*.ts,src/data/authors.ts,.cursor/commands/add-story.md,.cursor/commands/edit-story.md
 alwaysApply: false
 ---
 
@@ -157,7 +157,51 @@ When matching an author's voice: skim **one** existing story by that author for 
 
 Do **not** harvest distinctive catchphrases from other stories (or earlier chapters of a different arc) and replay them as house style. Plot-unique; dialogue-unique.
 
-## 17. Quick checklist
+## 17. Adversarial review — mandatory after every write/edit
+
+After the main agent finishes drafting or editing a story (or chapter), **before** calling the work done, launch **three separate adversarial judge agents** in parallel. They must read the finished prose and return concrete fix suggestions. The main agent **automatically applies** every clear, valid fix (do not ask the user whether to apply; do not skip judges).
+
+Use the Task tool with one agent per role below. Judges are **read-only** until the parent applies edits. Prefer `generalPurpose` (or the strongest available) judges; give each judge the exact file path(s) and chapter name.
+
+### Judge 1 — Continuity / sense
+Look for continuity errors and nonsensical statements:
+- Characters swapped or misnamed mid-scene
+- Wrong references to past events, times, places, or round counts
+- Contradictory descriptions (who finished where, what they were wearing, where the boyfriend was)
+- POV leaks (narrator knows things this POV character cannot)
+- Logistics that do not make physical sense
+
+Return: list of issues with quoted lines + a specific rewrite for each.
+
+### Judge 2 — Clarity / natural language
+Look for awkward phrases, strange dialogue, and reader confusion:
+- Dialogue nobody would actually say (thesis stamps, caption-speak, branded cover catchphrases)
+- Planning/craft instructions leaking into prose or dialogue (workshop nouns, beat-sheet inventory talk, “both true,” clever false binaries)
+- Confusing timeline or unclear who is speaking / where we are
+- Prefer **plain language** that is easy to follow
+
+Return: quoted bad lines + natural rewrites.
+
+### Judge 3 — Heat / cut fluff
+This is an erotic porn site; the primary purpose is to **arouse** the reader:
+- Flag boring or unnecessary fluff that does not serve setup, tension, or sex
+- Flag vague/soft sex writing; demand **explicit** naming of acts and body (cock, cunt, asshole, cum, fuck, etc.)
+- Suggest concrete filthy expansions where heat is thin
+
+Return: cuts, tightenings, and explicit rewrites that raise arousal.
+
+### Apply loop
+1. Collect all three judges’ findings.
+2. Apply every non-conflicting fix in the story files.
+3. If judges contradict, prefer: continuity accuracy > clarity > heat expansion (but never “fix” heat by deleting required explicit sex).
+4. If a judge majority-fails the chapter on dialogue naturalness or sense, fix and optionally re-run the failing judge once.
+5. Only then run word-count / build checks and commit (per user git preferences).
+
+**Multi-chapter stories:** run the three judges **per chapter** when practical (or per batch of chapters if agent limits require waves). Do not skip chapters.
+
+**Exception:** §15 Cock Bobber verbatim imports — do not run cleanup judges that would rewrite those files unless the user explicitly names that saga.
+
+## 18. Quick checklist
 
 - [ ] Scene-first opening; sexual excerpt; dramatized beats
 - [ ] Ages rule; no consent theatre; no Aaron/Eric
@@ -169,4 +213,5 @@ Do **not** harvest distinctive catchphrases from other stories (or earlier chapt
 - [ ] Skimmed one peer story for tone only (§16)
 - [ ] Gaslighting (if any): show rewrite, never name it; tag OK (§13)
 - [ ] Did not touch aka-cock-bobber unless named (§15)
+- [ ] **§17 adversarial judges run (continuity + clarity + heat); fixes applied**
 - [ ] ≥1150 words; `npm run count-words` clean; builds
