@@ -45,8 +45,8 @@ const chapter: StoryChapter = {
       `11:39 Lindsey: oh. damn. so he makes like way more than you then`,
       `11:41 Evan: probably`,
       `He hated how small that one word looked. He almost added something about total compensation bands or equity or how it depended, anything that would make the admission less bare, and then didn't, because all of that would just sound like he was trying to climb back up a ladder he'd already admitted he was standing lower on.`,
-      `11:43 Lindsey: he mentioned his signing bonus when the leasing office asked about proof of income for his new place, i wasn't trying to pry i just heard it in passing. also he drives this black porsche, i saw it in the lot earlier, i didn't even know they still made a normal-looking one`,
-      `Evan didn't answer that one right away. He sat with couple levels above me a few seconds longer than he wanted to, setting it down next to principal and north building and porsche like the pile was getting heavier every time she added something.`,
+      `11:43 Lindsey: he brought up his signing bonus when he was talking about the leasing office asking for proof of income for his new place, i wasn't trying to pry he just said it. also he drives this black bentley, i saw it in the lot earlier. those things start at like $200,000. i can't believe i go to the same gym as someone like that`,
+      `Evan didn't answer that one right away. He sat with couple levels above me a few seconds longer than he wanted to, setting it down next to principal and north building and bentley like the pile was getting heavier every time she added something.`,
     ],
     [
       `12:02 Lindsey: still here lol, got the smoothies like an hour ago and just started talking, he's actually really easy to talk to`,
@@ -179,7 +179,7 @@ const chapter: StoryChapter = {
       `No response. Evan sat with the phone lit in his hand, nothing left to wonder about — only one very specific picture he couldn't put down, and a body of his own that hadn't gotten the memo that tonight was supposed to be the bad kind of hard.`,
     ],
     [
-      `He set the phone face-up on the coffee table and didn't move for a long time. Mute television, dark room, the whole Saturday rearranged into something he was going to remember for reasons that had nothing to do with a ten-dollar smoothie. He kept going back over the same pile — principal engineer, Porsche, a couple levels above him, Sir, the handprint, cum she still hadn't washed off. If I come home right now I'm going to ask you to fuck me and then I'm going to be disappointed.`,
+      `He set the phone face-up on the coffee table and didn't move for a long time. Mute television, dark room, the whole Saturday rearranged into something he was going to remember for reasons that had nothing to do with a ten-dollar smoothie. He kept going back over the same pile — principal engineer, Bentley, a couple levels above him, Sir, the handprint, cum she still hadn't washed off. If I come home right now I'm going to ask you to fuck me and then I'm going to be disappointed.`,
       `He checked the map one more time — same address, ten minutes away, updated minutes ago — then let his hand into his sweatpants without stopping himself, picturing her on her knees with Kev's cock in her mouth, his cum still in her cunt, calling him Sir because she wasn't thinking about Evan's name at all. He came fast and wrecked and alone on the couch, and afterward he didn't know what he'd say in the morning, only that some part of him already wanted to hear all of it again in her own voice.`,
     ],
   ],
