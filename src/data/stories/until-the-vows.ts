@@ -1,4 +1,5 @@
 import type { Story } from '../../types'
+import chapter2 from './until-the-vows-chapter-2'
 
 const story: Story = {
   id: '25',
@@ -7,6 +8,10 @@ const story: Story = {
   author: 'softvow',
   excerpt:
     'She wanted them pure until marriage. She also wanted other boys\' cum on her face. In her logic, both could be true — and he stayed.',
+  firstChapterName: 'What Counts',
+  firstChapterSummary:
+    'Lily explains the chastity loophole — mouths and assholes don\'t count — schedules Noah as her Wednesday driver, and has him hold her purse at prom while Jake uses her throat.',
+  chapters: [chapter2],
   pages: [
     [
       `They were the cute couple in the senior hallway — the kind other students made fun of for holding hands between lockers — and Noah had believed, for most of junior year, that cute meant simple. Lily was eighteen. He was eighteen. Both of them seniors at Westbrook High, both old enough to sign their own permission slips, both young enough that the word marriage still felt like a costume they were trying on in private, and Lily wanted chastity until the wedding.`,
