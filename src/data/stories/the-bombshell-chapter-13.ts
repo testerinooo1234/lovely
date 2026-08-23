@@ -3,7 +3,7 @@ import type { StoryChapter } from '../../types'
 const chapter: StoryChapter = {
   name: 'The Gym',
   summary:
-    "Evan spends a Saturday reading Lindsey's minimizing texts about Kev, a huge, unexpectedly brilliant principal engineer from her new gym — a joke, a smoothie run, then hours at his house to 'fix her form' — before her phone goes dark on a blunt admission of attraction, and comes back hours later with a filthy, multi-round bareback confession: a first orgasm that took forty-five minutes, being manhandled through position after position, calling him Sir, a spanking that left a handprint, and her staying the night because he's already hard again.",
+    "Evan spends a Saturday reading Lindsey's minimizing texts about Kev, a huge, unexpectedly brilliant principal engineer from her new gym — a joke, a smoothie run, then hours at his house to 'fix her form' — before she texts that she's going to have sex with him and goes dark, and comes back hours later with a filthy, multi-round bareback confession: a first orgasm that took forty-five minutes, being manhandled through position after position, calling him Sir, a spanking that left a handprint, and her staying the night because he's already hard again.",
   pages: [
     [
       `Lindsey signed up for the gym on her own, on a Tuesday afternoon Evan didn't hear about until she came home with a lanyard keytag and a two-year contract already signed. "I need something that's just mine," she said, and Evan understood that well enough, since his own version of just mine was a standing desk, three monitors, and a Discord server full of people he'd never met in person. She started with the women-only spin class Tuesday and Thursday mornings, blacked-out windows, an instructor who screamed about main-character energy over a sound system built for a much bigger room, and Evan liked that version of the gym fine. He drove her twice before she told him she had it handled, and he built his mornings around the sound of her key in the door a little after eight, sweaty and pleased with herself, smelling like eucalyptus towels and someone else's playlist.`,
@@ -88,17 +88,20 @@ const chapter: StoryChapter = {
       `3:00 Lindsey: i know. i think i'm still kind of stuck on it, i don't know. give me a sec`,
     ],
     [
-      `3:02 Lindsey: ok. i need to just say this and not turn it into a whole production. i'm really attracted to him. like a lot. and i'm going to have sex with him`,
-      `Evan read it three times before the sentence agreed to mean what it had said the first time.`,
+      `3:02 Lindsey: ok. i need to just say this. i'm not going to dress it up for you`,
+      `3:02 Lindsey: i'm really attracted to him. like a lot`,
+      `3:02 Lindsey: i'm going to have sex with him`,
+      `Evan stared at the last bubble until it stopped reading like a text and started reading like something she'd already decided. She was going to fuck another man. She had said it flat, no soft landing, and the little Delivered under it sat there like she'd already left the room.`,
       `3:03 Evan: what`,
       `3:03 Evan: lindsey what`,
-      `3:04 Lindsey: i'm turning my phone off for a while. i'll explain everything after, i promise. i just didn't want to keep texting you like it was nothing when it's clearly not nothing anymore`,
+      `3:03 Evan: you're going to fuck him`,
+      `3:04 Lindsey: i'm turning my phone off for a while. i'll explain everything after. i already told you what i'm about to do`,
       `3:05 Evan: don't turn your phone off. lindsey. do not turn your phone off right now`,
       `No response came. The three dots didn't even appear this time. Evan sat there staring at her last message stuck on Delivered — 3:04 — refreshing the thread over and over like that might make her answer, the little gray word underneath it never once climbing to Read no matter how many times he willed it to.`,
     ],
     [
-      `He called. Four rings, then her years-old voicemail — cheerful, a little breathless, still saying we're instead of I'm — and he hung up without leaving a message. He checked Find My once and saw the blue dot sitting motionless ten minutes away, and called again because doing nothing felt worse than hearing the same greeting a second time. Still voicemail. Still her 3:04 stuck on Delivered, never Read.`,
-      `He sat on the edge of the couch with the phone in both hands, refreshing the thread until the screen dimmed, waking it, refreshing again, hard and sick and furious at himself for all three of those things at once. He was still sitting there when the phone finally lit up with her name.`,
+      `He called. Four rings, then her years-old voicemail — cheerful, a little breathless, still saying we're instead of I'm — and he hung up without leaving a message. He checked Find My once and saw the blue dot sitting motionless ten minutes away, and called again because doing nothing felt worse than hearing the same greeting a second time. Still voicemail. Still her 3:04 stuck on Delivered, never Read. Higher up, untouched, the bubble where she'd told him she was going to have sex with him.`,
+      `He sat on the edge of the couch with the phone in both hands, refreshing the thread until the screen dimmed, waking it, refreshing again, hard and sick and furious at himself for all three of those things at once. She'd said it and then gone dark, and he was still sitting there when the phone finally lit up with her name.`,
       `9:43 Lindsey: hey. i'm ok. i turned my phone back on and saw everything, i'm so sorry i went dark like that`,
       `9:44 Evan: are you home`,
       `9:44 Lindsey: not yet. i need to tell you some stuff first and i think it's better over text than me walking in and trying to say it out loud`,
@@ -153,7 +156,7 @@ const chapter: StoryChapter = {
       `10:21 Lindsey: five for me, four for him, and i can still feel every load he left in my cunt when i walk. i've never done that many rounds with anyone in one afternoon, not even close, and definitely not the first time i slept with them`,
       `10:22 Lindsey: i'm sore between my legs from how big he is, and my ass still stings where he spanked me, and every time i shift i can feel where he came in me. i haven't cleaned up. i know that sounds disgusting typed out. i just... didn't want to wash him off yet. i want to still feel him when i try to sleep`,
       `10:23 Evan: you left it`,
-      `10:24 Lindsey: yeah. and when i texted you earlier that i was attracted to him, that was before i knew what his cock felt like bare. now i know. and i don't know how to stop thinking about it. i keep thinking about how small your cock felt the last time we had sex, and how empty i was after you came, and how full i still am right now with his cum`,
+      `10:24 Lindsey: yeah. and when i texted you earlier that i was going to have sex with him, that was before i knew what his cock felt like bare. now i know. and i don't know how to stop thinking about it. i keep thinking about how small your cock felt the last time we had sex, and how empty i was after you came, and how full i still am right now with his cum`,
       `10:25 Evan: jesus lindsey`,
       `10:26 Lindsey: he said something else too, after, when we were lying there. he said you must not be much of a fuck if your wife was this easy for a stranger from the gym. i should've been mad. i wasn't. i just buried my face in his chest`,
       `10:27 Evan: he said that about me`,
