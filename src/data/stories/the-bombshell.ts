@@ -11,6 +11,7 @@ import chapter10 from './the-bombshell-chapter-10'
 import chapter11 from './the-bombshell-chapter-11'
 import chapter12 from './the-bombshell-chapter-12'
 import chapter13 from './the-bombshell-chapter-13'
+import chapter14 from './the-bombshell-chapter-14'
 
 const story: Story = {
   id: '85',
@@ -35,6 +36,7 @@ const story: Story = {
     chapter11,
     chapter12,
     chapter13,
+    chapter14,
   ],
   pages: [
     [
