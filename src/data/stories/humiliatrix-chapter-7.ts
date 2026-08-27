@@ -44,7 +44,7 @@ const chapter: StoryChapter = {
       `She pumped him deliberately, latex sleeves whispering, eyes on Cole while she talked to the cock in her fists.`,
       `"So big," she said softly. "So fucking manly. Thick enough I can feel my pulse in my palms. Heavy enough it droops when I let go — see that? Gravity respects this dick. Your little locked clitty doesn't even register."`,
       `The bull exhaled through his nose, amused, hips tipping into her stroke.`,
-      `"I can smell him already," Humiliatrix went on, leaning in to breathe along the shaft without taking him in her mouth yet. "Musk. Skin. Adult. That little cage of yours smells like nothing. This smells like the reason women swipe. Cole — crawl closer. Nose near my knuckles. Smell what you're about to eat."`,
+      `"I can smell him already," Humiliatrix went on, leaning in to breathe along the shaft without taking him in her mouth yet. "Musk. Skin. Adult. That little cage of yours smells like baby powder. This smells like the reason women swipe. Cole — crawl closer. Nose near my knuckles. Smell what you're about to eat."`,
       `Cole crawled. The heat coming off the cock made his eyes water before the smell did. Humiliatrix's fist brushed his cheek on a downstroke, casual as wiping a counter.`,
       `"Say what you're smelling."`,
       `"Alpha cock," Cole whispered.`,
