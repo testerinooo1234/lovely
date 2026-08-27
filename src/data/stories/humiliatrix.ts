@@ -4,6 +4,7 @@ import chapter3 from './humiliatrix-chapter-3'
 import chapter4 from './humiliatrix-chapter-4'
 import chapter5 from './humiliatrix-chapter-5'
 import chapter6 from './humiliatrix-chapter-6'
+import chapter7 from './humiliatrix-chapter-7'
 
 const story: Story = {
   id: '79',
@@ -15,7 +16,7 @@ const story: Story = {
   firstChapterName: 'Send Proof',
   firstChapterSummary:
     'Online to her living room: Humiliatrix laughs at his cock, locks the cage, puts him in pink panties, spanks him, then goes out and makes him hear every filthy detail after.',
-  chapters: [chapter2, chapter3, chapter4, chapter5, chapter6],
+  chapters: [chapter2, chapter3, chapter4, chapter5, chapter6, chapter7],
   pages: [
     [
       `Cole was eighteen, a senior at Westfield High, and lonely in the specific way that made forums feel like company. He had a narrow chest, a quiet voice, and a browser history he cleared twice a night. On a Thursday after midnight he clicked a profile named Humiliatrix — older woman, sharp smile, bio that promised cages, cucks, and boys who cried cute.`,
