@@ -116,7 +116,7 @@ const chapter: StoryChapter = {
       `C: I am a little beta bitch boy who eats manly alpha cum.`,
       `H: Again. Add: Humiliatrix owns my protein.`,
       `C: I am a little beta bitch boy who eats manly alpha cum. Humiliatrix owns my protein.`,
-      `"Good," she said out loud, reading over his shoulder. "Between rounds you get reminders. So your brain doesn't try to rewrite this into something softer. Hands on your thighs. Eyes on the floor. Don't move until he's back."`,
+      `"Good," she said out loud, reading over his shoulder. "Between rounds you get reminders. So you don't get to pretend this was a one-time joke. Hands on your thighs. Eyes on the floor. Don't move until he's back."`,
       `Cole stayed. The taste of the first load sat thick on the back of his tongue. He wanted it to fade. It didn't. Conflict chewed him in silence — leave, stay, leave — and his knees never shifted.`,
     ],
     [
