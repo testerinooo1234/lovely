@@ -2,7 +2,7 @@ import type { StoryChapter } from '../../types'
 
 /** Chapter 8 of Humiliatrix — Tinder bull holds key; BJ to unlock; first anal creampie + plug. */
 const chapter: StoryChapter = {
-  name: 'Alpha Protein',
+  name: 'Sir Holds the Key',
   summary:
     'Humiliatrix gives Cole\'s chastity key to the Tinder bull — Cole has to suck Sir\'s cock to earn the unlock — then sells rectal alpha-protein absorption in elegant dirty science, has Sir take Cole\'s ass for the first time with a cock far too big, holds his hand through hiccuping sobs while praising and humiliating him, seals the creampie with a plug, and promises an extra-good reward without letting him cum.',
   pages: [
