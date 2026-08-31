@@ -137,6 +137,12 @@ const chapter: StoryChapter = {
       `She walked him to the door in the bodysuit, kissed the tip of his nose, and patted the locked cage through his jeans once — proprietary, fond, final.`,
       `"Go," she said sweetly. "Before I decide the refund needs a second course."`,
       `Cole went. On the bus the cage sat heavy and sealed again, his mouth still tasting like her and himself, the pit in his stomach full of the same sick grateful conflict that always brought him back. He stared out the window and heard her voice on a loop — good girl, two bounces, not an alpha yet — and knew he'd answer the next text the same way he always did.`,
+      `At home he showered carefully around the plastic, brushed his teeth twice, and still caught a ghost of the refund when he swallowed. Dinner with his parents felt like acting. Under the table the cage made every shift a reminder: unlocked for a treat, used for two bounces, locked before he could invent a different ending.`,
+      `Before bed his phone lit up one more time.`,
+      `H: Still locked? Still tasting yourself? Still my good girl?`,
+      `C: Yes Ma'am. Yes Ma'am. Yes Ma'am.`,
+      `H: Perfect. Reward complete. Dream about my ass if you want — just remember you already had your turn, and you spent it like a child.`,
+      `Cole put the phone face-down and stared at the ceiling until sleep took him, hard again in plastic, suspicious of whatever sweetness she'd send next and already certain he'd show up for it.`,
     ],
   ],
 }
