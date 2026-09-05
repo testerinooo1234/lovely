@@ -39,6 +39,7 @@ import missVictoriasSurvey from './miss-victorias-survey'
 import muteFee from './mute-fee'
 import naughtydiapergirls from './naughtydiapergirls'
 import officeHoursSoap from './office-hours-soap'
+import onTheMat from './on-the-mat'
 import overnightRent from './overnight-rent'
 import overHerKnee from './over-her-knee'
 import phonePrivileges from './phone-privileges'
@@ -141,6 +142,7 @@ export const stories: Story[] = [
   untilTheVows,
   theWishlist,
   officeHoursSoap,
+  onTheMat,
   stepstoolSink,
   theDinnerNapkin,
   listingDay,
