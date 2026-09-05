@@ -195,7 +195,7 @@ Return: cuts, tightenings, and explicit rewrites that raise arousal.
 2. Apply every non-conflicting fix in the story files.
 3. If judges contradict, prefer: continuity accuracy > clarity > heat expansion (but never “fix” heat by deleting required explicit sex).
 4. If a judge majority-fails the chapter on dialogue naturalness or sense, fix and optionally re-run the failing judge once.
-5. Only then run word-count / build checks and commit (per user git preferences).
+5. Only then run word-count / build checks and **ship to the default branch** (§19).
 
 **Multi-chapter stories:** run the three judges **per chapter** when practical (or per batch of chapters if agent limits require waves). Do not skip chapters.
 
@@ -215,3 +215,13 @@ Return: cuts, tightenings, and explicit rewrites that raise arousal.
 - [ ] Did not touch aka-cock-bobber unless named (§15)
 - [ ] **§17 adversarial judges run (continuity + clarity + heat); fixes applied**
 - [ ] ≥1150 words; `npm run count-words` clean; builds
+- [ ] **§19 pushed to `master` (default branch). No open PR left sitting.**
+
+## 19. Ship to the default branch — no open PRs
+
+This repo’s mainline is **`master`** (users may call it **main**). When a story write or edit is done:
+
+- Commit on the working branch if you already have one, then **merge into `master` and `git push origin master`**. Prefer committing directly on `master` and pushing there.
+- **Do not open a pull request.** **Do not leave a PR sitting open.**
+- If a PR already exists for the work, land the same commits on `master` (merge or push) so GitHub closes it as merged, or close it after `master` has the commits.
+- Never “finish” a story sitting only on a feature branch waiting for review.

@@ -37,6 +37,7 @@ Write a new erotica story for this site **in one author's voice**, using their b
    
    Automatically apply every clear valid fix the judges return. If a judge majority-fails dialogue/sense, fix and optionally re-run that judge once. Do **not** skip this step.
 8. Do **not** change other authors' stories unless asked.
+9. **Ship to `master`.** Commit, merge onto `master`, and `git push origin master`. Do **not** open a pull request. Do **not** leave a PR sitting open. See `.cursor/rules/story-writing.mdc` §19.
 
 ## Hard rules (all authors)
 
@@ -73,3 +74,4 @@ After loading the author, treat `writingStyle` as craft for POV/pacing/themes. T
 - §17 three adversarial judges have run; their fixes are applied.
 - `node scripts/count-words.mjs` shows ≥5 min (no `UNDER 5 MIN` flag).
 - `npm run build` succeeds (run it if feasible).
+- Shipped to `master` (this repo’s default branch; users may say “main”). **Do not open a pull request. Do not leave a PR sitting open.** If a PR already exists for the work, land the commits on `master` and close it.

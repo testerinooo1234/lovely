@@ -25,6 +25,7 @@ Revise one or more existing stories/chapters in `src/data/stories/`, then run th
    3. **Heat / cut fluff** — boring padding; erotic acts must be explicit and arousing
 7. Automatically apply every clear valid fix. If judges conflict: continuity > clarity > heat expansion (never “fix” heat by deleting required explicit sex). Optionally re-run a failing judge once after fixes.
 8. Do **not** rewrite `aka-cock-bobber*` unless the user explicitly names that saga (§15).
+9. **Ship to `master`.** Commit, merge onto `master`, and `git push origin master`. Do **not** open a pull request. Do **not** leave a PR sitting open. See `.cursor/rules/story-writing.mdc` §19.
 
 ## Done when
 
@@ -32,3 +33,4 @@ Revise one or more existing stories/chapters in `src/data/stories/`, then run th
 - §17 three judges have run per edited chapter/file; fixes applied.
 - Word count still ≥5 min for the story (or each chapter when practical).
 - `npm run build` succeeds when feasible.
+- Shipped to `master` (this repo’s default branch; users may say “main”). **Do not open a pull request. Do not leave a PR sitting open.** If a PR already exists for the work, land the commits on `master` and close it.
