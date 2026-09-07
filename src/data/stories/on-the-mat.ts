@@ -48,7 +48,7 @@ const story: Story = {
       `He made a noise that was supposed to be a laugh. She heard what it actually was.`,
       `"Oh," Dana said, quieter. "Was that interesting."`,
       `"I didn't— it was a joke."`,
-      `"It can be a joke and interesting. Your face is doing a thing. Camera's on your face, not your lap, I noticed. I'm not going to make you show me. I'm just not going to pretend I didn't hear you." His cock thickened in his sweats. She kept talking like they were still on the dog. "July, when I held the brush up. You went quiet then too. I said all right then. We queued the next night. I'm not taking it back. I'm also not going to be weird at you all weekend. Come crash. We'll play. We'll cook. And if that other thing is still sitting in your head when you walk in my door, I will know. I always know."`,
+      `"It can be a joke and interesting. Your face is doing a thing. Camera's on your face, not your lap, I noticed. I'm not going to make you show me. I'm just not going to pretend I didn't hear you." His cock thickened in his sweats. She kept talking in the same easy voice she'd been using all night. "July, when I held the brush up. You went quiet then too. I said all right then. We queued the next night. I'm not taking it back. I'm also not going to be weird at you all weekend. Come crash. We'll play. We'll cook. And if that other thing is still sitting in your head when you walk in my door, I will know. I always know."`,
       `"I'll look at flights," he said, which was a lie, because he already had the tab open.`,
       `"You already have the tab open," Dana said. "Buy it. I'll get the spare towels out. Not a date. I want you here."`,
       `On Friday the rideshare pulled away from her curb before he could knock.`,
