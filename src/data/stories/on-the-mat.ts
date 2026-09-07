@@ -9,7 +9,7 @@ const story: Story = {
     'Miles left his shoes off the mat. Dana put him bare over her knee in her kitchen, hairbrush then belt until he counted through tears, then jerked him off in her lap talking to him like a boy and took him to her bed.',
   pages: [
     [
-      `Dana's laugh came through the headset wet and close. Miles was in his two-bed at one in the morning with a half-eaten bar on the desk and the dishwasher humming full of clean plates he had never put away.`,
+      `Dana laughed in his headset, like she was sitting next to him. Miles was in his two-bed at one in the morning with a half-eaten bar on the desk and the dishwasher humming full of clean plates he had never put away.`,
       `"Don't pull yet," she said. "He's still turning. Miles. Miles."`,
       `"I see him."`,
       `"You do not see him. Wait. Now. There— okay, that was almost a person. Wipe."`,
