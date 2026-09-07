@@ -27,7 +27,7 @@ const story: Story = {
       `He tipped his laptop. The onions were pale.`,
       `"Those are not brown. Those are sad. Leave them. Don't poke. Talk to me about Tuesday while they actually cook."`,
       `"Tuesday was fine."`,
-      `"Don't say fine. I sat through your rehearsal. Did they buy the numbers or did they do that thing with their mouths."`,
+      `"Don't say fine. I sat through your rehearsal. Did they buy the numbers or did they just nod and check their phones."`,
       `"They bought the numbers. I didn't throw up. Your gutters?"`,
       `"Clean. I stood in the yard and watched a man I paid go up a ladder and I felt like a real adult. The patch ruined the spec, by the way. We're going to have to redo the whole opener." She leaned closer to the camera, squinting. "Miles. The onions. Look at them. That's brown. See?"`,
       `"I see."`,
