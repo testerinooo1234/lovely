@@ -208,8 +208,8 @@ const story: Story = {
       `He came with a punched-out sound, the first rope hitting her fist, the second his stomach, a third pulsing out while she kept stroking him through it, milking his cock until he was whimpering and his ass was clenched so hard the welts screamed. She worked him until he was dry and twitching, then eased off, not cruel about the oversensitive part, just thorough. She hooked the dish towel off the table behind him, wiped her hand, wiped him, and kissed his temple the way she had hugged him at the door, except now he was half-naked and shaking and her kitchen smelled like cum.`,
       `"Thank you," he managed.`,
       `"You're welcome. Jeans up. Don't you dare pull them tight on those sit-spots like a hero. Leave them loose. Water. Then you're not sleeping in the spare room."`,
-      `"I packed for the spare room."`,
-      `"I know you packed for the spare room. That was polite. You're still coming to my bed. I want you sore against me. Don't start."`,
+      `"I can take the spare room."`,
+      `"You could. You're not. I want you sore against me. Don't start."`,
     ],
     [
       `He drank the water. He left the shoes on the mat this time, lining them up with a concentration that would have been funny if bending to do it had not pulled at his sit-spots and made his eyes water. Dana turned off the campaign save without them ever picking up a controller. She put the hairbrush back on the island, face up, like it lived there now.`,
