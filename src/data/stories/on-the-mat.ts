@@ -1,4 +1,5 @@
 import type { Story } from '../../types'
+import chapter2 from './on-the-mat-chapter-2'
 
 const story: Story = {
   id: '87',
@@ -6,7 +7,11 @@ const story: Story = {
   title: 'On the Mat',
   author: 'towerlap',
   excerpt:
-    'Miles left his shoes off the mat. Dana put him bare over her knee in her kitchen, hairbrush then belt until he counted through tears, then jerked him off in her lap talking to him like a boy and took him to her bed.',
+    'Miles left his shoes off the mat. Dana put him bare over her knee, hairbrush then belt, then jerked him off and took him to her bed. Saturday she takes a wooden spoon to him over a chair, carves cooking ginger into his asshole, sits on his mouth, and makes him come with the root still in.',
+  firstChapterName: 'The Mat',
+  firstChapterSummary:
+    'Discord raid friends, a long weekend at her house, shoes off the mat. Dana takes Miles over her knee in the kitchen — hairbrush, belt, corner — then a handjob in her lap and her bed.',
+  chapters: [chapter2],
   pages: [
     [
       `Dana laughed in his headset, like she was sitting next to him. Miles was in his two-bed at one in the morning with a half-eaten protein bar on the desk and the dishwasher humming full of clean plates he had never put away.`,
@@ -224,7 +229,7 @@ const story: Story = {
       `"You will," she said, already half asleep, still strict, still fond, her hand flat on his stomach. "Good boy. Sleep."`,
     ],
   ],
-  tags: ['spanking', 'femdom', 'humiliation', 'discipline'],
+  tags: ['spanking', 'femdom', 'humiliation', 'discipline', 'anal'],
   publishedAt: '2026-09-05',
 }
 
