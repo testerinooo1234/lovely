@@ -1,5 +1,6 @@
 import type { Story } from '../../types'
 import chapter2 from './backwards-sock-chapter-2'
+import chapter3 from './backwards-sock-chapter-3'
 
 const story: Story = {
   id: '36',
@@ -11,7 +12,7 @@ const story: Story = {
   firstChapterName: 'The Bargain',
   firstChapterSummary:
     'Naked for a backwards sock, Nikki bargains Brett a bathroom blowjob for a week of quiet — then ends up bent over in the prop room when the week runs out.',
-  chapters: [chapter2],
+  chapters: [chapter2, chapter3],
   pages: [
     [
       `Nikki Alvarez was eighteen, a senior at Ravelin Academy's charter track, and she had never once been late, loud, or deliberately out of uniform. It did not matter. Teachers and the principal always seemed to have a grudge against her — detention for a hem a half-inch high, a write-up for chewing gum that wasn't hers, a public apology for "attitude" when she'd only asked a clarifying question. Today the principal required Nikki to go to school completely naked as punishment for not adhering to the dress code because she accidentally had one of her socks on backwards.`,
