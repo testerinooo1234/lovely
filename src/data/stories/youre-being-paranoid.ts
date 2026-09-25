@@ -1,4 +1,23 @@
 import type { Story } from '../../types'
+import chapter2 from './youre-being-paranoid-chapter-2'
+import chapter3 from './youre-being-paranoid-chapter-3'
+import chapter4 from './youre-being-paranoid-chapter-4'
+import chapter5 from './youre-being-paranoid-chapter-5'
+import chapter6 from './youre-being-paranoid-chapter-6'
+import chapter7 from './youre-being-paranoid-chapter-7'
+import chapter8 from './youre-being-paranoid-chapter-8'
+import chapter9 from './youre-being-paranoid-chapter-9'
+import chapter10 from './youre-being-paranoid-chapter-10'
+import chapter11 from './youre-being-paranoid-chapter-11'
+import chapter12 from './youre-being-paranoid-chapter-12'
+import chapter13 from './youre-being-paranoid-chapter-13'
+import chapter14 from './youre-being-paranoid-chapter-14'
+import chapter15 from './youre-being-paranoid-chapter-15'
+import chapter16 from './youre-being-paranoid-chapter-16'
+import chapter17 from './youre-being-paranoid-chapter-17'
+import chapter18 from './youre-being-paranoid-chapter-18'
+import chapter19 from './youre-being-paranoid-chapter-19'
+import chapter20 from './youre-being-paranoid-chapter-20'
 
 const story: Story = {
   id: '88',
@@ -10,9 +29,27 @@ const story: Story = {
   firstChapterName: 'Promotion Night',
   firstChapterSummary:
     'Unexpected promo, a private celebration with her boss, and Slack crumbs where "deck" means his dick — she FaceTimes her boyfriend from the conference room so he can hear her asshole get fucked, then comes home to rename it as loyalty.',
-  chapters: [],
-  tags: ['cuckolding', 'hotwife', 'humiliation', 'anal', 'gaslighting'],
-  publishedAt: '2026-09-25',
+  chapters: [
+    chapter2,
+    chapter3,
+    chapter4,
+    chapter5,
+    chapter6,
+    chapter7,
+    chapter8,
+    chapter9,
+    chapter10,
+    chapter11,
+    chapter12,
+    chapter13,
+    chapter14,
+    chapter15,
+    chapter16,
+    chapter17,
+    chapter18,
+    chapter19,
+    chapter20,
+  ],
   pages: [
     [
       `She got the promotion on a Thursday at 4:40 and told me before she told her mother.`,
@@ -237,6 +274,8 @@ const story: Story = {
       `I nodded. She brushed her cheek against mine — almost nothing — and showered with the door open so I could hear water and believe, for eleven minutes, in ordinary.`,
     ],
   ],
+  tags: ['cuckolding', 'hotwife', 'humiliation', 'anal', 'gaslighting'],
+  publishedAt: '2026-09-25',
 }
 
 export default story

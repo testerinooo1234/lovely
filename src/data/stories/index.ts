@@ -86,6 +86,7 @@ import twoBoysOneDare from './two-boys-one-dare'
 import untilTheVows from './until-the-vows'
 import vanityLesson from './vanity-lesson'
 import velvetRestraints from './velvet-restraints'
+import youreBeingParanoid from './youre-being-paranoid'
 
 export const stories: Story[] = [
   aDaddyForHim,
@@ -175,6 +176,7 @@ export const stories: Story[] = [
   smileThroughIt,
   inspectionCosts,
   releaseEquation,
+  youreBeingParanoid,
 ].sort(
   (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
 )
