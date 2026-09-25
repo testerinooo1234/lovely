@@ -100,7 +100,7 @@ const chapter5: StoryChapter = {
     ],
     [
       `"Did he come in you?" I already knew. I needed her mouth on the fact.`,
-      `"Yes." Soft. Immediate. No theatre. "Deep. A lot. I can feel it when I walk. If you put your hand in my shorts right now you'd find me messy and open and still twitching like an idiot."`,
+      `"Yes." Soft. Immediate. "Deep. A lot. I can feel it when I walk. If you put your hand in my shorts right now you'd find me messy and open and still twitching like an idiot."`,
       `My hand moved before my pride did. She shifted her stance to block the view from the trail and guided my fingers under the waistband, under the soaked crotch of her shorts, into heat. Her cunt was slick-hot, cum-coated, soft from being fucked. Two of my fingers slid in easy. She bit her lip and exhaled through her nose.`,
       `"See?" she whispered. "That's him. That's the mistake. That's also me trusting you enough to let you touch the evidence instead of scrubbing it in a creek like a coward."`,
       `I curled my fingers. She shuddered and gripped the railing. A little more of his load welled around my knuckles.`,

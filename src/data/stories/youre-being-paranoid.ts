@@ -172,7 +172,7 @@ const story: Story = {
       `"Tight," he muttered. "Always tight when you pretend you're only here for slides."`,
       `"I was here for slides," she panted. "Then you locked the door. Then you said own more than that. Then my cunt dripped on company wood and my asshole became the toast. Don't stop. Fill the promotion. Baby — are you still there?"`,
       `"I'm here."`,
-      `"Good boy." Soft, even while her voice shook. "You're here. He's in my ass. Both true. Neither one cancels the lease."`,
+      `"Good boy." Soft, even while her voice shook. "You're here. He's in my ass. Neither one cancels the lease."`,
       `He started fucking her in earnest — long strokes that shoved her forward on the table until her nipples dragged on the cool surface through the bra he hadn't bothered removing. Each thrust punched a sound out of her. She tried to keep talking to me between them and failed into moans.`,
     ],
     [

@@ -81,7 +81,7 @@ const chapter10: StoryChapter = {
     ],
     [
       `I stayed on the couch. She stepped out of her jeans and panties in one shove and left them pooled on his carpet. He freed himself the rest of the way and spit on his fingers. She climbed onto his lap facing away from him — reverse, seated — and reached back to spread her own cheeks while he rubbed slick against her asshole.`,
-      `"Easy," she breathed. Not a safeword. A pacing note. "I've been thinking about this since the party. Don't make me wait through a speech."`,
+      `"Easy," she breathed, rolling her hips to take him slower. "I've been thinking about this since the party. Don't make me wait through a speech."`,
       `He pushed. The head of his cock wedged against her tight ring. She hissed, laughed once, and bore down. Inch by inch he sank into her asshole while she held the couch cushions and stared at the paused movie like the actors could bless her.`,
       `"Fuck— full—" she whispered. "God. You're in my ass. Baby, he's in my ass. Stay there. Watch me take it."`,
     ],

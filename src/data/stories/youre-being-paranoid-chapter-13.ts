@@ -77,7 +77,7 @@ const chapter13: StoryChapter = {
     ],
     [
       `"Again."`,
-      `"Yes. Again." Soft. No theatre. "We've done this before. You felt me sit careful last month and I told you bike seat. Bike seat was a lie. Asshole was the truth. I'm done wrapping it. I'd rather you hate the true sentence than love a fake one."`,
+      `"Yes. Again." Soft. "We've done this before. You felt me sit careful last month and I told you bike seat. Bike seat was a lie. Asshole was the truth. I'm done wrapping it. I'd rather you hate the true sentence than love a fake one."`,
       `She stepped out of the sweatpants fully and left the tee on. When she turned and braced her hands on the kitchen counter, presenting, the sight punched me — girlfriend, grocery bags, fucked open ass under fluorescent kitchen light.`,
       `"Touch," she said quietly. "Get the invention out of your hands. Feel what happened so you stop writing sequels."`,
       `I put two fingers against her rim. Hot. Slippery. Soft from being stretched. The tip of my finger sank in easy and she exhaled through her teeth, pushing back onto it like her body had already decided I was part of the cleanup.`,
@@ -113,8 +113,8 @@ const chapter13: StoryChapter = {
       `"Where's the bra," I panted.`,
       `"In my trunk with the shorts," she said, honest mid-fuck, which somehow hurt cleaner. "I'll wash them later. You don't need them on your pillow like a trophy. You need your cock in me and your mouth saying you understand enough to keep living here."`,
       `"Understand what."`,
-      `"That a ninety-minute errand can include my asshole getting stretched and still include detergent." She pulled me deeper with her heels. "That sitting careful is information, not a prank. That I will keep dressing hot for the man who fucks me like that sometimes, and keep coming home in sweats to the man I love. Both. Say both."`,
-      `"Both," I groaned, pounding into her cunt, watching a fresh bead of his cum slip from her open asshole down toward where we joined.`,
+      `"That a ninety-minute errand can include my asshole getting stretched and still include detergent." She pulled me deeper with her heels. "That sitting careful is information, not a prank. That I will keep dressing hot for the man who fucks me like that sometimes, and keep coming home in sweats to the man I love. Say the errand and the stretch."`,
+      `"Errand. Stretch. You came home," I managed, pounding into her cunt, watching a fresh bead of his cum slip from her open asshole down toward where we joined.`,
     ],
     [
       `She saw me watching the drip and moaned like the sight itself was a finger on her clit. "Yeah. Look. That's him leaving while you arrive. Don't sanitize it. Fuck me through it."`,

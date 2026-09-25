@@ -90,8 +90,8 @@ const chapter14: StoryChapter = {
     ],
     [
       `He reached under her and rubbed her clit while he fucked her ass. She came fast, clenching, a broken cry, her hole spasming around his cock so hard he groaned and had to hold still or finish early. She kept shaking through it, eyes wet, still looking at me.`,
-      `"See?" she panted. "I come on his cock in our bed. That's the truth under the detergent. You're hard in a cage watching it. That's also the truth. Both can sit in this room without one of us dying. Say both."`,
-      `"Both," I rasped.`,
+      `"See?" she panted. "I come on his cock in our bed. That's the truth under the detergent. You're hard in a cage watching it. That's also the truth. Say the room out loud — his cock in my ass, you locked, me still yours."`,
+      `"His cock in your ass. I'm locked. You're still mine," I rasped.`,
       `"Good." She pushed back onto him, asking for more with her body. "Fuck me. Don't be gentle because he's here. He needs the real speed or his brain will invent a kinder version and the kinder version will make him sicker later."`,
       `He gave her the real speed. Hard, deep, relentless. Her asshole made filthy wet sounds. Spit and lube ran down to her cunt. The headboard tapped the wall in a rhythm the neighbors might know by now.`,
     ],

@@ -175,9 +175,9 @@ const chapter8: StoryChapter = {
       `Sunday she made coffee and stood at the counter in my shirt, scrolling her work Slack with a faint smile I pretended not to see.`,
       `A message preview flashed before she tilted the phone: you walked funny off the plane? and a photo thumbnail I only half glimpsed — lace, hotel carpet, a man's thick cock resting against her bare ass like a claim.`,
       `She locked the screen and sipped.`,
-      `"Don't," she said gently, before I spoke. "You already know. Seeing the picture won't teach you more than my asshole did. Drink coffee. Sit with me. Let Monday come without turning Sunday into a trial."`,
+      `"Don't," she said gently, before I spoke. "You already know. Seeing the picture won't teach you more than my asshole did. Drink coffee. Stay on the couch with me. Let Monday come without turning Sunday into a trial."`,
       `I drank coffee. I sat. She put her feet in my lap and winced when she shifted, then laughed at herself.`,
-      `"Size queen," she said, tasting the label like she was trying it on. "That's the clean name for what I am when a cock is thick enough to scare me into dripping. Conference was the syllabus. You're the boyfriend who gets the notes after. Read them. Don't burn them."`,
+      `"Size queen," she said, tasting the label like she was trying it on. "That's the clean name for what I am when a cock is thick enough to scare me into dripping. Conference taught me the word for it. You're the boyfriend who gets the notes after. Read them. Don't burn them."`,
     ],
     [
       `Monday at 6:40 she texted: deck review running late. cock-in-ass late. FaceTime if you want proof instead of invention.`,

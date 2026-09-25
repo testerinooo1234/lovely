@@ -44,7 +44,7 @@ const chapter16: StoryChapter = {
     [
       `The apartment went very quiet.`,
       `"You're serious."`,
-      `"I'm soft and serious at the same time, which is how I do everything that matters." She sat on my lap carefully, cage box between us, eyes on mine. "You can say no and I'll text him cancel and we'll pretend the joke stayed a joke. Or you can say yes and let me run the night I already half-built in my head while I watched your face invent Jordan. I'm not asking you to like it in advance. I'm asking you to stay for the footage."`,
+      `"I'm soft and serious at the same time, which is how I do everything that matters." She sat on my lap carefully, cage box between us, eyes on mine. "Jordan's forty minutes out. Cage goes on. Chair faces the bed. You're staying for the footage — not because you like it yet, because your face already cast him in the car."`,
       `My mouth said, "Yes," before my pride finished drafting a refusal.`,
       `"Good." She kissed the air near my cheek and slid to her knees on the rug. "Pants down. Soft for the ring. Don't make this dramatic. Dramatic is for later."`,
     ],
@@ -120,10 +120,10 @@ const chapter16: StoryChapter = {
     [
       `"Talk," she ordered me between hits. "Don't just sit mute in plastic. Tell me what you're feeling so I can rename it soft before it turns into a breakup speech in your head."`,
       `"I feel—" My throat worked. "Small. Hard. Like I asked for this by naming him in the car even though you named him first."`,
-      `"I named him first because I'd already picked him," she said, soft and filthy, voice jerking with thrusts. "You just confirmed the casting. Feeling small is allowed. Feeling hard in a cage is allowed. Calling this me not loving you is not allowed. He's fucking my cunt in our bed. You're locked and watching. I am looking at the man I live with while I come apart on the man I borrowed. Say both true."`,
-      `"Both true," I whispered.`,
+      `"I named him first because I'd already picked him," she said, soft and filthy, voice jerking with thrusts. "You just confirmed the casting. Feeling small is allowed. Feeling hard in a cage is allowed. Calling this me not loving you is not allowed. He's fucking my cunt in our bed. You're locked and watching. I am looking at the man I live with while I come apart on the man I borrowed. Say that order."`,
+      `"He's in your cunt. I'm locked. You love me," I whispered.`,
       `"Louder."`,
-      `"Both true."`,
+      `"He's in your cunt. I'm locked. You love me."`,
     ],
     [
       `Jordan reached under and found her clit again. She cursed, soft, and pushed back onto him greedily. Spit from the earlier throatfuck still shone at the corner of her mouth. A drop of it fell onto the duvet near my shoe.`,

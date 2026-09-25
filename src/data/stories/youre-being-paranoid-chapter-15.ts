@@ -89,14 +89,14 @@ const chapter15: StoryChapter = {
       `She came home at 1:40 in the afternoon instead of after work, flushed deeper than cardio, wearing the soft shorts again. She saw the box before she saw me. For one raw second her face was just caught. Then the soft machine started so smoothly it felt practiced.`,
       `"Okay," she said, setting her keys down carefully. "You're holding packaging like a weapon. Sit. Don't stand like a closing argument. I'm going to talk and you're going to listen without turning every sentence into a funeral."`,
       `"You bought these Monday."`,
-      `"I did." Soft nod. Immediate. No theatre. "I bought Magnums Monday because the man I've been stupid with is thick enough that regular condoms feel like a dare, and I got tired of him complaining about the pinch. That is the sentence. It is filthy and true and it still isn't me leaving you."`,
+      `"I did." Soft nod. Immediate. "I bought Magnums Monday because the man I've been stupid with is thick enough that regular condoms feel like a dare, and I got tired of him complaining about the pinch. That is the sentence. It is filthy and true and it still isn't me leaving you."`,
     ],
     [
       `The room tilted.`,
       `"You've been—"`,
       `"Fucking him. Yes." She sat on the coffee table facing me, knees apart, voice low and longer than my panic. "Not for months in your horror movie. For three weeks. Gym timing. His place near the pharmacy. Condoms because I'm not trying to get pregnant by a mistake, even when the mistake feels good enough to buy the wide ones. The kit is me being scared after I let him come close to the edge of the latex once like an idiot. The bruises are his fingers on my thighs when he holds me open because thick cocks need space and I like being held open. You're not crazy for the trail. You're only in trouble if you use the trail to punish me for finally putting it on the table."`,
       `I couldn't breathe right. "Who."`,
-      `"The guy from the climbing gym who spots me on overhangs and has hands like he understands leverage." Soft almost-smile. "You met him once in the lobby. You thought he was friendly. He is friendly. He's also packing enough that I understand why Magnum exists as a product line."`,
+      `"The guy from the spin studio who corrects my form and has hands like he understands leverage." Soft almost-smile. "You met him once in the lobby. You thought he was friendly. He is friendly. He's also packing enough that I understand why Magnum exists as a product line."`,
     ],
     [
       `"You lied."`,
@@ -107,7 +107,7 @@ const chapter15: StoryChapter = {
     [
       `A knock hit the door. Soft. Familiar with our hallway.`,
       `She didn't look surprised. "I texted him when I saw your car still in the lot. I told him if you found the box he should come over so you stop inventing a demon and meet a person. Baby. You're going to hate this and you're going to stay on the couch because hanging up on reality is how you make it worse."`,
-      `She opened the door. He stepped in — tall, climbing-callused hands, easy mouth, a duffel over one shoulder like this was a workout. He nodded at me once, not cruel.`,
+      `She opened the door. He stepped in — tall, spin-bike callused hands, easy mouth, a duffel over one shoulder like this was a workout. He nodded at me once, not cruel.`,
       `"Hey," he said. "She said you found the Magnums."`,
       `I said nothing useful. She shut the door and locked it like privacy was kindness.`,
     ],
@@ -149,7 +149,7 @@ const chapter15: StoryChapter = {
     [
       `"Stay with me," she gasped between thrusts. "You're watching my cunt take something bigger and you're still on the couch instead of exiting the lease. That choice is us. His thickness is the afternoon. Say the order out loud so your brain stops turning it into a death: Magnums, bruises, kit, one man, my choice to show you."`,
       `My voice sounded scraped. "Magnums. Bruises. Kit. One man. You showed me."`,
-      `"Good." Soft smile wrecked by another moan as he angled sharper. "Now tell him where you're going to finish," she said to the climbing guy, "and make it a sentence my boyfriend can survive."`,
+      `"Good." Soft smile wrecked by another moan as he angled sharper. "Now tell him where you're going to finish," she said to the spin guy, "and make it a sentence my boyfriend can survive."`,
       `"In her cunt," he said, almost bored with the obvious. "Condom's in the duffel if you want theatre. She told me bare was the point today so he'd stop arguing with foil."`,
     ],
     [
@@ -173,7 +173,7 @@ const chapter15: StoryChapter = {
       `"You're still mine," I choked, thrusting up into the used heat.`,
     ],
     [
-      `"And I'm still the girl who bought Magnums because size makes me stupid," she said, soft and filthy at once, grinding so my cock rubbed through the cream he'd left. "Both true. Neither one cancels the lease. When I come on you, it's not instead of him. It's after. Order matters. Spiral less. Feel more."`,
+      `"And I'm still the girl who bought Magnums because size makes me stupid," she said, soft and filthy at once, grinding so my cock rubbed through the cream he'd left. "Magnums on Monday. His cock tonight. Neither one cancels the lease. When I come on you, it's not instead of him. It's after. Order matters. Spiral less. Feel more."`,
       `She came again with a quiet tremor, walls fluttering around me, more of his load squeezing out around my shaft. The sight of that — white mess forced out by my smaller cock — undid me. I grabbed her bruised thighs hard enough to add my own marks and came into the mess with a broken sound.`,
       `She held my shoulders through it and stroked my hair like praise.`,
       `"Good," she whispered. "Now when you see foil, you won't invent a brand committee. You'll remember one thick cock, my slutty little size thing, and your place on the couch watching me take it like an adult. Say you understand enough to shower."`,
@@ -181,7 +181,7 @@ const chapter15: StoryChapter = {
     [
       `"I understand," I said into her shoulder.`,
       `"Say the soft version with the true nouns."`,
-      `I stared at the cum-smeared table while she stayed seated on my softening cock. "You fucked the climbing guy. He's thick. You bought Magnums. The bruises are his fingers. The kit was after. You made me watch. We're… still us."`,
+      `I stared at the cum-smeared table while she stayed seated on my softening cock. "You fucked the spin guy. He's thick. You bought Magnums. The bruises are his fingers. The kit was after. You made me watch. We're… still us."`,
       `"Close enough." She squeezed around me once, a pulse that pushed another trickle out onto my jeans. "Wash the table. Wash me. Tomorrow I gym at the normal time and you don't follow me into the parking lot like a documentary. If you need proof again, you ask with your mouth, not with a ransack. Deal?"`,
       `"Deal."`,
       `"Say deal like you mean the soft version."`,

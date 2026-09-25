@@ -203,7 +203,7 @@ const chapter17: StoryChapter = {
       `"I love you."`,
       `"Say the late night was mostly a late night."`,
       `"The late night was mostly a late night."`,
-      `She smiled, small and relieved and victorious in a register only I was meant to hear. "There he is. My reasonable boyfriend. Towels. Bed. Tomorrow's calendar invite is real and so is the man two desks over. Both true. Neither one cancels breakfast."`,
+      `She smiled, small and relieved and victorious in a register only I was meant to hear. "There he is. My reasonable boyfriend. Towels. Bed. Tomorrow's calendar invite is real and so is the man two desks over. Neither one cancels breakfast."`,
     ],
     [
       `Thursday morning she packed her bag with a fresh thong and the blazer from the night before. At the door she paused, hand on my chest, eyes soft.`,

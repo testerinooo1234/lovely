@@ -117,7 +117,7 @@ const chapter: StoryChapter = {
       `He spanked her ass in time with his cock. The smacks carried. She cried out and laughed and came hard enough that the headboard finally hit once before she grabbed it and stilled the wood.`,
       `"On your back— legs up— I want to see your face—" His voice.`,
       `Springs. A shift. Then deeper wet sounds and her broken yeses.`,
-      `"Fill me— pump it— leave it dripping so when I unlock the window for air in the morning I'm still open— yes— fuck— take it— my asshole's yours at night and his coffee cup in the morning— both true— say you're close—"`,
+      `"Fill me— pump it— leave it dripping so when I unlock the window for air in the morning I'm still open— yes— fuck— take it— my asshole's yours at night and his coffee cup in the morning— say you're close—"`,
       `He finished with a groan that shook something in my throat. She thanked him soft and filthy, asked him to push it deeper with his thumb, moaned when he did.`,
       `"Out the window," she whispered eventually. "Text when you're home. Same time tomorrow if my shift doesn't wreck me."`,
       `Scrape. Night air. Gone.`,

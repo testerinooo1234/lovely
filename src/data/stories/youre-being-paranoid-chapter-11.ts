@@ -89,7 +89,7 @@ const chapter11: StoryChapter = {
     ],
     [
       `I gripped the sink. "Who is he."`,
-      `"Project lead adjacent. Tall. Quiet. Stays late. Not a romance novel. A cock with a badge and a parking pass." She leaned on the counter beside me, voice going long. "He doesn't take me to dinner. He texts when the floor empties. I show up. I get on my knees between the console and his thighs. I take him deep until he finishes on my tongue. I rinse. I drive home to you. That loop is ugly and it fits in a calendar invite labeled overtime."`
+      `"Project lead adjacent. Tall. Quiet. Stays late. Not a romance novel. A cock with a badge and a parking pass." She leaned on the counter beside me, voice going long. "He doesn't take me to dinner. He texts when the floor empties. I show up. I get on my knees between the console and his thighs. I take him deep until he finishes on my tongue. I rinse. I drive home to you. That loop is ugly and it fits in a calendar invite labeled overtime."`,
       `"Stop going."`,
       `She looked at me for a long time. Soft. Sad in a curated way.`,
       `"I can stop labeling it overtime," she said. "I can't stop the part of me that gets wet in the garage when he unzips. Not tonight. Tonight I already rinsed once and I'm still half full of the taste and you're hard and spiraling and if I stay here performing purity I'm going to resent the performance by morning."`,

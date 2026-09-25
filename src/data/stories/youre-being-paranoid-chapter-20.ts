@@ -116,8 +116,8 @@ const chapter20: StoryChapter = {
       `She talked. Longer than me. Patient. Legs still open.`,
       `"I got mad at normal questions because normal questions from you don't sound curious — they sound like you're building a case. I don't fuck well under cross-examination. I fuck well when I'm allowed to want what I want and bring it home in language you can survive. Tonight I brought it home raw. You watched my asshole stretch around his cock. You heard why the mirrors move. You tasted what the shower was for. That means you don't get to ask me tomorrow if I'm 'hiding something' like a man who wasn't sitting in the chair. You were in the chair. The cage is still on. The key is on my neck. Tell me what you understand."`,
       `"You're fucking him," I said. "In the ass. In cars. In our house. The tells were real."`,
-      `"The tells were real," she agreed softly. "And love is still real. Both. Say both."`,
-      `"Both," I said.`,
+      `"The tells were real," she agreed softly. "And love is still real. The mirrors were real. So is this creampie in my ass. Say those, not a slogan."`,
+      `"Mirrors. Creampie. Love," I said.`,
     ],
     [
       `"Good." She crooked a finger. "Clean me with your tongue. Ass first. Get his cum out of me so I can sit on our couch without ruining the throw pillow. This isn't degradation for sport. This is boyfriend logistics after honesty hour."`,
