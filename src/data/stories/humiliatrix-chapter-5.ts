@@ -120,7 +120,7 @@ const chapter: StoryChapter = {
       `Cole leaned in. The smell hit first — sex, lube, skin, the thick salt of fresh cum. Her asshole was loose and shiny, cum pooled at the rim and deeper where Marcus had packed it. Cole put his tongue out and licked, tasting bitter heat immediately.`,
       `"Deeper," Humiliatrix ordered. "Don't kiss around it like you're shy. Tongue in. Scoop. You're a cleanup slut now, not a commentator."`,
       `He pushed his tongue into her. Cum smeared his lips, his chin, the tip of his nose. He sucked and swallowed what he could, gagging once when a thicker clot slid onto his tongue. Marcus watched from the couch arm, amused, still half-hard.`,
-      `"Look at that little locked penis in pink panties," Humiliatrix said over her shoulder, voice bright with cruelty. "Face buried in the ass he got paddled for talking about. Soap last week. Cum this week. That's growth, baby. That's a child learning his place."`,
+      `"Look at that little locked penis in pink panties," Humiliatrix said over her shoulder, voice bright with cruelty. "Face buried in the ass he got paddled for talking about. Soap last week. Cum this week. You bit a bar for talking, and now you're licking his load out of my hole. That's a child learning his place."`,
       `Cole whimpered into her and kept licking. His slapped cheeks brushed her thighs; every movement reminded him of her hand.`,
       `"Tell him how small he is while he eats," she told Marcus.`,
       `"Kid's got a starter dick in a pink cage," Marcus said. "Couldn't fuck that hole if you unlocked him and gave him a map. He's a little sissy girl with a mouth, and that's all he's good for right now."`,

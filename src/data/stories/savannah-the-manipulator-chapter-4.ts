@@ -90,7 +90,7 @@ const chapter: StoryChapter = {
       `"Savannah—"`,
       `"I want a bukkake." She said it the way she said pancake orders. "One time. Championship edition. Doesn't mean anything about us. I've just always fantasized about being covered, and the boys earned a celebration, and I trust you the most to film it."`,
       `"You said special performer—"`,
-      `"And I was telling the truth." She took his face in both hands. Beauty mark. Mouth soft. Eyes sincere enough to rearrange rooms. "You're not participating. You're operating the camera. I need that from you. Don't make this about your feelings. Make it about my face and their win."`,
+      `"And I was telling the truth." She took his face in both hands. Beauty mark. Mouth soft. Eyes sincere enough to rearrange rooms. "Hold the phone and film. I need your hands steady while they cum on my face and my tits. Don't stand there hurt. Get my mouth in the shot. Get their cocks in the shot."`,
       `"I tried— I don't—"`,
       `"You're overthinking." She kissed him once. "You already nodded with your feet when you walked over here. Phone up. Landscape. Thumb off the lens. Be useful."`,
       `She stripped without ceremony — skirt, top, heels kept on — and knelt naked on the quilt with her ponytail high, mouth open in the specific rehearsed way Brad's oral training had drilled into her. Heavy tits settled as she sat back on her heels. The loft got quieter in the way rooms get quieter when everyone already knows the next beat.`,
@@ -110,7 +110,7 @@ const chapter: StoryChapter = {
       `Another boy — taller, quieter, the one who'd called Nolan locked at the fridge — took his time. He stood close enough that Savannah's open mouth fogged his knuckles while he stroked, and when he came it striped her from forehead to heavy tits in one long messy arc. Savannah laughed, delighted, and used both hands to smear it into her skin like lotion while Nolan's phone caught every shine.`,
       `"Get closer," Brad coached from the side. "She wants face detail. Championship archive quality."`,
       `Nolan stepped closer. Savannah looked up through wet lashes and mouthed *good boy* at him between men, low enough that only the camera and his ruined nerves heard it.`,
-      `"You're not sharing me," she said aloud for the room and for him. "You're documenting a win. I'm featured. They're celebrating. Everybody's job is clean if you stop renaming it mid-scene."`,
+      `"Keep the phone up," she said aloud for the room and for him. "Film the trophy and my face. I'm on my knees taking their cum. They're celebrating. You hold still and shoot it."`,
     ],
     [
       `Kyle finished the round. Kyle was the youngest — Brad's league's kicker; Nolan had bought him a beer earlier because he had been standing alone by the fridge looking nervous. Kyle stepped up last, hand shaking on himself in a way Nolan recognized in his own body, and when he came it was on Savannah's forehead and into her hair in a long messy pulse he had clearly not meant to be that big. He said "sorry — sorry — oh fuck sorry —" like an apology at a funeral. Savannah laughed with her eyes closed and reached blindly for his thigh in absolution, thumb rubbing once, and said "you're welcome, honey. that was really sweet. congratulations." Kyle stepped back looking wrecked and proud and might cry.`,
@@ -122,8 +122,8 @@ const chapter: StoryChapter = {
       `Someone handed Nolan a paper towel he didn't use. Someone else clapped his shoulder and said "respect, man." Savannah stayed kneeling until Brad told her she could stand, then stood carefully, heels still on, quilt stuck to one knee, and walked to Nolan with her arms out like she wanted a hug he wasn't sure how to give without transferring the whole night onto his shirt.`,
       `"Kiss me," she whispered.`,
       `He did. She tasted like everyone else. She kissed him deeper for the phone she made him keep recording one-handed.`,
-      `"See?" she murmured against his mouth. "Still yours. They just celebrated. Celebration isn't betrayal. Camera work is loyalty. Say loyalty."`,
-      `"Loyalty," Nolan whispered.`,
+      `"See?" she murmured against his mouth. "Still yours. They came on my face and you didn't drop the phone. Kiss me. Tell me you filmed it because I wanted you to."`,
+      `"I filmed it because you wanted me to," Nolan whispered.`,
       `"Good boy."`,
     ],
     [

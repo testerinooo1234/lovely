@@ -36,7 +36,7 @@ const story: Story = {
       `"Hana," Grant said mildly, "let me have him for a minute before you melt him."`,
       `He produced a matching babydoll top next — soft pink, lace at the hem, ridiculous and perfect — and pulled it over Colin's head, adjusting the straps on his shoulders with the same focused attention he'd probably brought to every project he'd ever managed. Then thigh-high stockings, rolled up slowly, Grant's large hands steady at Colin's hips while Colin stared at the carpet and felt his adult self thinning like smoke.`,
       `"Hairbrush," Grant said, nodding toward the nightstand where Hana had placed it earlier. "And the rules card. You wrote these?"`,
-      `Colin nodded. He'd spent a week on them — careful handwriting, careful concerns translated into the vocabulary of a headspace that was only ever metaphor, only ever play, only ever two people choosing softness on purpose.`,
+      `Colin nodded. He'd spent a week on them — careful handwriting, what he wanted Grant to do to him and what he didn't, spelled out so the spanking, the washed mouth, and bedtime were already on the card.`,
       `Grant read aloud. "No touching without permission. No coming without permission. Bedtime means bedtime. Bad language gets your mouth washed — or filled, depending on severity. Tell Daddy when you've been bad before he finds out." He looked up. "Solid. You know what you're asking for."`,
       `"I know," Colin whispered.`,
       `"Good. Over my knee, then. Let's see how you take correction before we go further."`,

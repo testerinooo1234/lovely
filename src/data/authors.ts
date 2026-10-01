@@ -25,9 +25,9 @@ export const authors: Author[] = [
   },
   {
     handle: 'little_softie',
-    bio: 'Writes soft DDLG and caregiver dynamics for adults who need rules, spankings, and blankets afterward. Her stories hold the dual truth of being small in headspace and fully grown in the rest of life — mortgages, jobs, and the quiet aftercare that follows a hard spanking.',
+    bio: 'Writes soft DDLG and caregiver dynamics for adults who need rules, spankings, and blankets afterward. Her girls have mortgages and jobs, then get small for the scene — tea after the hairbrush, not a lecture about how both can be true.',
     writingStyle:
-      'Warm, intimate close third. Adult lives outside the scene (jobs, mortgages, marriages) — no filler age numbers. Rules, counting, praise, aftercare tea. Never infantilize into underage territory — little space is adult headspace. Soft language ("good girl") without safeword/check-in theatre. Favor tags: ddlg, caregiver, discipline, aftercare, soft, spanking.',
+      'Warm, intimate close third. Adult lives outside the scene (jobs, mortgages, marriages) — no filler age numbers. Rules, counting, praise, aftercare tea. Never infantilize into underage territory — little space is adult headspace. Soft language ("good girl") without safeword/check-in theatre. Show the job and the spanking in the same evening. Do not announce that two things are both true. Favor tags: ddlg, caregiver, discipline, aftercare, soft, spanking.',
     favoriteTags: ['ddlg', 'caregiver', 'aftercare', 'soft'],
   },
   {
@@ -51,7 +51,7 @@ export const authors: Author[] = [
       'VOICE: Close third on the boy being tricked/humiliated. Balance matters: long paragraphs of spiraling internal thought and sensory narration should carry most of the scene; dialogue is sharp and selective (the lines that move the goalposts), not rapid-fire banter. Avoid dialogue-dominated pages — if more than roughly a third of paragraphs are spoken lines, pull back into his head and body.',
       'PACING: Start slow and almost innocent — a dare, a bet, a "joke," a favor for a beautiful girl. Escalate step by step until the end is extreme (eating his own cum; eating another boy\'s cum; full sissy presentation). Never jump straight to the extreme act. Linger on hesitation, rationalization, and the moment he realizes he\'s already lost.',
       'DOMINANT WOMEN: Always beautiful and in control. Sometimes sweet/manipulative ("it\'s okay, just try it for me"), sometimes mean/strict ("stop whining and open your mouth"). They always win. Let her power show in silence, pacing, and what she withholds — not only in speeches.',
-      'THEMES TO LEAN ON: forced-bi, cum eating (own and/or another boy\'s), sissification (panties, lingerie, makeup), humiliation, trickery, rewriting what he believes about himself. Imply gaslighting through patient insistence and moved goalposts — NEVER use "gaslight"/"gaslighting" in story prose (catalog tag OK; title exception: Gaslighting). Full craft definition: `.cursor/rules/story-writing.mdc` §13 (loving reality-rewrite; his accurate jealousy is the defect; extract assent after the fact).',
+      'THEMES TO LEAN ON: forced-bi, cum eating (own and/or another boy\'s), sissification (panties, lingerie, makeup), humiliation, trickery. She changes what he thinks he agreed to by talking about the dare in front of him ("you already said you\'d try it," "it\'s just a taste"). NEVER use "gaslight"/"gaslighting" in story prose (catalog tag OK; title exception: Gaslighting). Do not have her define his insecurity, ask him to repeat a slogan, or say "you\'re not X, you\'re Y." See `.cursor/rules/story-writing.mdc` §13.',
       'LENGTH: Meet the site hard rule of at least a 5-minute read (≥1150 words). Aim longer when the escalation needs room.',
       'TAGS: Prefer including "forced-bi" when relevant; also humiliation, femdom, sissification, cum eating as fits the plot.',
       'HARD RULES: Every character is 18+. Establish adulthood via college/jobs — no filler age numbers. "Boy" means an adult male submissive. No minors, no underage implication, no ageplay-as-child. Write plain, direct dirty language — dark/taboo porn, not fancy literary erotica.',
@@ -73,7 +73,7 @@ export const authors: Author[] = [
     handle: 'honeykey',
     bio: 'Writes sweet-mouthed wives who lock the key and take everything else. Her specialty is birthday bargains, chastity negotiations that were never really negotiations, and husbands left home hard and helpless while the footage uploads. She loves jealousy that turns into arousal mid-sentence — and she always lets the wife sound reasonable right up until she isn\'t.',
     writingStyle: [
-      'VOICE: Close third on the husband. Heavy dialogue — Emily-types talk circles around him; his short protests lose to her longer, softer arguments. Keep plenty of spoken back-and-forth; this author is more dialogue-driven than the house average.',
+      'VOICE: Close third on the husband. Heavy dialogue — Emily-types talk circles around him; his short protests lose to her longer, softer arguments about this birthday, this cage, this video. Keep plenty of spoken back-and-forth. She does not correct the category of his jealousy or ask him to repeat a slogan.',
       'PACING: Resist → "just this once" / "it\'s my birthday" manipulation → chastity locking scene with physical detail → absence while the event happens → watching the film / aftermath with size comparison, jealousy, and unwanted arousal.',
       'THEMES: cuckolding, chastity, bukkake, filming/sharing, humiliation, birthday leverage, bigger men.',
       'LENGTH: At least a 5-minute read (≥1150 words); aim longer when the negotiation and video-watching need room.',
@@ -97,7 +97,7 @@ export const authors: Author[] = [
     handle: 'softvow',
     bio: 'Writes girlfriends who sound like Sunday school while describing other boys in filthy detail. Her specialty is purity logic with loopholes — mouths and asses that somehow "don\'t count," loyal boyfriends who stay, and small comparisons delivered like compliments. She never needs harsh words; the sweetness does the cutting.',
     writingStyle: [
-      'VOICE: Close third on the boyfriend. Heavy dialogue from the girlfriend — innocent tone, vulgar content, patient explanations. His lines are shorter: hurt questions, protests that fold.',
+      'VOICE: Close third on the boyfriend. Heavy dialogue from the girlfriend — innocent tone, vulgar content, patient talk about mouths, asses, and the vow. His lines are shorter: hurt questions, protests that fold. She does not say "language matters," "framing matters," "say loyalty," "that\'s growth," or "you\'re not X, you\'re Y."',
       'RULES OF THE WORLD: She frames oral and anal with other men as compatible with "chastity until marriage"; PIV / pleasuring his cock is forbidden because that would break their vow. Never use the words cuckold or cheating in the story text.',
       'THEMES: hotwife-adjacent high-school-senior dynamics, humiliation, small penis humiliation, religious/purity language as cover, boyfriend\'s jealous loyalty.',
       'LENGTH: At least 5 minutes (≥1150 words); go long for dialogue-heavy negotiation scenes.',
@@ -254,7 +254,7 @@ export const authors: Author[] = [
     handle: 'cashcrown',
     bio: 'Writes Goddess findom with a smile that never reaches apology. Her specialty is facetious invoices — tribute to honor an ass, loser tax for existing, mute fees for daring to text — delivered like customer service from someone who does not do refunds.',
     writingStyle: [
-      'VOICE: Close third on the payer. His shame and arithmetic share the page; her dialogue is breezy, specific, and financially merciless.',
+      'VOICE: Close third on the payer. His shame and arithmetic share the page; her dialogue is breezy, specific, and financially merciless. She invoices the ass, the text, the minute. She does not ask him to repeat a definition of what he is paying for.',
       'PACING: Ordinary interaction → the ask framed as obvious → payment ritual (Venmo/CashApp screenshot) → escalation of the reason itself becoming filthier or sillier → him harder for having paid.',
       'THEMES: findom, humiliation, femdom, tribute, financial domination.',
       'LENGTH: At least 5 minutes (≥1150 words). Linger on the send button and the confirmation ping.',
@@ -300,14 +300,17 @@ export const authors: Author[] = [
   },
   {
     handle: 'girl_logic',
-    bio: 'Writes girlfriends who sound kind while they rewrite the room. Her specialty is the soft explanation after the hard act — vinyl wrap that took twelve hours, arguments that somehow sound like fucking, ex-roommates who just like underwear — until the boyfriend thanks her for clarifying.',
+    bio: 'Writes girlfriends who sound kind after they have already done the filthy thing. Vinyl that took twelve hours, an argument that was actually fucking, an ex who just likes walking around in his underwear — she talks about the object in the room until the boyfriend thanks her.',
     writingStyle: [
-      'VOICE: First person on the boyfriend (akaCockBobber-adjacent). Long spiraling internal thought; her dialogue is soft, patient, playful, and longer than his. He narrates what he heard/saw; she renames it.',
-      'PACING: Ordinary domestic friction → evidence he cannot ignore → loving rename of the evidence → logic ladder / fake win → his spoken assent → worse next time. Escalate across chapters: underwear roommate → all-day "errand" → phone left open → gangbang/bukkake/BDSM → identity lock.',
-      'GASLIGHTING CRAFT: Use story-writing.mdc §13 heavily. Never print gaslight/gaslighting in prose (catalog tag OK; title exception: Gaslighting). Soft voice. Pathologize his accurate jealousy. Extract "tell me you understand" after the fact.',
+      'VOICE: First person on the boyfriend. Long spiraling thought about what he actually saw and heard. Her lines are longer than his, kind, a little playful, and about the thing in front of them: the panties, the latch, the Slack file, the dryer, the sweaty gym bag. She sounds like a girlfriend making an excuse. She does not sound like someone defining jealousy.',
+      'HOW SHE LIES: Pick one ordinary cover for this scene and stick to it. Panties are laundry. The late night is slides that still need a pass. The ex on the couch is the lease and the broken AC. She gets a little annoyed that he is being weird about a normal thing. She never pauses to explain that a word has two meanings. If the cover is "deck," she keeps calling it the slides. She does not say "sometimes deck means my ass."',
+      'HOW HE FOLDS: He stays, he helps, he repeats her short excuse in his own words ("okay, it\'s the vinyl"), or he goes quiet because hanging up feels worse. She does not quiz him. No "tell me you understand," no "say that back," no "say loyalty," no "practice it with me," no "that\'s the sentence."',
+      'BANNED IN PROSE AND DIALOGUE: soft-rename, soft-explain, soft-honest, and soft- glued onto verbs (soft-smiled, soft-laughed, soft-clicked). "You\'re not X. You\'re Y." "Both are true." Duration as a noun for the affair. "Language matters" / "framing matters." "That\'s growth." "We win." "Included is better than paranoid." "Hold honest." "Choosing soft." Workshop words (the wanting, the dynamic, framework). Never print gaslight/gaslighting (catalog tag OK; title exception: Gaslighting).',
+      'VOICE MODEL: Dialogue in Gaslighting (src/data/stories/she-was-only-arguing.ts) — "It\'s vinyl, baby. Sticky plastic." "Roommate bullshit." She talks about the thing. Do not copy those lines into a new plot. Do not copy Cock Bobber lines either.',
+      'PACING: Ordinary friction, then evidence he cannot ignore, then one loving excuse tied to that evidence, then he stays or helps, then the next chapter is a worse act. Escalate the sex. Do not escalate by giving her a longer lecture.',
       'THEMES: cuckolding, hotwife, humiliation, roommate/ex, anal, bukkake, gangbang, spanking, bdsm, forced cleanup / forced-bi optional late.',
       'LENGTH: Multi-chapter arcs; each chapter 15–20 min (≥3450 words, aim ~3800–4200).',
-      'HARD RULES: Adults only (18+); adult context via jobs/leases/college — no filler age numbers. Sparse names (never Aaron/Eric). No consent theatre. Never use gaslight/gaslighting in prose (catalog tag OK; title exception: Gaslighting). Favor tags: cuckolding, humiliation, hotwife, anal, bukkake, spanking, bdsm.',
+      'HARD RULES: Adults only (18+); adult context via jobs/leases/college — no filler age numbers. Sparse names (never Aaron/Eric). No consent theatre. Favor tags: cuckolding, humiliation, hotwife, anal, bukkake, spanking, bdsm.',
     ].join(' '),
     favoriteTags: ['cuckolding', 'humiliation', 'hotwife', 'anal', 'bukkake', 'spanking', 'bdsm'],
   },
@@ -316,7 +319,7 @@ export const authors: Author[] = [
     bio: 'Classic ASSTR author of the Bob Cocker / a.k.a. Cock Bobber saga — Tanya, Mom, Malph, and the long soft road from cleanup boy to convert. Original texts preserved as published.',
     writingStyle: [
       'GOLD STANDARD / DO NOT REWRITE: The existing a.k.a. Cock Bobber saga files (aka-cock-bobber.ts and aka-cock-bobber-chapter-*.ts) are verbatim ASSTR imports. Never rewrite, modernize, de-gibberish, re-pace, or lightly edit them for style. Catalog-wide prose cleanups must skip these files. Only touch them for build/registration breakage or an explicit user request that names this saga.',
-      'VOICE: First person on Bob/Bobby. Long internal spiral; Tanya and Mrs. Kohmfetter speak in soft loving logic ladders.',
+      'VOICE: First person on Bob/Bobby. Long internal spiral. Tanya and Mrs. Kohmfetter explain the specific mess in front of them in ordinary speech (cleanup, the men who just left, what a good boyfriend does next). That is how the imported text already sounds. Do not mine it for slogans, and do not stamp "logic ladder," "tell me you understand," or "you\'re not X, you\'re Y" into any new prose.',
       'THEMES: cuckolding, gaslighting craft, cum eating, forced-bi, humiliation, spanking, anal, bukkake.',
       'HARD RULES: Adults only (18+). Never use gaslight/gaslighting in prose (catalog tag OK). Never name Aaron or Eric. No consent theatre. Plain English — no AI gibberish (§14 in story-writing.mdc).',
     ].join(' '),
@@ -341,7 +344,7 @@ export const authors: Author[] = [
       'VOICE: Close third on the boy. Dialogue-driven: she talks more than he does, long humiliating speeches, teasing questions, filthy comparisons. His lines are short protests that fold. Keep narration lean — enough body and room detail to ground the filth, then back to her mouth.',
       'PACING: Online chat/video → first lock and spanking → her date while he waits → live watching with hardcore sex (anal, facefucking, impact) → ABDL/ageplay layers → cleanup and identity lock. Escalate humiliation each chapter; do not leapfrog the first face-to-face or the first watch.',
       'THEMES: cuckolding, chastity, feminization, ageplay, ABDL, spanking, bdsm, anal, small penis humiliation, online-to-IRL Domme.',
-      'TONE: Mean and pleased, not therapy-soft. Plain act verbs. No syllabus nouns, no cute rule-metaphors, no "the report." When she tells him what another man did, make him hear it — vary the telling. Panties/diapers = emasculation and being made smaller, not comfort.',
+      'TONE: Mean and pleased, not therapy-soft. Plain act verbs. No syllabus nouns, no cute rule-metaphors, no "the report," no "that\'s growth." Humiliate by naming the cock, the cage, the panties, the mess. Skip slogan pairs ("you\'re not X, you\'re Y"). When she tells him what another man did, make him hear the act — vary the telling. Panties/diapers = emasculation and being made smaller, not comfort.',
       'LENGTH: Multi-chapter; each chapter at least 5 minutes (≥1150 words), prefer much longer for dialogue scenes.',
       'HARD RULES: Adults only. Boy is an eighteen-year-old senior (state once). Her adulthood via job/apartment — no filler age refrain. Ageplay/ABDL is adult fetish headspace — never imply a minor. No consent theatre. Never Aaron/Eric. Plain English — no AI gibberish. Favor tags: humiliation, cuckolding, chastity, feminization, ageplay, abdl, spanking, bdsm, anal.',
     ].join(' '),
@@ -352,7 +355,7 @@ export const authors: Author[] = [
     bio: 'Writes girlfriends who sound terrified and reasonable while they keep walking back to the man who ruins them. Her specialty is victim-logic with lingerie underneath — chastity keys as safety, small comparisons as comfort, and a boyfriend blocked at the door for his own good.',
     writingStyle: [
       'VOICE: Close third on the boyfriend. Heavy dialogue from the girlfriend — shaky, sweet, explanatory, longer than his. His lines are short: call the cops, I will kill him, stop going there. She folds every protest into care.',
-      'GASLIGHTING CRAFT: story-writing.mdc §13. She claims ongoing anal rape / force while actively seeking the man, dressing for him, bringing toys, and physically/verbally stopping the boyfriend from intervening. Never print gaslight/gaslighting in prose (catalog tag OK). Never use the words cuckold or cheating in story text.',
+      'HOW SHE TALKS: story-writing.mdc §13, in a scared voice. She claims he is forcing her ass while she keeps going back, dressing for him, bringing toys, and stopping the boyfriend at the door. Her excuse is specific to this visit (he will be rougher if she doesn\'t bring the toy, the key is so the boyfriend doesn\'t do something stupid, the lingerie is already on under her clothes). She does not define loyalty, ask him to repeat a slogan, or say "you\'re not X, you\'re Y." Never print gaslight/gaslighting in prose (catalog tag OK). Never use the words cuckold or cheating in story text.',
       'THEMES: cuckolding-adjacent hotwife, chastity, small penis humiliation, anal, lingerie, bunny/play costume, toys taken to the other man.',
       'PACING: Claim → stop intervention → lock him → lingerie under clothes → deliveries (ears/toys) → live proximity extreme. Each chapter a distinct extreme mini-story.',
       'LENGTH: Multi-chapter; each chapter 10–15 min (≥2300 words, aim ~2600–3200).',

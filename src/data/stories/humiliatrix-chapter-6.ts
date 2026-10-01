@@ -110,7 +110,7 @@ const chapter: StoryChapter = {
       `"Beautiful." She stood, ruffled his hair like a child dismissed from the table. "Go home before your parents invent questions. Text me tonight: I am excited for my cocksucking date. Exact wording. If you soften it, we add soap before he arrives."`,
       `"Yes, Ma'am."`,
       `At the door she kissed his forehead the way she had after the cumfart — fond ownership.`,
-      `"You cleaned my ass," she murmured. "Next you clean his cock. That's growth, baby."`,
+      `"You cleaned my ass," she murmured. "Next you clean his cock. You licked his cum out of my hole. Saturday you put that same mouth on him and suck it off the source."`,
     ],
 [
       `The week dragged. Cole texted the line. She replied only: Good boy. Practice not choking on your toothbrush. Saturday he arrived at two in jeans over pink panties and the cage, mouth dry, stomach sick with want.`,

@@ -113,7 +113,7 @@ const chapter: StoryChapter = {
       `"And?" Savanna prompted from the armchair.`,
       `"And I wore a bow and kept my hands in my lap."`,
       `Brad ruffled James's hair, careful of the bow, mocking-fond. "You're actually useful like this. Most boyfriends cry or start fights. You just sit there and look pretty."`,
-      `Lily's smile went soft and dangerous. "He's not decoration. He's my love. He's also my locked little girl when Savanna says so. Both things are true. Finish your juice, baby."`,
+      `Lily's smile went soft and dangerous. "He's my love. He's also my locked little girl when Savanna says so. Finish your juice, baby."`,
       `James finished his juice in silence.`,
       `After Brad left — kiss to Lily's mouth, smack to her ass, finger-gun at James's collar — the apartment exhaled. Lily pulled James onto the couch and cuddled him the way she'd promised: chest to chest, careful of the cage, whispering how thick Brad had felt, how her hole fluttered empty now, how proud she was that James had held her hands and said thank you without crying.`,
       `"I cried a little," James admitted.`,

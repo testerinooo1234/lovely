@@ -98,7 +98,7 @@ const story: Story = {
       `Near the bleachers at afterparty, Jake arrived flushed and grinning. Lily glanced at Noah.`,
       `Lily glanced at Noah once more — bright, expectant — and he stayed where he was.`,
       `Lily sank to her knees behind the half-closed equipment curtain with the casual grace of a girl tying a shoe. Noah held her purse. He watched Jake's thick cock disappear between the lips that prayed before exams. He listened to Lily's soft wet sounds and Jake's muttered fuck yes and his own heartbeat screaming. When Jake finished, Lily swallowed, wiped her mouth with a tissue from the purse Noah was holding, stood, and kissed Noah's cheek with closed lips.`,
-      `"Still chaste," she whispered. "Still yours. Say it back."`,
+      `"Still chaste," she whispered against his cheek. "Still yours. His cock went in my mouth, not my pussy. The vows still have that."`,
       `Noah closed his eyes. The hallway noise roared. Somewhere a chaperone laughed. Lily's fingers laced through his, waiting.`,
       `"Still chaste," he said, because she needed the liturgy more than he needed the truth. "Still mine."`,
       `Lily beamed, pure as a lie that had become a life. "That's my husband-to-be. Now come dance with me. Jake says my ass is still sloppy from earlier, so if I waddle a little, just tell people these shoes are new."`,

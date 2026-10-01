@@ -62,7 +62,7 @@ Do not stack tiny descriptive crumbs (`White ones. Ordinary.` / `musk, skin, man
 
 Short sentences are fine for bombshells, sparse commands, texts, or one rattled reply — not as default cadence.
 
-Also avoid robotic spoken stacks: Then-ladders, thesis stamps (`It's not A. It's not B.`), love PowerPoints.
+Also avoid robotic spoken stacks: Then-ladders, thesis stamps (`It's not A. It's not B.` / `You're not X. You're Y.`), love PowerPoints, and any line that asks the listener to repeat a slogan (`tell me you understand`, `say that back`, `say loyalty`, `practice it with me`, `that's the sentence`).
 
 ## 8. No therapy-speak for desire
 
@@ -123,21 +123,31 @@ One catalog entry. `firstChapterName` + `firstChapterSummary` + `chapters: [{ na
 
 ## 13. “Gaslighting” in cuckolding — craft term (prose ban; tag + one title OK)
 
-**Craft meaning:** loving reality-rewrite. She renames humiliation/sharing/cleanup/denial until it sounds like honesty, maturity, romance, or what’s best for them — then she gets him to **say it back**. His accurate jealousy is treated as the defect (insecurity, pride); compliance is treated as love and specialness.
+**Craft meaning (agent only — never copy these words onto the page):** she gives the humiliation one kind, ordinary name tied to the object in the room. He starts treating his accurate read as the problem and stays. To him, staying feels like love.
 
 **Allowed:** catalog tag `gaslighting` when that technique is load-bearing. Title exception: girl_logic story *Gaslighting* only.
 
 **Banned in prose:** never write `gaslight` / `gaslighting` (or close cousins) in narration, dialogue, or excerpts. Show the rewrite; do not name the trick.
 
-**Do (principles):** invent a loving cover that fits **this** plot; rename the act; pathologize his correct read; move the goalposts; comfort that advances the agenda; extract assent (especially mid-act / after); retcon his past feelings; leave him concluding he chose it. Vary the dialogue. Escalate **acts**, not a branded nickname.
+**Do (principles):** invent one ordinary cover that fits **this** object. Panties are laundry. The late night is a file. The ex on the couch is the lease and the heat. She talks about that thing, gets a little annoyed he is being weird about it, and keeps the cover even while the sex is obvious. He folds by staying, helping, or repeating her short excuse in his own words. Vary the excuse with the plot. Escalate **acts**.
 
-**Don't:** clinical monologues about rewriting his reality; therapy-speak (§8); consent theatre (§3); stamping one identity brand or false-binary lecture (`mature boys do X; insecure boys do Y`).
+**Don't:** speak the technique. No glossary of the euphemism ("sometimes deck means my ass"). No category lecture. No quiz. Banned in narration and dialogue, even once:
+
+- `soft-rename`, `soft-explain`, `soft-honest`, and `soft-` glued onto verbs (`soft-smiled`, `soft-laughed`)
+- `That's the sentence` / `Practice it with me` / `Tell me you understand` / `Say that back` / `Say loyalty`
+- `You're not X. You're Y.` and `It's not A. It's B.`
+- `Both are true` / `Both things are true`
+- `Duration` as a noun for the affair, `the knife`, `we win`, `that's growth`, `hold honest`, `choosing soft`
+- `Language matters` / `Framing matters` / `Included is better than paranoid`
+- therapy-speak (§8); consent theatre (§3)
+
+**Voice model:** Gaslighting (`she-was-only-arguing.ts`) — "It's vinyl, baby. Sticky plastic." "Roommate bullshit." Do not paste those lines into a new plot.
 
 **Learn the pattern from** a.k.a. Cock Bobber (`aka-cock-bobber*.ts`) — specialness vs “those men,” cleanup as duty, mishear/retcon, expected service as logistics. **Do not edit those files** (§15). **Do not paste their lines** into new stories.
 
-**Illustration only:**
-- Bad: `She was gaslighting him again.`
-- Good: She tells him he's upset he wasn't close enough to help — so stay and watch. That's love. He meant to say no; he says okay.
+**Illustration only (do not reuse the wording):**
+- Bad: `She was gaslighting him again.` / `Tell me you understand.` / `You're not jealous of a title. You're jealous of a calendar invite.`
+- Good: She sees the panties in his hand and tells him to put them in the wash before she is late for the gym. He knows that crust is not sweat. He puts them in the wash.
 
 ## 14. Plain English — no AI gibberish
 
@@ -176,7 +186,8 @@ Return: list of issues with quoted lines + a specific rewrite for each.
 ### Judge 2 — Clarity / natural language
 Look for awkward phrases, strange dialogue, and reader confusion:
 - Dialogue nobody would actually say (thesis stamps, caption-speak, branded cover catchphrases)
-- Planning/craft instructions leaking into prose or dialogue (workshop nouns, beat-sheet inventory talk, “both true,” clever false binaries)
+- Planning/craft instructions leaking into prose or dialogue (workshop nouns, beat-sheet inventory talk, “both true,” clever false binaries, `you're not X, you're Y`, `tell me you understand`, `that's the sentence`, `say loyalty`, `soft-rename` and other `soft-` verb compounds)
+- A character explaining her own euphemism (“deck means the slides, and also my ass”)
 - Confusing timeline or unclear who is speaking / where we are
 - Prefer **plain language** that is easy to follow
 
@@ -211,7 +222,7 @@ Return: cuts, tightenings, and explicit rewrites that raise arousal.
 - [ ] Nicknames realistic; researched terms discarded after use (§10a)
 - [ ] Beefing = new sexual dialogue/acts (§10b)
 - [ ] Skimmed one peer story for tone only (§16)
-- [ ] Gaslighting (if any): show rewrite, never name it; tag OK (§13)
+- [ ] Gaslighting (if any): one ordinary cover for the object in the scene; no slogan quiz; never name the trick; tag OK (§13)
 - [ ] Did not touch aka-cock-bobber unless named (§15)
 - [ ] **§17 adversarial judges run (continuity + clarity + heat); fixes applied**
 - [ ] ≥1150 words; `npm run count-words` clean; builds

@@ -57,7 +57,7 @@ Also read `.cursor/rules/story-writing.mdc` — source of truth. Prefer **princi
 - **Nicknames:** realistic for this speaker/scene. If stuck, research real slang, pick one, use it here — **do not** add it to rules, author notes, or a whitelist for later. §10a.
 - **Plain dirty porn voice.** Dark/taboo subject matter, not fancy literary erotica. §0 / §14.
 - **Never rewrite a.k.a. Cock Bobber** unless the user names that saga. §15.
-- **Cuckold “gaslighting”:** loving rename-and-assent technique (§13). Never put `gaslight`/`gaslighting` in prose. Tag OK when load-bearing. Title exception: *Gaslighting* only. Learn pattern from Cock Bobber; don't paste its lines.
+- **Cuckold “gaslighting”:** one ordinary cover for the object in the scene (§13). She talks about the panties, the file, the lease. She does not define jealousy or ask him to repeat a slogan. Never put `gaslight`/`gaslighting` in prose. Tag OK when load-bearing. Title exception: *Gaslighting* only. Learn the pattern from Cock Bobber; don't paste its lines.
 - **Adversarial judges required** after every draft/edit (§17): continuity, clarity, heat — then auto-apply fixes.
 - Follow the author's `writingStyle`, except where it conflicts with the rules above — those win.
 - Keep the new story **plot-unique** and **dialogue-unique** vs that author's existing work.

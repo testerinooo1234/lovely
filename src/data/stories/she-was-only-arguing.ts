@@ -85,8 +85,8 @@ const story: Story = {
       `She sank onto me — loose and wet from him, every stroke second place — and rode while she told me I was smaller, cute after, choosing us. She pinned my wrists, came on me, lifted off, sat on my face. "Taste the mix. Then come in your hand like a good boyfriend who understands love versus a protein-bar spanking."`,
       `I licked and came in my fist while she watched. Afterward she curled on my chest.`,
       `"Wrap kit came," Vance called through the wall. "Need hands Saturday. Vinyl. Tiny hands."`,
-      `Lila groaned, then brightened. "It's vinyl, baby. Sticky plastic. Stupid sports car. I can help without betraying you. Tell me you understand."`,
-      `"I understand. I trust you."`,
+      `Lila groaned, then brightened. "It's vinyl, baby. Sticky plastic. Stupid sports car. I can help him wrap the car and still come home to you. Say it's just the vinyl."`,
+      `"It's just the vinyl. I trust you."`,
     ],
     [
       `"Good boy," she whispered, while he laughed through the wall planning a Saturday I couldn't justify fearing.`,
