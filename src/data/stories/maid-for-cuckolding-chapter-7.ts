@@ -38,7 +38,7 @@ const chapter: StoryChapter = {
       `"Now," she said. "Come in. Pick up the lamp. Hold it where a husband can see what has been done to his wife's asshole."`,
       `I stepped into the gallery. The cage clicked, loud between her breaths. I took the lamp from the floor. The handle was warm. The flame stood taller when I lifted it, and the light climbed her back, her loose hair, the bunched apron, the red welts, and the gape of her asshole with his cum shining in it and sliding out. I held the lamp at my chest. I smelled polish and sweat and the salt of his cum, and I saw the inner pink of her asshole as another pulse of cum pushed out and ran down toward her empty cunt.`,
       `"Open the coat," she said. "Open the trousers too. The lamp is going to show the cage."`,
-      `I opened the coat and my fly with my free hand. The cage came out into the light, my cock swollen against the bars, the head dark at the slit, a thread of my own leak trembling. Mr. Ash looked at the steel, then at his cum leaking out of her asshole, and he nodded once.`,
+      `I opened the coat and my fly with my free hand. The cage came out into the light, my cock swollen against the tube, the head dark at the slit, a thread of my own leak trembling. Mr. Ash looked at the steel, then at his cum leaking out of her asshole, and he nodded once.`,
       `"He stays in that," Irene said. "The key is in the office drawer. He will not have it on this shift. Lay me on my back. Fuck my cunt. He will hold the lamp over me so he can watch your cum in my asshole while your cock is in my cunt."`,
     ],
     [

@@ -69,7 +69,7 @@ const chapter: StoryChapter = {
       `"The key is by his elbow."`,
       `"The bag stays on the chair. Walk."`,
       `The broom cupboard sat between the boot-jack and the pantry. Hollis followed, slipper in hand, watching her red ass move under the rucked hem. She opened the door.`,
-      `"In. You gave him a cage and a lecture. Rattle this door and I shall be furious with you. Stay quiet. The gentleman isn't to be disturbed."`,
+      `"In. You brought the cage, and then you lectured him. Rattle this door and I shall be furious with you. Stay quiet. The gentleman isn't to be disturbed."`,
       `She kissed me, which was monstrous, and pushed. The latch clicked. Her public voice returned. "The morning room is full of the camera and the noise he is making. The pantry table will take a weight, sir."`,
       `"Lead," said Hollis.`,
       `They passed the cupboard. The pantry door opened and stayed open. I heard the table cleared, her laugh, his voice.`,

@@ -402,13 +402,13 @@ export const authors: Author[] = [
   },
   {
     handle: 'experimentrix',
-    bio: 'Writes the same filthy bargain in borrowed voices — a locked husband in a maid\'s apron, a wife who takes another man bare, and a guest who finishes inside her. Spanking, chastity, anal, and creampies stay; the sentence changes. Each chapter is its own night.',
+    bio: 'Writes borrowed voices around a different night each time. She is the one in the maid uniform. He is locked. Someone else spanks her and finishes bare in her ass and her cunt. The plots do not match.',
     writingStyle: [
       'VOICE: Anthology pastiche. When a chapter is assigned a classic author\'s rhythm, keep that sentence shape, humor, and narration distance, but stay explicit porn: cock, cunt, asshole, cum, fuck, spank, cage. Do not hide acts in metaphor. Do not name the imitated author in prose, titles, or chapter names. Do not copy any real passage.',
-      'REQUIRED ACTS WHEN THE BRIEF ASKS: cuckolding, the husband in a maid outfit, chastity, a real spanking scene, anal, and creampies. Sex is bare. Never mention condoms, rubbers, or protection.',
-      'PACING: Dramatize one night. The husband serves in the outfit and the cage. He is spanked. He watches his wife fucked in the ass and creampied, then creampied in her cunt. He stays locked.',
+      'REQUIRED ACTS WHEN THE BRIEF ASKS: cuckolding, the woman in a maid outfit, the man in chastity, a real spanking of her in that outfit, anal, and creampies. Sex is bare. Never mention condoms, rubbers, or protection. Do not dress the man as a maid.',
+      'PACING: Each chapter is its own plot. Do not reuse another chapter\'s setting, reason, implement, or order of acts.',
       'LENGTH: Honor the requested read time. Default at least 5 minutes (≥1150 words).',
-      'HARD RULES: Adults only via marriage, jobs, or households — no filler ages. No consent theatre. Never Aaron or Eric. Panties on him, if any, are shame. Plain dirty language under the pastiche rhythm. Favor tags: cuckolding, chastity, spanking, anal, humiliation.',
+      'HARD RULES: Adults only via marriage, jobs, or households — no filler ages. No consent theatre. Never Aaron or Eric. Plain dirty language under the pastiche rhythm. Favor tags: cuckolding, chastity, spanking, anal, humiliation.',
     ].join(' '),
     favoriteTags: ['cuckolding', 'chastity', 'spanking', 'anal', 'humiliation'],
   },

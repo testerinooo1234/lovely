@@ -52,7 +52,7 @@ const chapter: StoryChapter = {
       `Alastair's hand tightened on the glass. His cock battered the cage and was refused. "Vivienne. The porter went inside. The awning is empty. I can hear her. I can hear the sofa. I am describing the puddle. A cart went by and the puddle shook. I am not turning around."`,
       `She rode. She lifted until the head nearly left her, the shaft shining, her cunt clinging to the rim, and dropped, taking him to the root with a wet sound. Again, and again. Felix held the hot spoon marks and thrust up when she came down. Her tits moved inside the black silk. Every time she took him, her cunt made a soft filthy noise around his cock. He spread her ass while she worked. Her asshole flexed above the place he was fucking. He was not in that hole yet.`,
       `"Not yet," she said. She was breathless and she was still arranging the room. "You were told to describe, not to petition. Felix is in my cunt. That is the news, and you may have it without the picture until the picture is due. Stay deep, Felix. Right there. Fuck."`,
-      `She ground in circles, clit rubbing where their bodies met, wetness running down his shaft onto his balls. The cap fell to the cushion. She left it. He kept the wine level in the glass.`,
+      `She ground in circles, clit rubbing where their bodies met, wetness running down his shaft onto his balls. The cap fell to the cushion. She left it. Alastair kept the wine level in the glass.`,
       `"Turn around," Vivienne said.`,
     ],
     [
