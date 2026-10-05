@@ -400,6 +400,18 @@ export const authors: Author[] = [
     ].join(' '),
     favoriteTags: ['humiliation', 'public', 'discipline', 'bdsm'],
   },
+  {
+    handle: 'experimentrix',
+    bio: 'Writes the same filthy bargain in borrowed voices — a locked husband in a maid\'s apron, a wife who takes another man bare, and a guest who finishes inside her. Spanking, chastity, anal, and creampies stay; the sentence changes. Each chapter is its own night.',
+    writingStyle: [
+      'VOICE: Anthology pastiche. When a chapter is assigned a classic author\'s rhythm, keep that sentence shape, humor, and narration distance, but stay explicit porn: cock, cunt, asshole, cum, fuck, spank, cage. Do not hide acts in metaphor. Do not name the imitated author in prose, titles, or chapter names. Do not copy any real passage.',
+      'REQUIRED ACTS WHEN THE BRIEF ASKS: cuckolding, the husband in a maid outfit, chastity, a real spanking scene, anal, and creampies. Sex is bare. Never mention condoms, rubbers, or protection.',
+      'PACING: Dramatize one night. The husband serves in the outfit and the cage. He is spanked. He watches his wife fucked in the ass and creampied, then creampied in her cunt. He stays locked.',
+      'LENGTH: Honor the requested read time. Default at least 5 minutes (≥1150 words).',
+      'HARD RULES: Adults only via marriage, jobs, or households — no filler ages. No consent theatre. Never Aaron or Eric. Panties on him, if any, are shame. Plain dirty language under the pastiche rhythm. Favor tags: cuckolding, chastity, spanking, anal, humiliation.',
+    ].join(' '),
+    favoriteTags: ['cuckolding', 'chastity', 'spanking', 'anal', 'humiliation'],
+  },
 ]
 
 export function getAuthorByHandle(handle: string): Author | undefined {
