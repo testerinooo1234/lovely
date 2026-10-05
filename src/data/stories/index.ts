@@ -32,6 +32,7 @@ import kaylasBrightRoom from './kaylas-bright-room'
 import laundryDay from './laundry-day'
 import listingDay from './listing-day'
 import littleAftercare from './little-aftercare'
+import maidForCuckolding from './maid-for-cuckolding'
 import loserTax from './loser-tax'
 import madameBeaumontsCorner from './madame-beaumonts-corner'
 import measuredAndFoundWanting from './measured-and-found-wanting'
@@ -115,6 +116,7 @@ export const stories: Story[] = [
   frenchClassInvite,
   laundryDay,
   littleAftercare,
+  maidForCuckolding,
   madameBeaumontsCorner,
   sheLetsHimStay,
   sheReadAboutIt,
