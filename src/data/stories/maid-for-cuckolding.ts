@@ -16,7 +16,7 @@ const story: Story = {
   title: 'Maid for Cuckolding',
   author: 'experimentrix',
   excerpt:
-    'A locked husband in a maid’s apron is spanked bare while his wife takes another man’s cock in her asshole and her cunt and keeps both creampies. Ten nights, ten voices, the same cage.',
+    'She is the one in the maid uniform. He stays locked while another man spanks her, fucks her asshole, fucks her cunt, and leaves a creampie in both. Ten nights, and none of them are the same night.',
   firstChapterName: chapter1.name,
   firstChapterSummary: chapter1.summary,
   pages: chapter1.pages,
